@@ -18,6 +18,43 @@ PDF generated: 17 Jan 2018, 17:34
 
 ## Table of contents
 
+CHAPTER I: THE KINGDOM AND ITS CONSTITUTION . . . . . . . . . . . . . . . . . . . 8
+1. The Kingdom and its territory . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+2. The Constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+3. Official languages, National Seal, etc . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+CHAPTER II: PROTECTION OF FUNDAMENTAL HUMAN RIGHTS AND FREEDOMS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+4. Fundamental human rights and freedoms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+5. Right to life . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+6. Right to personal liberty . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+7. Freedom of movement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+8. Freedom from inhuman treatment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+9. Freedom from slavery and forced labour . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+10. Freedom from arbitrary search or entry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+11. Right to respect for private and family life . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+12. Right to fair trial, etc . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+13. Freedom of conscience . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+14. Freedom of expression . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+15. Freedom of peaceful assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+16. Freedom of association . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+17. Freedom from arbitrary seizure of property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+18. Freedom from discrimination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+19. Right to equality before the law and the equal protection of the law . . . . . . . . . . . . . . 23
+20. Right to participate in government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+21. Derogation from fundamental human rights and freedoms . . . . . . . . . . . . . . . . . . . . . 23
+22. Enforcement of protective provisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+23. Declaration of emergency . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+24. Interpretation and savings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+CHAPTER III: PRINCIPLES OF STATE POLICY . . . . . . . . . . . . . . . . . . . . . . . . . 26
+25. Application of the principles of State policy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+26. Equality and justice . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+27. Protection of health . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+28. Provision for education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+29. Opportunity to work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+30. Just and favourable conditions of work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+31. Protection of workers' rights and interests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+31A. Protection of victims of crime . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+32. Protection of children and young persons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+
 Lesotho 1993 (rev. 2011)
 
 Page 2
@@ -29,6 +66,45 @@ Page 2
 constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:34
+
+33. Rehabilitation, training and social resettlement of disabled persons . . . . . . . . . . . . . . 29
+34. Economic opportunities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+35. Participation in cultural activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+36. Protection of the Environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+CHAPTER IV: CITIZENSHIP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+37. Persons who are citizens on the coming into operation of the Constitution . . . . . . . . . 30
+38. Persons born in Lesotho after the coming into operation of the Constitution . . . . . . . . 30
+39. Persons born outside Lesotho after the coming into operation of the Constitution . . . . 30
+40. Marriage to Lesotho citizen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+41. Dual citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+42. Powers of Parliament . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+43. Interpretation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+CHAPTER V: THE KING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+44. The Office of King . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+45. Succession to the throne of Lesotho . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+46. The Regent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+47. Proceedings in High Court and Court of Appeal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+48. Civil List of the King and remuneration of Regent . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+49. Immunity of the King and Regent from taxation . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+50. Protection of the King and of certain persons in respect of legal proceedings . . . . . . . 35
+51. Oaths . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+52. Abdication . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+53. Vacation of the office of King . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+CHAPTER VI: PARLIAMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Part 1: Composition of Parliament . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+54. Establishment of Parliament . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+55. Composition of Senate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+56. Composition of National Assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+57. Elections to National Assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+58. Qualifications for membership of Parliament . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+59. Disqualifications for membership of Parliament . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+60. Tenure of seats of members of Parliament . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+61. President of Senate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+62. Vice-President of Senate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+63. Speaker of National Assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+64. Deputy Speaker of National Assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+65. Clerks to Houses of Parliament and their staffs . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+66. Independent Electoral Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
 
 Lesotho 1993 (rev. 2011)
 
@@ -42,6 +118,45 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:34
 
+66A. Powers, duties and functions of Electoral Commission . . . . . . . . . . . . . . . . . . . . . . 46
+66B. Decisions of Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+66C. Independence of Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+66D. Funds and expenses of Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+67. Delimitation of Constituencies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+69. Decision of questions as to membership of Parliament . . . . . . . . . . . . . . . . . . . . . . . 48
+Part 2: Legislation and Procedure in Parliament . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+70. Power to make laws . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+71. Oath to be taken by members of Parliament . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+72. Presiding in Senate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+73. Presiding in National Assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+74. Quorum in the Houses of Parliament . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+75. Voting in Parliament . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+76. Right of Ministers, Deputy Ministers and the Attorney-General to address either House, etc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+77. Unqualified persons sitting or voting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+78. Mode of exercise of legislative power . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+79. Restrictions with regard to certain financial measures . . . . . . . . . . . . . . . . . . . . . . . 52
+80. Limitation of powers of Senate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+81. Regulation of procedure in Parliament etc . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+Part 3: Summoning, Prorogation and Dissolution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+82. Sessions of Parliament, etc . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+83. Prorogation and dissolution of Parliament . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+84. General elections . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+84A. Power of Parliament to enact further provisions . . . . . . . . . . . . . . . . . . . . . . . . . 54
+84B. Referendum . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+CHAPTER VII: ALTERATION OF CONSTITUTION . . . . . . . . . . . . . . . . . . . . . . 55
+85. Alteration of Constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+CHAPTER VIII: THE EXECUTIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+86. Executive authority of Lesotho . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+87. Ministers of Government of Lesotho . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+88. Cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+89. Allocation of portfolios to Ministers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+90. Exercise of Prime Minister's functions during absence, being on leave or illness . . . . . . 58
+91. Exercise of the King's functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+92. The King's right to be consulted and informed concerning matters of government . . . . 59
+93. Deputy Ministers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+94. Oath to be taken by Ministers and Deputy Ministers . . . . . . . . . . . . . . . . . . . . . . . . 60
+95. The Council of State . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+
 Lesotho 1993 (rev. 2011)
 
 Page 4
@@ -53,6 +168,45 @@ Page 4
 constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:34
+
+96. Principal Secretaries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+97. Government Secretary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+98. Attorney-General . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+99. Director of Public Prosecutions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+100. Constitution of offices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+101. Prerogative of Mercy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+102. Pardons Committee on Prerogative of Mercy . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+103. Chiefs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+104. College of Chiefs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+105. National Advisory Planning Board . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
+106. Local authorities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+CHAPTER IX: LAND . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+107. Land vested in Basotho Nation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+108. Power to allocate land, etc. vested in the King in trust for Basotho Nation . . . . . . . . . 67
+109. Laws regulating principles on which land may be allocated, etc . . . . . . . . . . . . . . . . . 67
+CHAPTER X: FINANCE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+110. Consolidated Fund . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+111. Withdrawals from Consolidated Fund or other public funds . . . . . . . . . . . . . . . . . . 68
+112. Authorisation of expenditure from Consolidated Fund by appropriation . . . . . . . . . 68
+113. Authorisation of expenditure in advance of appropriation . . . . . . . . . . . . . . . . . . . 69
+114. Contingencies Fund . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+115. Remuneration of certain officers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+116. Public debt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+117. Auditor-General . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+CHAPTER XI: THE JUDICATURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+Part 1: The Judiciary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+118. The Judiciary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+Part 2: The High Court . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+119. Establishment of High Court . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+120. Appointment of judges of High Court . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72
+121. Tenure of office of Chief Justice and other judges of High Court . . . . . . . . . . . . . . 73
+122. Oath by judges of High Court . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
+Part 3: The Court of Appeal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
+123. Establishment of Court of Appeal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
+124. Appointment of judges of Court of Appeal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
+125. Tenure of office of appointed judges of Court of Appeal . . . . . . . . . . . . . . . . . . . . 76
+126. Oath by judges of Court of Appeal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+Part 4: Subordinate Courts, Courts-Martial and Tribunals . . . . . . . . . . . . . . . . . . . . . . . . 77
 
 Lesotho 1993 (rev. 2011)
 
@@ -66,6 +220,44 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:34
 
+127. Establishment of other courts and Tribunals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+128. Reference to High Court in cases in subordinate courts etc. involving interpretation of Constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+Part 5: Appeals and Rules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+129. Appeals to the Court of Appeal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+130. Appeals to the High Court . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+131. Rules of Court . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+Part 6: Judicial Service Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
+132. Judicial Service Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
+133. Appointment, etc. of judicial officers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+CHAPTER XIA: HUMAN RIGHTS COMMISSION . . . . . . . . . . . . . . . . . . . . . . . 81
+133A. Establishment of the Human Rights Commission . . . . . . . . . . . . . . . . . . . . . . . . . 81
+133B. Composition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+133C. Qualification for appointment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+133D. Tenure of office . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+133E. Removal from office . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+133F. Functions of the Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+133G. Assistance to the Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+133H. Annual report of the Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+CHAPTER XII: THE OMBUDSMAN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+134. The Ombudsman . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+135. Functions of Ombudsman . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+CHAPTER XIII: THE PUBLIC SERVICE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+136. Public Service Commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+137. Appointment, etc. of public officers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 86
+139. Principal Secretaries and Government Secretary . . . . . . . . . . . . . . . . . . . . . . . . . 87
+140. Attorney-General . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
+141. Director of Public Prosecutions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+142. Auditor-General . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 89
+143. Principal representatives of Lesotho abroad . . . . . . . . . . . . . . . . . . . . . . . . . . . . 90
+144. Teaching Service . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 90
+145. Defence Force . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 90
+146. Courts-Martial Appeal Court . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 91
+147. Police Service . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 91
+148. National Security Service . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 92
+149. Lesotho Correctional Service . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 92
+150. Pensions laws and protection of pension rights . . . . . . . . . . . . . . . . . . . . . . . . . . . 92
+151. Power to withhold pensions, etc . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 93
+
 Lesotho 1993 (rev. 2011)
 
 Page 6
@@ -77,6 +269,27 @@ Page 6
 constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:34
+
+CHAPTER XIV: MISCELLANEOUS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 94
+152. Resignations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 94
+153. Re-appointments and concurrent appointments . . . . . . . . . . . . . . . . . . . . . . . . . . . 94
+154. Interpretation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 94
+155. Construction of Constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 97
+CHAPTER XV: TRANSITIONAL AND TEMPORARY PROVISIONS . . . . . . . . . . . 98
+156. Existing law and related matters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 98
+157. The King and the Regent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 99
+158. Prime Minister . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 99
+159. The Assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 99
+160. Rules of Procedure of Parliament . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100
+161. High Court . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100
+162. Court of Appeal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100
+163. Existing public officers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101
+164. Salaries charged on the Consolidated Fund . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101
+165. Declaration of public emergency . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101
+166. Repeals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101
+SCHEDULE 1: OATH OF OFFICE OF KING OR REGENT (Section 51) . . . . . . . . 102
+SCHEDULE 2: PRINCIPAL CHIEFS (Section 103(1)) . . . . . . . . . . . . . . . . . . . . . 102
+SCHEDULE 3: OATH OR AFFIRMATION OF ALLEGIANCE (Section 154) . . . . . 102
 
 Lesotho 1993 (rev. 2011)
 
@@ -468,6 +681,8 @@ Page 14
 
 constituteproject.org
 
+PDF generated: 17 Jan 2018, 17:34
+
 Right to fair trial
 
 Judicial independence
@@ -491,8 +706,6 @@ Trial in native language of accused
 - for the purpose of protecting the rights and freedoms of other persons.
 
 - A person shall not be permitted to rely in any judicial proceedings upon such a provision of law as is referred to in subsection (2) except to the extent to which he satisfies the court that that provision or, as the case may be, the thing done under the authority thereof does not abridge the right guaranteed by subsection (1)  to  a  greater  extent  than  is  necessary  in  a  practical  sense  in  a  democratic society in the interests of any of the matters specified in subsection (2)(a) or for the purpose specified in subsection (2)(b).
-
-PDF generated: 17 Jan 2018, 17:34
 
 #### 12. Right to fair trial, etc
 
@@ -1614,8 +1827,6 @@ PDF generated: 17 Jan 2018, 17:34
 
 - Minimum age of head of government
 
-·
-
 - Minimum age for first chamber
 
 - Restrictions on voting
@@ -1727,8 +1938,6 @@ Page 39
 constituteproject.org
 
 Eligibility for first chamber
-
-·
 
 Eligibility for first chamber
 
@@ -2132,9 +2341,7 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-·
-
-Census
+· Census
 
 - The Commission shall review the boundaries of the constituencies into which Lesotho  is  divided  in  the  case  of  any  review  after  the  review  of  boundaries referred to in Section 159(3), not less than eight nor more than ten years from the date of completing its last review, and may, by order, alter the boundaries in accordance  with  the  provisions  of  this  section  to  such  extent  as  it  considers desirable in the light of the review:
 
@@ -2150,7 +2357,7 @@ Provided  that  if  the  Commission  considers,  by  reason  of  the  passage  o
 
 - In this section "the population quota" means the number obtained by dividing by eighty the number of the inhabitants of Lesotho of or above the age of eighteen years.
 
-#### [repealed by Act No. 7 of 1997]
+#### 68. [repealed by Act No. 7 of 1997]
 
 #### 69. Decision of questions as to membership of Parliament
 
@@ -2272,16 +2479,6 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-- Initiation of general legislation
-
-Division of labor between chambers
-
-Approval of general legislation
-
-Approval of general legislation
-
-Approval of general legislation
-
 #### 76. Right of Ministers, Deputy Ministers and the Attorney-General to address either House, etc.
 
 - A Minister or a Deputy Minister who is a member of the National Assembly shall be  entitled  to  attend  all  meetings  of  the  Senate  and  to  take  part  in  all proceedings thereof but he shall not be regarded as a member of, or be entitled to vote on any question before, the Senate; and a Minister or a Deputy Minister who  is  a  Senator  shall  be  entitled  to  attend  all  meetings  of  the  National Assembly and to take part in all proceedings thereof but he shall not be regarded as  a  member  of,  or  be  entitled  to  vote  on  any  question  before,  the  National Assembly.
@@ -2300,7 +2497,13 @@ Approval of general legislation
 
 - A bill may originate only in the National Assembly.
 
+- Initiation of general legislation
+
 - When a bill  has  been  passed  by  the  National  Assembly  it  shall  be  sent  to  the Senate and--
+
+- Division of labor between chambers
+
+- Approval of general legislation
 
 - when it has been passed by the Senate and agreement has been reached between the two Houses on any amendments made to it by the Senate; or
 
@@ -2308,7 +2511,11 @@ Approval of general legislation
 
 - When a bill has been presented to the King for assent in pursuance of subsection (3), he shall signify that he assents or that he withholds assent.
 
+- Approval of general legislation
+
 - When a  bill  that  has  been  duly  passed  is  assented  to  in  accordance  with  the provisions of this Constitution it shall become law and the King shall thereupon cause it to be published in the Gazette as a law.
+
+- Approval of general legislation
 
 - No law made by Parliament shall come into operation until it has been published in  the  Gazette but Parliament may postpone the coming into operation of any such law and may make laws with retrospective effect.
 
@@ -2326,16 +2533,6 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Tax bills
-
-Spending bills
-
-Spending bills
-
-- First chamber reserved policy areas
-
-Spending bills
-
 #### 79. Restrictions with regard to certain financial measures
 
 Except  with  the  consent  of  the  Cabinet  signified  by  a  Minister,  neither  House  of Parliament shall--
@@ -2344,17 +2541,27 @@ Except  with  the  consent  of  the  Cabinet  signified  by  a  Minister,  neith
 
 - for  the  imposition of taxation or the alteration of taxation otherwise than by reduction;
 
+- Tax bills
+
 - for  the  imposition  of  any  charge  upon  the  Consolidated  Fund  or  any other  public  fund  of  Lesotho  or  the  alteration  of  any  such  charge otherwise than by reduction;
 
+- Spending bills
+
 - for  the  payment, issue or withdrawal from the Consolidated Fund or any other public fund of Lesotho of any moneys not charged thereon or any increase in the amount of such a payment, issue or withdrawal; or
+
+- Spending bills
 
 - for the composition or remission of any debt due to the Government of Lesotho; or
 
 - proceed upon any motion (including any amendment to a motion) the effect of which, in the opinion of the person presiding, would be to make provision for any of those purposes.
 
+- First chamber reserved policy areas
+
 #### 80. Limitation of powers of Senate
 
 - When a bill that is passed by the National Assembly and that is certified by the Speaker of the National Assembly under subsection (2) as an Appropriation bill is sent to the Senate it shall forthwith be introduced in the Senate and shall be passed by the Senate without delay; and if it is not passed by the Senate by the end of the day after the day on which it was sent to the Senate or if it is passed by  the  Senate  with  amendments  to  which  the  National  Assembly  does  not  by then agree, the bill, with such amendments, if any, as may have been agreed to by  both  Houses,  shall,  unless  the  National  Assembly  otherwise  resolves,  be presented to the King for assent.
+
+- Spending bills
 
 - When a bill that in the opinion of the Speaker of the National Assembly is an Appropriation bill is sent to the Senate from the National Assembly it shall bear a certificate of the Speaker of the National Assembly that it is an Appropriation bill.
 
@@ -2374,16 +2581,6 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Legislative committees
-
-· Length of legislative sessions
-
-· Dismissal of the legislature
-
-· Term length for first chamber
-
-Term length of second chamber
-
 - A certificate given by the Speaker of the National Assembly under this section shall be conclusive for all purposes and shall not be questioned in any court.
 
 - Any function that, under this section, falls to be exercised by the Speaker of the National  Assembly  may,  if  he  is  absent  or  is  for  any  other  reason  unable  to exercise the functions of his office, be exercised by the Deputy Speaker.
@@ -2396,7 +2593,11 @@ Term length of second chamber
 
 - Parliament may, for the purpose of the orderly and effective discharge of the business  of  the  two  Houses,  make  provision  for  the  powers,  privileges  and immunities  of  those  Houses  and  the  Committees  and  the  members  thereof (including any person who is President or Vice-President or Speaker or Deputy Speaker of  either  House,  having  been  elected  from  among  persons  who  were not members thereof).
 
+- Legislative committees
+
 ### Part 3: Summoning, Prorogation and Dissolution
+
+- Length of legislative sessions
 
 #### 82. Sessions of Parliament, etc
 
@@ -2414,7 +2615,13 @@ Provided that--
 
 - The King may at any time prorogue or dissolve Parliament.
 
+- Dismissal of the legislature
+
 - Subject to the provisions of subsection (3), Parliament, unless sooner dissolved, shall continue for five years from the date when the two Houses of Parliament first meet after any dissolution and shall then stand dissolved.
+
+- Term length for first chamber
+
+- Term length of second chamber
 
 Lesotho 1993 (rev. 2011)
 
@@ -2428,21 +2635,15 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Emergency provisions
-
-· Dismissal of the legislature
-
-· Scheduling of elections
-
-· Emergency provisions
-
-· Extraordinary legislative sessions
-
 - At any time when Lesotho is at war Parliament may from time to time extend the period of five years specified in subsection (2) for not more than twelve months at a time:
+
+- Emergency provisions
 
 Provided that the life of Parliament shall not be extended under this subsection for more than five years.
 
 - In the exercise of his powers to dissolve or prorogue Parliament, the King shall act in accordance with the advice of the Prime Minister:
+
+- Dismissal of the legislature
 
 Provided that--
 
@@ -2458,7 +2659,13 @@ Provided that--
 
 - Subject to the provisions of subsection (2), a general election of members of the National  Assembly  shall  be  held  at  such  time  within  three  months  after  any dissolution of Parliament as the King may appoint.
 
+- Scheduling of elections
+
 - If, after a dissolution of Parliament and before the holding of a general election of members of the National Assembly, the King is advised by the Council of State that, owing to a state of war or of a state of emergency in Lesotho, it is necessary to recall Parliament, the King shall recall the Parliament that has been dissolved and  that  Parliament  shall  be  deemed  to  be  the  Parliament  for  the  time  being (and  the  members  of  the  dissolved  Parliament  shall  be  deemed  to  be  the members of the recalled Parliament), but the general election of members of the National Assembly shall proceed and the recalled Parliament shall, if not sooner dissolved, stand dissolved on the day immediately preceding the day fixed for such general election or, if more than one such day, the first of such days.
+
+- Emergency provisions
+
+- Extraordinary legislative sessions
 
 #### 84A. Power of Parliament to enact further provisions
 
@@ -2476,19 +2683,17 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Referenda
-
-· Constitution amendment procedure
-
-· Referenda
+- Referenda
 
 #### 84B. Referendum
 
 - The King may, on the advice of the Prime Minister order that a referendum be conducted to obtain the opinion of the electors on any matter he considers to be of national interest.
 
-- Parliament may make provision fo rthe conduct of a referendum.
+- Parliament may make provision for the conduct of a referendum.
 
 ## CHAPTER VII: ALTERATION OF CONSTITUTION
+
+- Constitution amendment procedure
 
 #### 85. Alteration of Constitution
 
@@ -2497,6 +2702,8 @@ PDF generated: 17 Jan 2018, 17:35
 - A  bill  for  an  Act  of  Parliament  under  this  section  shall  not  be  passed  by Parliament unless it is supported at the final voting in the National Assembly by the votes of the majority of all the members of the Assembly and, having been sent  to  the  Senate,  has  become  a  bill  that,  apart  from  this  section,  may  be presented to the King for his assent under subsection 80(1) or (3) as the case may be, of this Constitution.
 
 - A bill to alter any of the following provisions of this Constitution, that is to say--
+
+- Referenda
 
 - this section, sections 1(1) and 2, Chapter II except sections 18(4) and 24(3), sections 44 to 48 inclusive, 50(1) to (3), 52, 86, 91 (1) to (4), 92, 95, 103, 104,  107,  108,  118(1)  and  (2),  119(1)  to  (3),  120(1),  (2),  (4),  and  (5),  121, 123(1), (3), (4), 125, 128, 129, 132, 133 and sections 154 and 155 in their application to any of the provisions mentioned in this paragraph; and
 
@@ -2524,33 +2731,9 @@ Page 55
 
 constituteproject.org
 
-- Name/structure of executive(s)
-
-·
+PDF generated: 17 Jan 2018, 17:35
 
 - Name/structure of executive(s)
-
-- Head of government selection
-
-- Minimum age of head of government · Head of government's role in the legislature
-
-- Eligibility for head of government
-
-- Establishment of cabinet/ministers
-
-- Cabinet selection
-
-- Deputy executive
-
-- Eligibility for cabinet
-
-- Cabinet selection
-
-- Cabinet removal
-
-- Head of government removal
-
-· Head of government removal
 
 ## CHAPTER VIII: THE EXECUTIVE
 
@@ -2562,17 +2745,41 @@ The  executive  authority  of  Lesotho  is  vested  in  the  King  and,  subject
 
 - There  shall  be  a  Prime  Minister  who  shall  be  appointed  by  the  King  acting  in accordance with the advice of the Council of State.
 
+- Name/structure of executive(s)
+
+- Head of government selection
+
 - The King shall appoint as Prime Minister the member of the National Assembly who appears to the Council of  State  to  be  the  leader  of  the  political  party  or coalition of political parties that will command the support of a majority of the members of the National Assembly:
+
+- Minimum age of head of government
+
+- Head of government's role in the legislature
+
+- Eligibility for head of government
 
 Provided that if occasion arises for making an appointment to the office of Prime Minister while Parliament stands dissolved, a person who was a member of the National Assembly immediately before the dissolution may be appointed to the office of Prime Minister.
 
 - There shall be, in addition to the office of Prime Minister, such other offices of Minister of the Government of Lesotho (not being less than seven in number and one of which shall be the office of Deputy Prime Minister) as may be established by  Parliament  or,  subject  to  any  provision  made  by  Parliament,  by  the  King, acting in accordance with the advice of the Prime Minister.
 
+- Establishment of cabinet/ministers
+
+- Cabinet selection
+
+- Deputy executive
+
 - The  King  shall,  acting  in  accordance  with  the  advice  of  the  Prime  Minister, appoint the other Ministers from among the members of the National Assembly or from among the Senators who are nominated as Senators by the King under section 55 of this Constitution:
+
+- Eligibility for cabinet
+
+- Cabinet selection
 
 Provided  that  if  occasion  arises  for  making  an  appointment  to  the  office  of Minister other than Prime Minister while Parliament stands dissolved a person who immediately before the dissolution was a member of the National Assembly or such a Senator may be appointed to the office of Minister.
 
 - The  King  may,  acting  in  accordance  with  the  advice  of  the  Council  of  State, remove the Prime Minister from office--
+
+- Cabinet removal
+
+- Head of government removal
 
 - if a resolution of no confidence in the Government of Lesotho is passed by the National Assembly and the Prime Minister does not within three days thereafter, either resign from his office or advise a dissolution of Parliament; or
 
@@ -2580,9 +2787,9 @@ Provided  that  if  occasion  arises  for  making  an  appointment  to  the  off
 
 - The office of the Prime Minister shall become vacant--
 
-- if  he  ceases  to  be  a  member  of  the  National  Assembly  otherwise  than  by reason of a dissolution of Parliament; or
+- Head of government removal
 
-PDF generated: 17 Jan 2018, 17:35
+- if  he  ceases  to  be  a  member  of  the  National  Assembly  otherwise  than  by reason of a dissolution of Parliament; or
 
 Lesotho 1993 (rev. 2011)
 
@@ -2596,17 +2803,13 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-Cabinet removal
-
-Eligibility for cabinet
-
-· Establishment of cabinet/ministers
-
-· Powers of cabinet
-
 - if, when the National Assembly first meets after a dissolution of Parliament, he is not then a member thereof.
 
 - The office of a Minister other than the Prime Minister shall become vacant--
+
+- Cabinet removal
+
+- Eligibility for cabinet
 
 - if he ceases to be a member of either House of Parliament otherwise than by reason of a dissolution of Parliament; or
 
@@ -2622,11 +2825,15 @@ Eligibility for cabinet
 
 - A  resolution  of  no  confidence  in  the  Government  of  Lesotho  shall  not  be effective for the purposes of subsections (5)(a) and (7)(e) unless it proposes the name of a member of the National Assembly for the King to appoint in the place of the Prime Minister.
 
+- Establishment of cabinet/ministers
+
 #### 88. Cabinet
 
 - There shall be a Cabinet of Ministers, consisting of the Prime Minister and the other Ministers.
 
 - The functions of the Cabinet shall be to advise the King in the government of Lesotho, and the Cabinet shall be collectively responsible to the two Houses of Parliament for any advice given to the King by or under the general authority of the Cabinet and for all things done by or under the authority of any Minister in the execution of his office.
+
+- Powers of cabinet
 
 - The provisions of subsection (2) shall not apply in relation to--
 
@@ -2646,8 +2853,6 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Deputy executive
-
 #### 89. Allocation of portfolios to Ministers
 
 The  King,  acting  in  accordance  with  the  advice  of  the  Prime  Minister,  may,  by directions in writing, assign to the Prime Minister or any other Minister responsibility  for  any  business  of  the  Government  of  Lesotho,  including  the administration of any department of Government:
@@ -2659,6 +2864,8 @@ Provided  that  authority  to  exercise  any  power  or  discharge  any  duty  t
 - Whenever the Prime Minister is absent from Lesotho, is on leave or is by reason of illness unable to exercise the functions conferred on him by this Constitution, those  functions  (other  than  the  functions  conferred  by  this  section)  shall  be exercised by--
 
 - the Deputy Prime Minister; or
+
+- Deputy executive
 
 - if  the  office  of  Deputy  Prime  Minister  is  vacant  or  the  Deputy  Prime Minister is absent from Lesotho, is on leave or is by reason of illness unable to  exercise  the  functions  of  the  office  of  Prime  Minister,  by  such  other Minister as the King may authorise in that behalf.
 
@@ -2686,7 +2893,7 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-- Where the King is required by this Constitution to do any act in accordance with the advice of any person or authority other than the Council of State, and the Prime  Minister  is  satisfied  that  the  King  has  not  done  that  act,  the  Prime Minister may inform the Kin that it is the intention of the Prime Minister to do that  act  himself  after  the  expiration  of  a  period  to  be  specified  by  the  Prime Minister, and if at the expiration of that period the King has not done that act the Prime Minister may do that act himself and shall, at the earliest opportunity thereafter, report the matter to Parliament; and any act so done by the Prime Minister shall be deemed to have been done by the King and to be his act.
+- Where the King is required by this Constitution to do any act in accordance with the advice of any person or authority other than the Council of State, and the Prime  Minister  is  satisfied  that  the  King  has  not  done  that  act,  the  Prime Minister may inform the King that it is the intention of the Prime Minister to do that  act  himself  after  the  expiration  of  a  period  to  be  specified  by  the  Prime Minister, and if at the expiration of that period the King has not done that act the Prime Minister may do that act himself and shall, at the earliest opportunity thereafter, report the matter to Parliament; and any act so done by the Prime Minister shall be deemed to have been done by the King and to be his act.
 
 - No act of the King shall be valid to the extent that it is inconsistent with an act deemed to be his act by virtue of subsection (2) or (3).
 
@@ -2706,7 +2913,7 @@ Provided  that,  if  occasion  arises  for  making  an  appointment  while  Parl
 
 - The provisions of section 87(7) of this Constitution shall apply in relation to a Deputy Minister as they apply in relation to a Minister.
 
-- Whenever a Miniser is absent from Lsotho, is on leave or is by reason of illness unable to exercise the functions conferred on him or her by this Constitution, those functions shall be exercised by the Deputy Minister.
+- Whenever a Minister is absent from Lesotho, is on leave or is by reason of illness unable to exercise the functions conferred on him or her by this Constitution, those functions shall be exercised by the Deputy Minister.
 
 - If the Minister does not have a Deputy Minister or the Deputy Minister is absent from  Lesotho,  is  on  leave  or  is  by  reason  of  illness  unable  to  exercise  the functions  of  the  office  of  Minister,  the  assignment  of  responsibility  to  any Minister under section 89 shall apply.
 
@@ -2722,13 +2929,13 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Oaths to abide by constitution
-
-· Advisory bodies to the head of state
+- Oaths to abide by constitution
 
 #### 94. Oath to be taken by Ministers and Deputy Ministers
 
 A Minister or a Deputy Minister shall not enter upon the duties of his office unless he has taken and subscribed an oath of allegiance and such oath for the due execution of his office as may be prescribed by Parliament.
+
+- Advisory bodies to the head of state
 
 #### 95. The Council of State
 
@@ -2814,10 +3021,6 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Attorney general
-
-· Attorney general
-
 #### 96. Principal Secretaries
 
 Where  any  Minister  has  been  charged  with  responsibility  for  any  department  of government, he shall  exercise  general  direction  and  control  over  that  department and, subject to such direction and control, every department of government shall be under the supervision of the Principal Secretary whose office shall be an office in the public service:
@@ -2829,6 +3032,8 @@ Provided  that  two  or  more  government  departments  may  be  placed  under  
 - There  shall  be  a  Government  Secretary  whose  office  shall  be  an  office  in  the public service.
 
 - The Government Secretary, who shall have charge of the Cabinet Office, shall be responsible, in accordance with such instructions as may be given to him by the Prime Minister, for arranging the business for, and keeping the minutes of, the Cabinet, for conveying the decisions of the Cabinet to the appropriate person or authority and shall have such other functions as the Prime Minister may from time to time direct or as may be conferred on him by any other law.
+
+- Attorney general
 
 #### 98. Attorney-General
 
@@ -2852,6 +3057,8 @@ Provided  that  two  or  more  government  departments  may  be  placed  under  
 
 - The Attorney-General shall take and subscribe such oath of office for the due execution of his functions as may be prescribed by Parliament.
 
+- Attorney general
+
 #### 99. Director of Public Prosecutions
 
 - There shall be a Director of Public Prosecutions whose office shall be an office in the public service.
@@ -2867,10 +3074,6 @@ Page 62
 constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
-
-· Head of state powers
-
-· Power to pardon
 
 - The Director of Public Prosecutions shall have power in any case in which he considers it desirable so to do--
 
@@ -2892,9 +3095,13 @@ Provided that the  power  conferred  on  the  Director  of  Public  Prosecutions
 
 - Save as provided in section 98(2)(b) of this Constitution, in the exercise of the functions conferred on him by subsection (2) of this section or section 77 of this Constitution  the  Director  of  Public  Prosecutions  shall  not  be  subject  to  the direction or control of any other person or authority.
 
+- Head of state powers
+
 #### 100. Constitution of offices
 
 Subject  to  the  provisions  of  this  Constitution  and  of  any  other  law,  the  King  may constitute offices for Lesotho, make appointments to any such office and terminate any such appointment.
+
+- Power to pardon
 
 #### 101. Prerogative of Mercy
 
@@ -2964,8 +3171,6 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Economic plans
-
 - The  College  of  Chiefs  may,  by  resolution,  co-opt  members  to  assist  it  in  the performance of its functions:
 
 Provided that such co-opted members shall not exceed three in number at any one time.
@@ -2975,6 +3180,8 @@ Provided that such co-opted members shall not exceed three in number at any one 
 - The College of Chiefs may, subject to its rules of procedure, act notwithstanding any  vacancy  in  its  membership  or  the  absence  of  any  member  and  its proceedings  shall  not  be  invalidated  by  the  presence  or  participation  of  any person not entitled to be present at or to participate in those proceedings: Provided  that  any  decision  of  the  College  shall  require  the  concurrence  of  a majority of all the members thereof (other than the co-opted members).
 
 - Subject to the provisions of this section, the College of Chiefs may regulate its own procedure.
+
+- Economic plans
 
 #### 105. National Advisory Planning Board
 
@@ -3010,8 +3217,6 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Municipal government
-
 - the  integration  of  district  planning  activities  in  the  national  planning system; and
 
 - the preparation of guidelines for planning activities;
@@ -3038,6 +3243,8 @@ PDF generated: 17 Jan 2018, 17:35
 
 - The Minister responsible for finance and development planning shall table the report before Cabinet and Parliament.
 
+- Municipal government
+
 #### 106. Local authorities
 
 - Parliament shall establish such local authorities as it deems necessary to enable urban  and  rural communities  to  determine  their affairs  and  to  develop themselves. Such authorities shall perform such functions as may be conferred by an Act of Parliament.
@@ -3056,17 +3263,17 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Ownership of natural resources
-
-· Head of state powers
-
 ## CHAPTER IX: LAND
+
+- Ownership of natural resources
 
 #### 107. Land vested in Basotho Nation
 
 Without prejudice to any allocation of land that was made before the commencement  of  this  Constitution  and  was  subsisting  immediately  before  such commencement or  to  any  interests  or  rights  in  or  over  land  that  were  otherwise vested  in  any  person  immediately  before  such  commencement  and  without prejudice to any allocation of land or any grant of any interest or right in or over land that may, in accordance with the provisions of this Constitution and, subject thereto, of any other law, be made after the commencement of this Constitution, all land in Lesotho is vested in the Basotho Nation.
 
 #### 108. Power to allocate land, etc. vested in the King in trust for Basotho Nation
+
+- Head of state powers
 
 - The power to allocate land that is vested in the Basotho Nation, to make grants of  interests  or  rights  in  or  over  such  land,  to  revoke  or  derogate  from  any allocation or grant that has been made or otherwise to terminate or restrict any interest  or  right  that  has  been  granted  is  vested  in  the  King  in  trust  for  the Basotho Nation.
 
@@ -3092,8 +3299,6 @@ Page 67
 
 constituteproject.org
 
-· Budget bills · Spending bills
-
 PDF generated: 17 Jan 2018, 17:35
 
 #### 111. Withdrawals from Consolidated Fund or other public funds
@@ -3115,6 +3320,10 @@ PDF generated: 17 Jan 2018, 17:35
 - Notwithstanding the provisions of subsection (1), provision may be made by or under  an  Act  of  Parliament  authorising  withdrawals  to  be  made  from  the Consolidated  Fund,  in  such  circumstances  and  to  such  extent  as  may  be prescribed  by  or  under  an  Act  of  Parliament,  for  the  purpose  of  making repayable advances.
 
 #### 112. Authorisation of expenditure from Consolidated Fund by appropriation
+
+- Budget bills
+
+- Spending bills
 
 - The  Minister  for  the  time  being  responsible  for  finance  shall  cause  to  be prepared  and  laid  before  both  Houses  of  Parliament  in  each  financial  year estimates  of  the  revenues  and  expenditure  of  Lesotho  for  the  next  following financial year.
 
@@ -3138,17 +3347,17 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Budget bills
-
-· Compensation of legislators a supplementary estimate or, as the case may be, a statement of excess showing the sums required or spent shall be laid before both Houses of Parliament and, when the supplementary estimate or statement of excess has been approved by the National Assembly, a supplementary Appropriation bill shall be introduced in  the  Assembly,  providing  for  the  issue  of  such  sums  from  the  Consolidated Fund and appropriating them to the purposes specified therein.
+a supplementary estimate or, as the case may be, a statement of excess showing the sums required or spent shall be laid before both Houses of Parliament and, when the supplementary estimate or statement of excess has been approved by the National Assembly, a supplementary Appropriation bill shall be introduced in  the  Assembly,  providing  for  the  issue  of  such  sums  from  the  Consolidated Fund and appropriating them to the purposes specified therein.
 
 #### 113. Authorisation of expenditure in advance of appropriation
+
+- Budget bills
 
 Parliament  may  make  provision  under  which,  if  it  appears  to  the  Minister  for  the time being responsible for finance that the Appropriation Act for any financial year will not come into operation by the beginning of that financial year, he may authorise the withdrawal from the Consolidated Fund of moneys for the purpose of meeting expenditure  necessary  to  carry  on  the  government  of  Lesotho  in  respect  of  the period  commencing  with  the  beginning  of  that  financial  year  and  expiring  four months  thereafter  or  on  the  coming  into  operation  of  the  Act,  whichever  is  the earlier:
 
 Provided that--
 
-- the moneys so authorised to be withdrawn in advance of the Appropriation Act  for  any  financial  year  shall  not  exceed  in  total  one-third  of  the  sums included in the estimates of expenditure for the proceeding financial year that have been laid before the Assembly;
+- the moneys so authorised to be withdrawn in advance of the Appropriation Act  for  any  financial  year  shall  not  exceed  in  total  one-third  of  the  sums included in the estimates of expenditure for the preceding financial year that have been laid before the Assembly;
 
 - no sums shall be so authorised to be withdrawn to meet expenditure on any head  of  expenditure  in  that  financial  year  if  no  sums  had  been  voted  to meet expenditure on that head of expenditure in respect of the preceding financial year; and
 
@@ -3156,13 +3365,15 @@ Provided that--
 
 #### 114. Contingencies Fund
 
-- Parliament may make provision for the establishment of a Contingencies Fund and  for  authorising  the  Minister  for  the  time  being  responsible  for  finance,  if satisfied that there has arisen an urgent and unforseen need for expenditure for which no other provision exists, to make advances from that Fund to meet that need.
+- Parliament may make provision for the establishment of a Contingencies Fund and  for  authorising  the  Minister  for  the  time  being  responsible  for  finance,  if satisfied that there has arisen an urgent and unforeseen need for expenditure for which no other provision exists, to make advances from that Fund to meet that need.
 
 - Where  any  advance  is  made  from  the  Contingencies  Fund,  a  supplementary estimate  shall  be  presented  and  a  supplementary  Appropriation  bill  shall  be introduced  as  soon  as  possible  for  the  purpose  of  replacing  the  amount  so advanced.
 
 #### 115. Remuneration of certain officers
 
 - There shall be paid to the holders of the offices to which this section applies such salary  and  such  allowances  as  may  be  prescribed  by  or  under  an  Act  of Parliament.
+
+- Compensation of legislators
 
 - The salaries and allowances prescribed in pursuance of this section in respect of the holders of the offices to which this section applies shall be a charge on the Consolidated Fund.
 
@@ -3178,17 +3389,17 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Protection of judges' salaries
-
-· Compensation of legislators
-
-· Protection of judges' salaries
-
 - The salary prescribed in pursuance of this section in respect of the holder of any office  to  which  this  section  applies  and  his  other  terms  of  service  (other  than allowances that are not taken into account in computing, under any law in that behalf, any pension payable in respect of his service in that office) shall not be altered to his disadvantage after his appointment.
+
+- Protection of judges' salaries
 
 - When a person's salary or other terms of service depend upon his option, the salary  or  terms  for  which  he  opts  shall,  for  the  purposes  of  subsection  (3),  be deemed to be more advantageous to him than any others for which he might have opted.
 
 - This section applies to the offices of the President of the Senate, the Speaker of the National Assembly, a judge of the High Court, a member of the Independent Electoral Commission, a member  of the Public Service Commission,  an appointed  member of  the  Judicial  Service  Commission,  the  Attorney  General, the Director of Public Prosecutions, the Auditor General, the Ombudsman and such other similar offices as may be established by or under this Constitution.
+
+- Compensation of legislators
+
+- Protection of judges' salaries
 
 - Nothing  in  this  section  shall  be  construed  as  prejudicing  the  provisions  of section  150  of  this  Constitution  (which  protects  pensions  rights  in  respect  of service as a public officer).
 
@@ -3222,25 +3433,13 @@ Page 70
 
 constituteproject.org
 
-· Structure of the courts
-
-- Right to appeal judicial decisions
-
-· Establishment of military courts
-
-· Judicial independence
-
-· Structure of the courts
-
 PDF generated: 17 Jan 2018, 17:35
-
-- The  Auditor-General  shall  exercise  such  other  functions  in  relation  to  the accounts of the Government of Lesotho or the accounts of other authorities or bodies established by law for public purposes as may be prescribed by or under an Act of Parliament.
-
-- In exercise of his functions under subsections (2), (3) and (4) the Auditor-General  shall  not  be  subject  to  the  direction  or  control  of  any  other person or authority.
 
 ## CHAPTER XI: THE JUDICATURE
 
 ### Part 1: The Judiciary
+
+- Structure of the courts
 
 #### 118. The Judiciary
 
@@ -3248,23 +3447,31 @@ PDF generated: 17 Jan 2018, 17:35
 
 - a Court of Appeal;
 
+- Right to appeal judicial decisions
+
 - a High Court;
 
 - Subordinate Courts and Courts-martial;
+
+- Establishment of military courts
 
 - such  tribunals  exercising  a  judicial  function  as  may  be  established  by Parliament.
 
 - The courts shall, in the performance of their functions under this Constitution or any other law, be independent and free from interference and subject only to this Constitution and any other law.
 
+- Judicial independence
+
 - The  Government  shall  accord  such  assistance  as  the  courts  may  require  to enable them to protect their independence, dignity and effectiveness, subject to this Constitution and any other law.
 
 ### Part 2: The High Court
+
+- Structure of the courts
 
 #### 119. Establishment of High Court
 
 - There shall be a High Court which shall have unlimited original jurisdiction to hear and determine any civil or criminal proceedings and the power to review the decisions or proceedings of any subordinate or inferior court, court-martial, tribunal, board or officer exercising judicial, quasi-judicial or public administrative functions under any law and such jurisdiction and powers as may be conferred on it by this Constitution or by or under any other law.
 
-- The  judges  of  the  High  Court  shall  be  the  Chief  Justice  and  such  number,  of other  judges  (hereinafter  referred  to  as  "the  puisne  judges")  as  may  be prescribed by Parliament:
+- The  judges  of  the  High  Court  shall  be  the  Chief  Justice  and  such  number  of other  judges  (hereinafter  referred  to  as  "the  puisne  judges")  as  may  be prescribed by Parliament:
 
 Provided that the office of a puisne judge shall not be abolished while there is a substantive holder thereof.
 
@@ -3282,21 +3489,23 @@ Page 71
 
 constituteproject.org
 
-Ordinary court selection
-
-Establishment of judicial council · Ordinary court selection
-
-Eligibility for ordinary court judges
-
-· Establishment of judicial council
+PDF generated: 17 Jan 2018, 17:35
 
 #### 120. Appointment of judges of High Court
 
 - The Chief Justice shall be appointed by the King acting in accordance with the advice of the Prime Minister.
 
+- Ordinary court selection
+
 - The puisne judges shall be appointed by the King, acting in accordance with the advice of the Judicial Service Commission.
 
+- Establishment of judicial council
+
+- Ordinary court selection
+
 - a. A person shall not be qualified to be appointed as a judge of the High Court unless--
+
+- Eligibility for ordinary court judges
 
 - he holds or has held office as a judge of a court having unlimited jurisdiction in civil and criminal matters in some part of the Commonwealth or in any country outside the Commonwealth that may be prescribed by Parliament or a court having jurisdiction in appeals from such a court; or
 
@@ -3314,9 +3523,9 @@ Provided that--
 
 - If the office of any puisne judge is vacant or if any such judge is appointed to act as Chief Justice or is for any reason unable to perform the functions of his office or  if  the  Chief  Justice  advises  the  King  that  the  state  of  business  in  the  High Court so requires, the King, acting in accordance with the advice of the Judicial Service Commission, may appoint a person who is qualified to be appointed as a judge of the High Court to act as a puisne judge of that Court:
 
-Provided that a person may act as a judge notwithstanding that he has attained the age prescribed for the purposes of section 121(1) of this Constitution.
+- Establishment of judicial council
 
-PDF generated: 17 Jan 2018, 17:35
+Provided that a person may act as a judge notwithstanding that he has attained the age prescribed for the purposes of section 121(1) of this Constitution.
 
 Lesotho 1993 (rev. 2011)
 
@@ -3330,21 +3539,9 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Establishment of judicial council
-
-· Mandatory retirement age for judges
-
-· Ordinary court term length
-
-· Supreme/ordinary court judge removal
-
-· Supreme/ordinary court judge removal
-
-· Supreme/ordinary court judge removal
-
-· Supreme/ordinary court judge removal
-
 - Any person appointed under subsection (5) to act as a puisne judge shall, subject to the provisions of section 121(7) of this Constitution, continue to act as judge for  the  period  of  his  appointment  or,  if  no  such  period  is  specified,  until  his appointment is revoked by the King, acting in accordance with the advice of the Judicial Service Commission:
+
+- Establishment of judicial council
 
 Provided that, notwithstanding the expiration of the period of his appointment or  the  revocation  of  his  appointment,  he  may  thereafter  continue  to  act  as  a puisne judge for so long as necessary to enable him to deliver judgement or to do any  other  thing  in  relation  to  proceedings  that  were  commenced  before  him previously thereto.
 
@@ -3352,19 +3549,31 @@ Provided that, notwithstanding the expiration of the period of his appointment o
 
 - Subject  to  the  provisions  of  this  section,  a  person  holding  the  office  of  Chief Justice or other judge of the High Court shall vacate that office when he attains the prescribed age.
 
+- Mandatory retirement age for judges
+
 - Notwithstanding  that  he  has  attained  the  age  prescribed  for  the  purposes  of subsection (1), a person holding the office of Chief Justice or other judge of the High Court may continue in office for so long after attaining that age as may be necessary to enable him to deliver judgement or to do any other thing in relation to proceedings that were commenced before him before he attained that age.
+
+- Ordinary court term length
 
 - The Chief Justice and any other judge of the High Court may be removed from office  only  for  inability  to  perform  the  functions  of  his  office  (whether  arising from infirmity of body or mind or any other cause) or for misbehaviour and shall not be so removed except in accordance with the provisions of this section.
 
+- Supreme/ordinary court judge removal
+
 - The Chief Justice and any other judge of the High Court shall be removed from office by the King if the question of his removal has been referred by the King to a tribunal appointed under subsection (5) and the tribunal has advised the King that the Chief Justice or the judge ought to be removed from office for inability as aforesaid or for misbehaviour.
 
+- Supreme/ordinary court judge removal
+
 - If  the  Prime  Minister  or,  in  the  case  of  a  puisne  judge,  the  Chief  Justice represents to the King that the question of removing a judge under this section ought to be investigated, then--
+
+- Supreme/ordinary court judge removal
 
 - the King shall appoint a tribunal which shall consist of a Chairman and not less than two other members, selected in accordance with the provisions of subsection  (6)  from  among  persons  who  hold  or  have  held  high  judicial office; and
 
 - the tribunal shall enquire into the matter and report on the facts thereof to the King and advise the King on what action is to be taken in relation to the Chief Justice or other judge.
 
 - When  the  question  of  removing  the  Chief  Justice  is  to  be  investigated  the members of the tribunal shall be selected by the Prime Minister, and when the question of removing a puisne judge is to be investigated they shall be selected by the Chief Justice.
+
+- Supreme/ordinary court judge removal
 
 Lesotho 1993 (rev. 2011)
 
@@ -3378,23 +3587,15 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Supreme/ordinary court judge removal
-
-· Mandatory retirement age for judges
-
-· Right to appeal judicial decisions
-
-· Structure of the courts
-
-· Supreme court selection
-
-· Supreme court selection
-
-· Establishment of judicial council
-
 - If  the  question  of  removing  the  Chief  Justice  or  a  judge  from  office  has  been referred to a tribunal under subsection (5), the King, acting in accordance with the advice of the Prime Minister in the case of the Chief Justice and acting in accordance with the advice of the Chief Justice in the case of a puisne judge, may suspend the Chief Justice, or as the case may be, the judge, from the exercise of the functions of his office and any such suspension may at any time be revoked by the King, acting in accordance with such advice as aforesaid, and shall in any case cease to have effect if the tribunal advises the King that the Chief Justice or the judge should not be removed from office.
 
-- The prescribed age for the purposes of subsection (1) is the age of seventy-five years or such other age as may be prescribed by Parliament: Provided  that  an  Act  of  Parliament,  to  the  extent  to  which  it  alters  the prescribed age after the appointment of a person to be Chief Justice or judge of the  High  Court,  shall  not  have  effect  in  relation  to  that  person  unless  he consents that it should have effect.
+- Supreme/ordinary court judge removal
+
+- The prescribed age for the purposes of subsection (1) is the age of seventy-five years or such other age as may be prescribed by Parliament:
+
+- Mandatory retirement age for judges
+
+Provided  that  an  Act  of  Parliament,  to  the  extent  to  which  it  alters  the prescribed age after the appointment of a person to be Chief Justice or judge of the  High  Court,  shall  not  have  effect  in  relation  to  that  person  unless  he consents that it should have effect.
 
 #### 122. Oath by judges of High Court
 
@@ -3402,7 +3603,11 @@ Before entering upon the duties of his office, the Chief Justice and a puisne ju
 
 ### Part 3: The Court of Appeal
 
+- Right to appeal judicial decisions
+
 #### 123. Establishment of Court of Appeal
+
+- Structure of the courts
 
 - There shall be for Lesotho a Court of Appeal which shall have such jurisdiction and powers as may be conferred on it by this Constitution or any other law.
 
@@ -3424,7 +3629,13 @@ Before entering upon the duties of his office, the Chief Justice and a puisne ju
 
 - The  President  shall  be  appointed  by  the  King  on  the  advice  of  the  Prime Minister.
 
+- Supreme court selection
+
 - The Justices of Appeal shall be appointed by the King, acting in accordance with the  advice  of  the  Judicial  Service  Commission  after  consultation  with  the President.
+
+- Supreme court selection
+
+- Establishment of judicial council
 
 Lesotho 1993 (rev. 2011)
 
@@ -3438,11 +3649,9 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Eligibility for supreme court judges
-
-· Establishment of judicial council
-
 3. a. A person shall not be qualified to be appointed as a Justice of Appeal unless--
+
+- Eligibility for supreme court judges
 
 - he holds or has held office as a judge of a court having unlimited jurisdiction in civil and criminal matters in some part of the Commonwealth or in any country outside the Commonwealth that may be prescribed by Parliament or a court having jurisdiction in appeals from such a court; or
 
@@ -3460,6 +3669,8 @@ Provided that:
 
 - If  the  office  of  a  Justice  of  Appeal  is  vacant  or  if  any  such  Justice  of  Appeal  is appointed  to  act  as  President  or  is  for  any  reason  unable  to  perform  the functions  of  his  office,  or  if  the  President  advises  the  King  that  the  state  of business in the Court of Appeal so requires, the King, acting in accordance with the  advice  of  the  Judicial  Service  Commission  after  consultation  with  the President, may appoint a person who is qualified to be appointed as a Justice of Appeal to act as a Justice of Appeal:
 
+- Establishment of judicial council
+
 Provided that a person may act as a Justice of Appeal notwithstanding that he has  attained  the  age  prescribed  for  the  purposes  of  section  125(1)  of  this Constitution.
 
 Lesotho 1993 (rev. 2011)
@@ -3474,23 +3685,11 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Establishment of judicial council
 
-Mandatory retirement age for judges
-
-· Supreme court term length
-
-· Supreme/ordinary court judge removal
-
-· Supreme/ordinary court judge removal
-
-· Supreme/ordinary court judge removal
-
-· Supreme/ordinary court judge removal
-
-· Supreme/ordinary court judge removal
 
 - Any person appointed under subsection (5) to act as a Justice of Appeal shall, subject to the provisions of section 125(7) of this Constitution, continue to act for  the  period  of  his  appointment  or,  if  no  such  period  is  specified,  until  his appointment is revoked by the King, acting in accordance with the advice of the Judicial Service Commission after consultation with the President:
+
+· Establishment of judicial council
 
 Provided that, notwithstanding the expiration of the period of his appointment or  the  revocation  of  his  appointment,  he  may  thereafter  continue  to  act  as  a Justice  of  Appeal  for  so  long  as  may  be  necessary  to  enable  him  to  deliver judgement  or  to  do  any  other  thing  in  relation  to  proceedings  that  were commenced before him previously thereto.
 
@@ -3498,13 +3697,23 @@ Provided that, notwithstanding the expiration of the period of his appointment o
 
 - Subject  to  the  provisions  of  this  section,  a  person  holding  the  office  of  an appointed judge of the Court of Appeal shall vacate that office when he attains the prescribed age.
 
+· Mandatory retirement age for judges
+
 - Notwithstanding  that  he  has  attained  the  age  prescribed  for  the  purposes  of subsection  (1),  an  appointed  judge  may  continue  in  office  for  so  long  after attaining that age as may be necessary to enable him to deliver judgement or to do any other thing in relation to proceedings that were commenced before him before he attained that age.
+
+· Supreme court term length
 
 - An appointed judge may be removed from office only for inability to perform the functions  of  his  office  (whether  arising  from  infirmity  of  body  or  mind  or  any other  cause)  or  for  misbehaviour  and  shall  not  be  so  removed  except  in accordance with the provisions of this section.
 
+· Supreme/ordinary court judge removal
+
 - An appointed judge shall be removed from office by the King if the question of his  removal  has  been  referred  by  the  King  to  a  tribunal  appointed  under subsection (5) and the tribunal has advised the King that the appointed judge ought to be removed from office for inability as aforesaid or for misbehaviour.
 
+· Supreme/ordinary court judge removal
+
 - If  the  Prime  Minister  or,  in  the  case  of  a  Justice  of  Appeal,  the  President represents to the King that the question of removing an appointed judge under this section ought to be investigated, then--
+
+· Supreme/ordinary court judge removal
 
 - the King shall appoint a tribunal which shall consist of a Chairman and not less than two other members, selected in accordance with the provisions of subsection  (6)  from  among  persons  who  hold  or  have  held  high  judicial office;
 
@@ -3512,7 +3721,11 @@ Provided that, notwithstanding the expiration of the period of his appointment o
 
 - When the question of removing the President is to be investigated, the members of the tribunal shall be selected by the Prime Minister and, when the question of removing a Justice of Appeal is to be investigated, the members of the tribunal shall be selected by the President.
 
+· Supreme/ordinary court judge removal
+
 - If the question of removing an appointed judge from office has been referred to a tribunal under subsection (5), the King, acting in accordance with the advice of the  Prime  Minister  in  the  case  of  the  President  and  in  accordance  with  the advice  of  the  President  in  the  case  of  Justice  of  Appeal,  may  suspend  the appointed  judge  from  the  exercise  of  the  functions  of  his  office  and  any  such suspension may at any time be revoked by the King, acting in accordance with such advice as aforesaid, and shall in any case cease to have effect if the tribunal advises the King that the appointed judge should not be removed from office.
+
+· Supreme/ordinary court judge removal
 
 Lesotho 1993 (rev. 2011)
 
@@ -3526,13 +3739,11 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Mandatory retirement age for judges
 
-· Structure of the courts
-
-· Constitutional interpretation
 
 - The prescribed age for the purposes of subsection (1) is the age of seventy-five years or such other age as may be prescribed by Parliament:
+
+· Mandatory retirement age for judges
 
 Provided that--
 
@@ -3548,11 +3759,15 @@ Before  entering  upon  the  duties  of  his  office,  an  appointed  judge  of 
 
 ### Part 4: Subordinate Courts, Courts-Martial and Tribunals
 
+· Structure of the courts
+
 #### 127. Establishment of other courts and Tribunals
 
 Parliament may establish courts subordinate to the High Court, courts-martial and tribunals,  and  any  such  court  or  tribunal  shall,  subject  to  the  provisions  of  this Constitution,  have  such  jurisdiction  and  powers  as  may  be  conferred  on  it  by  or under any law.
 
 #### 128. Reference to High Court in cases in subordinate courts etc. involving interpretation of Constitution
+
+· Constitutional interpretation
 
 - Where any question as to the interpretation of this Constitution arises in any proceedings in any subordinate court or tribunal and the court or tribunal is of the opinion that the question involves a substantial question of law, the court or tribunal  may,  and  shall,  if  any  party  to  the  proceedings  so  requests,  refer  the question to the High Court.
 
@@ -3570,13 +3785,15 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Right to appeal judicial decisions · Constitutional interpretation
 
-· Right to appeal judicial decisions
 
 ### Part 5: Appeals and Rules
 
+· Right to appeal judicial decisions
+
 #### 129. Appeals to the Court of Appeal
+
+· Constitutional interpretation
 
 - In addition to the right of appeal accorded by section 47 of this Constitution, an appeal  shall  lie  as  of  right  to  the  Court  of  Appeal  from  decisions  of  the  High Court in the following cases, that is to say:
 
@@ -3587,6 +3804,8 @@ PDF generated: 17 Jan 2018, 17:35
 - Subject to section 69 of this Constitution, the Court of Appeal shall have such other jurisdiction with regard to appeals as shall be determined by Parliament.
 
 - The  Court  of  Appeal  shall,  when  determining  any  matter  other  than  an interlocutory  matter,  be  composed  of  an  uneven  number  of  judges,  not  being less than three.
+
+· Right to appeal judicial decisions
 
 #### 130. Appeals to the High Court
 
@@ -3706,7 +3925,7 @@ PDF generated: 17 Jan 2018, 17:35
 
 #### 133A. Establishment of the Human Rights Commission
 
-There is established a Human Rights Commission (in this Chapter referred to as 'the Commission')  which  shall  be  independent  and  free  from  interference  and  subject only to this Constitution and any other law.
+There is established a Human Rights Commission (in this Chapter referred to as “the Commission”)  which  shall  be  independent  and  free  from  interference  and  subject only to this Constitution and any other law.
 
 #### 133B. Composition
 
@@ -3748,13 +3967,7 @@ Page 81
 
 constituteproject.org
 
-· International law
 
-·
-
-International law
-
-· International organizations
 
 PDF generated: 17 Jan 2018, 17:35
 
@@ -3784,11 +3997,17 @@ The Commission shall perform the following functions -
 
 - advocate for ratification, and recommend the domestication of international and regional human rights instruments;
 
+· International law
+
 - promote and monitor the harmonisation of national laws and practices with international and regional human rights instruments ratified by Lesotho;
+
+· International law
 
 - develop and maintain working relations with organisations and representatives of civil society in Lesotho;
 
 - work  in cooperation  with the  United  Nations,  regional  mechanisms, national  human  rights  institutions  of  other  countries,  in  the  areas  of  the promotion and protection of human rights, and
+
+· International organizations
 
 Lesotho 1993 (rev. 2011)
 
@@ -3802,7 +4021,6 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Ombudsman
 
 - undertake any other activities or responsibilities that are consistent with the spirit of the promotion and protection of human rights.
 
@@ -3814,7 +4032,9 @@ The  Government  shall  accord  such  assistance  as  the  Commission  may  requ
 
 - The  Commission  shall  prepare,  submit  and  present  an  annual  report  of  its activities to Parliament.
 
-- If  it  considers  it  necessary,  in  case  of  an  urgent  and  specific  issue,  the Commission may submit a special report to Parliament at any time, which will be treated by Parliament in the same manner as an annual report.'
+- If  it  considers  it  necessary,  in  case  of  an  urgent  and  specific  issue,  the Commission may submit a special report to Parliament at any time, which will be treated by Parliament in the same manner as an annual report.”
+
+· Ombudsman
 
 ## CHAPTER XII: THE OMBUDSMAN
 
@@ -3976,7 +4196,6 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Attorney general
 
 - Before any of the powers conferred by this section in relation to the Clerk of a House of Parliament or a member of his staff are exercised by the Public Service Commission or any other person or authority, the Commission or that person or authority shall consult with the President or Speaker of that House.
 
@@ -3984,7 +4203,7 @@ PDF generated: 17 Jan 2018, 17:35
 
 - A  public  officer  shall  not  be  removed  from  office  or  subjected  to  any  other punishment under this section on the grounds of any act done or omitted by him in the exercise of a judicial function conferred on him unless the Judicial Service Commission concurs therein.
 
-#### [repealed by Act No. 7 of 1997]
+#### 138. [repealed by Act No. 7 of 1997]
 
 #### 139. Principal Secretaries and Government Secretary
 
@@ -3993,6 +4212,8 @@ PDF generated: 17 Jan 2018, 17:35
 Provided that the power to appoint a person to hold or act in any such office upon transfer from another such office carrying the same emoluments shall vest in the Prime Minister.
 
 - The offices to which this section applies are the office of any Principal Secretary and the office of the Government Secretary.
+
+· Attorney general
 
 #### 140. Attorney-General
 
@@ -4020,7 +4241,6 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Attorney general
 
 - A  person  holding  the  office  of  Attorney-General  may  be  removed  from  office only  for  inability  to  exercise  the  functions  of  his  office  (whether  arising  from infirmity of body or mind or any other cause) or for misbehaviour and shall not be so removed except in accordance with the provisions of this section.
 
@@ -4037,6 +4257,8 @@ PDF generated: 17 Jan 2018, 17:35
 - The  prescribed  age  for  the  purposes  of  subsection  (4)  is  the  age  of  fifty-five years or such other age as may be prescribed by Parliament:
 
 Provided  that  an  Act  of  Parliament,  to  the  extent  to  which  it  alters  the prescribed age after the appointment  of a person to be or to act as Attorney-General,  shall  not  have  effect  in  relation  to  that  person  unless  he consents that it should have effect.
+
+· Attorney general
 
 #### 141. Director of Public Prosecutions
 
@@ -4098,9 +4320,6 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Foreign affairs representative
-
-· Designation of commander in chief
 
 - The Auditor-General shall be removed from office by the King if the question of his  removal  from  office  has  been  referred  to  a  tribunal  appointed  under subsection (6) and the tribunal has recommended to the King that he ought to be removed for inability as aforesaid or for misbehaviour.
 
@@ -4116,6 +4335,8 @@ PDF generated: 17 Jan 2018, 17:35
 
 Provided that an Act of Parliament to the extent to which it alters the prescribed age after the appointment of a person to be or to act as Auditor-General, shall not have effect in relation to that person unless he consents that it should have effect.
 
+· Foreign affairs representative
+
 #### 143. Principal representatives of Lesotho abroad
 
 - The  power  to  appoint  persons  to  hold  or  act  in  offices  to  which  this  section applies and to remove from office persons holding or acting in such offices shall vest in the King, acting in accordance with the advice of the Prime Minister.
@@ -4129,6 +4350,8 @@ Provided that an Act of Parliament to the extent to which it alters the prescrib
 - There shall be a Teaching Service, the functions of which shall be as prescribed by an Act of Parliament.
 
 - There shall be a Teaching Service Commission, the composition, powers, duties and procedure of which shall be as prescribed by an Act of Parliament.
+
+· Designation of commander in chief
 
 #### 145. Defence Force
 
@@ -4150,19 +4373,20 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Selection of active-duty commanders
-
-· Selection of active-duty commanders
-
-· Establishment of military courts
 
 - The power to appoint a person to hold or act in the office of the Commander of the Defence Force and the power to remove him from that office shall vest in the King acting on the advice of the Prime Minister, as may be prescribed by an Act of Parliament.
+
+· Selection of active-duty commanders
 
 - The person holding the office of the Commander of the Defence Force on the da immediately  preceding  the  date  of  coming  into  operation  of  this  Act  shall,  as from  that  date,  continue  to  hold  such  office,  under  the  same  terms  and conditions,  as  if  he  had  been  appointed  to  do  so  in  accordance  with  the provisions of this Act:
 
 Provided that any person who under any existing law would have been required to vacate his office at the expiration of any period shall vacate his office at the expiration of that period.
 
 - An Act of Parliament shall make provision for the organisation, administration and  discipline  of  the  Defence  Force  including  the  appointment  of  persons  to offices  or  rank  in  the  Defence  Force,  the  removal  from  office  or  reduction  in rank,  their  punishment  for  breaches  of  discipline  and  the  fixing  of  their conditions of service.
+
+· Selection of active-duty commanders
+
+· Establishment of military courts
 
 #### 146. Courts-Martial Appeal Court
 
@@ -4492,9 +4716,6 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
-· Oaths to abide by constitution
-
-· Oaths to abide by constitution
 
 - The King, acting in accordance with the advice of the Minister responsible for legal affairs, may by regulations made at any time within one year of the coming into operation of this Constitution make such amendments to any existing law as  may  appear  to  him  to  be  necessary  or  expedient  for  bringing  that  law  into conformity with the provisions of this Constitution or otherwise for giving effect or enabling effect to be given to those provisions.
 
@@ -4507,6 +4728,10 @@ PDF generated: 17 Jan 2018, 17:35
 - The  person  holding  the  office  of  King  under  the  Office  of  King  Order  1990 immediately before the coming into operation of this Constitution shall, subject to the provisions of this Constitution, continue to hold that office and shall take and  subscribe  the  oath  for  the  due  execution  of  his  office  which  is  set  out  in Schedule 1 to this Constitution.
 
 - A  person  holding  the  office  of  Regent  under  the  Office  of  King  Order  1990 immediately before the coming into operation of this Constitution shall, subject to the provisions of this Constitution, continue to hold that office and shall take and  subscribe  the  oath  for  the  due  execution  of  his  office  which  is  set  out  in Schedule 1 to this Constitution.
+
+· Oaths to abide by constitution
+
+· Oaths to abide by constitution
 
 #### 158. Prime Minister
 
@@ -4606,17 +4831,13 @@ Page 101
 
 constituteproject.org
 
-- God or other deities
-
-- Oaths to abide by constitution
-
-· God or other deities
-
-- Oaths to abide by constitution
-
 PDF generated: 17 Jan 2018, 17:35
 
 ## SCHEDULE 1: OATH OF OFFICE OF KING OR REGENT (Section 51)
+
+- God or other deities
+
+- Oaths to abide by constitution
 
 In the presence of Almighty God and in the full realisation of the responsibilities and duties of the high office of King (Regent) and of the binding nature and binding force of  this  Oath,  I,  do  swear  that  I  will  obey  and  observe  the  provisions  of  the Constitution  and  all  other  laws  of  Lesotho,  that  I  will  discharge  my  duties  in  such manner as to preserve the character of the monarchy as a symbol of the unity of the Basotho Nation, and that I will accordingly abstain from involving the monarchy in any way in politics, or with any political party or group.
 
@@ -4672,6 +4893,10 @@ The Principal Chief of Malingoaneng
 
 ## SCHEDULE 3: OATH OR AFFIRMATION OF ALLEGIANCE (Section 154)
 
+- God or other deities
+
+- Oaths to abide by constitution
+
 I, do swear (or solemnly affirm) that I will be faithful and bear true allegiance to King , his heirs and successors, according to this Constitution and the laws of Lesotho.
 
 Lesotho 1993 (rev. 2011)
@@ -4702,6 +4927,54 @@ PDF generated: 17 Jan 2018, 17:35
 
 # Topic index
 
+## A
+
+Access to higher education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Advisory bodies to the head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+Approval of general legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+Attendance by legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+Attorney general . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62, 87, 88
+
+## B
+
+Binding effect of const rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Budget bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 68, 69
+
+## C
+
+Cabinet removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56, 57
+Cabinet selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+Census . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+Civil service recruitment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Claim of universal suffrage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Compensation of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69, 70
+Compulsory education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Conditions for revoking citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+Constitution amendment procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+Constitutional interpretation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77, 78
+Constitutionality of legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+## D
+
+Deputy executive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56, 58
+Designation of commander in chief . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 90
+Dismissal of the legislature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53, 54
+Division of labor between chambers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+
+## E
+
+Economic plans . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
+Electoral commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44, 46
+Electoral districts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46, 47
+Eligibility for cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38, 56, 57
+Eligibility for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38, 39, 40
+Eligibility for head of government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38, 39, 56
+Eligibility for ordinary court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72
+Eligibility for second chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38, 39, 40
+Eligibility for supreme court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75
+Emergency provisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 23, 25, 54
+Equality regardless of creed or belief . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 21
+
 Lesotho 1993 (rev. 2011)
 
 Page 104
@@ -4713,6 +4986,52 @@ Page 104
 constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
+
+Equality regardless of financial status . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 21
+Equality regardless of gender . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 21
+Equality regardless of language . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 21
+Equality regardless of origin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 21
+Equality regardless of parentage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 21
+Equality regardless of political party . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 21
+Equality regardless of race . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 21
+Equality regardless of religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 21
+Equality regardless of skin color . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 21
+Establishment of cabinet/ministers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56, 57
+Establishment of judicial council . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72, 73, 74, 75, 76, 79
+Establishment of military courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71, 91
+Extradition procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 12
+Extraordinary legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+
+## F
+
+First chamber reserved policy areas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+First chamber selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Foreign affairs representative . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 90
+Free education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Freedom of assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 18
+Freedom of association . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 19
+Freedom of expression . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 18
+Freedom of movement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 11
+Freedom of opinion/thought/conscience . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 17, 18
+Freedom of religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+
+## G
+
+General guarantee of equality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 21, 23
+God or other deities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102
+
+## H
+
+Head of government removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+Head of government selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+Head of government's role in the legislature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+Head of state immunity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+Head of state powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63, 67
+Head of state removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+Head of state replacement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+Head of state selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+Head of state term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+Human rights commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
 
 ## I
 
@@ -4728,6 +5047,58 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
+Initiation of general legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+International law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+International organizations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+
+## J
+
+Judicial independence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 16, 71
+
+## L
+
+Leader of first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42, 50
+Leader of second chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41, 50
+Legislative committees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+Length of legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+Limits on employment of children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+
+## M
+
+Mandatory retirement age for judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73, 74, 76, 77
+Minimum age for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38, 39
+Minimum age of head of government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38, 39, 56
+Minimum age of head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Municipal government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46, 66
+
+## N
+
+Name/structure of executive(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32, 56
+National anthem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+National flag . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+## O
+
+Oaths to abide by constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32, 35, 49, 60, 99, 102
+Official or national languages . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Ombudsman . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+Ordinary court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72
+Ordinary court term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73
+Ownership of natural resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+
+## P
+
+Power to deport citizens . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 11
+Power to pardon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+Powers of cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+Presumption of innocence in trials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Principle of no punishment without law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Privileges for juveniles in criminal process . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Prohibition of cruel treatment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 13
+Prohibition of double jeopardy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Prohibition of slavery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 13
+Prohibition of torture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+
 Lesotho 1993 (rev. 2011)
 
 Page 106
@@ -4740,9 +5111,52 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
 
+Protection from ex post facto laws . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Protection from expropriation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 19
+Protection from false imprisonment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11, 24
+Protection from self-incrimination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Protection from unjustified restraint . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Protection of environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21, 29
+Protection of judges' salaries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+Protection of victim's rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Provisions for intellectual property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+
 ## Q
 
+Quorum for legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+
 ## R
+
+Radio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Reference to art . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Reference to science . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Referenda . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46, 55
+Regulation of evidence collection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 14
+Removal of individual legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+Requirements for birthright citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Requirements for naturalization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30, 31
+Restrictions on entry or exit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 11
+Restrictions on voting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+Right to appeal judicial decisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16, 34, 71, 74, 78
+Right to choose occupation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Right to conscientious objection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Right to counsel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Right to culture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28, 29
+Right to development of personality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Right to enjoy the benefits of science . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Right to equal pay for work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Right to examine evidence/ witnesses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Right to fair trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 15
+Right to join trade unions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19, 28
+Right to life . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 9
+Right to pre-trial release . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Right to privacy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 9, 14
+Right to protect one's reputation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Right to public trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Right to reasonable standard of living . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Right to renounce citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+Right to rest and leisure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Right to safe work environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
 
 Lesotho 1993 (rev. 2011)
 
@@ -4755,6 +5169,42 @@ Page 107
 constituteproject.org
 
 PDF generated: 17 Jan 2018, 17:35
+
+Right to speedy trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Right to work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Rights of children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+
+## S
+
+Scheduling of elections . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+Second chamber selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Secret ballot . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Selection of active-duty commanders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 91
+Size of first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Size of second chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Spending bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52, 68
+State support for children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+State support for the disabled . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Structure of legislative chamber(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Structure of the courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71, 74, 77
+Supermajority required for legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Supreme court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
+Supreme court term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+Supreme/ordinary court judge removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73, 74, 76
+
+## T
+
+Tax bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+Telecommunications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Television . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Term length for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+Term length of second chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+Trial in native language of accused . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Type of government envisioned . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+## U
+
+Ultra-vires administrative actions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
 
 Lesotho 1993 (rev. 2011)
 
