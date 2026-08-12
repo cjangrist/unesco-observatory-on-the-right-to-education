@@ -1,22 +1,28 @@
 [[START OF PAGE 1]]
 
-MINISTERE DE L'EDUCATION NATIONALE, DE L'ENSEIGNEMENT TECHNIQUE ET DE LA FORMATION PROFESSIONNELLE
+MINISTERE DE L’EDUCATION NATIONALE, DE L’ENSEIGNEMENT TECHNIQUE ET DE LA FORMATION PROFESSIONNELLE
 
 ____________
 
-MINISTERE DE L'ENSEIGNEMENT SUPERIEUR ET DE LA RECHERCHE SCIENTIFIQUE
+MINISTERE DE L’ENSEIGNEMENT SUPERIEUR ET DE LA RECHERCHE SCIENTIFIQUE
 
 _____________
 
 TASK FORCE
 
-# PLAN SECTORIEL EDUCATION/FORMATION 2016 - 2025
-
-Avril 2017
-
-REPUBLIQUE DE COTE D'IVOIRE
+REPUBLIQUE DE COTE D’IVOIRE
 
 Union-Discipline-Travail
+
+# PLAN SECTORIEL EDUCATION/FORMATION 2016 – 2025
+
+Image infrastructure
+
+Image acteurs du système éducatif
+
+Image élèves
+
+Avril 2017
 
 1
 
@@ -26,6 +32,46 @@ Union-Discipline-Travail
 
 # SOMMAIRE
 
+SIGLES ET ABREVIATIONS 3
+INTRODUCTION 11
+1. CONTEXTE 12
+1.1. Contexte général 12
+1.2. Contexte politique et institutionnel 12
+1.3. Contexte démographique 13
+1.4. Contexte économique et social 14
+1.5. Contexte programmatique 15
+1.6. Démarche méthodologique 16
+2. DIAGNOSTIC STRATEGIQUE DU SECTEUR 17
+2.1. État des lieux du secteur Éducation/Formation 17
+2-2 Déterminants stratégiques du secteur de l’Éducation et de la Formation 26
+3. CADRAGE STRATEGIQUE DU PLAN SECTORIEL EDUCATION/FORMATION 30
+3-1 Vision de développement du secteur de l’Éducation et de la Formation 30
+3-2-1 Programmation stratégique du sous-secteur du Préscolaire 37
+3-2-2 Programmation stratégique des sous-secteurs du Primaire et de l’Alphabétisation 40
+▪ Produit 2.2 : Les enfants en âge d’aller au primaire disposent d’un environnement scolaire, familial et communautaire favorable à la demande de services d’éducation. 44
+3-2-3 Programmation stratégique du sous-secteur du Secondaire Premier Cycle 47
+3-2-4 Programmation stratégique du sous-secteur du second Cycle du Secondaire général 49
+3-2-5 Programmation stratégique du sous-secteur de l’Enseignement Technique et de la Formation Professionnelle 52
+3-2-6 Programmation stratégique du sous-secteur de l’Enseignement Supérieur 57
+3-2-7 Programmation stratégique du sous-secteur de la Recherche Scientifique 62
+3-2-8 Programmation stratégique relatif au Cadre Institutionnel et Organisationnel 64
+4. COUT ET FINANCEMENT DE LA STRATEGIE SECTORIELLE............................. 72
+4-1 La mobilisation des ressources intérieures pour l’éducation 72
+4-2 Les dépenses courantes du PSE 74
+4-3 Les dépenses d’investissement du PSE 74
+4-4 Le coût total du PSE 75
+4-5 La soutenabilité financière du PSE 76
+4-6 Les financements extérieurs disponibles 77
+4-7 Les financements à rechercher 78
+5. MODALITES ET CAPACITES DE MISE EN ŒUVRE................................................ 78
+5-1 Contraintes de capacités et mesures de renforcement 78
+5-2 Analyse des risques et des mesures de prévention 83
+6. DISPOSITIFS DE MISE EN ŒUVRE, DE SUIVI ET D’EVALUATION...................... 84
+6-1 Arrangements institutionnels 84
+6-1-1 Exécution des financements sectoriels 84
+6-1-2 Mise en œuvre, suivi et pilotage de la stratégie 85
+Annexes 2 : Récapitulatif des indicateurs non générés actuellement par le système statistique (national et sectoriel) 109
+
 2
 
 [[END OF PAGE 2]]
@@ -33,6 +79,40 @@ Union-Discipline-Travail
 [[START OF PAGE 3]]
 
 # SIGLES ET ABREVIATIONS
+
+AFD | Agence Française de Développement
+--- | ---
+APE | Association des Parents d’Élèves
+APR | Année la plus récente
+BAD | Banque Africaine de Développement
+BEP | Brevet d’Études Professionnelles
+BEPC | Brevet d’Études du Premier Cycle
+BNTED | Bureau National d'Études Techniques et de Développement
+BP | Brevet Professionnel
+BT/BTS | Brevet de Technicien / Brevet de Technicien Supérieur
+C2D | Contrat de désendettement et de développement
+CACE | Centres d'Action Communautaire pour l'Enfance
+CAFOP | Centres d’Animation et de Formation Pédagogique
+CAP | Certificat d’Aptitude Professionnelle
+CEI | Coefficient d’efficacité interne
+CEPE | Certificat d’Études Primaires Élémentaires
+CODIPOST | Projet de Codification des Postes de Travail
+COGES | Comité de Gestion des Etablissements Scolaires
+CONFEMEN | Conférence des ministres de l’éducation des pays ayant le français en partage
+CPPE | Centre de promotion de la petite enfance
+DAF | Direction des Affaires Financières
+DCPE | Direction de la Conjoncture et de la Prévision Économiques
+DDENET | Direction départementale de l’éducation nationale et de l’enseignement technique
+DDP | Développement décentralisé participatif
+DELC | Direction des Écoles, Lycées et Collèges
+DESS | Diplôme d’Etudes Supérieures de Spécialité
+DEUG | Diplôme d'Études Universitaires Générales
+DIJE | Développement intégré du jeune enfant
+DPE | Développement de la petite enfance
+DPE | Direction de la Planification et de l’Évaluation
+DRENET | Direction régionale de l’éducation nationale et de l’enseignement technique
+DRH | Direction des Ressources Humaines
+DSPS | Direction de la Stratégie, de la Planification et des Statistiques
 
 3
 
@@ -210,7 +290,7 @@ C'est l'occasion pour nous de remercier et de féliciter l'ensemble de nos colla
 
 Nous nous félicitons de la bonne qualité du dialogue sectoriel et de la bonne marche du cadre partenarial. Sans  nul doute que  ces éléments  de contexte ont été  déterminants dans l'aboutissement des travaux. Ils le seront encore davantage pour la mise en œuvre, le suivi et l'évaluation du plan décennal.
 
-Aussi exhortons-nous l'ensemble des acteurs du secteur à s'approprier le plan sectoriel 20162025, les plans d'action budgétisés qui l'opérationnaliseront par périodes de quatre ou trois et le plan opérationnel de suivi et d'évaluation.
+Aussi exhortons-nous l'ensemble des acteurs du secteur à s'approprier le plan sectoriel 2016-2025, les plans d'action budgétisés qui l'opérationnaliseront par périodes de quatre ou trois et le plan opérationnel de suivi et d'évaluation.
 
 Pour notre part, nous assurons la communauté éducative et les partenaires de l'engagement du Gouvernement  à  mettre  en  œuvre  les  réformes  envisagées  et  à  financer  le  plan  sectoriel éducation/formation  2016-2025  dans  les  limites  du  cadrage  financier  opéré  à  l'issue  des arbitrages intra-sectoriels.
 
@@ -218,6 +298,7 @@ L'enjeu est que d'ici 2025, le système éducatif ivoirien assure à tous les en
 
 Le Ministre de l'Éducation Nationale, de l'Enseignement Technique et de la Formation Professionnelle | Le Ministre de l'Enseignement Supérieur et de la Recherche Scientifique
 --- | ---
+Kandia CAMARA | Prof Ramata BAKAYOKO-LY
 
 10
 
@@ -273,7 +354,7 @@ De  1,8  millions  d'habitants  en  1920,  la  population  de  la  Côte  d'Ivoi
 
 La population croît à un rythme relativement élevé, même si on note une baisse du rythme d'accroissement au cours des dernières années consécutives à une baisse de la fécondité. Ainsi, d'un taux moyen de croissance annuelle avoisinant les 3,7 % entre 1960 et 1998, on est passé à 2,5 % entre 1998 et 2014. Les perspectives indiquent une baisse de cet indicateur pour la période 2014 - 2025. Si dans le passé, les flux migratoires ont fortement joué dans la dynamique de population, celle-ci  est  aujourd'hui  largement  tributaire  du  taux  d'accroissement  naturel ;  le solde migratoire tendant à s'annuler 3 . Ainsi, le taux brut de natalité se situait à 37 ‰ et le taux brut de mortalité autour de 11 ‰ en 2012. 4
 
-La population ivoirienne se caractérise par une forte proportion de jeunes, avec 41,8 % de la population âgée de moins de 15 ans en 2014 5 . Les 15-64 ans représentent plus de la moitié (55,6 %) de la population totale tandis que les personnes de 65 ans et plus ont un poids de 2,6 %, donnant un taux de dépendance encore élevé, à 80 dépendants pour 100 actifs potentiels de 1564 ans, ou encore 116 dépendants pour 100 actifs potentiels de 20 à 64 ans. La structure par sexe révèle une prédominance des hommes, constituant 51,6% de la population totale en 2014, donnant un rapport de masculinité en faveur des hommes, de 107 hommes pour 100 femmes 6 . La population vivant en Côte d'Ivoire est inégalement répartie sur le territoire national. Si la densité moyenne brute nationale est de l'ordre de 70 habitants/km², il n'en demeure pas moins que la grande majorité de la population (75 %) vit dans le sud forestier bien que cette zone couvre un peu moins de la moitié du territoire national (soit 47 %). Compte tenu de ce fait, les plus fortes densités se trouvent en milieu forestier en dehors des grandes villes au contraire des régions  de  savane.  Ces  forts  écarts  ont  une  incidence  directe  sur  les  modes  d'organisations scolaires et leurs coûts.
+La population ivoirienne se caractérise par une forte proportion de jeunes, avec 41,8 % de la population âgée de moins de 15 ans en 2014 5 . Les 15-64 ans représentent plus de la moitié (55,6 %) de la population totale tandis que les personnes de 65 ans et plus ont un poids de 2,6 %, donnant un taux de dépendance encore élevé, à 80 dépendants pour 100 actifs potentiels de 15-64 ans, ou encore 116 dépendants pour 100 actifs potentiels de 20 à 64 ans. La structure par sexe révèle une prédominance des hommes, constituant 51,6% de la population totale en 2014, donnant un rapport de masculinité en faveur des hommes, de 107 hommes pour 100 femmes 6 . La population vivant en Côte d'Ivoire est inégalement répartie sur le territoire national. Si la densité moyenne brute nationale est de l'ordre de 70 habitants/km², il n'en demeure pas moins que la grande majorité de la population (75 %) vit dans le sud forestier bien que cette zone couvre un peu moins de la moitié du territoire national (soit 47 %). Compte tenu de ce fait, les plus fortes densités se trouvent en milieu forestier en dehors des grandes villes au contraire des régions de savane. Ces forts écarts ont une incidence directe sur les modes d'organisations scolaires et leurs coûts.
 
 La population scolarisable des 3 à 23 ans est passée de 8,7 à 12,7 millions entre 2000 et 2012 et est amenée à progresser pour atteindre 14,7 millions d'enfants et de jeunes d'ici 2025. Toutefois, bien  qu'en  hausse,  le  poids  de  la  population  scolarisable  dans  la  population  totale  décroit, passant de près de 55% en 2000 à 50% en 2012 et ne pourrait représenter que 46 % en 2025. Cette tendance baissière est constatée au niveau de tous les groupes d'âges, avec une baisse plus accentuée au niveau des groupes d'âges préscolaire et primaire. Cette évolution résulte d'une augmentation moins rapide de la population sur la période, notamment parmi les groupes d'âges jeunes, consécutive à une perspective de réduction de la fécondité.
 
@@ -297,7 +378,7 @@ Malgré tout, la pression démographique qui s'exerce sur le système éducatif 
 
 Après  plus  d'une  décennie  de  crise  sociopolitique,  socio-économique  et  socio-culturelle,  le Gouvernement a donné une nouvelle impulsion à sa politique de développement, à travers une stratégie  de  redressement  et  de  développement  contenue  dans  le  premier  Plan  National  de Développement (PND 2012-2015) dont l'ambition phare est de transformer la Côte d'Ivoire en un pays émergeant d'ici 2020. Il prend la relève du Document de Stratégie de Réduction de la Pauvreté (DSRP 2009-2015), dont la mise en œuvre a été quelque peu compromise par cette crise. Le PND présente un programme complet et ambitieux de réformes qui tient compte des nouveaux défis  auxquels  est  confrontée  la  Côte  d'Ivoire ;  il  s'appuie  en  outre  sur  un  vaste programme d'investissements publics et privés et la viabilité à terme des finances publiques 7 8 .
 
-Le premier PND aura ainsi permis de renouer rapidement avec la croissance économique, en permettant à la Côte d'Ivoire d'enregistrer des taux de croissance du PIB réel de 10,7% en 2012 et 9,2% en 2013 et de rompre ainsi avec une économie fonctionnant au ralenti durant la décennie 2000 (qui affichait alors un taux de croissance annuel moyen de 1,1%) sous l'effet notamment d'une instabilité socio-politique chronique dont le point d'orgue aura été la crise post-électorale de novembre 2010 à avril 2011 ayant entrainé une chute de 4,4% du PIB. Sur la période 20002013, le PIB réel, exprimé en valeurs monétaire de 2013, aura ainsi progressé de 11 984 à 15 460 milliards de FCFA. La nouvelle dynamique de croissance, tirée par les investissements, entamée en 2012 et confirmée en 2013 et 2014 devrait, selon les prévisions, se poursuivre dans les années à venir.
+Le premier PND aura ainsi permis de renouer rapidement avec la croissance économique, en permettant à la Côte d'Ivoire d'enregistrer des taux de croissance du PIB réel de 10,7% en 2012 et 9,2% en 2013 et de rompre ainsi avec une économie fonctionnant au ralenti durant la décennie 2000 (qui affichait alors un taux de croissance annuel moyen de 1,1%) sous l'effet notamment d'une instabilité socio-politique chronique dont le point d'orgue aura été la crise post-électorale de novembre 2010 à avril 2011 ayant entrainé une chute de 4,4% du PIB. Sur la période 2000-2013, le PIB réel, exprimé en valeurs monétaire de 2013, aura ainsi progressé de 11 984 à 15 460 milliards de FCFA. La nouvelle dynamique de croissance, tirée par les investissements, entamée en 2012 et confirmée en 2013 et 2014 devrait, selon les prévisions, se poursuivre dans les années à venir.
 
 Les perspectives de croissance sur la période 2016-2020 seront orientées par l'élaboration du second PND en adéquation avec l'objectif de l'émergence à l'horizon 2020. Dans ce contexte, la  poursuite  des  investissements  publics  et  privés  permettrait  d'atteindre  une  croissance moyenne annuelle d'environ 9% tirée principalement par les secteurs secondaire et tertiaire à travers une industrialisation progressive du tissu économique, la mise en œuvre de réformes renforçant la qualité du climat des affaires et l'exécution de grands projets miniers identifiés par le Gouvernement 9 . Dans une telle configuration, il est attendu un doublement du PIB réel d'ici 2021.
 
@@ -349,7 +430,7 @@ En octobre 2015, un atelier co-présidé par les Directeurs de Cabinet du secteu
 
 De  novembre  2015  à  février  2016,  huit  groupes  thématiques  constitués  de  cadres  des  trois ministères, de personnes ressources des ministères en charge du plan, du budget, de l'économie et  des  finances,  de  représentants  des  ONG  nationales  et  internationales,  des  syndicats d'enseignants,  des associations  de  parents  d'élèves  et d'étudiants, ont réalisé sous  la coordination  de  la  Task  Force  sectorielle  et  avec  le  soutien  des  Partenaires  Techniques  et Financiers (PTF), la première version complète du plan sectoriel du secteur Éducation/Formation 2016-2025.
 
-Ce plan stratégique a été largement partagé avec l'ensemble de la communauté éducative à travers huit (8) ateliers de partage et d'appropriation organisés par la Task Force avec le soutien financier des PTF, du 17 mars au 1 er juillet 2016. Ce processus de partage a permis de recueillir leurs commentaires et contributions et de relever, entre autres, des insuffisances au niveau du cadre de résultats.
+Ce plan stratégique a été largement partagé avec l'ensemble de la communauté éducative à travers huit (8) ateliers de partage et d'appropriation organisés par la Task Force avec le soutien financier des PTF, du 17 mars au 1er juillet 2016. Ce processus de partage a permis de recueillir leurs commentaires et contributions et de relever, entre autres, des insuffisances au niveau du cadre de résultats.
 
 Aussi, en octobre 2016, deux ateliers ont-ils été organisés avec le soutien technique et financier de l'UNICEF et du Partenariat Mondial pour l'Éducation (PME) en vue d'élaborer un Plan Opérationnel de Suivi et d'Évaluation (POSE) du Plan Sectoriel Éducation/Formation (PSE).
 
@@ -365,7 +446,7 @@ De février à avril 2017, plusieurs ateliers de finalisation des outils de plan
 
 [[START OF PAGE 17]]
 
-La démarche méthodologique qui a servi à élaborer le Plan Sectoriel Éducation/Formation 20162025  de  Côte  d'Ivoire  a  été  celle  de  la  planification  stratégique  et  opérationnelle  dans  la perspective du Développement Institutionnel et du Renforcement Organisationnel (DIRO) et de la Gestion Axée sur les Résultats (GAR).
+La démarche méthodologique qui a servi à élaborer le Plan Sectoriel Éducation/Formation 2016-2025 de Côte d'Ivoire a été celle de la planification stratégique et opérationnelle dans la perspective du Développement Institutionnel et du Renforcement Organisationnel (DIRO) et de la Gestion Axée sur les Résultats (GAR).
 
 Ainsi,  les  outils  du  DIRO  et  de  la  GAR  ont  été  utilisés,  notamment  le  Modèle  Intégré d'Organisation  (MIO),  l'Analyse  FFOM  (Forces-Faiblesses  et  Opportunités-Menaces)    et l'Analyse Causale, pour réaliser le diagnostic stratégique du secteur et ce, à partir de la revue documentaire du Rapport d'État sur le Système Éducatif National (RESEN) de la Côte d'Ivoire publié en 2016 et des autres rapports récents tels que : les derniers annuaires statistiques de l'éducation et de la formation, la situation des enfants en dehors de l'école et le rapport de la CONFEMEN sur l'évaluation des apprentissages etc.
 
@@ -429,7 +510,7 @@ En 2015, l'on comptait 3 849 enseignants-chercheurs pour 78 047 étudiants dans 
 
 Le déficit global en enseignants, tous grades confondus, en 2013 était estimé, par la Direction des Ressources Humaines, à 2 989 enseignants-chercheurs. Ce déficit est porté à 4 687 dans la perspective  d'accueillir  la  grande  majorité  des  nouveaux  bacheliers  dans  les  universités publiques 15 .
 
-En ce qui concerne l'offre éducative privé elle a largement contribué à l'accroissement général de l'accès. On observe en effet ces dix dernières années un développement de l'offre éducative privée dont la part a progressé sur la période, passant de 22% en 2005 à près de 25% en 20142015. Si cette offre stagne au niveau du primaire (entre 12% et 13% des effectifs) durant la décennie, elle représente près de la moitié des effectifs du secondaire 1 (49%) et est majoritaire dans  le  secondaire  2  (55%)  en  2014.  Dans  l'ETFP,  l'offre  privée  reste  dominante  pour l'enseignement  technique  (95%) 16 .  Enfin,  pour  l'enseignement  supérieur,  l'offre  privée  est largement présente (44,5% en 2014).
+En ce qui concerne l'offre éducative privé elle a largement contribué à l'accroissement général de l'accès. On observe en effet ces dix dernières années un développement de l'offre éducative privée dont la part a progressé sur la période, passant de 22% en 2005 à près de 25% en 2014-2015. Si cette offre stagne au niveau du primaire (entre 12% et 13% des effectifs) durant la décennie, elle représente près de la moitié des effectifs du secondaire 1 (49%) et est majoritaire dans le secondaire 2 (55%) en 2014. Dans l'ETFP, l'offre privée reste dominante pour l'enseignement technique (95%) 16 . Enfin, pour l'enseignement supérieur, l'offre privée est largement présente (44,5% en 2014).
 
 > 14 Annuaire statistique 2014-2015
 
@@ -513,7 +594,7 @@ Comme conséquence directe des disparités constatées dans les scolarisations, 
 
 Ces disparités s'observent aussi selon le niveau de richesse du ménage. En effet, les enfants issus du quintile le plus riche consomment 3,7 fois plus de ressources que les enfants issus des milieux les plus pauvres (quintile le plus pauvre).
 
-Au regard de la gestion du système, en analysant la relation  entre le nombre d'élèves  et le nombre d'enseignants dans le primaire, le degré d'aléa (1-R 2 ) 18 dans l'allocation des enseignants reste élevé en Côte d'Ivoire malgré sa diminution entre 2007 et 2014 (de 49% à 43%) la situant parmi les pays à fort aléa dans la région. Ces aléas se traduisent par une forte variabilité selon la  région  traduisant  des  déséquilibres  en  termes  de  ratio  élèves/enseignant  ainsi  que  des disparités intra régionales dans l'allocation des enseignants.
+Au regard de la gestion du système, en analysant la relation entre le nombre d'élèves et le nombre d'enseignants dans le primaire, le degré d'aléa (1-R²)¹⁸ dans l'allocation des enseignants reste élevé en Côte d'Ivoire malgré sa diminution entre 2007 et 2014 (de 49% à 43%) la situant parmi les pays à fort aléa dans la région. Ces aléas se traduisent par une forte variabilité selon la région traduisant des déséquilibres en termes de ratio élèves/enseignant ainsi que des disparités intra régionales dans l'allocation des enseignants.
 
 Au secondaire général, le diagnostic montre que le volume horaire moyen pratiqué par semaine dans les classes par les enseignants est inférieur au volume réglementaire. En effet, au premier cycle du secondaire général, le service hebdomadaire effectif moyen d'un enseignant est de 14,2 h contre 21 h selon les normes et de 11,6 h au second cycle contre 18 h, laissant des marges de manœuvre importantes.
 
@@ -523,11 +604,11 @@ Concernant l'efficacité externe du système, l'analyse fait ressortir une inad�
 
 En  effet,  relativement  à  l'insertion  des  diplômés  de  l'ETFP  sur  le  marché  de  l'emploi,  les données de l'enquête emploi 2013 combinées aux statistiques du secteur Éducation- Formation, révèlent que les taux d'insertion respectifs dans le secteur formel sont de 43,9 % pour le CAP (Certificat d'Aptitude Professionnelle), 16,8 % pour le BEP (Brevet d'Études Professionnelles), 36,0 % pour le BT (Brevet de Technicien), 49,4 % pour le BP (Brevet Professionnel) et 49,5 % pour le BTS (Brevet de Technicien Supérieur). En plus, la durée moyenne des diplômés de l'ETFP pour avoir un emploi est de 23 mois et de 24 mois pour le BTS.
 
-Concernant l'insertion professionnelle des diplômés de l'enseignement supérieur, l'enquêteemploi réalisée en 2012, révèle des taux de chômage de 27,8% pour les titulaires de DUT, 35,7% pour le DESS et 42,9% pour les Masters. Toutefois, l'analyse du taux global d'insertion des sortants (TGIS), qui est un indicateur synthétique du taux de main d'œuvre, du taux d'emploi et du taux d'emploi formel et rend compte de l'insertion, montre que cette situation s'améliore aussi dans le temps.
+Concernant l'insertion professionnelle des diplômés de l'enseignement supérieur, l'enquête-emploi réalisée en 2012, révèle des taux de chômage de 27,8% pour les titulaires de DUT, 35,7% pour le DESS et 42,9% pour les Masters. Toutefois, l'analyse du taux global d'insertion des sortants (TGIS), qui est un indicateur synthétique du taux de main d'œuvre, du taux d'emploi et du taux d'emploi formel et rend compte de l'insertion, montre que cette situation s'améliore aussi dans le temps.
 
 En effet, les données du RESEN font ressortir le fait que l'insertion s'améliore dans le temps, de 17 % la première année à 31 % cinq ans après la fin des études. Mais elle reste une fonction croissante des qualifications  et  compétences  acquises,  puisque  le  TGIS  croît  avec  le  niveau d'éducation. Les sortants de l'EFTP et de l'enseignement supérieur sont ceux dont l'insertion est la meilleure au bout d'une année, avec des TGIS respectifs de 23 % et de 22 %. Les sortants du primaire, très peu qualifiés, se caractérisent par un TGIS nettement plus faible, de 12 %. Par ailleurs,  la  majorité  de  ces  derniers  trouve  un  emploi  dans  le  secteur  informel  :  leur  taux d'emploi informel un an après leur sortie de l'école est estimé à 98 %.
 
-> 18 Le coefficient de détermination (R 2 ) est un indicateur qui mesure l'ampleur des écarts relatifs par rapport à la relation moyenne estimée. L'indicateur peut prendre une valeur comprise entre 0 et 1. La valeur 1 correspond à une relation fonctionnelle selon laquelle toutes les écoles sont traitées de la même manière et le nombre d'enseignants ne dépend que du nombre d'élèves. À contrario, la valeur 0 correspond à l'absence totale de relation entre le nombre d'enseignants d'une école et celui de ses élèves.
+> 18 Le coefficient de détermination (R²) est un indicateur qui mesure l'ampleur des écarts relatifs par rapport à la relation moyenne estimée. L'indicateur peut prendre une valeur comprise entre 0 et 1. La valeur 1 correspond à une relation fonctionnelle selon laquelle toutes les écoles sont traitées de la même manière et le nombre d'enseignants ne dépend que du nombre d'élèves. À contrario, la valeur 0 correspond à l'absence totale de relation entre le nombre d'enseignants d'une école et celui de ses élèves.
 
 23
 
@@ -565,7 +646,7 @@ Quant aux coûts unitaires publics, ils sont variables selon le niveau d'études
 
 À côté du financement  public  de  l'éducation,  les  ménages  contribuent  à  37%  des  dépenses totales  courantes  d'éducation.  L'enseignement  secondaire  général  absorbe  l'essentiel  de  ces ressources avec 47% au collège et 43% au lycée. Les frais de scolarité  constituent le poste budgétaire dominant de ces dépenses.
 
-Au regard de l'efficience, l'indicateur d'efficience (EVS/Dépenses publiques) s'est amélioré sur  la  période  2007-2013  passant  de  1,3  à  1,6.  Cette  évolution  est  surtout  imputable  à l'amélioration de la couverture scolaire aux différents niveaux du système éducatif qui a permis de gagner une année et demie de scolarisation en moyenne. En effet, l'espérance de vie scolaire (EVS) est passée de 5,5 à 7 années mais reste inférieure à la moyenne régionale (8,1) et à celle des pays proches de la Côte d'Ivoire comme le Ghana (10,5) et le Togo (9,8). Ainsi en 20122013, un enfant qui commence l'école ne peut espérer atteindre et valider que la classe de 5 ème .
+Au regard de l'efficience, l'indicateur d'efficience (EVS/Dépenses publiques) s'est amélioré sur la période 2007-2013 passant de 1,3 à 1,6. Cette évolution est surtout imputable à l'amélioration de la couverture scolaire aux différents niveaux du système éducatif qui a permis de gagner une année et demie de scolarisation en moyenne. En effet, l'espérance de vie scolaire (EVS) est passée de 5,5 à 7 années mais reste inférieure à la moyenne régionale (8,1) et à celle des pays proches de la Côte d'Ivoire comme le Ghana (10,5) et le Togo (9,8). Ainsi en 2012-2013, un enfant qui commence l'école ne peut espérer atteindre et valider que la classe de 5ème.
 
 En matière de recherche scientifique, selon le diagnostic posé dans le PND 2016  - 2020, il ressort que malgré les nombreuses avancées sur le plan agronomique, la Côte d'Ivoire a besoin de  renforcer  ses  équipements  de  recherche  et  son  capital  humain  dans  les  autres  domaines d'innovation  notamment  technologique.  De  plus,  les  échanges  de  bonnes  pratiques  et  de résultats de recherche entre les structures publiques, le système éducatif, le secteur privé et les centres de recherche extérieurs restent encore insuffisants. Enfin, les niveaux d'investissements (publics et privés) pour la recherche et le développement sont faibles.
 
@@ -619,7 +700,7 @@ Pour les sous-secteurs de l'enseignement primaire et de l'enseignement secondair
 
 Comme pour  le  préscolaire,  les  causes  de  la  faiblesse  de  l'accès  aux  services  d'éducation relèvent à la fois de l'offre et de la demande.
 
-En effet, les données existantes font constater un déficit en matière d'infrastructures scolaires, notamment les écoles primaires, les collèges et les lycées, plus particulièrement en milieux périurbain  et  rural.  En  plus,  il  se  pose  le  problème  de  l'insuffisance  d'enseignants.  Dans  le secondaire général, les disciplines scientifiques sont les plus concernées par cette situation. Pour le secteur public, cette offre insuffisante, due surtout à la faiblesse du budget d'investissement alloué aux sous-secteurs concernés, s'explique également par le non-respect de la Carte scolaire. Il en résulte une offre croissante du secteur privé tributaire toutefois des subventions de l'État.
+En effet, les données existantes font constater un déficit en matière d'infrastructures scolaires, notamment les écoles primaires, les collèges et les lycées, plus particulièrement en milieux péri-urbain et rural. En plus, il se pose le problème de l'insuffisance d'enseignants. Dans le secondaire général, les disciplines scientifiques sont les plus concernées par cette situation. Pour le secteur public, cette offre insuffisante, due surtout à la faiblesse du budget d'investissement alloué aux sous-secteurs concernés, s'explique également par le non-respect de la Carte scolaire. Il en résulte une offre croissante du secteur privé tributaire toutefois des subventions de l'État.
 
 27
 
@@ -669,11 +750,11 @@ Le  domaine  de  la  recherche  scientifique  est  principalement  marqué  par 
 
 Le faible engouement manifesté par les acteurs nationaux s'explique en partie par le fait que ces derniers disposent de peu d'informations sur les avancées enregistrées en matière de recherche et d'innovation technologique. De plus, la faible culture en matière d'innovations technologiques  des  acteurs  fait  qu'ils  ont  tendance  à  maintenir  les  méthodes  traditionnelles d'organisation, de production et de consommation.
 
-La faiblesse de l'offre en matière de recherche s'explique quant à elle par plusieurs situations. Il  s'agit  notamment,  de  la  faible  capacité  en  infrastructures  et  équipements  de  recherche,  la vétuste ́   et  obsolescence  des  infrastructures  et  des  équipements  existants,  l'insuffisance  du personnel dédié́ a ̀  la recherche et la faible synergie entre les activités de recherche portées par les  structures,  l'absence  de  partenariat  entre  les  structures  de  recherche  et  le  secteur  privé, l'absence de cadre favorable au transfert de technologie. A la base de ces causes se trouvent l'absence d'une loi portant orientation et programmation de la recherche et de l'innovation et la faiblesse du financement de la recherche.
+La faiblesse de l'offre en matière de recherche s'explique quant à elle par plusieurs situations. Il s'agit notamment, de la faible capacité en infrastructures et équipements de recherche, la vétusté et obsolescence des infrastructures et des équipements existants, l'insuffisance du personnel dédié à la recherche et la faible synergie entre les activités de recherche portées par les structures, l'absence de partenariat entre les structures de recherche et le secteur privé, l'absence de cadre favorable au transfert de technologie. A la base de ces causes se trouvent l'absence d'une loi portant orientation et programmation de la recherche et de l'innovation et la faiblesse du financement de la recherche.
 
 # 3. CADRAGE STRATEGIQUE DU PLAN SECTORIEL EDUCATION/FORMATION
 
-Pour corriger les dysfonctionnements identifiés plus haut, les autorités éducatives ont pris un certain nombre de mesures dans le cadre notamment du Plan d'Action à Moyen Terme 20122014  dont l'exécution a été prolongée jusqu'en 2016. Toutefois, ces mesures n'ont malheureusement pas permis d'atteindre les résultats escomptés en raison essentiellement d'une faible mise en œuvre, d'une mobilisation des ressources et d'un suivi insuffisants, des effets de la crise postélectorale qui ont profondément modifié les cartes dans les arbitrages inter et intra sectoriels.
+Pour corriger les dysfonctionnements identifiés plus haut, les autorités éducatives ont pris un certain nombre de mesures dans le cadre notamment du Plan d'Action à Moyen Terme 2012-2014 dont l'exécution a été prolongée jusqu'en 2016. Toutefois, ces mesures n'ont malheureusement pas permis d'atteindre les résultats escomptés en raison essentiellement d'une faible mise en œuvre, d'une mobilisation des ressources et d'un suivi insuffisants, des effets de la crise postélectorale qui ont profondément modifié les cartes dans les arbitrages inter et intra sectoriels.
 
 La nouvelle politique éducative doit prendre en compte à la fois ce passif et les ambitions du pays déclinées dans le Plan National de Développement (PND 2016-2020). En l'occurrence, la politique de scolarisation obligatoire pour les enfants de 6 à 16 ans, expression de la volonté politique  de  rendre  l'école  ivoirienne  plus  inclusive  et  compatible  avec  les  exigences  d'un développement économique et social équitable, efficace, efficient et soucieux de  la prise en charge  des  exclus  conformément  aux  engagements  nationaux  et  internationaux  du  pays, notamment  en  faveur  du  cadre  d'action  « Éducation  2030 ».  D'où  la  pertinence  du  Plan Décennal qui couvre la période 2016-2025.
 
@@ -691,7 +772,7 @@ Le fondement stratégique du PND 2016-2020 de la Côte d'Ivoire met l'accent sur
 
 [[START OF PAGE 31]]
 
-Comme cela transparait dans le PND 2016-2020 « Cette émergence, c'est d'abord un mieuxêtre  accru  des  populations,  partout  en  Côte  d'Ivoire,  qui  se  traduira  par  une  réduction significative de la pauvreté et une montée concomitante de la classe moyenne pour soutenir durablement le processus de croissance. C'est aussi une économie dynamique soutenue par une industrialisation  rapide  porteuse  de  transformation  structurelle  et  d'opportunités  élargies d'emplois décents. C'est également une Côte d'Ivoire qui gagne sur le plan de son intégration dans l'économie mondiale et qui coopère avec ses voisins pour le renforcement de l'intégration régionale  » 20 .  Cela  devrait  contribuer  à  une  transformation  totale  de  la  société  ivoirienne  à travers la prise en compte de chaque citoyen conformément aux orientations du Président de la République, Son Excellence Monsieur Alassane Ouattara, relatives à « l'ivoirien nouveau » qui  exige  un  minimum d'éducation,  d'attitudes,  de  comportement,  d'obligation  vis-à-vis  du développement socio-économique et culturel du pays .
+Comme cela transparait dans le PND 2016-2020 « Cette émergence, c'est d'abord un mieux-être accru des populations, partout en Côte d'Ivoire, qui se traduira par une réduction significative de la pauvreté et une montée concomitante de la classe moyenne pour soutenir durablement le processus de croissance. C'est aussi une économie dynamique soutenue par une industrialisation rapide porteuse de transformation structurelle et d'opportunités élargies d'emplois décents. C'est également une Côte d'Ivoire qui gagne sur le plan de son intégration dans l'économie mondiale et qui coopère avec ses voisins pour le renforcement de l'intégration régionale » 20 . Cela devrait contribuer à une transformation totale de la société ivoirienne à travers la prise en compte de chaque citoyen conformément aux orientations du Président de la République, Son Excellence Monsieur Alassane Ouattara, relatives à « l'ivoirien nouveau » qui exige un minimum d'éducation, d'attitudes, de comportement, d'obligation vis-à-vis du développement socio-économique et culturel du pays .
 
 Au terme de sa mise en œuvre, le PND 2016-2020 vise à l'atteinte du résultat suivant : " La Côte d'Ivoire est un pays émergent à l'horizon 2020 avec une base industrielle solide" . Pour y parvenir, la Côte d'Ivoire entend s'appuyer sur les piliers qui résultent de l'analyse stratégique, à  savoir :  (i)  la  qualité  des  institutions  et  de  la  gouvernance  sous  toutes  ses  formes ;  (ii) la disponibilité et les capacités des femmes et des hommes à construire une Côte d'Ivoire émergente  et  prospère ;  (iii)  les  changements  dans  les  modes  de  production  et  de consommation  pour  construire  l'émergence ; (iv) le développement  des  infrastructures stratégiques  comme  levier  de  l'émergence  et  en  cohérence  avec  les  principes  de  durabilité environnementale ;  (v)  l'insertion  avantageuse  dans  le  réseau  d'échanges  régionaux  et mondiaux.
 
@@ -701,7 +782,7 @@ En effet, « disposer des femmes et des hommes pour construire une Cote d'Ivoire
 
 Aussi, force est de constater que cet axe est décliné en huit options stratégiques dont quatre focalisées  sur  le  secteur  Éducation/Formation.  Il  s'agit  de  :  (i)  créer  une  Cellule  de  veille stratégique sur les compétences (ii) veiller à la requalification du stock des compétences en synergie avec l'objectif de transformation structurelle et de compétitivité de l'Économie ; (iii) améliorer l'accès et la qualité du système éducatif et de formation ; (iv) développer un pool de chercheurs nationaux soutenant l'innovation technologique.
 
-La mise en œuvre de ces options stratégiques sera certainement sous-tendue par l'application de la récente loi relative à la Politique de Scolarisation Obligatoire (PSO) qui vise à assurer à tous les enfants âgés de 6 à 16 ans une éducation de base du primaire et du 1 er cycle secondaire. Chaque enfant pourra ainsi disposer des capacités nécessaires à la continuité de son éducation et  de  sa  formation  en  vue  de  saisir  les  opportunités  offertes  dans  le  cadre  de  l'émergence notamment en matière d'emploi.
+La mise en œuvre de ces options stratégiques sera certainement sous-tendue par l'application de la récente loi relative à la Politique de Scolarisation Obligatoire (PSO) qui vise à assurer à tous les enfants âgés de 6 à 16 ans une éducation de base du primaire et du 1er cycle secondaire. Chaque enfant pourra ainsi disposer des capacités nécessaires à la continuité de son éducation et de sa formation en vue de saisir les opportunités offertes dans le cadre de l'émergence notamment en matière d'emploi.
 
 > 20  PND 2016-2020, p.5
 
@@ -724,24 +805,19 @@ Cette  vision  est  également  alignée  sur  les  Objectifs  de  Développemen
 [[START OF PAGE 33]]
 
 État:
+Administrations Centrales et Déconcentrées, et Collectivités Territoriales
 
-Administrations Centrales et
+Vision...
 
-Déconcentrées, et Collectivités
+...de la Côte d'Ivoire pour l'Éducation et la Formation à l'horizon du Plan Décennal :
 
-Territoriales
-
-Les Acteurs du Système Éducatif
-
-Apprenants,
-
-Parents,
-
-Familles et
-
-Communautés
+En 2025, le système éducatif ivoirien assure à tous les enfants et adultes une éducation et une formation de qualité, équitable et inclusive qui prend en compte les besoins de transformation du citoyen, le rend capable de contribuer au développement socioéconomique de sa communauté et de la société ivoirienne et lui assure les capacités de compétitivité et d'innovations technologiques.
 
 PTF
+
+Apprenants, Parents, Familles et Communautés
+
+Les Acteurs du Système Éducatif
 
 33
 
@@ -761,7 +837,7 @@ Indicateurs clés : (i) Proportion d'enfants de moins de 5 ans dont le développ
 
 Le résultat stratégique susmentionné est sous-tendue par la théorie de changement suivante : (i) Si les enfants accèdent à des services d'éducation préscolaire de qualité, (ii) si les enfants (filles et  garçons)  de  6  à  11  ans  et  les  personnes  de  10  ans  et  plus  (y  compris  les  femmes)  non alphabétisées ou hors du système éducatif, accèdent respectivement à une éducation de qualité et achèvent le cycle primaire et accèdent à des prestations d'alphabétisation ou d'éducation non formelle de qualité, (iii) si les  élèves  de  12  à  15  ans  accèdent à une éducation de qualité et achèvent le premier cycle du secondaire général, (iv) si les élèves de 16 à 18 ans accèdent à une éducation secondaire générale de qualité, (v) si les personnes de plus de 12 ans accèdent à un enseignement  technique  et  une  formation  professionnelle  de  qualité,  (vi) si les  étudiants accèdent à un enseignement supérieur de qualité qui assure leur insertion professionnelle, (vii) si les résultats de la Recherche Scientifique et de l'Innovation Technologique sont valorisés et contribuent  au  développement  social  et  économique  de  la  Cote  d'Ivoire,  (viii) si le  cadre institutionnel et organisationnel assure un système de gouvernance, de gestion, de planification et  de  suivi-évaluation  qui  soutient  la  qualité  des  services,  l'efficacité  interne  et  externe  des interventions  et  l'efficience  dans  la  gestion  des  ressources  du  secteur  Éducation/Formation, alors la Côte d'Ivoire disposera de ressources humaines de qualité et productives.
 
-Pour l'atteinte de ce résultat stratégique, il faudra, saisir l'engagement manifeste de l'ensemble des  parties  prenantes,  notamment  les  familles  et  les  communautés,  les  acteurs  du  système éducatif  y compris les enseignants,  l'État et les PTF, à soutenir le secteur, tirer parti du contexte d'un  retour  à  la  stabilité  et  l'amélioration  de  la  situation  sociopolitique  et  sécuritaire,  pour assurer :  (i) l'accès équitable des enfants, adolescents, jeunes et adultes en âge d'intégrer les différents ordres d'enseignement, à une éducation de qualité, (ii) la valorisation des produits de la recherche et l'innovation technologique dans la perspective du développement économique et  social  et  (iii)  la  mise  en  place  d'un  cadre  institutionnel  favorable  à  une  éducation  et  une formation de qualité à tous les niveaux (préscolaire, primaire, secondaire 1 & 2, enseignement technique et formation professionnelle, formation par apprentissage et éducation non formelle, alphabétisation, enseignement supérieur et recherche scientifique).
+Pour l'atteinte de ce résultat stratégique, il faudra, saisir l'engagement manifeste de l'ensemble des parties prenantes, notamment les familles et les communautés, les acteurs du système éducatif y compris les enseignants, l'État et les PTF, à soutenir le secteur, tirer parti du contexte
 
 > 21 Indicateur ODD (4.2.1)
 
@@ -773,19 +849,15 @@ Pour l'atteinte de ce résultat stratégique, il faudra, saisir l'engagement man
 
 [[START OF PAGE 35]]
 
+d'un retour à la stabilité et l'amélioration de la situation sociopolitique et sécuritaire, pour assurer : (i) l'accès équitable des enfants, adolescents, jeunes et adultes en âge d'intégrer les différents ordres d'enseignement, à une éducation de qualité, (ii) la valorisation des produits de la recherche et l'innovation technologique dans la perspective du développement économique et social et (iii) la mise en place d'un cadre institutionnel favorable à une éducation et une formation de qualité à tous les niveaux (préscolaire, primaire, secondaire 1 & 2, enseignement technique et formation professionnelle, formation par apprentissage et éducation non formelle, alphabétisation, enseignement supérieur et recherche scientifique).
+
 Ainsi, à travers les différentes Actions Stratégiques de l'ensemble des Résultats d'Effets qui contribueront à la réalisation du Résultat Stratégique, il s'agira :
 
-
+ d'améliorer l'accès et l'équité dans le système éducatif et de formation, à travers la (i) réduction des fortes inégalités dans l'offre éducative, lesquelles inégalités sont en relation avec les régions, le genre, les revenus des ménages et la répartition des enseignants et ensuite (ii) l'accroissement et amélioration de l'offre d'éducation à travers des infrastructures et des équipements de base adéquats et en nombre suffisant. Il en découlerait, un meilleur accès au primaire, une moindre déperdition notamment des filles au niveau de tous les cycles et une meilleure égalité inter/intra régionale dans la répartition des enseignants ;
 
-d'améliorer l'accès et l'équité dans le système éducatif et de formation, à travers la (i) réduction  des  fortes  inégalités  dans  l'offre  éducative,  lesquelles  inégalités  sont  en relation  avec  les  régions,  le  genre,  les  revenus  des  ménages  et  la  répartition  des enseignants et  ensuite  (ii)  l'accroissement  et  amélioration  de  l'offre  d'éducation  à travers des infrastructures et des équipements de base adéquats et en nombre suffisant. Il en découlerait, un meilleur accès au primaire, une moindre déperdition notamment des filles au niveau de tous les cycles et une meilleure égalité inter/intra régionale dans la répartition des enseignants ;
+ d'améliorer la qualité et la diversité de l'offre éducative et de formation ainsi que l'efficacité interne et externe du système, par (i) la création d'un environnement physique attrayant et l'efficacité externe du système, (ii) la fourniture de services nécessaires pour le développement intégré du jeune enfant, la protection des enfants contre les violences, (iii) l'accroissement du niveau d'alphabétisation notamment celui des femmes, (iv) la promotion de filières de formation adaptées au contexte national notamment les formations à vocation agricole compte tenu des potentialités du pays et la vison de transformation des matières premières, (v) la promotion de la formation technologique pour permettre aux jeunes de saisir les opportunités au niveau national, régional et externe, (vi) l'amélioration de l'insertion des sortants, (vii) la promotion des résultats de la recherche scientifique ;
 
-
-
-
-
-- d'améliorer la qualité et la diversité de l'offre éducative et de formation ainsi que l'efficacité  interne  et  externe  du  système, par  (i)  la  création  d'un  environnement physique  attrayant  et  l'efficacité  externe  du  système,  (ii)  la  fourniture  de  services nécessaires pour le développement intégré du jeune enfant, la protection des enfants contre les violences, (iii) l'accroissement du niveau d'alphabétisation notamment celui des femmes, (iv) la promotion de filières de formation adaptées au contexte national notamment les formations à vocation agricole compte tenu des potentialités du pays et la  vison  de  transformation des matières premières, (v) la promotion de la formation technologique pour permettre aux jeunes de saisir les opportunités au niveau national, régional et externe, (vi) l'amélioration de l'insertion des sortants, (vii) la promotion des résultats de la recherche scientifique ;
-
-d'améliorer la qualité de la gestion, de la gouvernance et du  pilotage du système, en vue de (i) l'élimination progressive de la dépendance de l'offre éducative privée de la Subvention de l'État, (ii) la réduction de la part des dépenses salariales au détriment du fonctionnement et des autres charges, (iii) du développement d'outils et de mécanismes de gestion et de réduction des risques de conflits, catastrophes et violences, propres au système éducatif (iv) l'amélioration des capacités de mobilisation de ressources, de mise en œuvre et de suivi-évaluation des acteurs à tous les niveaux, ainsi que l'efficacité des mécanismes de régulation et de protection sociales.
+ d'améliorer la qualité de la gestion, de la gouvernance et du pilotage du système, en vue de (i) l'élimination progressive de la dépendance de l'offre éducative privée de la Subvention de l'État, (ii) la réduction de la part des dépenses salariales au détriment du fonctionnement et des autres charges, (iii) du développement d'outils et de mécanismes de gestion et de réduction des risques de conflits, catastrophes et violences, propres au système éducatif (iv) l'amélioration des capacités de mobilisation de ressources, de mise en œuvre et de suivi-évaluation des acteurs à tous les niveaux, ainsi que l'efficacité des mécanismes de régulation et de protection sociales.
 
 35
 
@@ -794,6 +866,60 @@ d'améliorer la qualité de la gestion, de la gouvernance et du  pilotage du sys
 [[START OF PAGE 36]]
 
 ARCHITECTURE DU SYSTEME EDUCATIF DE LA COTE D'IVOIRE
+
+MARCHE DU TRAVAIL
+
+Enseignement Supérieur (8 années)
+DOCTORAT
+M1, M2
+L1/L2/L3
+
+INGENIEUR (3 ans)
+PREPA ING (2 ans)
+
+BTS (2 ans)
+PREPA BTS (1 an)
+
+Second cycle du secondaire Général
+Tle
+1ère
+2nde
+
+Second cycle du secondaire tech. et prof.
+Tle
+1ère
+2nde
+
+BT (3 ans)
+PREPA BT (1 an)
+
+Premier cycle du secondaire général (4 ans)
+3ème
+4ème
+5ème
+6ème
+
+CAP (3 ans)
+PREPA CAP (1 an)
+
+Primaire (6 ans)
+CM2
+CM1
+CE (2 ans)
+CP (2 ans)
+
+Préscolaire (1 à 3 ans)
+
+Classes passerelles
+
+DISPOSITIF ALTERNATIF
+Unités mobiles
+Ateliers d'Application et de Production
+Centres d'Alphabétisation
+
+DISPOSITIF DE QUALIFICATION ET RECONVERSION DES JEUNES
+
+MARCHE DU TRAVAIL
 
 36
 
@@ -818,9 +944,9 @@ Indicateurs clés : (i) Nombre de classes préscolaires fonctionnelles, (ii) Dis
 Les Actions Stratégiques (AS) relatives à ce produit se déclinent comme suit.
 
 ###### AS.1.1.1 Développer une offre de pré-primaire à l'intention des enfants de 5 ans dans les écoles  primaires :
-Cette  offre  d'accueil  préscolaire  dans  les  écoles primaires se déploiera par  (i) la construction systématique d'une classe réservée au pré-primaire dans les nouvelles écoles, (ii) la création d'une classe pré-primaire dans les écoles primaires qui bénéficieront de travaux de réhabilitation ou de construction de nouvelles salles de classe (pour remplacement ou pour extension), (iii) la révision du  programme  de  formation  dispensé  dans  les  CAFOP  à  l'intention  des  élèvesmaîtres  pour  permettre  aux  nouveaux  enseignants  de  disposer  également  des compétences  nécessaires  pour  la  prise  en  charge  des  jeunes  enfants,  (iv)  le recrutement d'instituteurs adjoints pour ces classes.
+Cette offre d'accueil préscolaire dans les écoles primaires se déploiera par (i) la construction systématique d'une classe réservée au pré-primaire dans les nouvelles écoles, (ii) la création d'une classe pré-primaire dans les écoles primaires qui bénéficieront de travaux de réhabilitation ou de construction de nouvelles salles de classe (pour remplacement ou pour extension), (iii) la révision du programme de formation dispensé dans les CAFOP à l'intention des élèves-maîtres pour permettre aux nouveaux enseignants de disposer également des compétences nécessaires pour la prise en charge des jeunes enfants, (iv) le recrutement d'instituteurs adjoints pour ces classes.
 
-Cette  forme  de  préscolaire  accueillera  les  enfants  de  5  ans  et  leur  donnera  les apprentissages nécessaires pour les préparer à l'enseignement primaire. Elle devra accueillir à l'horizon du plan décennal 27% des enfants scolarisés dans le préscolaire et représenter 50% de l'offre publique.
+Cette forme de préscolaire accueillera les enfants de 5 ans et leur donnera les apprentissages nécessaires pour les préparer à l'enseignement primaire. Elle devra
 
 > 23 Indicateur ODD (4.5.1)
 
@@ -829,6 +955,8 @@ Cette  forme  de  préscolaire  accueillera  les  enfants  de  5  ans  et  leur 
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
+
+accueillir à l'horizon du plan décennal 27% des enfants scolarisés dans le préscolaire et représenter 50% de l'offre publique.
 
 ###### AS.1.1.2.  Renforcer  l'offre  communautaire pour  les  enfants  de  4  à  5  ans  en milieu  rural :
 Il  s'agit  d'une  modalité  qui  cible  prioritairement  les  populations rurales, pour leur offrir, selon des modalités particulières, des services d'une qualité comparable à celle offerte dans le système public ordinaire. Cette offre organisée dans des centres communautaires est appelée à représenter environ 18% de l'offre d'éducation  préscolaire  et  aura  un  double  objectif :  favoriser  le  développement cognitif  des  enfants  de  4  à  5  ans  mais  aussi  appuyer  les  activités  d'éducation parentale au niveau communautaire  pour favoriser le développement intégré des enfants  de  0  à  6  ans  avec  une  composante  sur  la  préparation  des  familles  et  des communautés à assurer le fonctionnement et la gestion du centre à travers un contrat tripartite entre l'État, les communautés et les structures.
@@ -851,7 +979,7 @@ de la présente stratégie. Toutefois, pour assurer la qualité des services fou
 ###### AS.1.1.4. Renforcer la qualité de l'offre dans l'enseignement préscolaire :
 La petite  enfance  est  une  période  critique  dans  le  développement  d'un  enfant  et  les études  montrent  que  les  actes  de  violences  subies  pendant  cette  période  peuvent entraver  sérieusement  son  développement  psychique  et  mental.  Dans  le  même temps, il est habituellement difficile d'identifier les indices de la maltraitance d'un enfant. Aussi, l'enseignement préscolaire devrait veiller à ce que les enfants soient protégés  de  toutes  formes  de  violences  physiques,  psychologiques,  verbales, sexuelles… pouvant survenir à la maison ou à l'école à travers la mise en place de mécanismes de détection et de signalement au niveau de l'école en collaboration avec les services de protection de l'enfant.
 
-Pour assurer que les enfants du préscolaire disposent d'un environnement de vie et d'apprentissage  adéquat,  les  Ministères  en  charge  du  préscolaire,  prendront  les dispositions utiles en vue de (i) la sensibilisation et l'engagement des communautés dans le processus de développement intégré du jeune enfant, (ii) la facilitation des interactions entre encadreurs et enfants dans la langue nationale la plus  parlée dans la localité concernée pour une meilleure illustration et compréhension  des apprentissages d'autant  plus  que  plusieurs  recherches  montrent  que  l'enfant  qui commence  sa  scolarité  dans  sa  langue  maternelle  fixe  mieux  les  apprentissages ultérieurs, (iii) l'élaboration et la diffusion d'un code de conduite contre les violences faites aux enfants, (iv) la fourniture du matériel didactique adéquat susceptible de contribuer au développement psychomoteur, cognitif et affectif des enfants, (v) la mise en place des pratiques pédagogiques innovantes prenant en compte la diversité des  enfants,    le  rythme  d'apprentissage  de  chaque  enfant  et  leurs  besoins  socioaffectifs .
+Pour assurer que les enfants du préscolaire disposent d'un environnement de vie et d'apprentissage adéquat, les Ministères en charge du préscolaire, prendront les dispositions utiles en vue de (i) la sensibilisation et l'engagement des communautés dans le processus de développement intégré du jeune enfant, (ii) la facilitation des interactions entre encadreurs et enfants dans la langue nationale la plus parlée dans la localité concernée pour une meilleure illustration et compréhension des apprentissages d'autant plus que plusieurs recherches montrent que l'enfant qui commence sa scolarité dans sa langue maternelle fixe mieux les apprentissages ultérieurs, (iii) l'élaboration et la diffusion d'un code de conduite contre les violences faites aux enfants, (iv) la fourniture du matériel didactique adéquat susceptible de contribuer au développement psychomoteur, cognitif et affectif des enfants, (v) la mise en place des pratiques pédagogiques innovantes prenant en compte la diversité des enfants, le rythme d'apprentissage de chaque enfant et leurs besoins socio-affectifs .
 
 ##### Produit 1.2 : Les enfants d'âge préscolaire disposent d'un environnement protecteur au niveau  scolaire,  familial  et  communautaire  favorable  à  la  demande  de  services d'éducation préscolaire
 
@@ -881,7 +1009,7 @@ L'accès  à  de  tels services permettra de mieux stimuler les performances des
 
 ### 3-2-2 Programmation stratégique des sous-secteurs du Primaire et de l'Alphabétisation
 
-La programmation stratégique du sous-secteur du Primaire repose sur la théorie du changement suivante : (i) Si la  mobilisation  des  ressources  attendues dans le cadre du plan décennal est effective, (ii) si les parents d'élèves adhèrent à la politique de l'école obligatoire et à la stratégie des classes passerelles, (iii) si des mesures sont prises pour éviter les grèves des enseignants et des animateurs d'alphabétisation ou pour  limiter leurs effets, (iv) si les enfants en âge d'aller au primaire  disposent d'une offre adéquate en matière d'éducation et s'ils bénéficient d'un environnement  scolaire,  familiale  et  communautaire  favorable  à  la  demande  de  services d'éducation,  (v) si les  politiques  de  protection  sociale  des  familles  démunies  accordent  une priorité à l'éducation, (vi) si des mesures sont prises pour l'abolition de tous les frais non légaux supportés par les familles pour l'éducation primaire de leurs enfants, (vii) si des mesures sont prises pour prévenir les risques de violences, conflits, et catastrophes naturelles affectant les élèves, (viii) si les personnes de 10 ans et plus non alphabétisées ou hors du système éducatif disposent d'une offre adéquate d'alphabétisation ou d'éducation non formelle, alors les enfants de  6  à  11  ans  accèderont  à  une  éducation  de  qualité  et  achèveront  le  cycle  primaire,  et  les personnes de 10 ans et plus non alphabétisées ou hors du système éducatif accèderont à des prestations d'alphabétisation ou d'éducation non formelle de qualité.
+La programmation stratégique du sous-secteur du Primaire repose sur la théorie du changement suivante : (i) Si la mobilisation des ressources attendues dans le cadre du plan décennal est effective, (ii) si les parents d'élèves adhèrent à la politique de l'école obligatoire et à la stratégie des classes passerelles, (iii) si des mesures sont prises pour éviter les grèves des enseignants et des animateurs d'alphabétisation ou pour limiter leurs effets, (iv) si les enfants en âge d'aller au primaire disposent d'une offre adéquate en matière d'éducation et s'ils bénéficient d'un environnement scolaire, familiale et communautaire favorable à la demande de services d'éducation, (v) si les politiques de protection sociale des familles démunies accordent une priorité à l'éducation, (vi) si des mesures sont prises pour l'abolition de tous les frais non légaux supportés par les familles pour l'éducation primaire de leurs enfants, (vii) si des mesures sont prises pour prévenir les risques de violences, conflits, et catastrophes naturelles affectant les
 
 > 25 En milieu rural ou péri-urbain
 
@@ -890,6 +1018,8 @@ La programmation stratégique du sous-secteur du Primaire repose sur la théorie
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
+
+élèves, (viii) si les personnes de 10 ans et plus non alphabétisées ou hors du système éducatif disposent d'une offre adéquate d'alphabétisation ou d'éducation non formelle, alors les enfants de 6 à 11 ans accèderont à une éducation de qualité et achèveront le cycle primaire, et les personnes de 10 ans et plus non alphabétisées ou hors du système éducatif accèderont à des prestations d'alphabétisation ou d'éducation non formelle de qualité.
 
 #### Effet 2 : Les enfants (filles et garçons) de 6 à 11 ans et les personnes de 10 ans et plus (y compris les femmes) non alphabétisées ou hors du système éducatif, accèdent respectivement à une  éducation  de  qualité  et  achèvent  le  cycle  primaire  et  accèdent  à  des  prestations d'alphabétisation ou d'éducation non formelle de qualité
 
@@ -925,7 +1055,7 @@ Ces  mesures  s'accompagneront  d'un  effort  de  rationalisation  dans  l'exéc
 ###### AS.2.1.2. Développer des offres alternatives d'éducation pour les enfants hors du système éducatif :
 La loi relative à la politique de scolarisation obligatoire et les engagements internationaux de la Côte d'Ivoire imposent la mise en place d'une politique d'amélioration de l'accès au primaire mais aussi le développement d'offres alternatives  d'éducation  et  de  formation  pour  les  enfants  non  scolarisés  ou déscolarisés, qui soient équitables et soutenables sur les plans technique et financier et  ce,  dans  un  objectif  de  leur  donner  la  possibilité  de  continuer  à  saisir  les opportunités  d'apprentissage  tout  au  long  de  leur  vie.  Des  offres  particulières viseront les enfants dont l'âge est compris entre 10 et 13 ans, d'une part, et d'autre part ceux dont l'âge est compris entre 14 et 16 ans et qui sont en dehors du système éducatif  du  fait  qu'ils  n'ont  jamais  accédé  à  l'école  ou  qu'ils  l'ont  quittée prématurément.
 
-Ainsi,  le  MEN  déploiera  des  actions  en  vue  de  (i)  l'analyse  de  la  situation  pour identifier les localités de mise en place des classes passerelles, en s'appuyant sur la situation des enfants en dehors de l'école et de la carte scolaire actualisée, (ii) la définition des critères d'accès aux classes passerelles qui seront utilisés par les IEPP qui mèneront le processus de bout en bout, (iii) la sélection des sites d'hébergement des  classes  passerelles  tenant  compte  des  contraintes  structurelles  du  système éducatif ivoirien (le manque d'infrastructures, les difficultés de supervision, etc.) et au  vu  de  la  demande  de  la  tranche  d'âge  ciblée,  (iv)  l'implantation  de  classes passerelles au sein des écoles primaires ou dans les sites où il existe des centres de formation  professionnelle,  pour  permettre  l'accueil  de  30.000  enfants  par  an  qui pourront  s'insérer  dans  le  primaire  après  une  année  d'éducation/formation  en s'appuyant  sur  les  acquis  de  projets  mis  en  œuvre  par  des  ONG  nationales  et internationales sur les classes passerelles après la crise socio-politique qu'a connu le pays, (v) du suivi, par les enseignants des classes passerelles et les directeurs d'école, des élèves des classes passerelles qui ont du mal à progresser en vue de trouver les moyens d'améliorer leurs performances à travers notamment l'organisation systématique de cours de remédiation, (vi) l'élaboration, au moment de l'analyse de situation et avant l'identification et l'implantation des classes passerelles, et la mise en œuvre d'un plan de communication pour une meilleure connaissance et adhésion des communautés à cette approche,  (vii) l'actualisation régulière des études relatives à la situation des enfants hors du système éducatif (spécifiquement  les filles, les enfants  vivant  avec  un  handicap,  les  OEV  etc.)  afin  de  proposer  des  solutions adéquates  pour  leur  insertion,  (viii)  la  mise  en  place  d'un  dispositif  de  suiviévaluation  rigoureux  pour  en  évaluer  l'efficacité  de  l'approche  et  apporter  les mesures correctives nécessaires.
+Ainsi, le MEN déploiera des actions en vue de (i) l'analyse de la situation pour identifier les localités de mise en place des classes passerelles, en s'appuyant sur la situation des enfants en dehors de l'école et de la carte scolaire actualisée, (ii) la définition des critères d'accès aux classes passerelles qui seront utilisés par les IEPP qui mèneront le processus de bout en bout, (iii) la sélection des sites d'hébergement des classes passerelles tenant compte des contraintes structurelles du système éducatif ivoirien (le manque d'infrastructures, les difficultés de supervision, etc.) et au vu de la demande de la tranche d'âge ciblée, (iv) l'implantation de classes passerelles au sein des écoles primaires ou dans les sites où il existe des centres de formation professionnelle, pour permettre l'accueil de 30.000 enfants par an qui pourront s'insérer dans le primaire après une année d'éducation/formation en s'appuyant sur les acquis de projets mis en œuvre par des ONG nationales et internationales sur les classes passerelles après la crise socio-politique qu'a connu le pays, (v) du suivi, par les enseignants des classes passerelles et les directeurs d'école, des élèves des classes passerelles qui ont du mal à progresser en vue de trouver les moyens d'améliorer leurs performances à travers notamment l'organisation systématique de cours de remédiation, (vi) l'élaboration, au moment de l'analyse de situation et avant l'identification et l'implantation des classes passerelles, et la mise en œuvre d'un plan de communication pour une meilleure connaissance et adhésion des communautés à cette approche, (vii) l'actualisation régulière des études relatives à la situation des enfants hors du système éducatif (spécifiquement les filles, les enfants vivant avec un handicap, les OEV etc.) afin de proposer des solutions adéquates pour leur insertion, (viii) la mise en place d'un dispositif de suivi-évaluation rigoureux pour en évaluer l'efficacité de l'approche et apporter les mesures correctives nécessaires.
 
 Concernant les plus âgés (14 - 16 ans), un apprentissage amélioré leur sera proposé à travers la formation professionnelle en conformité avec le dispositif prévu dans le cadre  de  la  scolarisation  obligatoire  par  ce  sous-secteur.  La  stratégie  préconisée consistera à (ix) initier les bénéficiaires à l'apprentissage d'un métier tout en (x)
 
@@ -982,7 +1112,7 @@ En référence aux  pratiques et projets en cours, il s'agira d'assurer (i) la p
 ###### AS.2.2.2. Renforcer la lutte contre les conflits et les violences en milieu scolaire :
 De nombreux textes règlementaires en matière de protection des enfants existent en Côte d'Ivoire. Toutefois, les violences subsistent en dépit de ces textes réglementaires et des campagnes de sensibilisation qui sont menées. Dans la plupart des cas, les victimes de violences et leurs bourreaux règlent le différend à l'amiable. D'autres fois, les victimes éprouvent des difficultés à dénoncer leurs bourreaux.
 
-Eu égard à cette situation, la présente stratégie envisage  de renforcer l'application des  textes  réglementaires  de  protection  des  enfants  en  milieu  scolaire  par  (i)  la poursuite  de  la  sensibilisation  de  la  communauté  éducative  sur  ce  dispositif  de protection des enfants, (ii) la production et la diffusion auprès de tous les acteurs du code  de  conduite  du  personnel  de  l'éducation  sur  la  protection  de  l'enfant,  (iii) l'acquisition et la distribution de kits récréatifs pour les écoles, (iv) le développement de  l'éducation  à  la  culture  de  la  paix  à  travers  notamment  la  création  et  la dynamisation des clubs messager de la paix, (v) l'actualisation de l'étude sur le bienêtre et la sécurité des élèves dans les écoles de Côte d'Ivoire, (vi) la formation des enseignants aux approches éducatives relatives à l'éducation à la culture de la paix et l'élaboration d'outils pédagogiques à l'usage des enseignants.
+Eu égard à cette situation, la présente stratégie envisage de renforcer l'application des textes réglementaires de protection des enfants en milieu scolaire par (i) la poursuite de la sensibilisation de la communauté éducative sur ce dispositif de protection des enfants, (ii) la production et la diffusion auprès de tous les acteurs du code de conduite du personnel de l'éducation sur la protection de l'enfant, (iii) l'acquisition et la distribution de kits récréatifs pour les écoles, (iv) le développement de l'éducation à la culture de la paix à travers notamment la création et la dynamisation des clubs messager de la paix, (v) l'actualisation de l'étude sur le bien-être et la sécurité des élèves dans les écoles de Côte d'Ivoire, (vi) la formation des enseignants aux approches éducatives relatives à l'éducation à la culture de la paix et l'élaboration d'outils pédagogiques à l'usage des enseignants.
 
 ###### AS.2.2.3. Mettre en œuvre des mesures d'incitation à la scolarisation :
 L'atteinte de l'objectif de scolarisation primaire universelle n'est pas seulement une question de disponibilité de l'offre, c'est aussi une question d'accessibilité financière pour les plus démunis. C'est pourquoi la stratégie comprend des mesures d'incitation à la demande à travers la réduction des coûts supportés par les familles.
@@ -1097,13 +1227,15 @@ La programmation stratégique du sous-secteur du  second  cycle du secondaire  r
 
 #### Effet 4 : Les élèves de 16 à 18 ans accèdent à une éducation secondaire générale de qualité
 
-Indicateurs clés : (i) Taux de transition 3ème /2nde générale, (ii) Taux d'achèvement du second cycle  général,  (iii)  Taux  transversal  de  survie  au  lycée  général  (taux  de  rétention),  (iv) Proportion de redoublant au lycée général, (v) Ratio élèves /groupe pédagogique, (vi) Taux d'utilisation des SDC (Nombre de GP/Nombre de salles de classe), (vii) Proportion d'élèves dans  les  séries  scientifiques  C,  (viii)  Indice  de  parité  selon  le  sexe  au  second  cycle  du secondaire 34 ,  (ix)  Proportion  des  élèves  du  secondaire    se  sentant  en  insécurité  en  milieu scolaire, (x) Proportion des élèves du secondaire victimes de violences physiques exercées par les  enseignants,  (xi)  Proportion  des  élèves  du  secondaire  victimes  de  violences  sexuelles exercées par les enseignants .
+Indicateurs clés : (i) Taux de transition 3ème /2nde générale, (ii) Taux d'achèvement du second cycle général, (iii) Taux transversal de survie au lycée général (taux de rétention), (iv) Proportion de redoublant au lycée général, (v) Ratio élèves /groupe pédagogique, (vi) Taux
 
 49
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
+
+d'utilisation des SDC (Nombre de GP/Nombre de salles de classe), (vii) Proportion d'élèves dans les séries scientifiques C, (viii) Indice de parité selon le sexe au second cycle du secondaire 34 , (ix) Proportion des élèves du secondaire se sentant en insécurité en milieu scolaire, (x) Proportion des élèves du secondaire victimes de violences physiques exercées par les enseignants, (xi) Proportion des élèves du secondaire victimes de violences sexuelles exercées par les enseignants .
 
 Deux produits contribueront à l'atteinte de ce résultat.
 
@@ -1241,6 +1373,74 @@ Comme pour  les  autres  ordres  d'enseignement,  il  s'agira  de  renforcer l'a
 
 Schéma illustrant les passerelles
 
+Marché du travail
+
+Enseignement Supérieur
+D
+M
+L3
+L2
+L1
+
+Ingénieur
+Ingénieur 3
+Ingénieur 2
+Ingénieur 1
+Prépa Tech 2
+Prépa Tech 1
+
+BTS
+BTS
+2A
+1A
+
+Secondaire Général 2
+B
+A
+1ère
+2nde
+
+Secondaire Technique 2
+B
+A
+1ère
+2nde
+
+Prépa BTS
+1A
+
+BT
+BT
+3A
+2A
+1A
+
+Prépa BT
+1A
+
+Secondaire Général 1
+BE
+PC
+4e
+5e
+6e
+
+CAP
+3A
+2A
+1A
+
+Prépa CAP
+2A
+1A
+
+Primaire
+CE
+PE
+CM2
+
+Marché du travail
+
 56
 
 [[END OF PAGE 56]]
@@ -1334,45 +1534,33 @@ En  parallèle  avec  la  diminution  globale  et  progressive  de  ces  transfe
 
 [[START OF PAGE 61]]
 
-Présentation
-
-schématique du système LMD
-
-Master 2 (R)
-
-60 crédits CECT
+Présentation schématique du système LMD
 
 Marché du Travail
 
+3eme Cycle
+
 Doctorat
+180 CECT
 
 180 CECT
 
-3 eme
-
-Cycle
-
-180 CECT
-
-Licence 1
-
+Master 2 (R)
 60 crédits CECT
 
-Licence 2
-
-60 crédits CECT
+1er Cycle
 
 Licence 3 (P)
-
 60 crédits CECT
 
 Licence 3 (R)
-
 60 crédits CECT
 
-1 er
+Licence 2
+60 crédits CECT
 
-Cycle
+Licence 1
+60 crédits CECT
 
 180 CECT
 
@@ -1484,7 +1672,7 @@ Les reformes à conduire dans ces sous-secteurs visent particulièrement à l'am
 
 L'objectif de cette approche de la qualité est de restaurer la qualité des enseignements dans les endroits où elle est la plus mauvaise, par une élimination progressive des points noirs du système éducatif, c'est à dire des écoles ou des établissements secondaires dont les  conditions  de  fonctionnement  sont  aujourd'hui  tellement  précaires  ou  difficiles qu'aucun effort général portant sur la pédagogie ou la formation des enseignants n'aurait d'effet positif sur les apprentissages des élèves. L'école ou l'établissement secondaire, est  la  cible  de  cette  stratégie,  qui  s'adresse  en  premier  lieu  à  ceux  qui  sont  les  plus éloignés de standards acceptables et qui s'attache à résoudre l'ensemble des problèmes (matériels, de personnel, d'organisation) qui empêchent l'enseignement de se dérouler correctement.
 
-(i) Le MEN édictera des normes sur (1) le nombre d'élèves par groupe pédagogique. Ces normes auront des valeurs différentes pour les zones urbaines et les zones rurales. Elles comprendront un nombre minimum d'élèves en dessous duquel l'établissement devra organiser des classes multigrades (dans le cycle primaire) et un nombre maximum audessus duquel le groupe pédagogique devra être dédoublé chaque fois que les salles physiques et l'affectation d'enseignants le permettent. Pour que ces normes puissent être respectées, la DSPS veillera à ce qu'elles soient déterminées en rapport avec les valeurs moyennes constatées par les statistiques scolaires sur l'ensemble du pays, et non en fonction de ce qui pourrait sembler plus souhaitable, (2) la répartition des élèves dans les  différents  groupes  pédagogiques.  Cette  norme  devra  imposer  aux  directeurs  de favoriser, chaque fois qu'il est possible, des effectifs limités dans les classes de début de cycle, (3) l'affectation des enseignants dans les classes.  Cette norme devra imposer aux directeurs d'école de ne pas confier les classes de CP à des enseignants sans expérience, (4) l'utilisation des locaux et leur optimisation, (5) les installations liées à l'hygiène, à l'assainissement et au point d'eau potable en tenant compte des besoins spécifiques des filles et des risques liés à leur exposition aux harcèlements sexuels et aux agressions physiques, (6) la construction de clôtures avec des matériaux locaux (ex. haies vives), (7)  le  niveau  d'entretien  des  locaux,  de  maintenance  des  équipements  mobiliers  et matériels et des installations sanitaires dont le soin revient aux établissements et aux COGES.
+(i) Le MEN édictera des normes sur (1) le nombre d'élèves par groupe pédagogique. Ces normes auront des valeurs différentes pour les zones urbaines et les zones rurales. Elles comprendront un nombre minimum d'élèves en dessous duquel l'établissement devra organiser des classes multigrades (dans le cycle primaire) et un nombre maximum au-dessus duquel le groupe pédagogique devra être dédoublé chaque fois que les salles physiques et l'affectation d'enseignants le permettent. Pour que ces normes puissent être respectées, la DSPS veillera à ce qu'elles soient déterminées en rapport avec les valeurs moyennes constatées par les statistiques scolaires sur l'ensemble du pays, et non en fonction de ce qui pourrait sembler plus souhaitable, (2) la répartition des élèves dans les  différents  groupes  pédagogiques.  Cette  norme  devra  imposer  aux  directeurs  de favoriser, chaque fois qu'il est possible, des effectifs limités dans les classes de début de cycle, (3) l'affectation des enseignants dans les classes.  Cette norme devra imposer aux directeurs d'école de ne pas confier les classes de CP à des enseignants sans expérience, (4) l'utilisation des locaux et leur optimisation, (5) les installations liées à l'hygiène, à l'assainissement et au point d'eau potable en tenant compte des besoins spécifiques des filles et des risques liés à leur exposition aux harcèlements sexuels et aux agressions physiques, (6) la construction de clôtures avec des matériaux locaux (ex. haies vives), (7)  le  niveau  d'entretien  des  locaux,  de  maintenance  des  équipements  mobiliers  et matériels et des installations sanitaires dont le soin revient aux établissements et aux COGES.
 
 (ii)  Sur  la  base  de  ces  normes,  les  directions  centrales  du  MEN  chargées  de  la planification et des enseignements établiront un nouveau modèle standardisé pour les rapports de rentrée, sous forme de formulaire à remplir. Dans ce nouveau standard, les besoins en salles, enseignants, mobiliers, matériels, manuels et installations sanitaires seront égaux à l'écart entre l'existant et la norme.
 
@@ -1570,7 +1758,7 @@ Pour garantir le succès de ces mesures d'amélioration de la qualité et de rat
 
 ###### AS.8.1.4. Mettre en œuvre des reformes spécifiques au sous-secteur de l'enseignement technique et de la formation professionnelle :
 
-L'axe gouvernance traite des réformes à faire pour avoir une organisation cohérente du sous-secteur  en  phase  avec  ses  nouvelles  missions,  avoir  une  meilleure  visibilité  du système d'ETFP en vue d'une utilisation optimale des ressources disponibles. Il s'agira d'adopter une gestion efficace et efficiente des structures de Formation. Pour ce faire, il est prévu : (i) la prise de textes qui impliquent plus fortement le secteur privé dans la formation, (ii) la prise de textes  qui confèrent aux établissements une autonomie de gestion  de  type  partenarial  leur  permettant  de  réaliser  des  activités    de  formation  production, (iii) la mise en place d'une organisation adéquate dotée d'un fonctionnement  souple  de  type  partenarial  comprenant  des  conseils  de  gestion  ou conseils d'administration au sein des structures de formation; (iv) la structuration des systèmes comptables et financiers (la reddition des comptes ) ; (v) la création d'une agence d'exécution de la formation professionnelle et technique qui  servira de structure d'interface (ou d'agence faitière) entre les établissements de formation de l'ETFP et les entreprises du secteur privé, les chambres consulaires, les organisations professionnelles et les milieux de production ; (vi) la création d'un Cadre national de certification et de qualification.
+L'axe gouvernance traite des réformes à faire pour avoir une organisation cohérente du sous-secteur  en  phase  avec  ses  nouvelles  missions,  avoir  une  meilleure  visibilité  du système d'ETFP en vue d'une utilisation optimale des ressources disponibles. Il s'agira d'adopter une gestion efficace et efficiente des structures de Formation. Pour ce faire, il est prévu : (i) la prise de textes qui impliquent plus fortement le secteur privé dans la formation, (ii) la prise de textes  qui confèrent aux établissements une autonomie de gestion  de  type  partenarial  leur  permettant  de  réaliser  des  activités    de  formation – production, (iii) la mise en place d'une organisation adéquate dotée d'un fonctionnement  souple  de  type  partenarial  comprenant  des  conseils  de  gestion  ou conseils d'administration au sein des structures de formation; (iv) la structuration des systèmes comptables et financiers (la reddition des comptes ) ; (v) la création d'une agence d'exécution de la formation professionnelle et technique qui  servira de structure d'interface (ou d'agence faitière) entre les établissements de formation de l'ETFP et les entreprises du secteur privé, les chambres consulaires, les organisations professionnelles et les milieux de production ; (vi) la création d'un Cadre national de certification et de qualification.
 
 En ce qui concerne le suivi et l'évaluation du système qui est un élément essentiel de la gouvernance, plusieurs stratégies seront développées : (i) la production de statistiques abondantes et désagrégées sur le système, (ii) la réforme de l'Inspection Générale de l'ETFP, (iii) la réforme de la gestion des projets et programmes et de la maintenance des équipements, (iv) la réforme des examens, des concours, de l'orientation et des bourses, (v) l'utilisation des TICE dans la formation technique et professionnelle.
 
@@ -1608,7 +1796,7 @@ La planification axée sur les résultats constitue une démarche essentielle po
 l'élaboration  du  projet  budget  de  l'année  (n),  et  (iii)  l'élaboration  du  Plan  d'Action Triennal de la période (n)-(n+2) , (iv) la formation de cadres nationaux en Gestion Axée sur les Résultats et en Gestion des Systèmes Éducatifs.
 
 ###### AS.8.2.2. Développer un système efficace et efficient de suivi et évaluation :
-Pour ce faire, la Task Force prendra des dispositions en vue (i) de l'organisation de réunions mensuelles  de  suivi, (ii) de l'organisation de  visites  programmatiques,  (iii)  de l'organisation de revues périodiques, (iv) de l'élaboration de rapports périodiques, (v) de la mise en place et le fonctionnement d'une base de données de suivi des résultats du plan décennal en ligne, (vi) du renforcement des capacités en Suivi & Évaluation, (vii) de la documentation des bonnes pratiques et leçons apprises, (viii) de l'élaboration et l'utilisation d'outils standardisés de collecte, (ix) de la réalisation des évaluations à miparcours et finale du Plan Sectoriel Éducation/Formation.
+Pour ce faire, la Task Force prendra des dispositions en vue (i) de l'organisation de réunions mensuelles  de  suivi, (ii) de l'organisation de  visites  programmatiques,  (iii)  de l'organisation de revues périodiques, (iv) de l'élaboration de rapports périodiques, (v) de la mise en place et le fonctionnement d'une base de données de suivi des résultats du plan décennal en ligne, (vi) du renforcement des capacités en Suivi & Évaluation, (vii) de la documentation des bonnes pratiques et leçons apprises, (viii) de l'élaboration et l'utilisation d'outils standardisés de collecte, (ix) de la réalisation des évaluations à mi-parcours et finale du Plan Sectoriel Éducation/Formation.
 
 # 4. COUT ET FINANCEMENT DE LA STRATEGIE SECTORIELLE
 
@@ -1788,26 +1976,26 @@ Une partie de ce besoin prévisionnel de financement pour la première phase de 
 
 Les financements en cours ou programmés des partenaires techniques et financiers pour la période (2017-2020) se présentent ainsi :
 
-En millions de FCFA | 2017 | 2018 | 2019 | 2020 | Total 2017-2020
---- | --- | --- | --- | --- | ---
-C2D 1 (suite) + C2D 2 | 17 014,54 | 60 834,76 | 75 265,57 | 37 290,08 | 190 404,95
-PME | 1 856,59 | 808,06 | 4 591,05 | 3 765,41 | 11 021,10
-UNICEF | 4 059,54 | 5 701,07 | 4 249,11 | 2 179,35 | 16 209,95
-UNESCO | 77, 190 | 46,11 | 123,30
-Trésor français | 3 490,34 | 3 490,34 | 6 980,68
-Rép. Chine | 13 493,51 | 13 493,51
-UE | 942,38 | 1 672,69 | 2 403,00 | 3 133,30 | 8 151,37
-BID | 2 949,00 | 9 168,02 | 14 942,04 | 16 556,04 | 43 615,09
-BADEA | 682,53 | 1 365,06 | 2 047,59 | 2 730,12 | 6 825,31
-Don japonais | 191,90 | 191,90
-FKD | 1 170,00 | 2 340,00 | 3 510,00 | 4 680,00 | 11 700,00
-Fondation Mohamed VI | 360,00 | 1 800,00 | 1 080,00 | 720,00 | 3 960,00
-FSD | 210,26 | 315,39 | 315,39 | 210,26 | 1 051,29
-MITRELLI | 5 220,0 | 10 440,0 | 10 440,0 | 26 100,0
-ONG Graines de paix | 80,00 | 80,00 | 80,00 | 240,00
-Financement acquis non programmé | TRECC | 7 000,00
-BM | 30 000,0
-Total financement extérieurs | 33 007,08 | 101 115,00 | 108 483,75 | 71 264,55 | 320 968,45
+| En millions de FCFA | 2017 | 2018 | 2019 | 2020 | Total 2017-2020
+--- | --- | --- | --- | --- | --- | ---
+Financement programmé | C2D 1 (suite) + C2D 2 | 17 014,54 | 60 834,76 | 75 265,57 | 37 290,08 | 190 404,95
+| PME | 1 856,59 | 808,06 | 4 591,05 | 3 765,41 | 11 021,10
+| UNICEF | 4 059,54 | 5 701,07 | 4 249,11 | 2 179,35 | 16 209,95
+| UNESCO | 77, 190 | 46,11 | | | 123,30
+| Trésor français | 3 490,34 | 3 490,34 | | | 6 980,68
+| Rép. Chine | | 13 493,51 | | | 13 493,51
+| UE | 942,38 | 1 672,69 | 2 403,00 | 3 133,30 | 8 151,37
+| BID | 2 949,00 | 9 168,02 | 14 942,04 | 16 556,04 | 43 615,09
+| BADEA | 682,53 | 1 365,06 | 2 047,59 | 2 730,12 | 6 825,31
+| Don japonais | 191,90 | | | | 191,90
+| FKD | 1 170,00 | 2 340,00 | 3 510,00 | 4 680,00 | 11 700,00
+| Fondation Mohamed VI | 360,00 | 1 800,00 | 1 080,00 | 720,00 | 3 960,00
+| FSD | 210,26 | 315,39 | 315,39 | 210,26 | 1 051,29
+| MITRELLI | | 5 220,0 | 10 440,0 | 10 440,0 | 26 100,0
+| ONG Graines de paix | 80,00 | 80,00 | 80,00 | | 240,00
+Financement acquis non programmé | TRECC | | | | | 7 000,00
+| BM | | | | | 30 000,0
+Total financement extérieurs | | 33 007,08 | 101 115,00 | 108 483,75 | 71 264,55 | 320 968,45
 
 Les financements extérieurs disponibles permettront de financer près de 90% des dépenses en capital de la première phase du PSE.
 
@@ -1817,7 +2005,7 @@ Les financements extérieurs disponibles permettront de financer près de 90% de
 
 [[START OF PAGE 78]]
 
-En millions de FCFA | 2017 | 2018 | 2019 | 2020 | Total 2017- 2020
+En millions de FCFA | 2017 | 2018 | 2019 | 2020 | Total 2017-2020
 --- | --- | --- | --- | --- | ---
 Total des ressources internes pour le secteur | 1 083 611,00 | 1 171 258,00 | 1 265 939,00 | 1 368 213,00 | 4 889 021,00
 Total des dépenses secteur | 1 170 382,00 | 1 277 582,00 | 1 364 146,00 | 1 434 367,00 | 5 246 477,00
@@ -1852,7 +2040,7 @@ Activités | Contraintes de capacités | Mesures permettant de surmonter les con
 Accès, préscolaire, recrutement d'éducateurs et ouverture de centres publics | Coordination opérationnelle avec le Ministère de la Femme, de la Protection de l'Enfant et de la Solidarité | Instauration de rencontres régulières d'harmonisation Coordination ; suivi et évaluation par le Comité DIJE | 2018-2025
 Accompagnement des initiatives communautaires en milieu rural pour la création de centres préscolaires communautaires | Capacités des IEPP à la mobilisation des communautés | Ces capacités sont déjà sollicitées dans l'approche communautaire des constructions scolaires, elles pourront s'appuyer sur un guide pratique dédié aux centres d'accueil préscolaire communautaires | 2018-2025
 Accès, primaire et secondaire, constructions scolaires | Développement de l'approche communautaire, préservation des acquis de capacités du PUAEB | Les capacités de construction sous cette approche ont été développées dans des structures de projet (PUAEB). La mutualisation des structures de gestion de projets entre les deux principaux PTF garantira la sauvegarde et le développement de ces capacités techniques | 2017-2025
-Simplification des procédures de marché classiques et raccourcissement des délais de paiement des décomptes | Le Trésor Public a réduit ses délais entre le mandatement et le paiement effectif à 90 jours maximum ; l'objectif qui lui est désormais assigné est de réduire ce délai à 30 jours. | 2018-2020
+| Simplification des procédures de marché classiques et raccourcissement des délais de paiement des décomptes | Le Trésor Public a réduit ses délais entre le mandatement et le paiement effectif à 90 jours maximum ; l'objectif qui lui est désormais assigné est de réduire ce délai à 30 jours. | 2018-2020
 
 79
 
@@ -1871,9 +2059,9 @@ Qualité, primaire et secondaire, approche par les normes | Capacités des direc
 
 [[START OF PAGE 81]]
 
-Qualité, primaire et secondaire, approche par l'amélioration de la gestion quotidienne des établissements | l'administration (IEPP, DREN) | - guides pratiques et instruction - lettres de missions ou feuilles de route pour le DREN et les IPEP sur la base de quelques indicateurs de processus et d'organisation des établissements - renforcements matériels des administrations déconcentrées (connexions, téléphonie, bureaux, moyens de mobilité) -renforcement des équipements didactiques : scientifiques et informatiques - mouvement en cours de déconcentration de l'Inspection Générale - Leadership des chefs d'établissement. - Responsabilisation des COGES -Alimentation scolaire : extension et amélioration -Santé scolaire : extension et amélioration des | 2019-2022
+Qualité, primaire et secondaire, approche par l'amélioration de la gestion quotidienne des établissements | l'administration (IEPP, DREN) | - guides pratiques et instruction - lettres de missions ou feuilles de route pour le DREN et les IPEP sur la base de quelques indicateurs de processus et d'organisation des établissements - renforcements matériels des administrations déconcentrées (connexions, téléphonie, bureaux, moyens de mobilité) -renforcement des équipements didactiques : scientifiques et informatiques - mouvement en cours de déconcentration de l'Inspection Générale - Leadership des chefs d'établissement. - Responsabilisation des COGES -Alimentation scolaire : extension et amélioration -Santé scolaire : extension et amélioration des centres de santé scolaire. | 2019-2022
 --- | --- | --- | ---
-Optimisation de l'emploi des salles de classe et des enseignants (secondaire) | 2022-2025
+Optimisation de l'emploi des salles de classe et des enseignants (secondaire) | | | 2022-2025
 Qualité, secondaire (lycée) : Subventions aux établissements privés, orientation | Capacités de négociation de l'administration centrale avec les opérateurs privés | Le passif de l'État vis à vis des établissements privés, créé entre 2007 et 2014, est maintenant comblé par l'État, | 2021-2023
 
 81
@@ -1882,14 +2070,14 @@ Qualité, secondaire (lycée) : Subventions aux établissements privés, orienta
 
 [[START OF PAGE 82]]
 
-vers des incitations à des efforts de qualité sur base négociée | suivant un échéancier courant jusqu'en 2019. Cet apurement met le MEN en position de pouvoir négocier avec les promoteurs privés pour des engagements pluriannuels basés sur la qualité et l'adaptation des filières.
+vers des incitations à des efforts de qualité sur base négociée | | suivant un échéancier courant jusqu'en 2019. Cet apurement met le MEN en position de pouvoir négocier avec les promoteurs privés pour des engagements pluriannuels basés sur la qualité et l'adaptation des filières. |
 --- | --- | --- | ---
 Gouvernance : Limitation des affectations fondées sur le traitement social des fonctionnaires en difficulté et des détachements | Capacités de négociation avec le ministère chargé de la Fonction Publique | La DMOSS a entrepris depuis 2011 un travail de diagnostic et d'orientation des agents malades, de façon à clarifier leur situation réglementaire et à les accompagner vers les statuts et les soins appropriés Décentralisation de l'administration scolaire : Académies et/ou rectorats | 2020-2025
 Gestion des carrières : organisation du concours des IA pour devenir IO et reclassement effectif | Capacités du MEN à se coordonner de façon opérationnelle avec le MFP et le MINEFI | Instauration de rencontres régulières d'harmonisation -Formation et association des syndicats d'enseignants aux opérations de gestion des ressources humaines | Déjà mise en œuvre
 
 Cet examen des contraintes de capacités appelle quelques commentaires.
 
-Le plan sectoriel fait le choix d'aborder les questions de qualité et d'optimisation de l'emploi des  ressources  par  les  mêmes  mécanismes  de  gestion  par  les  normes,  qui  reposent  sur  les capacités  des  directions  d'établissement  et  des  administrations  déconcentrées.  Ce  choix  a l'intérêt  d'éviter  de  solliciter  dans  le  même  temps  les  capacités  de  nombreuses  structures administratives :  les  efforts  de  renforcement  de  capacités  seront  ainsi  ciblés  sur  ces  deux maillons de l'administration scolaire, et non dispersés sur l'ensemble de ses structures ou de ses fonctions Les  administrations  déconcentrées  du  MEN,  DREN  et  IEPP,  existent  dans  la  réalité,  mais souffrent du caractère encore lacunaire de la définition de leurs missions réglementaires. Dans une première étape de mise en œuvre du plan sectoriel, le MEN veillera à clarifier cette question.
+Le plan sectoriel fait le choix d'aborder les questions de qualité et d'optimisation de l'emploi des ressources par les mêmes mécanismes de gestion par les normes, qui reposent sur les capacités des directions d'établissement et des administrations déconcentrées. Ce choix a l'intérêt d'éviter de solliciter dans le même temps les capacités de nombreuses structures administratives : les efforts de renforcement de capacités seront ainsi ciblés sur ces deux maillons de l'administration scolaire, et non dispersés sur l'ensemble de ses structures ou de ses fonctions
 
 82
 
@@ -1897,7 +2085,9 @@ Le plan sectoriel fait le choix d'aborder les questions de qualité et d'optimis
 
 [[START OF PAGE 83]]
 
-Les  relations  entre  les  IEPP,  les  DREN  et  les  collectivités  locales  ayant  des  attributions  en matière d'éducation et des délégations de crédit en conséquence souffrent d'un manque de cadre de  concertation  formel  qui  leur  permettrait  d'être  efficace.  Le  MEN,  en  relation  avec  le Ministère de l'Intérieur (en charge de la décentralisation), élaborera un tel cadre permanent de concertation locale.
+Les administrations déconcentrées du MEN, DREN et IEPP, existent dans la réalité, mais souffrent du caractère encore lacunaire de la définition de leurs missions réglementaires. Dans une première étape de mise en œuvre du plan sectoriel, le MEN veillera à clarifier cette question.
+
+Les relations entre les IEPP, les DREN et les collectivités locales ayant des attributions en matière d'éducation et des délégations de crédit en conséquence souffrent d'un manque de cadre de concertation formel qui leur permettrait d'être efficace. Le MEN, en relation avec le Ministère de l'Intérieur (en charge de la décentralisation), élaborera un tel cadre permanent de concertation locale.
 
 L'une des voies de clarification des rôles et de renforcement de capacités des administrations déconcentrées consistera à les doter de lettres de mission pluriannuelles (trois ans), relatives aux objectifs  du  PSE  qui  relèvent  de  leur  action  et  assorties  d'indicateurs  précis  de  résultats  à atteindre.  Les  indicateurs  porteront  sur  les  progrès  en  matière  d'atteinte  des  normes  (par exemple,  pourcentage  de  classes  de  début  de  cycle  dont  l'effectif  ne  dépasse  pas  la  borne maximale  de  la  norme,  indicateur  relatif  à  la  masse  des  sous-services  enseignants  dans  le secondaire, ratios d'utilisation des salles de classes dans les gros établissements du secondaire, etc.). La matrice d'indicateurs présentée plus bas indique quels indicateurs peuvent être retenus pour accompagner les lettres de mission des IEPP et des DREN.
 
@@ -1955,7 +2145,7 @@ Par ailleurs, les Ministères en charge de l'éducation vont étudier avec les s
 
 De même, de nouvelles modalités d'exécution des dépenses seront développées et expérimentées au cours de la première phase de mise en œuvre du plan sectoriel éducation/formation pour permettre la disponibilité à temps de petits budgets de fonctionnement dans les établissements scolaires. L'élaboration de plans de trésorerie sera systématisée pour les lignes  budgétaires  les  plus  importantes  (acquisition  de  manuels,  constructions  scolaires, fonctionnement des IEPP, DREN, établissements scolaires, inspections, examens et statistiques scolaires) pour permettre des paiements plus rapides.
 
-À l'issue de la première période de mise en œuvre du PSE, une évaluation sera menée pour statuer sur les capacités de l'administration à exécuter les financements extérieurs suivant les procédures budgétaires classiques et selon des approches novatrices .
+À l'issue de la première période de mise en œuvre du PSE, une évaluation sera menée pour statuer sur les capacités de l'administration à exécuter les financements extérieurs suivant les procédures budgétaires classiques et selon des approches novatrices.
 
 ### 6-1-2 Mise en œuvre, suivi et pilotage de la stratégie
 
@@ -1991,7 +2181,8 @@ Exécution financière (sur Budget de l'État) | Chaque direction avec l'appui d
 Exécution financière (sur projets) | Structures de projet ou PTF en cas d'exécution directe
 Pilotage de l'exécution financière et rapportage | Financements des projets : Rapport consolidé trimestriel : Task Force, sur la base des rapports des PTF en gestion directe, des structures des projets, des directions régionales et centrales et avec l'appui des DAF et des directions de planification
 Coordination, suivi et évaluation de la mise en œuvre du PSE | CICSEF sur la base de rapports soumis par la Task Force
-Dialogue politique et animation des revues sectorielles Suivi des recommandations des revues 41 | Cadre partenarial 42 Task Force
+Dialogue politique et animation des revues sectorielles | Cadre partenarial 42
+Suivi des recommandations des revues 41 | Task Force
 
 #### 6-1-2-1 Élaboration et approbation des plans d'action annuels
 
@@ -2071,145 +2262,15 @@ Pour des raisons de clarté, le cadre de résultat qui constitue une matrice uni
 
 ### Résultat Stratégique
 
+Théorie Générale du Changement : (i) Si les enfants accèdent à des services d'éducation préscolaire de qualité, (ii) si les enfants (filles et garçons) de 6 à 11 ans et les personnes de 10 ans et plus (y compris les femmes) non alphabétisées ou hors du système éducatif, accèdent respectivement à une éducation de qualité et achèvent le cycle primaire et accèdent à des prestations d'alphabétisation ou d'éducation non formelle de qualité, (iii) si les élèves de 12 à 15 ans accèdent à une éducation de qualité et achèvent le premier cycle du secondaire général, (iv) si les élèves de 16 à 18 ans accèdent à une éducation secondaire générale de qualité, (v) si les personnes de plus de 12 ans accèdent à un enseignement technique et une formation professionnelle de qualité, (vi) si les étudiants accèdent à un enseignement supérieur de qualité qui assure leur insertion professionnelle, (vii) si les résultats de la Recherche Scientifique et de l'Innovation Technologique sont valorisés et contribuent au développement social et économique de la Cote d'Ivoire, (viii) si le cadre institutionnel et organisationnel assure un système de gouvernance, de gestion, de planification et de suivi-évaluation qui soutient la qualité des services, l'efficacité interne et externe des interventions et l'efficience dans la gestion des ressources du secteur Education/Formation, alors la Côte d'Ivoire disposera de ressources humaines de qualité et productives.
+
 Indicateurs
+
+Résultat | Libellé | Niveau de base 2016 | Cible 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Résu ltat | Libellé | Niv eau de base | Cible 20 | 20 | 20
-201 6 | 20 17 | 20 18 | 20 19 | 20 20 | 21 | 22 | 20 23 | 24 | 20 25
 #### Résultat Stratégique Sectoriel : La Côte d'Ivoire dispose de ressources humaines de qualité et productives.
-RS1 | Proportion d'enfants de moins de 5 ans dont le développement est en bonne voie en matière de santé, d'apprentissage et de bien- être psychosocial (Score de l'indice de développement du jeune enfant) | 62 | 64 | 66 68 | 70 | 72 | 74 | 76 | 78 | 80
-RS2 | Taux d'alphabétisation | 45.0 0% | 47 % | 49 % | 51 % % | 53 | 55 % | 57 % | 59 % | 61 % | 65 %
-
-Théorie Générale du Changement : (i) Si les enfants accèdent à des services d'éducation préscolaire de qualité, (ii) si les enfants (filles et garçons) de 6 à 11 ans et les personnes de 10 ans et plus (y compris les femmes) non alphabétisées ou hors du système éducatif, accèdent respectivement à une éducation de qualité et achèvent le cycle primaire et accèdent à des prestations d'alphabétisation ou d'éducation non formelle de qualité, (iii) si les élèves de 12 à 15 ans accèdent à une éducation de qualité et achèvent le premier cycle du secondaire général, (iv) si les élèves de 16 à 18 ans accèdent à une éducation secondaire générale de qualité, (v) si les personnes de plus de 12 ans accèdent à un enseignement technique et une formation professionnelle de qualité, (vi) si les  étudiants accèdent à un enseignement supérieur de qualité qui assure leur insertion professionnelle, (vii) si les résultats de la Recherche Scientifique et de l'Innovation Technologique sont valorisés et contribuent au développement social et économique de la Cote d'Ivoire, (viii) si le cadre institutionnel et organisationnel assure un système de gouvernance, de gestion, de planification et de suivi-évaluation qui soutient la qualité des services, l'efficacité interne et externe des interventions et l'efficience dans la gestion des ressources du secteur Education/Formation, alors la Côte d'Ivoire disposera de ressources humaines de qualité et productives.
-
-Résu
-
-ltat
-
-Indicateurs
-
-Libellé
-
-Niv
-
-eau
-
-de
-
-base
-
-Cible
-
-201
-
-6
-
-20
-
-17
-
-20
-
-18
-
-20
-
-19
-
-20
-
-20
-
-20
-
-21
-
-20
-
-22
-
-20
-
-23
-
-20
-
-24
-
-20
-
-25
-
-Résultat Stratégique Sectoriel : La Côte d'Ivoire dispose de ressources humaines de qualité et productives.
-
-RS1
-
-Proportion d'enfants de moins de 5 ans dont le développement est en bonne voie en matière de santé, d'apprentissage et de bien-
-
-être psychosocial (Score de l'indice de développement du jeune enfant)
-
-62
-
-64
-
-66
-
-68
-
-70
-
-72
-
-74
-
-76
-
-78
-
-80
-
-RS2
-
-Taux d'alphabétisation
-
-45.0
-
-0%
-
-47
-
-%
-
-49
-
-%
-
-51
-
-%
-
-53
-
-%
-
-55
-
-%
-
-57
-
-%
-
-59
-
-%
-
-61
-
-%
-
-65
-
-%
+RS1 | Proportion d'enfants de moins de 5 ans dont le développement est en bonne voie en matière de santé, d'apprentissage et de bien-être psychosocial (Score de l'indice de développement du jeune enfant) | 62 | 64 | 66 | 68 | 70 | 72 | 74 | 76 | 78 | 80
+RS2 | Taux d'alphabétisation | 45.00% | 47% | 49% | 51% | 53% | 55% | 57% | 59% | 61% | 65%
 
 89
 
@@ -2219,19 +2280,35 @@ Taux d'alphabétisation
 
 ### Sous-secteur du Préscolaire
 
-Théorie du Changement : (i ) Si la mobilisation des ressources attendues dans le cadre du Plan Décennal est effective, (ii) si les communautés adhèrent à la politique de mise en place et de fonctionnement des centres communautaires préscolaires et si elles comprennent l'apport de la préscolarisation dans le développement du jeune enfant, (iii) si des mesures sont prises pour éviter les grèves des enseignants ou pour limiter leurs effets, (iv) si les enfants d'âge préscolaire disposent d'une offre adéquate en matière d'éducation et (v) si les enfants, et en particulier ceux à besoins spécifiques, bénéficient d'un environnement protecteur au niveau scolaire, familial et communautaire favorable à la demande de services d'éducation préscolaire, alors ceux-ci accèderont à des services d'éducation préscolaire de qualité et auront plus de chance de se maintenir dans le système éducatif jusqu'au moins à la fin du premier cycle secondaire, conformément à la politique de la scolarisation obligatoire.
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Eff ets / Pr od uit s | Ni ve au de ba se | Cible | Partenai res | Res sour ces (Mil lion s FCF
-20 16 | 20 17 | 20 18 | 20 19 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | A)
-#### d'âge préscolaire accèdent à des services d'éducation préscolaire de qualité | Effet 1: Les enfants | ▪
-E1 .1 E1 | Taux brut de préscolarisation | 8. 2 % | 10 .4 % | 12 .4 % | 14 .3 % | 16.07 % | 17.84 % | 19.61 % | 21.38 % | 23.15 % | 24.92 % | Risque : Grèves des enseignants Hypothèses : ▪ La mobilisation des ressources attendues est effective. ▪ Les communautés adhèrent à la politique de mise en place et de fonctionnement des centres communautaires ▪ Les communautés comprennent l'apport de la préscolarisation au développement du jeune enfant | ▪ Gouv erne men t
-.2 | Ratio élèves/encadreur qualifié | 2 5 | 24 | 24 | 23 | 23 | 22 | 22 | 21 | 21 | 20
-E1 .3 | Proportion de structures fournissant des services intégrés d'éducation préscolaires conformes aux normes nationales | 70 .2 0 % | 71 .2 % | 72 .2 % | 73 .1 % | 74.1% | 75.1% | 76.1% | 77.1% | 78.0% | 80% | ▪ ONG
-E1 .4 | Proportion d'enfants inscrits dans les centres communautaires | 1. 10 % | 2. 9 % | 4. 7 % | 6. 5 % | 8.3% | 10.1% | 11.8% | 13.6% | 15.4% | 19% | ▪ SNU ▪ Baille urs
-E1 .5 | Indice de parité entre les sexes dans le préscolaire | 1. 07 | 1. 06 2 | 1. 05 4 | 1. 04 7 | 1.039 | 1.031 | 1.023 | 1.016 | 1.008 | 1 | de Fon ds
+Théorie du Changement : (i) Si la mobilisation des ressources attendues dans le cadre du Plan Décennal est effective, (ii) si les communautés adhèrent à la politique de mise en place et de fonctionnement des centres communautaires préscolaires et si elles comprennent l'apport de la préscolarisation dans le développement du jeune enfant, (iii) si des mesures sont prises pour éviter les grèves des enseignants ou pour limiter leurs effets, (iv) si les enfants d'âge préscolaire disposent d'une offre adéquate en matière d'éducation et (v) si les enfants, et en particulier ceux à besoins spécifiques, bénéficient d'un environnement protecteur au niveau scolaire, familial et communautaire favorable à la demande de services d'éducation préscolaire, alors ceux-ci accèderont à des services d'éducation préscolaire de qualité et auront plus de chance de se maintenir dans le système éducatif jusqu'au moins à la fin du premier cycle secondaire, conformément à la politique de la scolarisation obligatoire.
+
+Effets/Produits | Indicateurs | Hypothèses/Risques | Partenaires | Ressources (Millions FCFA)
+Libellé | Niveau de base 2016 | Cible 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025
+
+#### Effet 1: Les enfants d'âge préscolaire accèdent à des services d'éducation préscolaire de qualité
+
+Risque : Grèves des enseignants
+
+Hypothèses :
+- La mobilisation des ressources attendues est effective.
+- Les communautés adhèrent à la politique de mise en place et de fonctionnement des centres communautaires
+- Les communautés comprennent l'apport de la préscolarisation au développement du jeune enfant
+
+Partenaires :
+- Gouvernement
+- ONG
+- SNU
+- Bailleurs de Fonds
+
+E1.1 | Taux brut de préscolarisation | 8.2% | 10.4% | 12.4% | 14.3% | 16.07% | 17.84% | 19.61% | 21.38% | 23.15% | 24.92%
+E1.2 | Ratio élèves/encadreur qualifié | 25 | 24 | 24 | 23 | 23 | 22 | 22 | 21 | 21 | 20
+E1.3 | Proportion de structures fournissant des services intégrés d'éducation préscolaires conformes aux normes nationales | 70.20% | 71.2% | 72.2% | 73.1% | 74.1% | 75.1% | 76.1% | 77.1% | 78.0% | 80%
+E1.4 | Proportion d'enfants inscrits dans les centres communautaires | 1.10% | 2.9% | 4.7% | 6.5% | 8.3% | 10.1% | 11.8% | 13.6% | 15.4% | 19%
+E1.5 | Indice de parité entre les sexes dans le préscolaire | 1.07 | 1.062 | 1.054 | 1.047 | 1.039 | 1.031 | 1.023 | 1.016 | 1.008 | 1
+
 ##### Produit 1.1 : Les enfants d'âge préscolaire disposent d'une offre adéquate en matière d'éducation
-P1 .1. 1 | Nombre de classes préscolaires fonctionnelles | 4, 65 7 | 4, 86 2 | 5, 06 9 | 5, 27 7 | 5,487 | 5,698 | 5,911 | 6,126 | 6,343 | 6,562 | P1 .1. formation
-Disponibilité du programme harmonisé de pour l'encadrement de la petite enfance des CAFOP et de l'INFS | N O N | N O N | N O N | O U I | OUI | OUI | OUI | OUI | OUI | OUI | 2
+P1.1.1 | Nombre de classes préscolaires fonctionnelles | 4,657 | 4,862 | 5,069 | 5,277 | 5,487 | 5,698 | 5,911 | 6,126 | 6,343 | 6,562
+P1.1.2 | Disponibilité du programme harmonisé de formation pour l'encadrement de la petite enfance des CAFOP et de l'INFS | NON | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI
 
 90
 
@@ -2239,12 +2316,11 @@ Disponibilité du programme harmonisé de pour l'encadrement de la petite enfanc
 
 [[START OF PAGE 91]]
 
-P1 .1. | Proportion d'enfants des centres communautaires bénéficiant de kits | 0 % | 0 % | 0 % | 20 % | 25% | 30% | 35% | 40% | 45% | 50% | 3 P1 .1.
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-4 | Nombre d'enseignants du préscolaire recrutés | N D | 37 5 | 35 8 | 34 1 | 324 | 306 | 289 | 272 | 255 | 237
+P1.1.3 | Proportion d'enfants des centres communautaires bénéficiant de kits | 0% | 0% | 0% | 20% | 25% | 30% | 35% | 40% | 45% | 50%
+P1.1.4 | Nombre d'enseignants du préscolaire recrutés | ND | 375 | 358 | 341 | 324 | 306 | 289 | 272 | 255 | 237
 ##### Produit 1.2 : Les enfants d'âge préscolaire disposent d'un environnement protecteur au niveau scolaire, familial et communautaire favorable à la demande de services d'éducation préscolaire
-P1 .2. 1 | Programme d'éducation parentale est élaboré et mis en œuvre | N O N | N O N | N O N | O U I | OUI | OUI | OUI | OUI | OUI | OUI
-P1 .2. 3 | Proportion d'écoles ayant les commodités requises (électricité, clôture, point d'eau lave-main et latrines séparées fonctionnelles) | 27 % | 32 % | 37 % | 42 % | 47% | 52% | 57% | 62% | 67% | 72%
+P1.2.1 | Programme d'éducation parentale est élaboré et mis en œuvre | NON | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI
+P1.2.3 | Proportion d'écoles ayant les commodités requises (électricité, clôture, point d'eau lave-main et latrines séparées fonctionnelles) | 27% | 32% | 37% | 42% | 47% | 52% | 57% | 62% | 67% | 72%
 
 91
 
@@ -2256,21 +2332,37 @@ P1 .2. 3 | Proportion d'écoles ayant les commodités requises (électricité, c
 
 Théorie du Changement : (i) Si la mobilisation des ressources attendues dans le cadre du plan décennal est effective, (ii) si les parents d'élèves adhèrent à la politique de l'école obligatoire et à la stratégie des classes passerelles, (iii) si des mesures sont prises pour éviter les grèves des enseignants et des animateurs d'alphabétisation ou pour limiter leurs effets, (iv) si les enfants en âge d'aller au primaire  disposent d'une offre adéquate en matière d'éducation et s'ils bénéficient d'un environnement scolaire, familiale et communautaire favorable à la demande de services d'éducation, (v) si les  politiques  de  protections  sociale  des  familles  démunies  accordent  une  priorité  à l'éducation, (vi) si des mesures sont prises pour l'abolition de tous les frais non légaux supportes par les familles pour l'éducation primaire de leurs enfants, (vii) si les mesures sont prises pour prévenir les risques de violences, conflits, et catastrophes naturelles affectant les élèves, (viii) si les personnes de 10 ans et plus non alphabétisées ou hors du système éducatif disposent d'une offre adéquate d'alphabétisation ou d'éducation non formelle, alors les enfants de 6 à 11 ans accèderont à une éducation de qualité et achèveront le cycle primaire, et les personnes de 10 ans et plus non alphabétisées ou hors du système éducatif accèderont à des prestations d'alphabétisation ou d'éducation non formelle de qualité.
 
-Indicateurs | Re sso
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Effets/ Produi | Libellé | Nivea u de base | Cible | Parten
-2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025
+Effets/Produits | Indicateurs | Hypothèses/Risques | Partenaires | Ressources (Millions FCFA)
+Libellé | Niveau de base 2016 | Cible 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025
+
 #### Effet 2 : Les enfants (filles et garçons) de 6 à 11 ans et les personnes de 10 ans et plus (y compris les femmes) non alphabétisées ou hors du système éducatif, accèdent respectivement à une éducation de qualité et achèvent le cycle primaire et accèdent à des prestations d'alphabétisation ou d'éducation non formelle de qualité
-| ▪ Risques : ✓ Grèves des enseignants ✓ Violences, conflits, et catastrophes naturelles ▪ Hypothèses : ✓ La mobilisation des ressources attendues est effective ✓ Les parents d'élèves adhèrent à la politique de l'école obligatoire ✓ Les politiques de protection sociale des familles démunies accordent une priorité à l'éducation Les élèves sont déclarés à l'état civil ✓ Des mesures sont prises pour l'abolition de tous les frais non légaux supportés par les familles pour l'éducation primaire de leurs enfants ✓ Les parents des enfants hors du système éducatif adhèrent à la stratégie des classes passerelles | ▪ Gou ver ne me nt
-E2.1 | Taux brut d'admission au CP1 | 113.34 % | 113% | 112% | 111% | 110% | 110% | 110% | 110% | 110% | 110%
-E2.2 | Taux net d'admission au CP1 | 69.80 % | 70% | 70% | 71% | 71% | 71% | 72% | 72% | 72% | 73%
+
+Risques :
+- Grèves des enseignants
+- Violences, conflits, et catastrophes naturelles
+
+Hypothèses :
+- La mobilisation des ressources attendues est effective
+- Les parents d'élèves adhèrent à la politique de l'école obligatoire
+- Les politiques de protection sociale des familles démunies accordent une priorité à l'éducation Les élèves sont déclarés à l'état civil
+- Des mesures sont prises pour l'abolition de tous les frais non légaux supportés par les familles pour l'éducation primaire de leurs enfants
+- Les parents des enfants hors du système éducatif adhèrent à la stratégie des classes passerelles
+
+Partenaires :
+- Gouvernement
+- ONG
+- SNU
+- Bailleurs de Fonds
+
+E2.1 | Taux brut d'admission au CP1 | 113.34% | 113% | 112% | 111% | 110% | 110% | 110% | 110% | 110% | 110%
+E2.2 | Taux net d'admission au CP1 | 69.80% | 70% | 70% | 71% | 71% | 71% | 72% | 72% | 72% | 73%
 E2.3 | Taux d'achèvement du primaire | 69.1% | 71% | 77% | 82% | 85% | 88% | 91% | 94% | 97% | 100%
-E2.4 | Taux brut de scolarisation | 101.3 % | 105.8 % | 114.6 % | 114.7 % | 114.8 % | 115.0 % | 115.1 % | 115.2 % | 117.0 % | 118.7 %
-E2.5 | Taux net de scolarisation | 87.80 % | 88.8 % | 89.8 % | 90.8 % | 91.8 % | 92.8 % | 93.8 % | 94.8 % | 95.8 % | 96.8 % | ▪ ON G
-E2.6 | Ratio élèves/maître (REM) | 43.6 | 43.3 | 42.7 | 42.2 | 41.7 | 41.2 | 40.9 | 40.6 | 40.3 | 40.0 | ▪ SN U
-E2.7 | Score global sur 100 des élèves du cours élémentaire en mathématiques et en français | 35.6 | 35.6 | 40 | 40 | 50 | 50 | 55 | 55 | 60 | 60 | ▪ Bail leu
-E.2.8 | Nombre d'enfants de 10 à 13 ans hors du système éducatif inscrits dans les classes passerelles | 0 | 8722 | 3000 0 | 3000 0 | 3000 0 | 3000 0 | 3000 0 | 3000 0 | 3000 0 | 30000 | rs de Fo
-E2.9 | Proportion des enfants issus des classes passerelles intégrés dans le système éducatif formel | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | nd s ▪
+E2.4 | Taux brut de scolarisation | 101.3% | 105.8% | 114.6% | 114.7% | 114.8% | 115.0% | 115.1% | 115.2% | 117.0% | 118.7%
+E2.5 | Taux net de scolarisation | 87.80% | 88.8% | 89.8% | 90.8% | 91.8% | 92.8% | 93.8% | 94.8% | 95.8% | 96.8%
+E2.6 | Ratio élèves/maître (REM) | 43.6 | 43.3 | 42.7 | 42.2 | 41.7 | 41.2 | 40.9 | 40.6 | 40.3 | 40.0
+E2.7 | Score global sur 100 des élèves du cours élémentaire en mathématiques et en français | 35.6 | 35.6 | 40 | 40 | 50 | 50 | 55 | 55 | 60 | 60
+E.2.8 | Nombre d'enfants de 10 à 13 ans hors du système éducatif inscrits dans les classes passerelles | 0 | 8722 | 30000 | 30000 | 30000 | 30000 | 30000 | 30000 | 30000 | 30000
+E2.9 | Proportion des enfants issus des classes passerelles intégrés dans le système éducatif formel | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
 
 92
 
@@ -2279,24 +2371,23 @@ E2.9 | Proportion des enfants issus des classes passerelles intégrés dans le s
 [[START OF PAGE 93]]
 
 E2.10 | Proportion d'élèves inscrits dans les écoles communautaires | 2.3% | 1.8% | 1.4% | 1.2% | 1.0% | 0.9% | 0.7% | 0.5% | 0.3% | 0.2%
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 E2.11 | Nombre d'heures moyen de cours perdus du fait des grèves | 43 | 40 | 37 | 34 | 31 | 28 | 25 | 22 | 19 | 16
-Proportion des élèves sans extrait de naissance | 29.6% | 28.6 % | 27.6 % | 26.6 % | 25.6 % | 24.6 % | 23.6 % | 22.6 % | 21.6 % | 20.0 % | E2.12
+E2.12 | Proportion des élèves sans extrait de naissance | 29.6% | 28.6% | 27.6% | 26.6% | 25.6% | 24.6% | 23.6% | 22.6% | 21.6% | 20.0%
 E2.13 | Proportion des élèves du primaire se sentant en insécurité en milieu scolaire | 9.5% | 9.1% | 8.6% | 8.2% | 7.7% | 7.3% | 6.8% | 6.4% | 5.9% | 5.0%
-E2.14 | Proportion des élèves du primaire victimes de violences physiques exercées par les enseignants | 63.0% | 57.2 % | 51.4 % | 45.6 % | 39.8 % | 34.0 % | 28.2 % | 22.4 % | 16.6 % | 5.0%
-E2.15 | Proportion des élèves du primaire victimes de violences sexuelles exercées les enseignants | 2.8% | 2.5% | 2.2% | 2.0% | 1.7% | 1.4% | 1.1% | 0.8% | 0.6% | 0.0% | par
+E2.14 | Proportion des élèves du primaire victimes de violences physiques exercées par les enseignants | 63.0% | 57.2% | 51.4% | 45.6% | 39.8% | 34.0% | 28.2% | 22.4% | 16.6% | 5.0%
+E2.15 | Proportion des élèves du primaire victimes de violences sexuelles exercées par les enseignants | 2.8% | 2.5% | 2.2% | 2.0% | 1.7% | 1.4% | 1.1% | 0.8% | 0.6% | 0.0%
 E2.16 | Indice de parité entre les sexes au primaire | 0.95 | 0.956 | 0.961 | 0.967 | 0.972 | 0.978 | 0.983 | 0.989 | 0.994 | 1
 ##### Produit 2.1 : Les enfants en âge d'aller au primaire disposent d'une offre adéquate en matière d'éducation
-P2.1.1 | Nombre de salles de classe fonctionnelles | 68,660 | 72,03 4 | 75,40 8 | 78,78 2 | 79,93 8 | 81,29 7 | 82,60 7 | 83,86 8 | 85,08 0 | 86,26 8
+P2.1.1 | Nombre de salles de classe fonctionnelles | 68,660 | 72,034 | 75,408 | 78,782 | 79,938 | 81,297 | 82,607 | 83,868 | 85,080 | 86,268
 P2.1.2 | Proportion de salles de classe fonctionnelles | 65% | 68% | 71% | 74% | 77% | 80% | 83% | 86% | 89% | 95%
 P2.1.3 | Nombre d'enseignants recrutés | 6,000 | 7,116 | 6,102 | 5,569 | 5,693 | 5,760 | 6,507 | 6,602 | 6,778 | 6,880
 P2.1.4 | Ratio livre de Français/élève | 0.9 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 P2.1.5 | Ratio livre de Mathématiques/élève | 0.9 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 P2.1.6 | Nombre d'écoles islamiques intégrées dans le système formel | 427 | 427 | 477 | 477 | 527 | 527 | 577 | 577 | 627 | 627
-##### Produit 2.2 : Les enfants en âge d'aller au primaire disposent d'un environnement scolaire, familial et communautaire favorable à la de services d'éducation. | demande
+##### Produit 2.2 : Les enfants en âge d'aller au primaire disposent d'un environnement scolaire, familial et communautaire favorable à la demande de services d'éducation.
 P2.2.1 | Proportion d'écoles disposant d'une cantine fonctionnelle | 41% | 44% | 47% | 50% | 53% | 56% | 59% | 62% | 65% | 68%
-P2.2.2 | Proportion d'écoles ayant les commodités requises (électricité, clôture, point d'eau, lave-main et latrines séparées fonctionnelles) | 15% | 20% | 25% | 30% | 35% | 40% | 45% | 55% | 60%
-P2.2.3 | Proportion d'écoles disposant d'une salle multimédia | 0.95% | 1.4% | 1.8% | 2.2% | 2.6% | 3.0% | 3.4% | 50% 3.8% | 4.2% | 5%
+P2.2.2 | Proportion d'écoles ayant les commodités requises (électricité, clôture, point d'eau, lave-main et latrines séparées fonctionnelles) | 15% | 20% | 25% | 30% | 35% | 40% | 45% | 50% | 55% | 60%
+P2.2.3 | Proportion d'écoles disposant d'une salle multimédia | 0.95% | 1.4% | 1.8% | 2.2% | 2.6% | 3.0% | 3.4% | 3.8% | 4.2% | 5%
 P2.2.4 | Proportion d'écoles disposant de mécanisme de résolution des conflits | 3% | 4% | 5% | 7% | 8% | 9% | 10% | 11% | 13% | 15%
 P2.2.5 | Proportion d'élèves du public bénéficiant d'un kit scolaire | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
 P2.2.6 | Proportion d'écoles disposant de cellule d'alerte précoce | 2% | 2% | 3% | 4% | 5% | 31% | 37% | 43% | 48% | 60%
@@ -2323,26 +2414,40 @@ P2.3.4 | Nombre de classes passerelles ouvertes | 335 | 335 | 1000 | 1000 | 1000
 
 ### Sous-secteur du Secondaire 1
 
-Effets/ Produit s | Indicateurs
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Libellé | Niv eau de bas e 201 | Cible
-201 7 | 201 201 9 | 202 0 | 202 1 | 202 2 | 202 3 | 202 5
-6 8 4
+Théorie du Changement : (i) Si la mobilisation des ressources attendues dans le cadre du plan décennal est effective, (ii) si les parents d'élèves adhèrent à la politique de l'école obligatoire, (iii) si les élèves du premier cycle du secondaire disposent d'une offre d'éducation adéquate, (iv) s'ils bénéficient d'un environnement scolaire, familial et communautaire favorable à la demande de services d'éducation, alors les élèves de 12 à 15 ans accèderont à une éducation de qualité et achèveront le cycle 1 du secondaire.
+
+Effets/Produits | Indicateurs | Hypothèses/Risques | Partenaires | Ressources (Millions FCFA)
+Libellé | Niveau de base 2016 | Cible 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025
+
 #### Effet 3 : Les élèves de 12 à 15 ans accèdent à une éducation de qualité et achèvent le cycle 1 du secondaire
-E3.1 | Taux de transition CM2-6ème | 83 % | 84 % | 85 % 86 % | 86 % | 87 % | 88 % | 89 % | 89 % | 90 % 72
-E3.2 | Taux d'achèvement du premier cycle secondaire | 41. 5% | 45 % | 48 % 51 % | 54 % | 58 % | 61 % | 65 % | 68 % %
-E3.3 | Proportion de redoublants au premier cycle du secondaire | 13 % | 13 % | 13 % 12 % | 11 % | 11 % | 10 % | 8% | 6% 4%
-E3.4 | Taux brut de scolarisation au premier cycle du secondaire | 58 % | 61 % | 64 % 66 % | 69 % | 72 % | 75 % | 79 % | 82 % 85 %
-E3.5 | Taux transversal de survie au collège (taux de rétention) | 67 % | 68 % | 70 % | 72 % 74 % | 75 % | 76 % | 77 % | 79 % 80 %
-E3.6 | Ratio élèves /groupe pédagogique | 70 | 67 | 66 64 | 62 | 60 | 58 | 56 | 54 50
-E3.7 | Taux d'utilisation des SDC (Nombre de GP/salle de classe) | 1.2 | 1.4 | 1.5 1.5 | 1.5 | 1.5 | 1.5 | 1.5 | 1.5 1.5
-E3.8 | Proportion des élèves du secondaire se sentant en insécurité en milieu scolaire | 21. 0% | 20. 5% | 20. 19. 5% | 19. 0% | 18. 5% | 18. 0% | 17. 5% | 17. 0% 15. 0% 5.0
-E3.9 | Proportion des élèves du secondaire victimes de violences physiques exercées par les enseignants | 26. 0% | 20. 2% | 0% 14. 4% 8.6 | % 5.0 % | 5.0 % | 5.0 % | 5.0 % | 5.0 % %
-E3.10 | Proportion des élèves du secondaire victimes de violences sexuelles exercées par les enseignants | 15. 9% | 14. 0% | 13. 7% 12. 0% | 11. 7% | 11. 4% | 11. 2% | 10. 9% | 10. 6% 5.0 %
-E3.11 | Indice de parité entre les sexes au premier cycle du secondaire | 0.7 8 | 0.8 0 | 0.8 3 0.8 | 5 0.8 8 | 0.9 0 | 0.9 3 | 0.9 5 | 0.9 8 1
+
+Risque : Grèves des enseignants et des élèves
+
+Hypothèses :
+- Les parents d'élèves adhèrent à la politique de l'école obligatoire
+- Les élèves se sentent en sécurité dans les collèges
+- La mobilisation des ressources attendues est effective.
+
+Partenaires :
+- Gouvernement
+- ONG
+- SNU
+- Bailleurs de Fonds
+
+E3.1 | Taux de transition CM2-6ème | 83% | 84% | 85% | 86% | 86% | 87% | 88% | 89% | 89% | 90%
+E3.2 | Taux d'achèvement du premier cycle secondaire | 41.5% | 45% | 48% | 51% | 54% | 58% | 61% | 65% | 68% | 72%
+E3.3 | Proportion de redoublants au premier cycle du secondaire | 13% | 13% | 13% | 12% | 11% | 11% | 10% | 8% | 6% | 4%
+E3.4 | Taux brut de scolarisation au premier cycle du secondaire | 58% | 61% | 64% | 66% | 69% | 72% | 75% | 79% | 82% | 85%
+E3.5 | Taux transversal de survie au collège (taux de rétention) | 67% | 68% | 70% | 72% | 74% | 75% | 76% | 77% | 79% | 80%
+E3.6 | Ratio élèves /groupe pédagogique | 70 | 67 | 66 | 64 | 62 | 60 | 58 | 56 | 54 | 50
+E3.7 | Taux d'utilisation des SDC (Nombre de GP/salle de classe) | 1.2 | 1.4 | 1.5 | 1.5 | 1.5 | 1.5 | 1.5 | 1.5 | 1.5 | 1.5
+E3.8 | Proportion des élèves du secondaire se sentant en insécurité en milieu scolaire | 21.0% | 20.5% | 20.0% | 19.5% | 19.0% | 18.5% | 18.0% | 17.5% | 17.0% | 15.0%
+E3.9 | Proportion des élèves du secondaire victimes de violences physiques exercées par les enseignants | 26.0% | 20.2% | 14.4% | 8.6% | 5.0% | 5.0% | 5.0% | 5.0% | 5.0% | 5.0%
+E3.10 | Proportion des élèves du secondaire victimes de violences sexuelles exercées par les enseignants | 15.9% | 14.0% | 13.7% | 12.0% | 11.7% | 11.4% | 11.2% | 10.9% | 10.6% | 5.0%
+E3.11 | Indice de parité entre les sexes au premier cycle du secondaire | 0.78 | 0.80 | 0.83 | 0.85 | 0.88 | 0.90 | 0.93 | 0.95 | 0.98 | 1
 ##### Produit 3.1 : Les élèves du premier cycle du secondaire disposent d'une offre d'éducation adéquate
-P3.1.1 | Diffusion de programmes éducatifs intégrant le socle commun de connaissances, de compétences et de culture | NO N | NO N | NO N OU | I OU I | OU I | OU I | OU I | OU I | OU I
-P3.1.2 | Nombre d'heures de service effectif hebdomadaire moyen des enseignants de collège | 15. 6 | 16. 1 | 16. 6 17. 1 | 17. 6 | 18. 1 | 18. 5 | 19. 0 | 19. 5 20. 0
+P3.1.1 | Diffusion de programmes éducatifs intégrant le socle commun de connaissances, de compétences et de culture | NON | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI
+P3.1.2 | Nombre d'heures de service effectif hebdomadaire moyen des enseignants de collège | 15.6 | 16.1 | 16.6 | 17.1 | 17.6 | 18.1 | 18.5 | 19.0 | 19.5 | 20.0
 
 95
 
@@ -2350,16 +2455,15 @@ P3.1.2 | Nombre d'heures de service effectif hebdomadaire moyen des enseignants 
 
 [[START OF PAGE 96]]
 
-P3.1.3 | Nombre de salles de classe fonctionnelles | 6,8 69 | 7,4 49 | 8,0 30 | 8,6 10 | 9,1 90 | 9,7 70 | 10, 351 | 10, 931 | 11, 511 | 12, 091
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-P3.1.4 | Proportion de salles de classe fonctionnelles | 81 % | 82 % | 84 % | 85 % | 87 % | 88 % | 89 % | 91 % | 92 % | 95 %
-P3.1.5 | Proportion d'élèves affectés en 6ème dans les collèges privés | 43 % | 43 % | 43 % | 42 % | 42 % | 42 % | 42 % | 41 % | 41 % | 40 %
+P3.1.3 | Nombre de salles de classe fonctionnelles | 6,869 | 7,449 | 8,030 | 8,610 | 9,190 | 9,770 | 10,351 | 10,931 | 11,511 | 12,091
+P3.1.4 | Proportion de salles de classe fonctionnelles | 81% | 82% | 84% | 85% | 87% | 88% | 89% | 91% | 92% | 95%
+P3.1.5 | Proportion d'élèves affectés en 6ème dans les collèges privés | 43% | 43% | 43% | 42% | 42% | 42% | 42% | 41% | 41% | 40%
 P3.1.6 | Nombre de professeurs de collèges recrutés | 750 | 750 | 750 | 750 | 750 | 750 | 750 | 750 | 750 | 750
 ##### Produit 3.2 : Les élèves du premier cycle du secondaire bénéficient d'un environnement scolaire, familial et communautaire favorable à la demande de services d'éducation.
-P3.2.1 | Proportion de collèges en zones rurales disposant de cantine | 0.0 2% | 1% | 2% | 3% | 4% | 5% | 6% | 7% | 8% | 10 %
-P3.2.2 | Proportion de collèges ayant les commodités requises (électricité, point d'eau, clôture, latrines fonctionnelles) | 43. 4% | 43. 4% | 44. 4% | 44. 4% | 45. 4% | 45. 4% | 46. 4% | 46. 4% | 47. 4% | 47. 4%
-P3.2.3 | Proportion de collèges publics disposant d'une salle multimédia | 28 % | 29 % | 30 % | 31 % | 32 % | 33 % | 34 % | 35 % | 36 % | 37 %
-P3.2.4 | Proportion de collèges disposant de mécanismes de résolution des conflits | 14 % | 16 % | 18 % | 19 % | 21 % | 22 % | 24 % | 25 % | 27 % | 30 %
+P3.2.1 | Proportion de collèges en zones rurales disposant de cantine | 0.02% | 1% | 2% | 3% | 4% | 5% | 6% | 7% | 8% | 10%
+P3.2.2 | Proportion de collèges ayant les commodités requises (électricité, point d'eau, clôture, latrines fonctionnelles) | 43.4% | 43.4% | 44.4% | 44.4% | 45.4% | 45.4% | 46.4% | 46.4% | 47.4% | 47.4%
+P3.2.3 | Proportion de collèges publics disposant d'une salle multimédia | 28% | 29% | 30% | 31% | 32% | 33% | 34% | 35% | 36% | 37%
+P3.2.4 | Proportion de collèges disposant de mécanismes de résolution des conflits | 14% | 16% | 18% | 19% | 21% | 22% | 24% | 25% | 27% | 30%
 
 96
 
@@ -2369,26 +2473,41 @@ P3.2.4 | Proportion de collèges disposant de mécanismes de résolution des con
 
 ### Sous-secteur du Secondaire 2
 
-Théorie induits de limiter communautaire Effets/ | favorable à la demande de services d'éducation, alors les élèves de 16 à 18 Indicateurs | Produit s | qualité. Partenaires
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Libellé | Niv eau de base | Cible
-201 7 | 201 8 | 201 9 | 202 0 | 202 1 | 202 2 | 202 3 | 202 4 | 202 5
-#### : Les élèves de 16 à 18 ans accèdent à une éducation secondaire générale de qualité | Effet 4
-E4.1 | Taux de transition 3ème /2nde générale | 47.9 9% | 45. 7% | 43. 4% | 41. 1% | 38. 8% | 36. 5% | 34. 2% | 31. 9% | 29. 6% | 25.0 0% | ▪ Gouverne ment ▪ ONG
-E4.2 | Taux d'achèvement du second cycle général | 22.1 0% | 22. 9% | 23. 7% | 24. 5% | 25. 3% | 26. 1% | 26. 8% | 27. 6% | 28. 4% | 30.0 0%
-E4.3 | Taux transversal de survie au lycée général (taux de rétention) | 91 % | 91 % | 92 % | 92 % | 93 % | 93 % | 93 % | 94 % | 94 % | 95.0 0%
-E4.4 | Proportion de redoublant au lycée général | 39 % | 37 % | 34 % | 32 % | 29 % | 27 % | 25 % | 22 % | 20 % | 15.0 0%
-E4.5 | Ratio élèves /groupe pédagogique | 50 | 49. 5 | 49 | 48. 5 | 48 | 47. 5 | 47 | 46. 5 | 46 | 45
-E4.6 | Taux d'utilisation des SDC (Nombre de GP/salle de classe) | 1.1 | 1.1 9 | 1.2 8 | 1.3 7 | 1.4 6 | 1.5 5 | 1.6 4 | 1.7 3 | 1.8 2 | 2
-E4.7 | Proportion d'élèves dans les séries scientifiques C | 19.6 0% | 20. 6% | 21. 7% | 22. 7% | 23. 8% | 24. 8% | 25. 8% | 26. 9% | 27. 9% | 30.0 0%
-E4.8 | Proportion des élèves du secondaire se sentant en insécurité en milieu scolaire | 21.0 % | 20. 5% | 20. 0% | 19. 5% | 19. 0% | 18. 5% | 18. 0% | 17. 5% | 17. 0% | 15.0 %
-E4.9 | Proportion des élèves du secondaire victimes de violences physiques exercées par les enseignants | 26.0 % | 20. 2% | 14. 4% | 8.6 % | 5.0 % | 5.0 % | 5.0 % | 5.0 % | 5.0 % | 5.0 %
-E4.10 | Proportion des élèves du secondaire victimes de violences sexuelles exercées par les enseignants | 15.9 % | 14. 0% | 13. 7% | 12. 0% | 11. 7% | 11. 4% | 11. 2% | 10. 9% | 10. 6% | 5.0 % | des
-E4.11 | Indice de parité entre les sexes au second cycle du secondaire | 0.71 | 0.7 4 | 0.7 7 | 0.8 1 | 0.8 4 | 0.8 7 | 0.9 0 | 0.9 4 | 0.9 7 | 1 | la
+Théorie du Changement : (i) Si la mobilisation des ressources attendues dans le cadre du plan décennal est effective, (ii) si les parents sont davantage conscients des effets induits de l'éducation sur le développement personnel, communautaire et national, (iii) si des mesures sont prises pour éviter les grèves des enseignants et des élèves ou pour limiter leurs effets, (iv) si les élèves du secondaire second cycle disposent d'une offre d'éducation adéquate et bénéficient d'un environnement scolaire, familial et communautaire favorable à la demande de services d'éducation, alors les élèves de 16 à 18 ans accèderont à une éducation secondaire générale de qualité.
+
+Effets/Produits | Indicateurs | Hypothèses/Risques | Partenaires | Ressources (Millions FCFA)
+Libellé | Niveau de base 2016 | Cible 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025
+
+#### Effet 4 : Les élèves de 16 à 18 ans accèdent à une éducation secondaire générale de qualité
+
+Risque : Grèves des enseignants et des élèves
+
+Hypothèses :
+- Les parents d'élèves adhèrent à la politique de l'école obligatoire
+- Les élèves se sentent en sécurité dans les lycées
+- La mobilisation des ressources attendues est effective.
+
+Partenaires :
+- Gouvernement
+- ONG
+- SNU
+- Bailleurs de Fonds
+
+E4.1 | Taux de transition 3ème /2nde générale | 47.99% | 45.7% | 43.4% | 41.1% | 38.8% | 36.5% | 34.2% | 31.9% | 29.6% | 25.00%
+E4.2 | Taux d'achèvement du second cycle général | 22.10% | 22.9% | 23.7% | 24.5% | 25.3% | 26.1% | 26.8% | 27.6% | 28.4% | 30.00%
+E4.3 | Taux transversal de survie au lycée général (taux de rétention) | 91% | 91% | 92% | 92% | 93% | 93% | 93% | 94% | 94% | 95.00%
+E4.4 | Proportion de redoublant au lycée général | 39% | 37% | 34% | 32% | 29% | 27% | 25% | 22% | 20% | 15.00%
+E4.5 | Ratio élèves /groupe pédagogique | 50 | 49.5 | 49 | 48.5 | 48 | 47.5 | 47 | 46.5 | 46 | 45
+E4.6 | Taux d'utilisation des SDC (Nombre de GP/salle de classe) | 1.1 | 1.19 | 1.28 | 1.37 | 1.46 | 1.55 | 1.64 | 1.73 | 1.82 | 2
+E4.7 | Proportion d'élèves dans les séries scientifiques C | 19.60% | 20.6% | 21.7% | 22.7% | 23.8% | 24.8% | 25.8% | 26.9% | 27.9% | 30.00%
+E4.8 | Proportion des élèves du secondaire se sentant en insécurité en milieu scolaire | 21.0% | 20.5% | 20.0% | 19.5% | 19.0% | 18.5% | 18.0% | 17.5% | 17.0% | 15.0%
+E4.9 | Proportion des élèves du secondaire victimes de violences physiques exercées par les enseignants | 26.0% | 20.2% | 14.4% | 8.6% | 5.0% | 5.0% | 5.0% | 5.0% | 5.0% | 5.0%
+E4.10 | Proportion des élèves du secondaire victimes de violences sexuelles exercées par les enseignants | 15.9% | 14.0% | 13.7% | 12.0% | 11.7% | 11.4% | 11.2% | 10.9% | 10.6% | 5.0%
+E4.11 | Indice de parité entre les sexes au second cycle du secondaire | 0.71 | 0.74 | 0.77 | 0.81 | 0.84 | 0.87 | 0.90 | 0.94 | 0.97 | 1
 ##### Produit 4.1 : Les élèves du second cycle du secondaire général disposent d'une offre d'éducation adéquate
-P4.1.1 | Part des dépenses de fonctionnement consacrée aux intrants pédagogiques | 6% | 6.3 % | 6.6 % | 6.9 % | 7.2 % | 7.5 % | 7.8 % | 8.1 % | 8.4 % | 9% | dans ▪ SNU
-P4.1.2 | Nombre de salles de classe fonctionnelles au lycée général | 303 3 | 309 8 | 316 3 | 322 8 | 329 3 | 335 8 | 342 3 | 348 8 | 355 3 | 361 8 | ressources ▪ Bailleurs de Fonds
-P4.1.3 | Proportion de salles de classe fonctionnelles au lycée général | 81.3 % | 83 % | 84 % | 85 % | 87 % | 88 % | 90 % | 91 % | 92 % | 95 % | ▪
+P4.1.1 | Part des dépenses de fonctionnement consacrée aux intrants pédagogiques | 6% | 6.3% | 6.6% | 6.9% | 7.2% | 7.5% | 7.8% | 8.1% | 8.4% | 9%
+P4.1.2 | Nombre de salles de classe fonctionnelles au lycée général | 3033 | 3098 | 3163 | 3228 | 3293 | 3358 | 3423 | 3488 | 3553 | 3618
+P4.1.3 | Proportion de salles de classe fonctionnelles au lycée général | 81.3% | 83% | 84% | 85% | 87% | 88% | 90% | 91% | 92% | 95%
 
 97
 
@@ -2396,16 +2515,15 @@ P4.1.3 | Proportion de salles de classe fonctionnelles au lycée général | 81.
 
 [[START OF PAGE 98]]
 
-P4.1.4 | Nombre d'heures de service effectif hebdomadaire moyen des professeurs de lycée en responsabilité de classe | 13 | 13. 3 | 13. 6 | 13. 9 | 14. 2 | 14. 5 | 14. 8 | 15. 1 | 15. 4 | 16
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-P4.1.5 | Nombre de professeurs de lycée tenant des classes dans le premier cycle | 273 0 264 6 | 256 2 | 247 8 | 239 4 | 231 0 | 222 6 | 214 2 | 205 8 | 189 0
+P4.1.4 | Nombre d'heures de service effectif hebdomadaire moyen des professeurs de lycée en responsabilité de classe | 13 | 13.3 | 13.6 | 13.9 | 14.2 | 14.5 | 14.8 | 15.1 | 15.4 | 16
+P4.1.5 | Nombre de professeurs de lycée tenant des classes dans le premier cycle | 2730 | 2646 | 2562 | 2478 | 2394 | 2310 | 2226 | 2142 | 2058 | 1890
 P4.1.6 | Nombre de professeurs de collège tenant des classes dans le second cycle | 174 | 169 | 163 | 158 | 153 | 148 | 142 | 137 | 132 | 121
 P4.1.7 | Nombre de professeurs de lycée recrutés | 0 | 187 | 187 | 187 | 187 | 187 | 187 | 187 | 187 | 187
-##### Produit 4.2 : Les élèves du secondaire second cycle bénéficient d'un environnement scolaire, familial et communautaire favorable à la services d'éducation. | demande de
-P4.2.1 | Proportion de lycées de jeunes filles disposant d'internat fonctionnel | 62.5 % | 64 % | 66 % | 68 % | 70 % | 71 % | 73 % | 75 % | 77 % | 80 %
-P4.2.2 | Proportion de lycées ayant les commodités requises (électricité, point d'eau, clôture, latrines fonctionnelles) | 49.2 % | 51 % | 53 % | 55 % | 58 % | 60 % | 62 % | 64 % | 66 % | 70 %
-P4.2.3 | Proportion de lycées publics disposant d'une salle multimédia | 26.2 % | 29 % | 31 % | 33 % | 36 % | 38 % | 40 % | 43 % | 45 % | 50 %
-P4.2.4 | Proportion de lycées disposant de mécanisme de résolution des conflits | 14 % | 16 % | 18 % | 19 % | 21 % | 22 % | 24 % | 25 % | 27 % | 30 %
+##### Produit 4.2 : Les élèves du secondaire second cycle bénéficient d'un environnement scolaire, familial et communautaire favorable à la demande de services d'éducation.
+P4.2.1 | Proportion de lycées de jeunes filles disposant d'internat fonctionnel | 62.5% | 64% | 66% | 68% | 70% | 71% | 73% | 75% | 77% | 80%
+P4.2.2 | Proportion de lycées ayant les commodités requises (électricité, point d'eau, clôture, latrines fonctionnelles) | 49.2% | 51% | 53% | 55% | 58% | 60% | 62% | 64% | 66% | 70%
+P4.2.3 | Proportion de lycées publics disposant d'une salle multimédia | 26.2% | 29% | 31% | 33% | 36% | 38% | 40% | 43% | 45% | 50%
+P4.2.4 | Proportion de lycées disposant de mécanisme de résolution des conflits | 14% | 16% | 18% | 19% | 21% | 22% | 24% | 25% | 27% | 30%
 
 98
 
@@ -2415,345 +2533,33 @@ P4.2.4 | Proportion de lycées disposant de mécanisme de résolution des confli
 
 ### Sous-secteur de l'Enseignement Technique et de la Formation Professionnelle
 
-Théorie du Changement : (i) Si la mobilisation des ressources attendues dans le cadre du Plan Décennal  est effective, (ii) si les personnes de plus de 12 ans disposent d'une offre de formation adéquate en matière  d'enseignement technique et de  formation professionnelle, (iii) si les mesures adéquates sont prises en faveur de l'insertion professionnelle des formés de l'ETFP, (iv) si des mesures sont prises pour éviter les grèves des enseignants et des élèves ou pour limiter leurs effets, alors les personnes de plus de 12 ans accèderont à un enseignement technique et une formation professionnelle de qualité.
+Théorie du Changement : (i) Si la mobilisation des ressources attendues dans le cadre du Plan Décennal est effective, (ii) si les personnes de plus de 12 ans disposent d'une offre de formation adéquate en matière d'enseignement technique et de formation professionnelle, (iii) si les mesures adéquates sont prises en faveur de l'insertion professionnelle des formés de l'ETFP, (iv) si des mesures sont prises pour éviter les grèves des enseignants et des élèves ou pour limiter leurs effets, alors les personnes de plus de 12 ans accèderont à un enseignement technique et une formation professionnelle de qualité.
 
-Effets/Produits
+Effets/Produits | Indicateurs | Risques/Hypothèses | Partenaires | Ressources (Millions FCFA)
+Libellé | Niveau de base 2016 | Cible 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025
 
-Indicateurs
+#### Effet 5 : Les personnes de plus de 12 ans accèdent à un enseignement technique et une formation professionnelle de qualité.
 
-Risques/Hypothèses
-
-Partenaires
-
-Ressources
-
-(Millions
-
-FCFA)
-
-Libellé
-
-Niveau
-
-de base
-
-Cible
-
-2016
-
-2017
-
-2018
-
-2019
-
-2020
-
-2021
-
-2022
-
-2023
-
-2024
-
-2025
-
-#### Effet  5  :
-
-Les
-
-personnes
-
-de
-
-plus de  12 ans
-
-accèdent
-
-à
-
-un
-
-enseignement
-
-technique
-
-et
-
-une
-
-formation
-
-professionnelle
-
-de qualité.
-
-E
-
-5.1 :
-
-Nombre
-
-d'apprenants  pour  100 000
-
-habitants
-
-438
-
-499
-
-557
-
-613
-
-668
-
-702
-
-735
-
-767
-
-798
-
-828
-
-Risque :
-
-Grèves
-
-des
-
-enseignants
-
-et
-
-des élèves
+Risque : Grèves des enseignants et des élèves
 
 Hypothèses :
-
 - Les parents d'élèves adhèrent à la politique de l'école obligatoire
-
 - La mobilisation des ressources attendues est effective.
 
+Partenaires :
 - Gouvernement
-
 - ONG
-
 - SNU
-
 - Bailleurs de Fonds
 
-▪
-
-E  5.2 :
-
-Taux  de  transition
-
-du premier cycle secondaire
-
-général à l'ET
-
-10%
-
-10%
-
-10%
-
-9%
-
-9%
-
-9%
-
-9%
-
-8%
-
-8%
-
-8%
-
-E 5.3 :
-
-Ratio  apprenants /
-
-encadreur
-
-138
-
-145
-
-152
-
-159
-
-165
-
-172
-
-179
-
-186
-
-193
-
-200
-
-E 5.4 :
-
-Ratio
-
-apprenants/Enseignants en
-
-responsabilité de classe
-
-11
-
-12
-
-14
-
-15
-
-17
-
-18
-
-20
-
-21
-
-23
-
-24
-
-E 5.5 :
-
-Nombre d'heures de
-
-cours
-
-perdu
-
-du
-
-fait
-
-des
-
-grèves
-
-3,332
-
-2916
-
-2499
-
-2083
-
-1666
-
-1499
-
-1333
-
-1166
-
-1000
-
-833
-
-E 5.6 :
-
-Taux d'insertion des
-
-formés
-
-61.54%
-
-(2013)
-
-62%
-
-63%
-
-64%
-
-66%
-
-66%
-
-67%
-
-68%
-
-69%
-
-70%
-
-E 5.7 :
-
-Proportion de filles
-
-dans
-
-les
-
-filières
-
-industrielles
-
-18%
-
-21%
-
-24%
-
-27%
-
-30%
-
-32%
-
-35%
-
-37%
-
-39%
-
-42%
-
-E  5.8 :
-
-Part  du  budget  de
-
-l'ETFP  dans  le  budget  du
-
-secteur
-
-Éducation/Formation
-
-4%
-
-4%
-
-4%
-
-4%
-
-5%
-
-5%
-
-6%
-
-6%
-
-7%
-
-7%
+E 5.1 : Nombre d'apprenants pour 100 000 habitants | 438 | 499 | 557 | 613 | 668 | 702 | 735 | 767 | 798 | 828
+E 5.2 : Taux de transition du premier cycle secondaire général à l'ET | 10% | 10% | 10% | 9% | 9% | 9% | 9% | 8% | 8% | 8%
+E 5.3 : Ratio apprenants / encadreur | 138 | 145 | 152 | 159 | 165 | 172 | 179 | 186 | 193 | 200
+E 5.4 : Ratio apprenants/Enseignants en responsabilité de classe | 11 | 12 | 14 | 15 | 17 | 18 | 20 | 21 | 23 | 24
+E 5.5 : Nombre d'heures de cours perdu du fait des grèves | 3,332 | 2916 | 2499 | 2083 | 1666 | 1499 | 1333 | 1166 | 1000 | 833
+E 5.6 : Taux d'insertion des formés | 61.54% (2013) | 62% | 63% | 64% | 66% | 66% | 67% | 68% | 69% | 70%
+E 5.7 : Proportion de filles dans les filières industrielles | 18% | 21% | 24% | 27% | 30% | 32% | 35% | 37% | 39% | 42%
+E 5.8 : Part du budget de l'ETFP dans le budget du secteur Éducation/Formation | 4% | 4% | 4% | 4% | 5% | 5% | 6% | 6% | 7% | 7%
 
 99
 
@@ -2762,18 +2568,17 @@ secteur
 [[START OF PAGE 100]]
 
 E 5.9 : Taux de survie | Ens. Technique | 56% | 57% | 58% | 59% | 60% | 61% | 62% | 63% | 64% | 65%
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-E 5.10 : Taux de | Ens. Technique | 49% | 50% | 51% | 52% | 54% | 55% | 56% | 57% | 58% | 60%
-réussite aux examens de l'ETFP | F. Professionnelle 74% | 75% | 75% | 76% | 77% | 78% | 79% | 80% | 81% | 82%
+E 5.10 : Taux de réussite aux examens de l'ETFP | Ens. Technique | 49% | 50% | 51% | 52% | 54% | 55% | 56% | 57% | 58% | 60%
+| F. Professionnelle | 74% | 75% | 75% | 76% | 77% | 78% | 79% | 80% | 81% | 82%
 E 5.11 : Taux d'absorption du budget d'investissement | 3% | 5% | 10% | 20% | 30% | 35% | 40% | 45% | 50% | 60%
 ##### Produit 5.1 : Les personnes de plus de 12 ans disposent d'une offre adéquate en matière d'enseignement technique et de formation professionnelle
-| P 5.1.1 : Proportion des enseignants ayant bénéficiés d'une mise en immersion | 1.40% | 3% | 4% | 6% | 7% | 8% | 10% | 11% | 13% | 15%
+P 5.1.1 : Proportion des enseignants ayant bénéficiés d'une mise en immersion | 1.40% | 3% | 4% | 6% | 7% | 8% | 10% | 11% | 13% | 15%
 P 5.1.2 : Proportion de filières dont le curricula a été révisé en réponse aux besoins de l'économie | 21% | 26% | 31% | 37% | 42% | 52% | 63% | 68% | 73% | 100%
 P 5.1.3 : Proportion d'établissements privés offrant des formations industrielles | 32% | 34% | 36% | 39% | 41% | 43% | 45% | 48% | 50% | 52%
 P 5.1.4 : Proportion du personnel des établissements privés ayant bénéficié d'une formation pédagogique | 9.60% | 12.20% | 14.80% | 17.40% | 20% | 31.00% | 42.00% | 53.00% | 64.00% | 75%
 P5.1.5 : Nombre d'apprenants en formation par alternance | 455 | 655 | 944 | 1360 | 1960 | 2823 | 4068 | 5860 | 8442 | 12162
 ##### Produit 5.2 : Les établissements disposent d'un environnement favorable à l'apprentissage
-| P5.2.1 : Proportion d'établissements publics disposant d'un internat fonctionnel | 19% | 22% | 25% | 29% | 34% | 39% | 45% | 52% | 61% | 70%
+P5.2.1 : Proportion d'établissements publics disposant d'un internat fonctionnel | 19% | 22% | 25% | 29% | 34% | 39% | 45% | 52% | 61% | 70%
 
 100
 
@@ -2783,250 +2588,285 @@ P5.1.5 : Nombre d'apprenants en formation par alternance | 455 | 655 | 944 | 136
 
 ### Sous-secteur de l'Enseignement Supérieur
 
-Théorie du Changement : (i) Si la mobilisation des ressources attendues dans le cadre du plan décennal est effective, adéquate et diversifiée prenant en compte les évolutions scientifiques et technologiques, (iii) si les étudiants bénéficient supérieur, (iv) si des mesures sont prises pour éviter les grèves des enseignants ou limiter leurs effets d'une part, et renforcer part, (v) si les programmes d'enseignement et les orientations scolaires des étudiants s'adaptent aux besoins de développement accèderont à un enseignement supérieur de qualité qui assure leur insertion professionnelle. Indicateurs | Effets/Produits
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Libellé | Niveau de base | Partenaires
-2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025
+Théorie du Changement : (i) Si la mobilisation des ressources attendues dans le cadre du plan décennal est effective, (ii) si les étudiants disposent d'une offre de formation adéquate et diversifiée prenant en compte les évolutions scientifiques et technologiques, (iii) si les étudiants bénéficient d'appui pour la demande de services d'enseignement supérieur, (iv) si des mesures sont prises pour éviter les grèves des enseignants ou limiter leurs effets d'une part, et renforcer l'esprit civique et moral des étudiants d'autre part, (v) si les programmes d'enseignement et les orientations scolaires des étudiants s'adaptent aux besoins de développement économique et social du pays, alors les étudiants accèderont à un enseignement supérieur de qualité qui assure leur insertion professionnelle.
+
+Effets/Produits | Indicateurs — Libellé | Niveau de base 2016 | Cible 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | Hypothèses/Risques | Partenaires | Ressources (Millions FCFA)
+
 #### EFFET 6: Les étudiants accèdent à un enseignement supérieur de qualité qui assure leur insertion professionnelle
-| E6.1 Nombre d'étudiants pour 100 000 habitants. | 851 | 831 | 811 | 791 | 771 | 771 | 771 | 771 | 771 | 771 | enseignants et des étudiants Hypothèses : La mobilisation des ressources attendues est effective L ' esprit civique et moral des é tudiants est renforc é | Gouvernement ONG SNU Bailleurs de Fonds
+E6.1 Nombre d'étudiants pour 100 000 habitants. | 851 | 831 | 811 | 791 | 771 | 771 | 771 | 771 | 771 | 771
 E6.2 Proportion d'étudiants inscrits dans les filières scientifiques. | 36,6% | 39,57% | 42,78% | 46,25% | 50% | 52,69% | 55,53% | 58,52% | 61,68 | 65%
 E6.3 Proportion de filles parmi les étudiants des filières scientifiques. | 25,62% | 27,6% | 29,72% | 32,02% | 34,49% | 37,15% | 40,01% | 43,09% | 46,41% | 50%
+
+Risque : Grèves des enseignants et des étudiants
+Hypothèses :
+La mobilisation des ressources attendues est effective
+L'esprit civique et moral des étudiants est renforcé
+Partenaires : Gouvernement ; ONG ; SNU ; Bailleurs de Fonds
+
 ##### Produit 6.1 Les étudiants disposent d'une offre de formation adéquate
-| P6.1.1 Proportion de régions disposant d'au moins un établissement d'enseignement supérieur. | 16.13% | 19.35% | 19.35% | 19.35% | 25.81% | 25.81% | 25.81% | 25.81% | 25.81% | 45.16%
+P6.1.1 Proportion de régions disposant d'au moins un établissement d'enseignement supérieur. | 16.13% | 19.35% | 19.35% | 19.35% | 25.81% | 25.81% | 25.81% | 25.81% | 25.81% | 45.16%
 P6.1.2 Nombre de salles de TD fonctionnelles. | 351 | 351 | 361 | 361 | 381 | 381 | 381 | 401 | 401 | 401
 P6.1.3 Nombre d'amphithéâtres fonctionnels. | 82 | 82 | 85 | 85 | 91 | 91 | 91 | 97 | 97 | 97
 
 101
-
 [[END OF PAGE 101]]
 
 [[START OF PAGE 102]]
 
-P6.1.4 Nombre d'enseignants- chercheurs recrutés. | 335 | 370 | 410 | 450 | 490 | 500 | 500 | 500 | 500 | 500
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-P6.1.5 Proportion d'enseignants- chercheurs des filières scientifiques parmi les recrutés. | 38 % | 50% | 50% | 50% | 50% | 50% | 50% | 50% | 50% | 50%
+P6.1.4 Nombre d'enseignants-chercheurs recrutés. | 335 | 370 | 410 | 450 | 490 | 500 | 500 | 500 | 500 | 500
+P6.1.5 Proportion d'enseignants-chercheurs des filières scientifiques parmi les recrutés. | 38 % | 50% | 50% | 50% | 50% | 50% | 50% | 50% | 50% | 50%
+
 ##### Produit 6.2 Les étudiants bénéficient d'appui pour la demande de services d'enseignement supérieur.
-| P6.2.1 Nombre d'étudiants ayant obtenu une bourse ou un secours financier. | 17223 | 19000 | 19000 | 19000 | 19000 | 20000 | 20000 | 20000 | 20000 | 20000
+P6.2.1 Nombre d'étudiants ayant obtenu une bourse ou un secours financier. | 17223 | 19000 | 19000 | 19000 | 19000 | 20000 | 20000 | 20000 | 20000 | 20000
 P6.2.2 Nombre de lits disponibles dans les résidences universitaires. | 8111 | 8611 | 9000 | 13000 | 17000 | 17000 | 17000 | 20000 | 20000 | 20000
 P6.2.3 Nombre moyen annuel de repas servis par étudiant des universités publiques par les restaurants universitaires publics. | 56 | 77 | 99 | 120 | 142 | 163 | 184 | 206 | 227 | 270
 
 102
-
 [[END OF PAGE 102]]
 
 [[START OF PAGE 103]]
 
 ### Sous-secteur de la Recherche Scientifique
 
-Théorie du Changement : (i) Si la mobilisation des ressources attendues dans le cadre du Plan décennal est effective, (ii) si les structures techniques en matière d'offres de recherche, (iii) si des mesures sont prises pour éviter les grèves des enseignants-chercheurs, (iv) si les résultats de recherche scientifique bénéficient ressources financières adéquates et développent des partenariats avec le secteur privé, alors les Technologique seront valorisés et contribueront au développement social et économique de la Côte d'Ivoire. Indicateurs | Cible | Partenaires
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Effets/Produits | Libellé | Niveau de base | Ressources (Millions FCFA)
-2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025
-#### Effet 7 : Les résultats de la recherche et de l'innovation technologique sont valorisés et contribuent au développement social et économique de
-| E.7.1 Part des dépenses liées à la recherche dans le | 0,35 % (En 2015) | 0,50 % | 0,65 % | 0,75 % | 1,00 % | 1,05 % | 1,05 % | 1,05 % | 1,05 % | 1,05 % | Risque : Grèves des enseignants- chercheurs Hypothèses : Les résultats de la recherche sont vulgarisés La mobilisation des ressources attendues est effective. | Gouvernement ONG SNU Bailleurs de Fonds
+Théorie du Changement : (i) Si la mobilisation des ressources attendues dans le cadre du Plan décennal est effective, (ii) si les structures de Recherche Scientifique disposent de capacités techniques en matière d'offres de recherche, (iii) si des mesures sont prises pour éviter les grèves des enseignants-chercheurs, (iv) si les résultats des recherches sont vulgarisés, (v) si les structures de recherche scientifique bénéficient ressources financières adéquates et développent des partenariats avec le secteur privé, alors les résultats de la Recherche Scientifique et de l'Innovation Technologique seront valorisés et contribueront au développement social et économique de la Côte d'Ivoire.
+
+Effets/Produits | Indicateurs — Libellé | Niveau de base 2016 | Cible 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | Hypothèses/Risques | Partenaires | Ressources (Millions FCFA)
+
+#### Effet 7 : Les résultats de la recherche et de l'innovation technologique sont valorisés et contribuent au développement social et économique de la Cote d'Ivoire.
+E.7.1 Part des dépenses liées à la recherche dans le | 0,35 % (En 2015) | 0,50 % | 0,65 % | 0,75 % | 1,00 % | 1,05 % | 1,05 % | 1,05 % | 1,05 % | 1,05 %
+
+Risque : Grèves des enseignants-chercheurs
+Hypothèses :
+Les résultats de la recherche sont vulgarisés
+La mobilisation des ressources attendues est effective.
+Partenaires : Gouvernement ; ONG ; SNU ; Bailleurs de Fonds
+
 ##### Produit 7.1 : Les structures de recherche scientifique disposent de capacités techniques en matière d'offres de recherche
-| P7.1.1 Nombre d'écoles doctorales fonctionnelles. | 1 | 1 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2
+P7.1.1 Nombre d'écoles doctorales fonctionnelles. | 1 | 1 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2
 P7.1.2 Nombre d'unités de recherche industrielle fonctionnelle. | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 P7.1.3 Proportion de programmes nationaux de recherche mis en œuvre. | 0% | 25% | 50% | 75% | 100% | 100% | 100% | 100% | 100% | 100%
 
 103
-
 [[END OF PAGE 103]]
 
 [[START OF PAGE 104]]
 
-P7.1.4 Proportion de contrats de performance liant l'État aux structures de recherche mis en œuvre . | 0% | 0% | 25% | 50% | 75% | 100% | 100% | 100% | 100% | 100%
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+P7.1.4 Proportion de contrats de performance liant l'État aux structures de recherche mis en œuvre. | 0% | 0% | 25% | 50% | 75% | 100% | 100% | 100% | 100% | 100%
 P7.1.5 Nombre d'unités de Production Agropastorale fonctionnelles | 0 | 1 | 1 | 1 | 2 | 2 | 2 | 2 | 2 | 2
 P7.1.6 Politique d'assurance qualité des institutions de recherche scientifique élaboré et mise en œuvre | Non | Non | Oui | Oui | Oui | Oui | Oui | Oui | Oui | Oui
+
 ##### Produit 7.2 : Les structures de recherche scientifique bénéficient ressources financières adéquates et développent des partenariats avec le secteur privé.
-| P7.2.1 Fond d'Appui à la Recherche et à l'Innovation fonctionnel. | NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI | OUI | OUI
+P7.2.1 Fond d'Appui à la Recherche et à l'Innovation fonctionnel. | NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI | OUI | OUI
 P7.2.2 Part du budget du ministère en charge de l'enseignement supérieur consacrée à la recherche scientifique. | 2.60% (2014) | 2.61% | 2.62% | 2.63% | 2.64% | 2.65% | 2.66% | 2.67% | 2.68% | 2.70%
 
 104
-
 [[END OF PAGE 104]]
 
 [[START OF PAGE 105]]
 
-### Cadre Institutionnel et Organisationnel, Syst è me de Planification et de SuiviÉ valuation
+### Cadre Institutionnel et Organisationnel, Système de Planification et de Suivi-Évaluation
 
-Effets/Produits | Indicateurs
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Libellé | Niveau de base 2016 | Cible
-2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025
-#### Effet 8 : la qualité interne
-| E8.1. Loi de 1995 relative à l'enseignement est révisée. | NON | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI OUI OUI OUI 100% | Le de planification suivi-évaluation soutient des services, l'efficacité et externe interventions l'efficience gestion ressources. assurent
-cadre institutionnel et organisationnel assure un système gouvernance, de gestion, de et de | E8.2. Commission nationale interministérielle d'orientation et de gestion des flux fonctionnelle | NON | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI
-qui | E8.3. Cellule intersectorielle d'alphabétisation fonctionnelle | NON | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI
-des et dans la des | E8.4. Loi portant orientation et programmation de la recherche adoptée et mise en œuvre. | NON | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI
-E8.5. Proportion cibles d'indicateurs prioritaires du Plan Décennal atteintes | 0% | 70% | 75% | 85% | 95% | 100% | 100% | 100% | 100%
-##### Produit 8.1 : Les réformes qui la
-| P8.1.1 . Stratégie nationale de développement du | NON | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI
+Théorie du Changement : (i) Si la mobilisation des ressources attendues dans le cadre du plan décennal est effective, (ii) si les reformes qui assurent la gouvernance et la gestion adéquate du secteur éducation-formation sont mises en œuvre, (iii) si le système de planification et de suivi-évaluation assure un pilotage efficace et efficient de la mise en œuvre du plan décennal, alors le cadre institutionnel et organisationnel assurera un système de gouvernance, de gestion, de planification et de suivi-évaluation qui soutiendra la qualité et l'efficacité interne et externe du secteur de l'éducation et de la formation.
+
+Effets/Produits | Indicateurs — Libellé | Niveau de base 2016 | Cible 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | Hypothèses/Risques | Partenaires | Ressources (Millions FCFA)
+
+#### Effet 8 : Le cadre institutionnel et organisationnel assure un système de gouvernance, de gestion, de planification et de suivi-évaluation qui soutient la qualité des services, l'efficacité interne et externe des interventions et l'efficience dans la gestion des ressources.
+E8.1. Loi de 1995 relative à l'enseignement est révisée. | NON | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI
+E8.2. Commission nationale interministérielle d'orientation et de gestion des flux fonctionnelle | NON | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI
+E8.3. Cellule intersectorielle d'alphabétisation fonctionnelle | NON | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI
+E8.4. Loi portant orientation et programmation de la recherche adoptée et mise en œuvre. | NON | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI
+E8.5. Proportion cibles d'indicateurs prioritaires du Plan Décennal atteintes | 0% | 70% | 75% | 85% | 95% | 100% | 100% | 100% | 100% | 100%
+
+Risque : Grèves des enseignants-chercheurs
+Hypothèses :
+La mobilisation des ressources attendues est effective.
+Partenaires : Gvt : ; ONG : ; SNU : ; Bailleurs :
+
+##### Produit 8.1 : Les réformes qui assurent la
+P8.1.1. Stratégie nationale de développement du | NON | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI
 
 105
-
 [[END OF PAGE 105]]
 
 [[START OF PAGE 106]]
 
-gouvernance et la gestion adéquate du secteur éducation/formation | préscolaire est disponible et dotée d'un budget adéquat
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-sont mises en œuvre. | P8.1.2. Texte réglementaire ramenant la durée du cycle préscolaire de trois à deux ans est pris | NON | NON NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI
-P8.1.3. Arrêté instituant les sous cycle dans le primaire est pris | NON | NON OUI | OUI | OUI | OUI | OUI | OUI | OUI | OUI
-P8.1.4. Mesures de gestion du redoublement au primaire et au secondaire effectives | NON NON | NON | NON | NON | NON | OUI | OUI | OUI | OUI
-P8.1.5. Textes instituant des centres d'alphabétisation au niveau des écoles pris et mis en œuvre | NON NON | NON | OUI | OUI | OUI OUI | OUI | OUI | OUI
-P8.1.6. Agence d'Exécution de l'Enseignement Technique et de la Formation Professionnelle (AGETFP) fonctionnelle | NON | NON OUI | OUI | OUI | OUI | OUI | OUI | OUI | OUI
+gouvernance et la gestion adéquate du secteur éducation/formation sont mises en œuvre. | préscolaire est disponible et dotée d'un budget adéquat
+P8.1.2. Texte réglementaire ramenant la durée du cycle préscolaire de trois à deux ans est pris | NON | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI
+P8.1.3. Arrêté instituant les sous cycle dans le primaire est pris | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI | OUI
+P8.1.4. Mesures de gestion du redoublement au primaire et au secondaire effectives | NON | NON | NON | NON | NON | NON | OUI | OUI | OUI | OUI
+P8.1.5. Textes instituant des centres d'alphabétisation au niveau des écoles pris et mis en œuvre | NON | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI
+P8.1.6. Agence d'Exécution de l'Enseignement Technique et de la Formation Professionnelle (AGETFP) fonctionnelle | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI | OUI
 P8.1.7. Commission Nationale Technique d'Agrément (CNTA) est fonctionnelle | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI | OUI
 P8.1.8. Décret portant attribution des bourses et aides dans l'enseignement supérieur révisé et mis en œuvre | NON | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI
 
 106
-
 [[END OF PAGE 106]]
 
 [[START OF PAGE 107]]
 
 P8.1.9. Décret portant sur les procédures et mécanismes d'orientation à l'enseignement supérieur révisé et appliqué | NON | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 P8.1.10. Décret et les arrêtés subséquents relatifs aux primes des enseignants chercheurs mis en œuvre dans les délais requis | NON | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI
 P8.1.11. Décret portant organisation des centres de recherches pris et mis en œuvre. | NON | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI
 P8.1.12. Comité interministériel de Coordination du secteur éducation/formation fonctionnel | Non | Oui | Oui | Oui | Oui | Oui | Oui | Oui | Oui | Oui
-P8.2.1. Base de données de suivi en ligne du plan décennal fonctionnelle | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI | OUI | Produit 8.2 : Le
-P8.2.2. I²ndicateurs du Plan Décennal intégrés dans les systèmes d'information sectoriels | NON | NON | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI | système de planification et de suivi-évaluation assure un pilotage efficace et efficient de la mise en œuvre
-P8.2.3. Proportion des recommandations des réunions de suivi, des visites programmatiques, des missions d'assurance qualité des données, des revues et des évaluations mises en œuvre | 0% | 50% | 75% | 85% | 90% | 95% | 100% | 100% | 100% | 100% | du plan décennal
+
+##### Produit 8.2 : Le système de planification et de suivi-évaluation assure un pilotage efficace et efficient de la mise en œuvre du plan décennal
+P8.2.1. Base de données de suivi en ligne du plan décennal fonctionnelle | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI | OUI | OUI
+P8.2.2. I²ndicateurs du Plan Décennal intégrés dans les systèmes d'information sectoriels | NON | NON | NON | NON | OUI | OUI | OUI | OUI | OUI | OUI
+P8.2.3. Proportion des recommandations des réunions de suivi, des visites programmatiques, des missions d'assurance qualité des données, des revues et des évaluations mises en œuvre | 0% | 50% | 75% | 85% | 90% | 95% | 100% | 100% | 100% | 100%
 
 107
-
 [[END OF PAGE 107]]
 
 [[START OF PAGE 108]]
 
 P8.2.4. Proportion des évaluations et études prioritaires réalisées | 0% | 50% | 75% | 85% | 90% | 95% | 100% | 100% | 100% | 100%
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 P8.2.5. Nombre de publications (rapports annuels, rapports d'évaluation, rapports d'études, documents de bonnes pratiques) élaborées et diffusées | 0 | 2 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3
 P8.2.6. Nombre de cadres nationaux formés en Gestion Axée sur les Résultats (GAR) | 0 | 10 | 25 | 25 | 25 | 25 | 25 | 25 | 25 | 25
 
 108
-
 [[END OF PAGE 108]]
 
 [[START OF PAGE 109]]
 
-Sous-secteur | résultats | # | indicateurs
---- | --- | --- | ---
-1 | Proportion d'enfants de moins de 5 ans dont le développement est en bonne voie en matière de santé, d'apprentissage et de bien-être psychosocial
-1 Résultat stratégique sectoriel | 2 | Proportion d'enfants de 16 ans qui achèvent la scolarisation obligatoire
-2 Préscolaire | Produit 1.2 : Les enfants d'âge préscolaire disposent d'un environnement protecteur au niveau scolaire, familial et communautaire favorable à la demande de services d'éducation préscolaire | 1 2 | Proportion d'écoles préscolaires bénéficiant des services intégrés de santé, de nutrition et de protection Proportion d'écoles préscolaires disposant des commodités requises (électricité, clôture, point d'eau, lave-main et latrines séparées fonctionnelles)
-4 Secondaire 1 | Effet 2 : Les enfants de 6 à 11 ans accèdent à une éducation de qualité et achèvent le cycle primaire Produit 2.3 : Les personnes de 10 ans et plus non alphabétisées ou hors du système éducatif disposent d'une offre adéquate d'alphabétisation ou | 1 2 3 4 4 5 7 | Score global sur 100 des élèves en fin de cycle primaire en mathématiques et en français 43 Proportion d'élèves parcourant plus de 3km pour se rendre à l'école Proportion de grèves des enseignants du primaire désamorcées Proportion de filles bénéficiant de rations sèches Proportion des écoles ciblées comme centre d'alphabétisation mises aux normes
-3 Primaire et Alphabétisation | Produit 2.1 : Les enfants en âge d'aller au primaire disposent d'une offre adéquate en matière d'éducation Produit 2.2 : Les enfants en âge d'aller au primaire disposent d'un environnement scolaire, familial et communautaire favorable à la demande de services d'éducation | 1 2 3 | Part des dépenses de fonctionnement consacrée aux intrants pédagogiques du primaire Proportion des écoles ayant au moins un enseignant formé à la prise en charge des enfants à besoins spécifiques Proportion d'écoles équipées/ aménagées pour l'accueil des enfants à besoins spécifiques Proportion d'écoles disposant de mécanisme de lutte contre les violences en milieu scolaire
-d'éducation non formelle Effet 3 : Les élèves de 12 à 15 ans accèdent à une éducation de qualité et achèvent le premier cycle du secondaire général | 8 1 | Nombre de personnes bénéficiant de services d'alphabétisation Taux Net de Scolarisation au premier cycle du secondaire
-Produit 3.1 : Les élèves du premier cycle du secondaire disposent d'une offre d'éducation adéquate | 1 2 | Part des dépenses de fonctionnement consacrée aux intrants pédagogiques du secondaire 1
-Produit 3.2 : Les élèves du premier cycle du secondaire bénéficient d'un environnement scolaire, familial et communautaire favorable à la demande de services d'éducation secondaire général disposent cycle bénéficient d'un favorable à la demande | 3 4 5 6 | Proportion de collèges de proximité fonctionnels Proportion d'enseignants formés aux contenus des programmes révisés 44 Pourcentage d'élèves ayant bénéficié d'une visite médicale en cours d'année scolaire Proportion de collèges disposant de commodités adaptées à la situation des élèves à besoins spécifiques Proportion d'écoles disposant de mécanisme de lutte contre les violences en milieu scolaire
-5 | Produit 4.1 : Les élèves du second cycle du d'une offre d'éducation adéquate 1 Produit 4.2 : Les élèves du secondaire second environnement scolaire, familial et communautaire services d'éducation | 2 | Proportion de lycées disposant de mécanisme de prévention et de gestion des violences en milieu scolaire
-Secondaire | Proportion de salles spécialisées disposant d'équipements conformes aux normes de lycées disposant de commodités adaptées à la situation des élèves à besoins spécifiques
-2 | 3 | Proportion
-de | 4 | Proportion des lycées ayant au moins un enseignant formé à la prise en charge des enfants à besoins spécifiques
-
 # Annexes 2 : Récapitulatif des indicateurs non générés actuellement par le système statistique (national et sectoriel)
 
-> 43 Indicateur ODD (4.1.1)
+Sous-secteur | Type de résultats | # | indicateurs
+1 Résultat stratégique sectoriel | 1 | Proportion d'enfants de moins de 5 ans dont le développement est en bonne voie en matière de santé, d'apprentissage et de bien-être psychosocial
+1 Résultat stratégique sectoriel | 2 | Proportion d'enfants de 16 ans qui achèvent la scolarisation obligatoire
+1 Résultat stratégique sectoriel | 3 | Taux global d'insertion des sortants
 
-> 44 Indicateur ODD (4.c.1)
+2 Préscolaire | Produits — Produit 1.2 : Les enfants d'âge préscolaire disposent d'un environnement protecteur au niveau scolaire, familial et communautaire favorable à la demande de services d'éducation préscolaire | 1 | Proportion d'écoles préscolaires bénéficiant des services intégrés de santé, de nutrition et de protection
+2 Préscolaire | Produits — Produit 1.2 : Les enfants d'âge préscolaire disposent d'un environnement protecteur au niveau scolaire, familial et communautaire favorable à la demande de services d'éducation préscolaire | 2 | Proportion d'écoles préscolaires disposant des commodités requises (électricité, clôture, point d'eau, lave-main et latrines séparées fonctionnelles)
+
+3 Primaire et Alphabétisation | Effets — Effet 2 : Les enfants de 6 à 11 ans accèdent à une éducation de qualité et achèvent le cycle primaire | 1 | Score global sur 100 des élèves en fin de cycle primaire en mathématiques et en français43
+3 Primaire et Alphabétisation | Effets — Effet 2 : Les enfants de 6 à 11 ans accèdent à une éducation de qualité et achèvent le cycle primaire | 2 | Proportion d'élèves parcourant plus de 3km pour se rendre à l'école
+3 Primaire et Alphabétisation | Effets — Effet 2 : Les enfants de 6 à 11 ans accèdent à une éducation de qualité et achèvent le cycle primaire | 3 | Proportion de grèves des enseignants du primaire désamorcées
+3 Primaire et Alphabétisation | Effets — Effet 2 : Les enfants de 6 à 11 ans accèdent à une éducation de qualité et achèvent le cycle primaire | 4 |
+3 Primaire et Alphabétisation | Produits — Produit 2.1 : Les enfants en âge d'aller au primaire disposent d'une offre adéquate en matière d'éducation | 1 | Part des dépenses de fonctionnement consacrée aux intrants pédagogiques du primaire
+3 Primaire et Alphabétisation | Produits — Produit 2.2 : Les enfants en âge d'aller au primaire disposent d'un environnement scolaire, familial et communautaire favorable à la demande de services d'éducation | 2 | Proportion des écoles ayant au moins un enseignant formé à la prise en charge des enfants à besoins spécifiques
+3 Primaire et Alphabétisation | Produits — Produit 2.2 : Les enfants en âge d'aller au primaire disposent d'un environnement scolaire, familial et communautaire favorable à la demande de services d'éducation | 3 | Proportion d'écoles équipées/ aménagées pour l'accueil des enfants à besoins spécifiques
+3 Primaire et Alphabétisation | Produits — Produit 2.2 : Les enfants en âge d'aller au primaire disposent d'un environnement scolaire, familial et communautaire favorable à la demande de services d'éducation | 4 | Proportion d'écoles disposant de mécanisme de lutte contre les violences en milieu scolaire
+3 Primaire et Alphabétisation | Produits — Produit 2.2 : Les enfants en âge d'aller au primaire disposent d'un environnement scolaire, familial et communautaire favorable à la demande de services d'éducation | 5 | Proportion de filles bénéficiant de rations sèches
+3 Primaire et Alphabétisation | Produits — Produit 2.3 : Les personnes de 10 ans et plus non alphabétisées ou hors du système éducatif disposent d'une offre adéquate d'alphabétisation ou d'éducation non formelle | 7 | Proportion des écoles ciblées comme centre d'alphabétisation mises aux normes
+3 Primaire et Alphabétisation | Produits — Produit 2.3 : Les personnes de 10 ans et plus non alphabétisées ou hors du système éducatif disposent d'une offre adéquate d'alphabétisation ou d'éducation non formelle | 8 | Nombre de personnes bénéficiant de services d'alphabétisation
+
+4 Secondaire 1 | Effets — Effet 3 : Les élèves de 12 à 15 ans accèdent à une éducation de qualité et achèvent le premier cycle du secondaire général | 1 | Taux Net de Scolarisation au premier cycle du secondaire
+4 Secondaire 1 | Produits — Produit 3.1 : Les élèves du premier cycle du secondaire disposent d'une offre d'éducation adéquate | 1 | Part des dépenses de fonctionnement consacrée aux intrants pédagogiques du secondaire 1
+4 Secondaire 1 | Produits — Produit 3.1 : Les élèves du premier cycle du secondaire disposent d'une offre d'éducation adéquate | 2 | Proportion de collèges de proximité fonctionnels
+4 Secondaire 1 | Produits — Produit 3.1 : Les élèves du premier cycle du secondaire disposent d'une offre d'éducation adéquate | 3 | Proportion d'enseignants formés aux contenus des programmes révisés44
+4 Secondaire 1 | Produits — Produit 3.2 : Les élèves du premier cycle du secondaire bénéficient d'un environnement scolaire, familial et communautaire favorable à la demande de services d'éducation | 4 | Pourcentage d'élèves ayant bénéficié d'une visite médicale en cours d'année scolaire
+4 Secondaire 1 | Produits — Produit 3.2 : Les élèves du premier cycle du secondaire bénéficient d'un environnement scolaire, familial et communautaire favorable à la demande de services d'éducation | 5 | Proportion de collèges disposant de commodités adaptées à la situation des élèves à besoins spécifiques
+4 Secondaire 1 | Produits — Produit 3.2 : Les élèves du premier cycle du secondaire bénéficient d'un environnement scolaire, familial et communautaire favorable à la demande de services d'éducation | 6 | Proportion d'écoles disposant de mécanisme de lutte contre les violences en milieu scolaire
+
+5 Secondaire 2 | Produits — Produit 4.1 : Les élèves du second cycle du secondaire général disposent d'une offre d'éducation adéquate | 1 | Proportion de salles spécialisées disposant d'équipements conformes aux normes
+5 Secondaire 2 | Produits — Produit 4.2 : Les élèves du secondaire second cycle bénéficient d'un environnement scolaire, familial et communautaire favorable à la demande de services d'éducation | 2 | Proportion de lycées disposant de mécanisme de prévention et de gestion des violences en milieu scolaire
+5 Secondaire 2 | Produits — Produit 4.2 : Les élèves du secondaire second cycle bénéficient d'un environnement scolaire, familial et communautaire favorable à la demande de services d'éducation | 3 | Proportion de lycées disposant de commodités adaptées à la situation des élèves à besoins spécifiques
+5 Secondaire 2 | Produits — Produit 4.2 : Les élèves du secondaire second cycle bénéficient d'un environnement scolaire, familial et communautaire favorable à la demande de services d'éducation | 4 | Proportion des lycées ayant au moins un enseignant formé à la prise en charge des enfants à besoins spécifiques
+5 Secondaire 2 | Produits — Produit 4.2 : Les élèves du secondaire second cycle bénéficient d'un environnement scolaire, familial et communautaire favorable à la demande de services d'éducation | 5 | Part de l'enveloppe budgétaire des bourses octroyées aux élèves des séries scientifiques
+
+43 Indicateur ODD (4.1.1)
+44 Indicateur ODD (4.c.1)
 
 109
-
 [[END OF PAGE 109]]
 
 [[START OF PAGE 110]]
 
-6 | Part des bourses octroyées aux filles dans l'enveloppe allouée aux séries scientifiques
---- | --- | ---
-7 | Part de l'enveloppe des bourses octroyées aux élèves issus des milieux défavorisées et de familles démunies
-Effet 5 : Les personnes de plus de 12 ans accèdent à un enseignement technique et une formation professionnelle de qualité | 1 | Part du budget de l'ETFP émanant des ressources additionnelles
-2 | Proportion de la population active ayant fait l'enseignement technique et la formation professionnelle
-3 | Indice de parité entre les sexes dans l'ETFP
-Produit 5.1 : Les personnes de plus de 12 ans disposent d'une offre adéquate en matière d'enseignement technique et de formation | 4 | Nombre d'apprenants par poste de travail
-1 | Nombre de salles de classes fonctionnelles dans les établissements publics
-2 | Proportion des circonscriptions administratives disposant d'une structure de formation en ETFP (Hors Abibjan)
-professionnelle | 3 | Proportion d'enseignants dispensant leurs enseignements conformément aux normes en vigueur Proportion des apprenants en fin de cycle ayant bénéficié d'un stage conformément aux normes en
-4 | vigueur
-5 | Proportion de salles spécialisées ou ateliers disposants d'équipements conformes aux normes
-6 | Proportion des établissements de l'ETFP ayant enregistré au moins une rupture de stock de matières d'œuvre pendant l'année scolaire. Proportion d'établissements de l'ETFP assurant une maintenance des équipements conformément aux normes en vigueur.
-7 8 | Nombre de classe passerelles préparatoires disponibles
-9 | Nombre de personnes ayant bénéficié d'un apprentissage amélioré
-Proportion d'enseignants du privé qui disposent d'une autorisation d'enseigner
-10 11 | Proportion d'établissements privés aux normes
-Produit 5.2 : Les établissements disposent d'un environnement favorable | 12 | Proportion de filles parmi les boursiers des filières industrielles
-à l'apprentissage des métiers | 13 | Proportion d'établissements ayant les commodités et équipements requis (point d'eau, clôture, latrines fonctionnelles, trousses médicales d'urgence, système de sécurité et d'alarme fonctionnel, source d'énergie stable et régulière)
-Effet 6 : Les étudiants accèdent à un enseignement supérieur de qualité qui | 15 1 | violences d'accès à l'enseignement supérieur.
-Proportion d'établissements disposant de mécanismes de résolution des conflits et de lutte contre les Taux
-assure leur insertion professionnelle. | 2 | Proportion de personnes de 20-29 ans ayant atteint au moins la troisième année universitaire.
-3 | Taux de poursuite.
-4 | Taux de promotion.
-5 | Taux d'insertion des diplômés de l'enseignement supérieur
-6
-7 | Proportion des nouveaux inscrits dans les filières prioritaires. Nombre d'heures de cours perdues du fait des grèves.
-8 | Ratio Étudiants/Enseignants-Chercheurs
-9 | Ratio Étudiants/salles de TD
-10 | Ratio Étudiants/salles de TP dans les filières scientifiques
-11 | Indice de parité entre les sexes au supérieur
-12 | Proportion de la population de 18-65 ans ayant fait l'enseignement supérieur.
-Produit 6.1 : Les étudiants disposent d'une offre de formation adéquate et | 1 | Proportion de salles de TP disposant d'équipements conformes aux normes.
-diversifiée prenant en compte les évolutions économiques, scientifiques et technologiques. | 2 3 | Ratio heures complémentaires/heures dues. Proportion d'UFR ayant terminé l'année académique précédente au démarrage de l'année en cours
-4 | Proportion d'enseignants des différents ordres d'enseignements formés à la recherche scientifique et à l'innovation technologique.
-Produit 6.2 : Les étudiants bénéficient d'appui pour la demande de services | 5 | Proportion d'étudiants à besoins spécifiques bénéficiant de lits en résidences universitaires. universitaires.
-Proportion des filles inscrites dans les filières scientifiques bénéficiaires de lits en résidences
-d'enseignement supérieur. | 6 | Proportion d'étudiants titulaires du master dans les filières scientifiques bénéficiant de bourses pour une formation
-7 | doctorale.
-8 | La part des bourses accordées aux étudiants présentant des besoins spécifiques.
-9 | Proportion d'UFR ayant terminé l'année académique précédente au démarrage de l'année en cours
-10 | Part des bourses accordées aux étudiants des filières scientifiques.
+5 Secondaire 2 | Produits — Produit 4.2 : Les élèves du secondaire second cycle bénéficient d'un environnement scolaire, familial et communautaire favorable à la demande de services d'éducation | 6 | Part des bourses octroyées aux filles dans l'enveloppe allouée aux séries scientifiques
+5 Secondaire 2 | Produits — Produit 4.2 : Les élèves du secondaire second cycle bénéficient d'un environnement scolaire, familial et communautaire favorable à la demande de services d'éducation | 7 | Part de l'enveloppe des bourses octroyées aux élèves issus des milieux défavorisées et de familles démunies
+
+6 Enseignement Technique et Formation Professionnelle | Effets — Effet 5 : Les personnes de plus de 12 ans accèdent à un enseignement technique et une formation professionnelle de qualité | 1 | Part du budget de l'ETFP émanant des ressources additionnelles
+6 Enseignement Technique et Formation Professionnelle | Effets — Effet 5 : Les personnes de plus de 12 ans accèdent à un enseignement technique et une formation professionnelle de qualité | 2 | Proportion de la population active ayant fait l'enseignement technique et la formation professionnelle
+6 Enseignement Technique et Formation Professionnelle | Effets — Effet 5 : Les personnes de plus de 12 ans accèdent à un enseignement technique et une formation professionnelle de qualité | 3 | Indice de parité entre les sexes dans l'ETFP
+6 Enseignement Technique et Formation Professionnelle | Effets — Effet 5 : Les personnes de plus de 12 ans accèdent à un enseignement technique et une formation professionnelle de qualité | 4 | Nombre d'apprenants par poste de travail
+6 Enseignement Technique et Formation Professionnelle | Produits — Produit 5.1 : Les personnes de plus de 12 ans disposent d'une offre adéquate en matière d'enseignement technique et de formation professionnelle | 1 | Nombre de salles de classes fonctionnelles dans les établissements publics
+6 Enseignement Technique et Formation Professionnelle | Produits — Produit 5.1 : Les personnes de plus de 12 ans disposent d'une offre adéquate en matière d'enseignement technique et de formation professionnelle | 2 | Proportion des circonscriptions administratives disposant d'une structure de formation en ETFP (Hors Abibjan)
+6 Enseignement Technique et Formation Professionnelle | Produits — Produit 5.1 : Les personnes de plus de 12 ans disposent d'une offre adéquate en matière d'enseignement technique et de formation professionnelle | 3 | Proportion d'enseignants dispensant leurs enseignements conformément aux normes en vigueur
+6 Enseignement Technique et Formation Professionnelle | Produits — Produit 5.1 : Les personnes de plus de 12 ans disposent d'une offre adéquate en matière d'enseignement technique et de formation professionnelle | 4 | Proportion des apprenants en fin de cycle ayant bénéficié d'un stage conformément aux normes en vigueur
+6 Enseignement Technique et Formation Professionnelle | Produits — Produit 5.1 : Les personnes de plus de 12 ans disposent d'une offre adéquate en matière d'enseignement technique et de formation professionnelle | 5 | Proportion de salles spécialisées ou ateliers disposants d'équipements conformes aux normes
+6 Enseignement Technique et Formation Professionnelle | Produits — Produit 5.1 : Les personnes de plus de 12 ans disposent d'une offre adéquate en matière d'enseignement technique et de formation professionnelle | 6 | Proportion des établissements de l'ETFP ayant enregistré au moins une rupture de stock de matières d'œuvre pendant l'année scolaire.
+6 Enseignement Technique et Formation Professionnelle | Produits — Produit 5.1 : Les personnes de plus de 12 ans disposent d'une offre adéquate en matière d'enseignement technique et de formation professionnelle | 7 | Proportion d'établissements de l'ETFP assurant une maintenance des équipements conformément aux normes en vigueur.
+6 Enseignement Technique et Formation Professionnelle | Produits — Produit 5.1 : Les personnes de plus de 12 ans disposent d'une offre adéquate en matière d'enseignement technique et de formation professionnelle | 8 | Nombre de classe passerelles préparatoires disponibles
+6 Enseignement Technique et Formation Professionnelle | Produits — Produit 5.1 : Les personnes de plus de 12 ans disposent d'une offre adéquate en matière d'enseignement technique et de formation professionnelle | 9 | Nombre de personnes ayant bénéficié d'un apprentissage amélioré
+6 Enseignement Technique et Formation Professionnelle | Produits — Produit 5.1 : Les personnes de plus de 12 ans disposent d'une offre adéquate en matière d'enseignement technique et de formation professionnelle | 10 | Proportion d'enseignants du privé qui disposent d'une autorisation d'enseigner
+6 Enseignement Technique et Formation Professionnelle | Produits — Produit 5.1 : Les personnes de plus de 12 ans disposent d'une offre adéquate en matière d'enseignement technique et de formation professionnelle | 11 | Proportion d'établissements privés aux normes
+6 Enseignement Technique et Formation Professionnelle | Produits — Produit 5.2 : Les établissements disposent d'un environnement favorable à l'apprentissage des métiers | 12 | Proportion de filles parmi les boursiers des filières industrielles
+6 Enseignement Technique et Formation Professionnelle | Produits — Produit 5.2 : Les établissements disposent d'un environnement favorable à l'apprentissage des métiers | 13 | Proportion d'établissements ayant les commodités et équipements requis (point d'eau, clôture, latrines fonctionnelles, trousses médicales d'urgence, système de sécurité et d'alarme fonctionnel, source d'énergie stable et régulière)
+6 Enseignement Technique et Formation Professionnelle | Produits — Produit 5.2 : Les établissements disposent d'un environnement favorable à l'apprentissage des métiers | 14 | Proportion d'établissements disposant d'une salle multimédia
+6 Enseignement Technique et Formation Professionnelle | Produits — Produit 5.2 : Les établissements disposent d'un environnement favorable à l'apprentissage des métiers | 15 | Proportion d'établissements disposant de mécanismes de résolution des conflits et de lutte contre les violences
+
+7 Enseignement Supérieur | Effets — Effet 6 : Les étudiants accèdent à un enseignement supérieur de qualité qui assure leur insertion professionnelle. | 1 | Taux d'accès à l'enseignement supérieur.
+7 Enseignement Supérieur | Effets — Effet 6 : Les étudiants accèdent à un enseignement supérieur de qualité qui assure leur insertion professionnelle. | 2 | Proportion de personnes de 20-29 ans ayant atteint au moins la troisième année universitaire.
+7 Enseignement Supérieur | Effets — Effet 6 : Les étudiants accèdent à un enseignement supérieur de qualité qui assure leur insertion professionnelle. | 3 | Taux de poursuite.
+7 Enseignement Supérieur | Effets — Effet 6 : Les étudiants accèdent à un enseignement supérieur de qualité qui assure leur insertion professionnelle. | 4 | Taux de promotion.
+7 Enseignement Supérieur | Effets — Effet 6 : Les étudiants accèdent à un enseignement supérieur de qualité qui assure leur insertion professionnelle. | 5 | Taux d'insertion des diplômés de l'enseignement supérieur
+7 Enseignement Supérieur | Effets — Effet 6 : Les étudiants accèdent à un enseignement supérieur de qualité qui assure leur insertion professionnelle. | 6 | Proportion des nouveaux inscrits dans les filières prioritaires.
+7 Enseignement Supérieur | Effets — Effet 6 : Les étudiants accèdent à un enseignement supérieur de qualité qui assure leur insertion professionnelle. | 7 | Nombre d'heures de cours perdues du fait des grèves.
+7 Enseignement Supérieur | Effets — Effet 6 : Les étudiants accèdent à un enseignement supérieur de qualité qui assure leur insertion professionnelle. | 8 | Ratio Étudiants/Enseignants-Chercheurs
+7 Enseignement Supérieur | Effets — Effet 6 : Les étudiants accèdent à un enseignement supérieur de qualité qui assure leur insertion professionnelle. | 9 | Ratio Étudiants/salles de TD
+7 Enseignement Supérieur | Effets — Effet 6 : Les étudiants accèdent à un enseignement supérieur de qualité qui assure leur insertion professionnelle. | 10 | Ratio Étudiants/salles de TP dans les filières scientifiques
+7 Enseignement Supérieur | Effets — Effet 6 : Les étudiants accèdent à un enseignement supérieur de qualité qui assure leur insertion professionnelle. | 11 | Indice de parité entre les sexes au supérieur
+7 Enseignement Supérieur | Effets — Effet 6 : Les étudiants accèdent à un enseignement supérieur de qualité qui assure leur insertion professionnelle. | 12 | Proportion de la population de 18-65 ans ayant fait l'enseignement supérieur.
+7 Enseignement Supérieur | Produits — Produit 6.1 : Les étudiants disposent d'une offre de formation adéquate et diversifiée prenant en compte les évolutions économiques, scientifiques et technologiques. | 1 | Proportion de salles de TP disposant d'équipements conformes aux normes.
+7 Enseignement Supérieur | Produits — Produit 6.1 : Les étudiants disposent d'une offre de formation adéquate et diversifiée prenant en compte les évolutions économiques, scientifiques et technologiques. | 2 | Ratio heures complémentaires/heures dues.
+7 Enseignement Supérieur | Produits — Produit 6.1 : Les étudiants disposent d'une offre de formation adéquate et diversifiée prenant en compte les évolutions économiques, scientifiques et technologiques. | 3 | Proportion d'UFR ayant terminé l'année académique précédente au démarrage de l'année en cours
+7 Enseignement Supérieur | Produits — Produit 6.1 : Les étudiants disposent d'une offre de formation adéquate et diversifiée prenant en compte les évolutions économiques, scientifiques et technologiques. | 4 | Proportion d'enseignants des différents ordres d'enseignements formés à la recherche scientifique et à l'innovation technologique.
+7 Enseignement Supérieur | Produits — Produit 6.2 : Les étudiants bénéficient d'appui pour la demande de services d'enseignement supérieur. | 5 | Proportion d'étudiants à besoins spécifiques bénéficiant de lits en résidences universitaires.
+7 Enseignement Supérieur | Produits — Produit 6.2 : Les étudiants bénéficient d'appui pour la demande de services d'enseignement supérieur. | 6 | Proportion des filles inscrites dans les filières scientifiques bénéficiaires de lits en résidences universitaires.
+7 Enseignement Supérieur | Produits — Produit 6.2 : Les étudiants bénéficient d'appui pour la demande de services d'enseignement supérieur. | 7 | Proportion d'étudiants titulaires du master dans les filières scientifiques bénéficiant de bourses pour une formation doctorale.
+7 Enseignement Supérieur | Produits — Produit 6.2 : Les étudiants bénéficient d'appui pour la demande de services d'enseignement supérieur. | 8 | La part des bourses accordées aux étudiants présentant des besoins spécifiques.
+7 Enseignement Supérieur | Produits — Produit 6.2 : Les étudiants bénéficient d'appui pour la demande de services d'enseignement supérieur. | 9 | Proportion d'UFR ayant terminé l'année académique précédente au démarrage de l'année en cours
+7 Enseignement Supérieur | Produits — Produit 6.2 : Les étudiants bénéficient d'appui pour la demande de services d'enseignement supérieur. | 10 | Part des bourses accordées aux étudiants des filières scientifiques.
 
 110
-
 [[END OF PAGE 110]]
 
 [[START OF PAGE 111]]
 
-8 Recherche Scientifique | Effet 7 : Les résultats de la Recherche Scientifique et de l'Innovation Technologique sont valorisés et contribuent au développement social et économique de la Cote d'Ivoire. | 1 | Proportion de résultats de recherche brevetés.
---- | --- | --- | ---
-3 | Nombre de partenariats signés dans le cadre du transfert de technologies.
-4 | Part du budget affectée à la recherche médicale et pharmaceutique
-5 | Part du budget de l'État octroyée à la recherche et le développement.
-6 | Nombre d'enseignants-chercheurs promus au CAMES
-7 | La part du secteur privé dans le financement de la recherche.
-Produit 7.1 : Les structures de recherche scientifique disposent | 1 | Proportion de structures de recherche fonctionnelles.
-de capacités techniques en matière d'offres de recherche | 2
-Proportion de chercheurs ayant bénéficié de renforcement de capacités en matière de recherche et d'innovation technologique.
-3 | Nombre de Centres et Instituts de recherche scientifique et d'innovation technologique accrédités
-4 | Nombre d'incubateurs de start-up en matière d'innovation technologique mis en place.
-Produit 7.2 : Les structures de recherche scientifique bénéficient ressources financières adéquates et développent des partenariats avec le secteur privé | 6 | Nombre de partenariats signés avec le secteur privé
-Produit 8.1 : Les réformes qui assurent la gouvernance et la gestion adéquate du secteur éducation/formation sont mises en œuvre. | 1 | Proportion d'établissements du primaire dont la gouvernance est conforme aux normes en vigueur
-2 | Proportion d'établissements du premier cycle du secondaire dont la gouvernance est conforme aux normes en vigueur
-3 | Proportion d'établissements de l'ETFP dont la gouvernance est conforme aux normes en vigueur
-4 | Niveau de mise en œuvre des recommandations de la commission paritaire enseignement supérieur et le secteur privé.
-9 | 5 | Proportion d'établissements du supérieur dont la gouvernance est conforme aux normes en vigueur.
+8 Recherche Scientifique | Effets — Effet 7 : Les résultats de la Recherche Scientifique et de l'Innovation Technologique sont valorisés et contribuent au développement social et économique de la Cote d'Ivoire. | 1 | Proportion de résultats de recherche brevetés.
+8 Recherche Scientifique | Effets — Effet 7 : Les résultats de la Recherche Scientifique et de l'Innovation Technologique sont valorisés et contribuent au développement social et économique de la Cote d'Ivoire. | 2 | Proportion de résultats de recherche valorisés.
+8 Recherche Scientifique | Effets — Effet 7 : Les résultats de la Recherche Scientifique et de l'Innovation Technologique sont valorisés et contribuent au développement social et économique de la Cote d'Ivoire. | 3 | Nombre de partenariats signés dans le cadre du transfert de technologies.
+8 Recherche Scientifique | Effets — Effet 7 : Les résultats de la Recherche Scientifique et de l'Innovation Technologique sont valorisés et contribuent au développement social et économique de la Cote d'Ivoire. | 4 | Part du budget affectée à la recherche médicale et pharmaceutique
+8 Recherche Scientifique | Effets — Effet 7 : Les résultats de la Recherche Scientifique et de l'Innovation Technologique sont valorisés et contribuent au développement social et économique de la Cote d'Ivoire. | 5 | Part du budget de l'État octroyée à la recherche et le développement.
+8 Recherche Scientifique | Effets — Effet 7 : Les résultats de la Recherche Scientifique et de l'Innovation Technologique sont valorisés et contribuent au développement social et économique de la Cote d'Ivoire. | 6 | Nombre d'enseignants-chercheurs promus au CAMES
+8 Recherche Scientifique | Effets — Effet 7 : Les résultats de la Recherche Scientifique et de l'Innovation Technologique sont valorisés et contribuent au développement social et économique de la Cote d'Ivoire. | 7 | La part du secteur privé dans le financement de la recherche.
+8 Recherche Scientifique | Produits — Produit 7.1 : Les structures de recherche scientifique disposent de capacités techniques en matière d'offres de recherche | 1 | Proportion de structures de recherche fonctionnelles.
+8 Recherche Scientifique | Produits — Produit 7.1 : Les structures de recherche scientifique disposent de capacités techniques en matière d'offres de recherche | 2 | Proportion de chercheurs ayant bénéficié de renforcement de capacités en matière de recherche et d'innovation technologique.
+8 Recherche Scientifique | Produits — Produit 7.1 : Les structures de recherche scientifique disposent de capacités techniques en matière d'offres de recherche | 3 | Nombre de Centres et Instituts de recherche scientifique et d'innovation technologique accrédités
+8 Recherche Scientifique | Produits — Produit 7.1 : Les structures de recherche scientifique disposent de capacités techniques en matière d'offres de recherche | 4 | Nombre d'incubateurs de start-up en matière d'innovation technologique mis en place.
+8 Recherche Scientifique | Produits — Produit 7.2 : Les structures de recherche scientifique bénéficient ressources financières adéquates et développent des partenariats avec le secteur privé | 6 | Nombre de partenariats signés avec le secteur privé
+
+9 Cadre Institutionnel et Organisationnel, Système de Planification et de Suivi-Évaluation | Produits — Produit 8.1 : Les réformes qui assurent la gouvernance et la gestion adéquate du secteur éducation/formation sont mises en œuvre. | 1 | Proportion d'établissements du primaire dont la gouvernance est conforme aux normes en vigueur
+9 Cadre Institutionnel et Organisationnel, Système de Planification et de Suivi-Évaluation | Produits — Produit 8.1 : Les réformes qui assurent la gouvernance et la gestion adéquate du secteur éducation/formation sont mises en œuvre. | 2 | Proportion d'établissements du premier cycle du secondaire dont la gouvernance est conforme aux normes en vigueur
+9 Cadre Institutionnel et Organisationnel, Système de Planification et de Suivi-Évaluation | Produits — Produit 8.1 : Les réformes qui assurent la gouvernance et la gestion adéquate du secteur éducation/formation sont mises en œuvre. | 3 | Proportion d'établissements de l'ETFP dont la gouvernance est conforme aux normes en vigueur
+9 Cadre Institutionnel et Organisationnel, Système de Planification et de Suivi-Évaluation | Produits — Produit 8.1 : Les réformes qui assurent la gouvernance et la gestion adéquate du secteur éducation/formation sont mises en œuvre. | 4 | Niveau de mise en œuvre des recommandations de la commission paritaire enseignement supérieur et le secteur privé.
+9 Cadre Institutionnel et Organisationnel, Système de Planification et de Suivi-Évaluation | Produits — Produit 8.1 : Les réformes qui assurent la gouvernance et la gestion adéquate du secteur éducation/formation sont mises en œuvre. | 5 | Proportion d'établissements du supérieur dont la gouvernance est conforme aux normes en vigueur.
 
 111
-
 [[END OF PAGE 111]]
 
 [[START OF PAGE 112]]
 
-Le Ministre de l'Education Nationale, de l'Enseignement Technique et de la Formation Professionnelle Le Ministre de l'Enseignement Supérieur et de la Recherche Scientifique Le Ministre du Plan et du Développement
+Le Ministre de l'Education Nationale, de l'Enseignement Technique et de la Formation Professionnelle
+Kandia CAMARA
 
-Kandia CAMARA Prof Ramata LY-BAKAYOKO
+Le Ministre de l'Enseignement Supérieur et de la Recherche Scientifique
+Prof Ramata LY-BAKAYOKO
 
+Le Ministre du Plan et du Développement
 Niale KABA
 
-Le Ministre du Budget et du Portefeuille de l'Etat Le Ministre de l'Economie et de Finances Le Ministre de la Fonction Publique et de la Modernisation de l'Administration
+Le Ministre du Budget et du Portefeuille de l'Etat
+Abdourahmane CISSE
 
-Abdourahmane CISSE Adama KONE Pascal K. ABINAN
+Le Ministre de l'Economie et de Finances
+Adama KONE
+
+Le Ministre de la Fonction Publique et de la Modernisation de l'Administration
+Pascal K. ABINAN
 
 Le Ministre de la Femme, de la Protection de l'Enfant et de la Solidarité
-
 Mariatou KONE
 
 112
-
 [[END OF PAGE 112]]
