@@ -18,11 +18,28 @@ see section 1(2)
 
 ## Contents
 
+Page
+Title 10
+1 Short Title and commencement 10
+2 Interpretation 10
+3 Act to bind the Crown 12
+Part 1
+Human Rights Commission
+4 Continuation of Human Rights Commission 12
+Functions and powers of Commission
+5 Functions of Commission 13
+6 Powers relating to declaratory judgments 16
+Activities in performance of Commission’s functions
+7 Commission determines general nature of activities 16
+Membership of Commission
+8 Membership of Commission 17
+9 Alternate Commissioners 18
+
 ## Note
 
 > Changes authorised by section 17C of the Acts and Regulations Publication Act 1989 have been made in this reprint.
 
-> Ageneral outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+> A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
 > This Act is administered by the Ministry of Justice.
 
@@ -38,6 +55,39 @@ Reprinted as at
 
 1 July 2013
 
+Functions of Commissioners
+[Repealed]
+10 Meetings of Commission 19
+Criteria for appointment
+11 Criteria for appointment 20
+Complaints Division
+[Repealed]
+12 Further criteria for appointment of Chief Commissioner 21
+13 Further criteria for appointment of Race Relations Commissioner 22
+Further provisions on Commissioners and alternate Commissioners
+[Repealed]
+14 Further criteria for appointment of Equal Employment Opportunities Commissioner 22
+Functions of Commissioners
+15 Functions of Chief Commissioner 23
+16 Functions of Race Relations Commissioner 24
+17 Functions of Equal Employment Opportunities Commissioner 25
+General manager and staff of Commission
+18 General manager and staff of Commission 26
+Commissioners to act independently
+19 Duty to act independently 26
+Office of Human Rights Proceedings
+20 Office of Human Rights Proceedings 27
+Director of Human Rights Proceedings
+20A Director of Human Rights Proceedings 27
+20B Criteria and requirement for appointment 28
+Appointment of Judge as Human Rights Commissioner
+20C Appointment of Judge as Human Rights Commissioner 29
+Provisions relating to office holders
+20D Office holders to whom sections 20E to 20G apply 29
+20E Service in office [Repealed] 30
+20F Term of office 30
+20G Vacation of office 30
+
 2
 
 [[END OF PAGE 2]]
@@ -48,11 +98,81 @@ Reprinted as at 1 July 2013
 
 Human Rights Act 1993
 
+Administrative provisions relating to Human Rights Commission and Office of Human Rights Proceedings
+20H Administrative provisions set out in Schedules 1 and 2 31
+Part 1A
+Discrimination by Government, related persons and bodies, or persons or bodies acting with legal authority
+20I Purpose of this Part 31
+20J Acts or omissions in relation to which this Part applies 32
+20K Purposes for which section 20L applies 32
+20L Acts or omissions in breach of this Part 33
+Part 2
+Unlawful discrimination
+Application of Part to persons and bodies referred to in section 3 of New Zealand Bill of Rights Act 1990
+21A Application of this Part limited if section 3 of New Zealand Bill of Rights Act 1990 applies 33
+Acts or omissions authorised or required by law
+21B Relationship between this Part and other law 34
+Prohibited grounds of discrimination
+21 Prohibited grounds of discrimination 34
+Discrimination in employment matters
+22 Employment 37
+23 Particulars of applicants for employment 38
+Exceptions in relation to employment matters
+24 Exception in relation to crews of ships and aircraft 38
+25 Exception in relation to work involving national security 38
+26 Exception in relation to work performed outside New Zealand 39
+27 Exceptions in relation to authenticity and privacy 39
+28 Exceptions for purposes of religion 40
+29 Further exceptions in relation to disability 41
+30 Further exceptions in relation to age 41
+30A Exception in relation to employment-related retirement benefits 42
+31 Exception in relation to employment of a political nature 43
+32 Exception in relation to family status 43
+33 Armed forces [Repealed] 43
+34 Regular forces 44
+
 3
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+Human Rights Act 1993
+Reprinted as at
+1 July 2013
+
+35 General qualification on exceptions 44
+Discrimination in partnerships
+36 Partnerships 44
+Discrimination by industrial and professional associations, qualifying bodies, and vocational training bodies
+37 Organisations of employees or employers and professional and trade associations 46
+38 Qualifying bodies 47
+39 Exceptions in relation to qualifying bodies 48
+40 Vocational training bodies 49
+41 Exceptions in relation to vocational training bodies 50
+Discrimination in access to places, vehicles, and facilities
+42 Access by the public to places, vehicles, and facilities 51
+43 Exceptions in relation to access by the public to places, vehicles, and facilities 51
+Discrimination in provision of goods and services
+44 Provision of goods and services 52
+45 Exception in relation to courses and counselling 53
+46 Exception in relation to public decency or safety 53
+47 Exception in relation to skill 53
+48 Exception in relation to insurance 53
+49 Exception in relation to sport 54
+50 Exception in relation to travel services 55
+51 Exception in relation to reduced charges 55
+52 Exception in relation to disability 55
+Discrimination in provision of land, housing, and other accommodation
+53 Land, housing, and other accommodation 56
+54 Exception in relation to shared residential accommodation 56
+55 Exception in relation to hostels, institutions, etc 57
+56 Further exception in relation to disability 57
+Discrimination in access to educational establishments
+57 Educational establishments 57
+58 Exceptions in relation to establishments for particular groups 58
+59 Exception in relation to courses and counselling 59
+60 Further exceptions in relation to disability 59
 
 4
 
@@ -64,11 +184,81 @@ Reprinted as at 1 July 2013
 
 Human Rights Act 1993
 
+Other forms of discrimination
+61 Racial disharmony 60
+62 Sexual harassment 61
+63 Racial harassment 62
+64 Choice of procedures [Repealed] 62
+65 Indirect discrimination 62
+66 Victimisation 63
+67 Advertisements 64
+68 Liability of employer and principals 64
+69 Further provision in relation to sexual or racial harassment in employment 65
+Special provisions relating to superannuation schemes
+70 Superannuation schemes 65
+71 Reports on superannuation schemes 68
+72 Power to vary trust deeds 68
+Other matters
+73 Measures to ensure equality 68
+74 Measures relating to pregnancy, childbirth, or family responsibilities 69
+Part 3
+Resolution of disputes about compliance with Part 1A and Part 2
+75 Object of this Part 69
+76 Functions of Commission under this Part 70
+77 Dispute resolution services 71
+78 Method of providing services 71
+79 How complaints received to be treated 72
+79A Choice of procedures 73
+80 Taking action or further action in relation to complaint 74
+81 Commission to inform parties of process 75
+82 Information gathering and disclosure by Commission 76
+83 Settlement 76
+84 Reference of complaint to Director or from Director or Tribunal 77
+85 Confidentiality of information disclosed at dispute resolution meeting 77
+86 Evidence as to dispute resolution meeting 78
+87 Certain information not to be made available 78
+88 Limits on effect of section 80(1) or sections 85 to 87 79
+89 Enforcement of terms of settlement agreed by parties 79
+
 5
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+Human Rights Act 1993
+Reprinted as at
+1 July 2013
+
+90 Functions of Director of Human Rights Proceedings under this Part 79
+91 Requirements for Director’s decisions under section 90 81
+92 Matters Director to have regard to in deciding whether to provide representation in proceedings before Tribunal or in related proceedings 81
+92A Director to notify and report on decisions on representation 82
+Proceedings
+92B Civil proceedings arising from complaints 83
+92BA Lodging of applications 85
+92C Representation in civil proceedings arising from complaints 85
+92D Tribunal may refer complaint back to Commission, or adjourn proceedings to seek resolution by settlement 86
+92E Civil proceedings arising from inquiry by Commission 87
+92F Proof of justified limits and exceptions 87
+92G Right of Attorney-General to appear in civil proceedings 88
+92H Right of Commission to appear in civil proceedings 88
+Remedies
+92I Remedies 89
+92J Remedy for enactments in breach of Part 1A 91
+92K Effect of declaration 91
+92L Costs 92
+92M Damages 92
+92N Directions as to payment of damages in certain cases 93
+92O Tribunal may defer or modify remedies for breach of Part 1A or Part 2 or terms of settlement 94
+92P Matters to be taken into account in exercising powers given by section 92O 95
+Monetary limits on remedies Tribunal may grant
+92Q Monetary limits on remedies Tribunal may grant 96
+Granting of remedies by High Court on reference from Tribunal
+92R Tribunal to refer granting of remedies to High Court 97
+92S Further provisions on reference to High Court 97
+92T High Court decides remedies on reference from Tribunal 98
+92U High Court’s decision on remedies to be included in, and given effect to as part of, Tribunal’s determination 98
 
 6
 
@@ -80,11 +270,92 @@ Reprinted as at 1 July 2013
 
 Human Rights Act 1993
 
+Abandonment or agreement to bring claim within Tribunal’s jurisdiction
+92V Abandonment to enable Tribunal to make award of damages 99
+92W Extension of jurisdiction by agreement between parties 99
+Part 4
+Human Rights Review Tribunal
+93 Human Rights Review Tribunal 100
+Functions and powers of Tribunal
+94 Functions of Tribunal 100
+95 Power to make interim order 101
+96 Review of interim orders 101
+97 Power in respect of exception for genuine occupational qualification or genuine justification 101
+Constitution of Tribunal
+98 Membership of Tribunal 102
+99 Chairpersons of Tribunal 102
+99A Criteria and requirement for appointment of Chairpersons 103
+100 Appointment and term of office 103
+101 Panel 104
+102 Deputy Chairperson 105
+103 Vacation of office by Chairperson and Deputy Chairperson 105
+Procedure of Tribunal
+104 Sittings of Tribunal 106
+105 Substantial merits 106
+106 Evidence in proceedings before Tribunal 106
+107 Sittings to be held in public except in special circumstances 107
+108 Persons entitled to be heard 108
+108A Tribunal to give notice of proceedings 108
+108B Submissions in relation to remedies 108
+109 Witness summons 109
+110 Service of summons 109
+111 Witnesses’ allowances 110
+112 Privileges and immunities 111
+113 Non-attendance or refusal to co-operate 111
+114 Power to commit for contempt 111
+115 Tribunal may dismiss trivial, etc, proceedings 112
+116 Reasons to be given 112
+117 Seal of Tribunal 113
+
 7
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+Human Rights Act 1993
+Reprinted as at
+1 July 2013
+
+118 Members of Tribunal not personally liable 113
+119 Fees of members of Tribunal 113
+120 Services for Tribunal 113
+121 Enforcement 114
+122 Stating case for High Court 114
+122A Removal to High Court of proceedings or issue 115
+122B Proceedings or issue removed to High Court 116
+123 Appeals to High Court 117
+124 Appeal to Court of Appeal on a question of law 118
+125 Costs of appeal 120
+126 Additional members of High Court for purposes of Act 120
+Part 5
+Powers in relation to inquiries
+126A Evidence order 121
+127 Evidence 122
+128 Protection and privileges of witnesses, etc 123
+129 Disclosure of certain matters not to be required 124
+130 Proceedings privileged 125
+Part 6
+Inciting racial disharmony
+131 Inciting racial disharmony 126
+132 No prosecution without Attorney-General’s consent 127
+Part 7
+Miscellaneous provisions
+133 Licences and registration 127
+134 Access by the public to places, vehicles, and facilities 128
+135 No prosecution without Attorney-General’s consent 128
+136 Condition in restraint of marriage, civil union, or de facto relationship 128
+137 Advisors to be officials 129
+138 No adverse statement 129
+139 Restriction on delegation 129
+140 Delegation of powers by certain Commissioners 129
+141 Annual report [Repealed] 131
+141A Certain acts not to be questioned 131
+142 Money to be appropriated by Parliament for purposes of this Act [Repealed] 131
+143 Offences 131
+144 Regulations 132
+145 Related amendments to other enactments [Repealed] 132
+146 Repeals [Repealed] 132
 
 8
 
@@ -96,6 +367,38 @@ Reprinted as at 1 July 2013
 
 Human Rights Act 1993
 
+147 Revocation [Repealed] 133
+Transitional provisions
+148 Former office of Commissioner abolished 133
+148A Certain former Commissioners to be transitional members of Commission 133
+Race Relations Conciliator
+148B Assets and liabilities vest in Commission 134
+148C References to Race Relations Conciliator 134
+148D Proceedings 134
+148E Commission to arrange final audited accounts 135
+148F All employees transferred to Commission 135
+Proceedings Commissioner
+148G Proceedings Commissioner 136
+148H References to Proceedings Commissioner 136
+148I Proceedings to which Proceedings Commissioner party 136
+148J Complaints referred to Proceedings Commissioner for decision as to proceedings 137
+148K Transfer of employees from Commission to Office 137
+Complaints Division
+148L Complaints Division abolished 138
+148M Outstanding complaints to be dealt with by Commission under new procedure 138
+148N Breaches of Part 1A 139
+148O Complaints about breaches of Part 1A 139
+Savings
+149 Special provisions in relation to written employment contracts in force on 1 April 1992 140
+150 Charitable instruments 140
+151 Other enactments and actions not affected [Repealed] 141
+152 Expiry of section 151 [Repealed] 141
+153 Savings 141
+Schedule 1 143
+Administrative provisions applying in respect of Commission
+Schedule 2 147
+Administrative provisions applying in respect of Office of Human Rights Proceedings
+
 9
 
 [[END OF PAGE 9]]
@@ -106,9 +409,7 @@ Human Rights Act 1993
 
 Reprinted as at 1 July 2013
 
-151
-
-Schedule 3
+Schedule 3 151
 
 Enactments repealed
 
@@ -118,27 +419,31 @@ An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights
 
 #### 1 Short Title and commencement
 
-- This Act may be cited as the Human Rights Act 1993.
+(1) This Act may be cited as the Human Rights Act 1993.
 
-- This Act shall come into force on 1 February 1994.
+(2) This Act shall come into force on 1 February 1994.
 
 #### 2 Interpretation
 
-- In this Act, unless the context otherwise requires,act includes an activity, condition, enactment, policy, practice, or requirement
+(1) In this Act, unless the context otherwise requires,—
 
-actuary means-
+act includes an activity, condition, enactment, policy, practice, or requirement
+
+actuary means—
 
 (a) a person who is a Fellow of the New Zealand Society of Actuaries Incorporated; or
 
 (b) a person whom the Commission or the Complaints Division, as the case may be, considers to have an equivalent professional qualification
 
-Chief Commissioner means the Commissioner appointed as the Chief Human Rights Commissioner under section 8(1)(a) Commission means the Human Rights Commission continued by section 4 and includes the Office of Human Rights Proceedings
+Chief Commissioner means the Commissioner appointed as the Chief Human Rights Commissioner under section 8(1)(a)
+
+Commission means the Human Rights Commission continued by section 4 and includes the Office of Human Rights Proceedings
 
 Commissioner means a member of the Commission
 
 Director of Human Rights Proceedings or Director means the Director of Human Rights Proceedings or alternate Director of Human Rights Proceedings appointed under section 20A
 
-dispose , in sections 53 and 54, includes sell, assign, lease, let, sublease, sublet, license, or mortgage, and agree to dispose dispute resolution meeting means a meeting of the kind referred to in section 77(2)(c)
+dispose, in sections 53 and 54, includes sell, assign, lease, let, sublease, sublet, license, or mortgage, and agree to dispose
 
 10
 
@@ -152,9 +457,11 @@ Human Rights Act 1993
 
 s 2
 
+dispute resolution meeting means a meeting of the kind referred to in section 77(2)(c)
+
 dispute resolution services includes the provision of answers to questions by members of the public about discrimination and compliance with this Act
 
-employer , in Part 2, includes-
+employer, in Part 2, includes—
 
 (a) the employer of an independent contractor; and
 
@@ -180,7 +487,7 @@ prohibited ground of discrimination has the meaning given to it by section 21
 
 Race Relations Commissioner means the Commissioner appointed as the Race Relations Commissioner under section 8(1)(b)
 
-relative , in relation to any person, means any other person who-
+relative, in relation to any person, means any other person who—
 
 (a) is related to the person by blood, marriage, civil union, de facto relationship, affinity, or adoption; or
 
@@ -202,23 +509,23 @@ Reprinted as at
 
 1 July 2013
 
-residential accommodation , in sections 53 and 54, includes accommodation in a dwellinghouse, flat, hotel, motel, boardinghouse, or camping ground
+residential accommodation, in sections 53 and 54, includes accommodation in a dwellinghouse, flat, hotel, motel, boardinghouse, or camping ground
 
 superannuation scheme means any superannuation scheme, fund, or plan, or any provident fund, set up to confer, on its members or other persons, retirement or other benefits, such as accident, disability, sickness, or death benefits
 
-trustees , in relation to a superannuation scheme, includes the person or persons appointed to administer a superannuation scheme constituted under an Act of Parliament of New Zealand.
+trustees, in relation to a superannuation scheme, includes the person or persons appointed to administer a superannuation scheme constituted under an Act of Parliament of New Zealand.
 
-- Unless the context otherwise requires, every reference in this Act to a complaint alleging a breach of 1 or more Parts of this Act includes a complaint that appears to allege or concern such a breach (whether or not it refers to the relevant Part in question).
+(2) Unless the context otherwise requires, every reference in this Act to a complaint alleging a breach of 1 or more Parts of this Act includes a complaint that appears to allege or concern such a breach (whether or not it refers to the relevant Part in question).
 
-- Unless the context otherwise requires, every reference in this Act to a person against whom a complaint is made includes a body of any kind against whom a complaint is made.
+(3) Unless the context otherwise requires, every reference in this Act to a person against whom a complaint is made includes a body of any kind against whom a complaint is made.
 
 Compare: 1977 No 49 ss 2, 15(13), 25(5); 1983 No 56 s 4(4); 1992 No 16 s 2(3); 1993 No 35 s 3(3)
 
 Section 2: substituted, on 1 January 2002, by section 3 of the Human Rights Amendment Act 2001 (2001 No 96).
 
-Section 2(1) actuary : inserted, on 1 May 2011, by section 82 of the Financial Markets Authority Act 2011 (2011 No 5).
+Section 2(1) actuary: inserted, on 1 May 2011, by section 82 of the Financial Markets Authority Act 2011 (2011 No 5).
 
-Section 2(1) Commission : amended, on 25 January 2005, by section 200 of the Crown Entities Act 2004 (2004 No 115).
+Section 2(1) Commission: amended, on 25 January 2005, by section 200 of the Crown Entities Act 2004 (2004 No 115).
 
 Section 2(1) relative paragraph (a): amended, on 26 April 2005, by section 7 of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
@@ -232,7 +539,7 @@ Compare: 1971 No 150 s 2; 1977 No 49 s 3
 
 #### 4 Continuation of Human Rights Commission
 
-- There shall continue to be a Human Rights Commission, which shall be the same body as the Human Rights Com-
+(1) There shall continue to be a Human Rights Commission, which shall be the same body as the Human Rights Com-
 
 12
 
@@ -248,11 +555,11 @@ Part 1 s 5
 
 mission established under section 4 of the Human Rights Commission Act 1977.
 
-- The Commission is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
+(2) The Commission is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
 
-- The Crown Entities Act 2004 applies to the Commission except to the extent that this Act expressly provides otherwise.
+(3) The Crown Entities Act 2004 applies to the Commission except to the extent that this Act expressly provides otherwise.
 
-- Despite anything in any other Act, the powers of the Commission under sections 16 and 17 of the Crown Entities Act 2004 may be exercised only-
+(4) Despite anything in any other Act, the powers of the Commission under sections 16 and 17 of the Crown Entities Act 2004 may be exercised only—
 
 (a) by persons authorised by or under this Act or the Crown Entities Act 2004 to perform functions of the Commission, for the purposes of performing those functions; or
 
@@ -276,7 +583,7 @@ Heading: substituted, on 1 January 2002, by section 5 of the Human Rights Amendm
 
 #### 5 Functions of Commission
 
-- The primary functions of the Commission are-
+(1) The primary functions of the Commission are—
 
 (a) to advocate and promote respect for, and an understanding and appreciation of, human rights in New Zealand society; and
 
@@ -294,7 +601,7 @@ Reprinted as at 1 July 2013
 
 (b) to encourage the maintenance and development of harmonious relations between individuals and among the diverse groups in New Zealand society.
 
-- The Commission has, in order to carry out its primary functions under subsection (1), the following functions:
+(2) The Commission has, in order to carry out its primary functions under subsection (1), the following functions:
 
 (a) to be an advocate for human rights and to promote and protect, by education and publicity, respect for, and observance of, human rights:
 
@@ -328,7 +635,7 @@ Part 1 s 5
 
 (j) to apply to a court or tribunal, under rules of court or regulations specifying the tribunal's procedure, to be appointed as intervener or as counsel assisting the court or tribunal, or to take part in proceedings before the court or tribunal in another way permitted by those rules or regulations, if, in the Commission's opinion, taking part in the proceedings in that way will facilitate the performance of its functions stated in paragraph (a):
 
-(k) to report to the Prime Minister on-
+(k) to report to the Prime Minister on—
 
 (i) any matter affecting human rights, including the desirability of legislative, administrative, or other action to give better protection to human rights and to ensure better compliance with standards laid down in international instruments on human rights:
 
@@ -344,7 +651,7 @@ Part 1 s 5
 
 (o) to exercise or perform any other functions, powers, and duties conferred or imposed on it by or under this Act or any other enactment.
 
-- The Commission may, in the public interest or in the interests of a person, department, or organisation, publish reports relating generally to the exercise of its functions under this Act or to a particular inquiry by it under this Act, whether or not the
+(3) The Commission may, in the public interest or in the interests of a person, department, or organisation, publish reports relating generally to the exercise of its functions under this Act or to a particular inquiry by it under this Act, whether or not the
 
 15
 
@@ -372,11 +679,11 @@ Section 5(2)(n): repealed, on 25 January 2005, by section 200 of the Crown Entit
 
 #### 6 Powers relating to declaratory judgments
 
-- If at any time the Commission considers that it may be desirable to obtain a declaratory judgment or order of the High Court in accordance with the Declaratory Judgments Act 1908, the Commission may, despite anything to the contrary in that Act or any other enactment or rule of law, institute proceedings under that Act.
+(1) If at any time the Commission considers that it may be desirable to obtain a declaratory judgment or order of the High Court in accordance with the Declaratory Judgments Act 1908, the Commission may, despite anything to the contrary in that Act or any other enactment or rule of law, institute proceedings under that Act.
 
-- The Commission may exercise the right in subsection (1) only if it considers that the exercise of the right will facilitate the performance of its functions stated in section 5(2)(a).
+(2) The Commission may exercise the right in subsection (1) only if it considers that the exercise of the right will facilitate the performance of its functions stated in section 5(2)(a).
 
-- Subsection (1) does not limit the ability of the Commission to appear in or bring proceedings under section 92B or section 92E or section 92H or section 97.
+(3) Subsection (1) does not limit the ability of the Commission to appear in or bring proceedings under section 92B or section 92E or section 92H or section 97.
 
 Compare: 1977 No 49 s 5A; 1983 No 56 s 3
 
@@ -388,7 +695,7 @@ Heading: substituted, on 1 January 2002, by section 5 of the Human Rights Amendm
 
 #### 7 Commission determines general nature of activities
 
-- Subject to the role of the Minister in the process of setting and monitoring the strategic direction and targets of the Commission under Part 4 of the Crown Entities Act 2004, the members of the Commission acting together determine the strategic direction and the general nature of activities undertaken in the performance of the Commission's functions.
+(1) Subject to the role of the Minister in the process of setting and monitoring the strategic direction and targets of the Commission under Part 4 of the Crown Entities Act 2004, the members of the Commission acting together determine the strategic direction and the general nature of activities undertaken in the performance of the Commission's functions.
 
 16
 
@@ -402,7 +709,7 @@ Human Rights Act 1993
 
 Part 1 s 8
 
-- The Chief Commissioner is responsible to the Commission for ensuring that activities undertaken in the performance of the Commission's functions are not inconsistent with determinations of the Commission.
+(2) The Chief Commissioner is responsible to the Commission for ensuring that activities undertaken in the performance of the Commission's functions are not inconsistent with determinations of the Commission.
 
 Section 7: substituted, on 1 January 2002, by section 5 of the Human Rights Amendment Act 2001 (2001 No 96).
 
@@ -414,21 +721,21 @@ Heading: inserted, on 1 January 2002, by section 5 of the Human Rights Amendment
 
 #### 8 Membership of Commission
 
-- The Commission consists of the following Human Rights Commissioners:
+(1) The Commission consists of the following Human Rights Commissioners:
 
 (a) a Commissioner appointed as the Chief Commissioner, whose office is a full-time one:
 
 (b) a Commissioner appointed as the Race Relations Commissioner, whose office is also a full-time one:
 
-(c) a Commissioner appointed as the Equal Employment Opportunities Commissioner, whose office is also a fulltime one:
+(c) a Commissioner appointed as the Equal Employment Opportunities Commissioner, whose office is also a full-time one:
 
 (d) no more than 5 other Commissioners, whose offices are each part-time ones.
 
-- The Commissioners are the board for the purposes of the Crown Entities Act 2004.
+(2) The Commissioners are the board for the purposes of the Crown Entities Act 2004.
 
-- The Chief Commissioner holds office as chairperson of the board for the purposes of the Crown Entities Act 2004 for the same term as he or she is Chief Commissioner.
+(3) The Chief Commissioner holds office as chairperson of the board for the purposes of the Crown Entities Act 2004 for the same term as he or she is Chief Commissioner.
 
-- Clauses 1 to 5 of Schedule 5 of the Crown Entities Act 2004 do not apply to the Commission.
+(4) Clauses 1 to 5 of Schedule 5 of the Crown Entities Act 2004 do not apply to the Commission.
 
 Compare: 1977 No 49 s 7(1)(a), (c), (ca), (d), (2); 1983 No 56 s 4(1), (2); 1991 No 132 s 3(1); 1993 No 35 s 2
 
@@ -456,19 +763,19 @@ Section 8(4): added, on 25 January 2005, by section 200 of the Crown Entities Ac
 
 #### 9 Alternate Commissioners
 
-- The Governor-General may, on the recommendation of the Minister, appoint as alternate Commissioners persons who may be designated as the alternate of a Commissioner by either the Minister under subsection (2) or the Chief Commissioner under subsection (3).
+(1) The Governor-General may, on the recommendation of the Minister, appoint as alternate Commissioners persons who may be designated as the alternate of a Commissioner by either the Minister under subsection (2) or the Chief Commissioner under subsection (3).
 
-- The Minister may designate a Commissioner or an alternate Commissioner to act as the Chief Commissioner-
+(2) The Minister may designate a Commissioner or an alternate Commissioner to act as the Chief Commissioner—
 
 (a) during the period following the resignation of the Chief Commissioner and ending when the Chief Commissioner's successor comes into office; or
 
-(b) during the Chief Commissioner's incapacity or in respect of a particular function or activity of the Commission, as the case may be, if-
+(b) during the Chief Commissioner's incapacity or in respect of a particular function or activity of the Commission, as the case may be, if—
 
 (i) the Minister is satisfied that the Chief Commissioner is incapacitated by illness, absence, or other sufficient cause from performing the duties of his or her office; or
 
 (ii) the Chief Commissioner considers it is not proper or desirable that he or she should participate in the function or activity.
 
-- The Chief Commissioner may designate an alternate Commissioner to act as a Commissioner during the period the Chief Commissioner is acting as Chief Commissioner, or during the period of the Commissioner's incapacity, or in respect of a particular function or activity of the Commission, as the case may be, if-
+(3) The Chief Commissioner may designate an alternate Commissioner to act as a Commissioner during the period the Chief Commissioner is acting as Chief Commissioner, or during the period of the Commissioner's incapacity, or in respect of a particular function or activity of the Commission, as the case may be, if—
 
 (a) the Chief Commissioner is a Commissioner acting as the Chief Commissioner under a designation under subsection (2); or
 
@@ -490,9 +797,9 @@ Part 1 s 10
 
 (d) any other Commissioner considers it is not proper or desirable that he or she should participate in the function or activity of the Commission.
 
-- Analternate Commissioner designated under subsection (2) or subsection (3) must, while the alternate Commissioner acts as Chief Commissioner or as a Commissioner, be taken to be the Chief Commissioner or the Commissioner in whose place the alternate Commissioner acts.
+(4) An alternate Commissioner designated under subsection (2) or subsection (3) must, while the alternate Commissioner acts as Chief Commissioner or as a Commissioner, be taken to be the Chief Commissioner or the Commissioner in whose place the alternate Commissioner acts.
 
-- No designation of an alternate Commissioner, and no act done by an alternate Commissioner, and no act done by the Commission while any alternate Commissioner is acting, may in any proceedings be questioned on the ground that the occasion for the alternate Commissioner's designation had not arisen or had ceased.
+(5) No designation of an alternate Commissioner, and no act done by an alternate Commissioner, and no act done by the Commission while any alternate Commissioner is acting, may in any proceedings be questioned on the ground that the occasion for the alternate Commissioner's designation had not arisen or had ceased.
 
 Compare: 1977 No 49 s 7B; 1985 No 23 s 2
 
@@ -504,11 +811,11 @@ Heading: repealed, on 1 January 2002, by section 5 of the Human Rights Amendment
 
 #### 10 Meetings of Commission
 
-[Repealed]
+(1) [Repealed]
 
-- The Race Relations Commissioner may, at any time, call a special meeting of the Commission.
+(2) The Race Relations Commissioner may, at any time, call a special meeting of the Commission.
 
-- Subsection (2) applies in addition to clause 7(2) of Schedule 5 of the Crown Entities Act 2004.
+(3) Subsection (2) applies in addition to clause 7(2) of Schedule 5 of the Crown Entities Act 2004.
 
 19
 
@@ -522,15 +829,15 @@ Human Rights Act 1993
 
 Reprinted as at 1 July 2013
 
-[Repealed]
+(4) [Repealed]
 
-[Repealed]
+(5) [Repealed]
 
-[Repealed]
+(6) [Repealed]
 
-[Repealed]
+(7) [Repealed]
 
-[Repealed]
+(8) [Repealed]
 
 Compare: 1977 No 49 s 10
 
@@ -558,9 +865,9 @@ Heading: inserted, on 1 January 2002, by section 5 of the Human Rights Amendment
 
 #### 11 Criteria for appointment
 
-- In recommending persons for appointment as Commissioners or alternate Commissioners, the Minister must have regard to the need for Commissioners and alternate Commissioners appointed to have among them-
+(1) In recommending persons for appointment as Commissioners or alternate Commissioners, the Minister must have regard to the need for Commissioners and alternate Commissioners appointed to have among them—
 
-(a) knowledge of, or experience in,-
+(a) knowledge of, or experience in,—
 
 (i) different aspects of matters likely to come before the Commission:
 
@@ -584,7 +891,7 @@ Part 1 s 12
 
 (v) cultural issues and the needs and aspirations (including life experiences) of different communities of interest and population groups in New Zealand society:
 
-(b) skills in, or experience in,-
+(b) skills in, or experience in,—
 
 (i) advocacy or public education:
 
@@ -596,7 +903,7 @@ Part 1 s 12
 
 (1A) Subsection (1) does not limit section 29 of the Crown Entities Act 2004.
 
-- Nothing in this section limits section 12 or section 13 or section 14.
+(2) Nothing in this section limits section 12 or section 13 or section 14.
 
 Compare: 1977 No 49 s 7(3); 1985 No 23 s 3(1)
 
@@ -612,7 +919,7 @@ Heading: repealed, on 1 January 2002, by section 5 of the Human Rights Amendment
 
 #### 12 Further criteria for appointment of Chief Commissioner
 
-In recommending a person for appointment as Chief Commissioner, the Minister must have regard not only to the criteria stated in section 11 but also to the person's-
+In recommending a person for appointment as Chief Commissioner, the Minister must have regard not only to the criteria stated in section 11 but also to the person's—
 
 (a) ability to provide leadership in relation to the performance of the functions of the Commission (for example, being an advocate for, and promoting, by education and publicity, respect for and observance of human rights):
 
@@ -640,7 +947,7 @@ Section 12: substituted, on 1 January 2002, by section 5 of the Human Rights Ame
 
 #### 13 Further criteria for appointment of Race Relations Commissioner
 
-In recommending a person for appointment as Race Relations Commissioner, the Minister must have regard not only to the criteria stated in section 11 but also to the person's-
+In recommending a person for appointment as Race Relations Commissioner, the Minister must have regard not only to the criteria stated in section 11 but also to the person's—
 
 (a) understanding of current race relations in New Zealand, and of the origins and development of those relations:
 
@@ -656,7 +963,7 @@ Heading: repealed, on 1 January 2002, by section 5 of the Human Rights Amendment
 
 #### 14 Further criteria for appointment of Equal Employment Opportunities Commissioner
 
-In recommending a person for appointment as the Equal Employment Opportunities Commissioner, the Minister must have regard not only to the criteria stated in section 11 but also to the person's-
+In recommending a person for appointment as the Equal Employment Opportunities Commissioner, the Minister must have regard not only to the criteria stated in section 11 but also to the person's—
 
 (a) understanding of principles relating to equal employment opportunities:
 
@@ -686,7 +993,7 @@ Heading: inserted, on 1 January 2002, by section 5 of the Human Rights Amendment
 
 #### 15 Functions of Chief Commissioner
 
-- The Chief Commissioner has the following functions:
+(1) The Chief Commissioner has the following functions:
 
 (a) to chair the Commission, and lead discussions of the Commission (except when the Commission has discussions on matters of race relations):
 
@@ -714,7 +1021,7 @@ Reprinted as at 1 July 2013
 
 (g) any other functions, powers, or duties conferred or imposed on him or her by or under this Act or any other enactment.
 
-- Subsection (1)(d) and (e) is subject to section 7(2).
+(2) Subsection (1)(d) and (e) is subject to section 7(2).
 
 Compare: 1977 No 49 s 7(1)(a), (5)
 
@@ -794,9 +1101,9 @@ Heading: inserted, on 1 January 2002, by section 5 of the Human Rights Amendment
 
 #### 18 General manager and staff of Commission
 
-- The general manager and staff of the Commission undertake activities required to perform the functions of the Commission in accordance with the strategic direction and other determinations of the Commission under section 7.
+(1) The general manager and staff of the Commission undertake activities required to perform the functions of the Commission in accordance with the strategic direction and other determinations of the Commission under section 7.
 
-- The general manager-
+(2) The general manager—
 
 (a) is responsible to the Chief Commissioner and reports to him or her; and
 
@@ -804,7 +1111,7 @@ Heading: inserted, on 1 January 2002, by section 5 of the Human Rights Amendment
 
 (c) is the chief executive of the Commission for the purposes of the Crown Entities Act 2004.
 
-- Employees of the Commission are responsible to the general manager and report to him or her.
+(3) Employees of the Commission are responsible to the general manager and report to him or her.
 
 Section 18: substituted, on 1 January 2002, by section 5 of the Human Rights Amendment Act 2001 (2001 No 96).
 
@@ -818,7 +1125,7 @@ Heading: inserted, on 1 January 2002, by section 5 of the Human Rights Amendment
 
 #### 19 Duty to act independently
 
-Except as expressly provided otherwise in this or another Act, the Commission must act independently in performing its statutory functions and duties, and exercising its statutory powers, under-
+Except as expressly provided otherwise in this or another Act, the Commission must act independently in performing its statutory functions and duties, and exercising its statutory powers, under—
 
 (a) this Act; and
 
@@ -844,13 +1151,13 @@ Heading: inserted, on 1 January 2002, by section 5 of the Human Rights Amendment
 
 #### 20 Office of Human Rights Proceedings
 
-- The Office of Human Rights Proceedings is part of the Commission and is headed by the Director of Human Rights Proceedings or his or her alternate.
+(1) The Office of Human Rights Proceedings is part of the Commission and is headed by the Director of Human Rights Proceedings or his or her alternate.
 
-- The staff of the Office report to the Director or his or her alternate, and help him or her to exercise or perform the functions, powers, and duties of the Director under this Act.
+(2) The staff of the Office report to the Director or his or her alternate, and help him or her to exercise or perform the functions, powers, and duties of the Director under this Act.
 
-- In exercising or performing the functions, powers, and duties of the Director, the Director or his or her alternate and the staff of the Office must act independently from the Commission and Ministers of the Crown.
+(3) In exercising or performing the functions, powers, and duties of the Director, the Director or his or her alternate and the staff of the Office must act independently from the Commission and Ministers of the Crown.
 
-- However, the Director or his or her alternate is responsible to the Chief Commissioner for the efficient, effective, and economical administration of the activities of the Office.
+(4) However, the Director or his or her alternate is responsible to the Chief Commissioner for the efficient, effective, and economical administration of the activities of the Office.
 
 Section 20: substituted, on 1 January 2002, by section 5 of the Human Rights Amendment Act 2001 (2001 No 96).
 
@@ -860,9 +1167,9 @@ Heading: inserted, on 1 January 2002, by section 5 of the Human Rights Amendment
 
 #### 20A Director of Human Rights Proceedings
 
-- The Director of Human Rights Proceedings is appointed by the Governor-General on the recommendation of the Minister.
+(1) The Director of Human Rights Proceedings is appointed by the Governor-General on the recommendation of the Minister.
 
-- The Governor-General may, on the recommendation of the Minister, appoint as alternate Director of Human Rights Proceedings a person designated for appointment as alternate Director by the Minister.
+(2) The Governor-General may, on the recommendation of the Minister, appoint as alternate Director of Human Rights Proceedings a person designated for appointment as alternate Director by the Minister.
 
 27
 
@@ -876,7 +1183,7 @@ Human Rights Act 1993
 
 Reprinted as at 1 July 2013
 
-- The Minister must not designate a person for appointment as alternate Director of Human Rights Proceedings unless-
+(3) The Minister must not designate a person for appointment as alternate Director of Human Rights Proceedings unless—
 
 (a) the Minister is satisfied that the Director is incapacitated by illness, absence, or other sufficient cause from performing the duties of his or her office; or
 
@@ -888,9 +1195,9 @@ Section 20A: inserted, on 1 January 2002, by section 5 of the Human Rights Amend
 
 #### 20B Criteria and requirement for appointment
 
-- In recommending a person for appointment as Director of Human Rights Proceedings or as his or her alternate, the Minister must have regard not only to the person's attributes but also to the person's-
+(1) In recommending a person for appointment as Director of Human Rights Proceedings or as his or her alternate, the Minister must have regard not only to the person's attributes but also to the person's—
 
-(a) knowledge of, or experience in,-
+(a) knowledge of, or experience in,—
 
 (i) the different aspects of matters likely to come before the Human Rights Review Tribunal:
 
@@ -902,7 +1209,7 @@ Section 20A: inserted, on 1 January 2002, by section 5 of the Human Rights Amend
 
 (c) ability to exercise or perform, and to ensure the Office of Human Rights Proceedings helps the person to exercise or perform, efficiently and effectively, the functions, powers, and duties of the Director under this Act.
 
-- Every person appointed as Director of Human Rights Proceedings or as his or her alternate must be a barrister or solicitor of the High Court of not less than 5 years' legal experience.
+(2) Every person appointed as Director of Human Rights Proceedings or as his or her alternate must be a barrister or solicitor of the High Court of not less than 5 years' legal experience.
 
 Compare: 1977 No 49 s 7(3); 1985 No 23 s 3(1)
 
@@ -926,11 +1233,13 @@ Heading: inserted, on 1 January 2002, by section 5 of the Human Rights Amendment
 
 #### 20C Appointment of Judge as Human Rights Commissioner
 
-- The appointment of a Judge as a Commissioner or alternate Commissioner or service by a Judge as a Commissioner or alternate Commissioner does not affect his or her tenure of judicial office or his or her rank, title, status, precedence, salary, annual or other allowances, or other rights or privileges as a Judge (including those in relation to superannuation), and, for all purposes, his or her service as a Commissioner or alternate Commissioner must be taken to be service as a Judge.
+(1) The appointment of a Judge as a Commissioner or alternate Commissioner or service by a Judge as a Commissioner or alternate Commissioner does not affect his or her tenure of judicial office or his or her rank, title, status, precedence, salary, annual or other allowances, or other rights or privileges as a Judge (including those in relation to superannuation), and, for all purposes, his or her service as a Commissioner or alternate Commissioner must be taken to be service as a Judge.
 
-- AJudge who is for the time being holding office as a Commissioner may, at any time, decline to participate in, or withdraw from participation in, any particular function or activity of the Commission if the Judge considers it incompatible with his or her judicial office.
+(2) A Judge who is for the time being holding office as a Commissioner may, at any time, decline to participate in, or withdraw from participation in, any particular function or activity of the Commission if the Judge considers it incompatible with his or her judicial office.
 
-Compare: 1977 No 49 ss 7(5A), 7A; 1983 No 56 ss 4(3), 5; 1985 No 23 s 3(1) Section 20C: inserted, on 1 January 2002, by section 5 of the Human Rights Amendment Act 2001 (2001 No 96).
+Compare: 1977 No 49 ss 7(5A), 7A; 1983 No 56 ss 4(3), 5; 1985 No 23 s 3(1)
+
+Section 20C: inserted, on 1 January 2002, by section 5 of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ### Provisions relating to office holders
 
@@ -938,7 +1247,7 @@ Heading: inserted, on 1 January 2002, by section 5 of the Human Rights Amendment
 
 #### 20D Office holders to whom sections 20E to 20G apply
 
-- Sections 20F and 20G each applies to a person (the office holder ) who holds one of the following offices (the office ):
+(1) Sections 20F and 20G each applies to a person (the office holder) who holds one of the following offices (the office):
 
 (a) [Repealed]
 
@@ -948,9 +1257,9 @@ Heading: inserted, on 1 January 2002, by section 5 of the Human Rights Amendment
 
 (d) alternate Director of Human Rights Proceedings.
 
-[Repealed]
+(2) [Repealed]
 
-[Repealed]
+(3) [Repealed]
 
 Compare: 1983 No 56 s 6; 1985 No 23 s 3(1)
 
@@ -986,7 +1295,7 @@ Section 20E: repealed, on 25 January 2005, by section 200 of the Crown Entities 
 
 #### 20F Term of office
 
-The office holder-
+The office holder—
 
 (a) holds the office for the term (not longer than 5 years) the Governor-General, on the recommendation of the Minister, specifies in the person's appointment; and
 
@@ -1000,7 +1309,7 @@ Section 20F: inserted, on 1 January 2002, by section 5 of the Human Rights Amend
 
 #### 20G Vacation of office
 
-The office holder-
+The office holder—
 
 (a) may resign from the office by delivering to the Minister a notice in writing to that effect and stating when the resignation takes effect:
 
@@ -1036,13 +1345,13 @@ Heading: inserted, on 1 January 2002, by section 5 of the Human Rights Amendment
 
 #### 20H Administrative provisions set out in Schedules 1 and 2
 
-- Schedule 1 applies in respect of the Commission.
+(1) Schedule 1 applies in respect of the Commission.
 
-- Schedule 2 applies in respect of the Office.
+(2) Schedule 2 applies in respect of the Office.
 
 Section 20H: inserted, on 1 January 2002, by section 5 of the Human Rights Amendment Act 2001 (2001 No 96).
 
-## Part 1A persons and bodies, or persons or bodies Discrimination by Government, related acting with legal authority
+## Part 1A Discrimination by Government, related persons and bodies, or persons or bodies acting with legal authority
 
 Part 1A: inserted, on 1 January 2002, by section 6 of the Human Rights Amendment Act 2001 (2001 No 96).
 
@@ -1066,23 +1375,23 @@ Reprinted as at 1 July 2013
 
 #### 20J Acts or omissions in relation to which this Part applies
 
-- This Part applies only in relation to an act or omission of a person or body referred to in section 3 of the New Zealand Bill of Rights Act 1990, namely-
+(1) This Part applies only in relation to an act or omission of a person or body referred to in section 3 of the New Zealand Bill of Rights Act 1990, namely—
 
 (a) the legislative, executive, or judicial branch of the Government of New Zealand; or
 
 (b) a person or body in the performance of any public function, power, or duty conferred or imposed on that person or body by or pursuant to law.
 
-- Despite subsection (1), this Part does not apply in relation to an act or omission that is unlawful under any of sections 22, 23, 61 to 63, and 66.
+(2) Despite subsection (1), this Part does not apply in relation to an act or omission that is unlawful under any of sections 22, 23, 61 to 63, and 66.
 
-- If this Part applies in relation to an act or omission, Part 2 does not apply to that act or omission.
+(3) If this Part applies in relation to an act or omission, Part 2 does not apply to that act or omission.
 
-- Nothing in this Part affects the New Zealand Bill of Rights Act 1990.
+(4) Nothing in this Part affects the New Zealand Bill of Rights Act 1990.
 
 Section 20J: inserted, on 1 January 2002, by section 6 of the Human Rights Amendment Act 2001 (2001 No 96).
 
 #### 20K Purposes for which section 20L applies
 
-Section 20L applies only for the purposes of-
+Section 20L applies only for the purposes of—
 
 (a) any inquiry undertaken by the Commission under section 5(2)(h):
 
@@ -1114,15 +1423,15 @@ Part 2 s 21A
 
 #### 20L Acts or omissions in breach of this Part
 
-- An act or omission in relation to which this Part applies (including an enactment) is in breach of this Part if it is inconsistent with section 19 of the New Zealand Bill of Rights Act 1990.
+(1) An act or omission in relation to which this Part applies (including an enactment) is in breach of this Part if it is inconsistent with section 19 of the New Zealand Bill of Rights Act 1990.
 
-- For the purposes of subsection (1), an act or omission is inconsistent with section 19 of the New Zealand Bill of Rights Act 1990 if the act or omission-
+(2) For the purposes of subsection (1), an act or omission is inconsistent with section 19 of the New Zealand Bill of Rights Act 1990 if the act or omission—
 
 (a) limits the right to freedom from discrimination affirmed by that section; and
 
 (b) is not, under section 5 of the New Zealand Bill of Rights Act 1990, a justified limitation on that right.
 
-- To avoid doubt, subsections (1) and (2) apply in relation to an act or omission even if it is authorised or required by an enactment.
+(3) To avoid doubt, subsections (1) and (2) apply in relation to an act or omission even if it is authorised or required by an enactment.
 
 Section 20L: inserted, on 1 January 2002, by section 6 of the Human Rights Amendment Act 2001 (2001 No 96).
 
@@ -1134,7 +1443,7 @@ Heading: inserted, on 1 January 2002, by section 7 of the Human Rights Amendment
 
 #### 21A Application of this Part limited if section 3 of New Zealand Bill of Rights Act 1990 applies
 
-- The only provisions of this Part that apply to an act or omission of a person or body described in subsection (2) are-
+(1) The only provisions of this Part that apply to an act or omission of a person or body described in subsection (2) are—
 
 (a) sections 21 to 35 (which relate to discrimination in employment matters), 61 to 64 (which relate to racial disharmony, and social and racial harassment) and 66 (which relates to victimisation); and
 
@@ -1154,7 +1463,7 @@ Reprinted as at
 
 1 July 2013
 
-- The persons and bodies referred to in subsection (1) are the ones referred to in section 3 of the New Zealand Bill of Rights Act 1990, namely-
+(2) The persons and bodies referred to in subsection (1) are the ones referred to in section 3 of the New Zealand Bill of Rights Act 1990, namely—
 
 (a) the legislative, executive, and judicial branches of the Government of New Zealand; and
 
@@ -1168,9 +1477,9 @@ Heading: inserted, on 1 January 2002, by section 7 of the Human Rights Amendment
 
 #### 21B Relationship between this Part and other law
 
-- To avoid doubt, an act or omission of any person or body is not unlawful under this Part if that act or omission is authorised or required by an enactment or otherwise by law.
+(1) To avoid doubt, an act or omission of any person or body is not unlawful under this Part if that act or omission is authorised or required by an enactment or otherwise by law.
 
-- Nothing in this Part affects the New Zealand Bill of Rights Act 1990.
+(2) Nothing in this Part affects the New Zealand Bill of Rights Act 1990.
 
 Section 21B: inserted, on 1 January 2002, by section 7 of the Human Rights Amendment Act 2001 (2001 No 96).
 
@@ -1180,11 +1489,11 @@ Heading: inserted, on 1 January 2002, by section 7 of the Human Rights Amendment
 
 #### 21 Prohibited grounds of discrimination
 
-- For the purposes of this Act, the prohibited grounds of discrimination are-
+(1) For the purposes of this Act, the prohibited grounds of discrimination are—
 
 (a) sex, which includes pregnancy and childbirth:
 
-(b) marital status, which means being-
+(b) marital status, which means being—
 
 (i) single; or
 
@@ -1218,7 +1527,7 @@ Part 2 s 21
 
 (g) ethnic or national origins, which includes nationality or citizenship:
 
-(h) disability, which means-
+(h) disability, which means—
 
 (i) physical disability or impairment:
 
@@ -1234,7 +1543,7 @@ Part 2 s 21
 
 (vii) the presence in the body of organisms capable of causing illness:
 
-(i) age, which means,-
+(i) age, which means,—
 
 (i) for the purposes of sections 22 to 41 and section 70 and in relation to any different treatment based on age that occurs in the period beginning with 1 February 1994 and ending with the close of 31 January 1999, any age commencing with the age of 16 years and ending with the date on which persons of the age of the person whose age is in issue qualify for national superannuation under section 7 of the New Zealand Superannuation and Retirement Income Act 2001 (irrespective of whether or not the particular person qualifies for national superannuation at that age or any other age):
 
@@ -1256,13 +1565,13 @@ Reprinted as at 1 July 2013
 
 (j) political opinion, which includes the lack of a particular political opinion or any political opinion:
 
-(k) employment status, which means-
+(k) employment status, which means—
 
 (i) being unemployed; or
 
 (ii) being a recipient of a benefit under the Social Security Act 1964 or an entitlement under the Accident Compensation Act 2001:
 
-(l) family status, which means-
+(l) family status, which means—
 
 (i) having the responsibility for part-time care or full-time care of children or other dependants; or
 
@@ -1274,11 +1583,11 @@ Reprinted as at 1 July 2013
 
 (m) sexual orientation, which means a heterosexual, homosexual, lesbian, or bisexual orientation.
 
-- Each of the grounds specified in subsection (1) is a prohibited ground of discrimination, for the purposes of this Act, if-
+(2) Each of the grounds specified in subsection (1) is a prohibited ground of discrimination, for the purposes of this Act, if—
 
 (a) it pertains to a person or to a relative or associate of a person; and
 
-(b) it either-
+(b) it either—
 
 (i) currently exists or has in the past existed; or
 
@@ -1312,7 +1621,7 @@ Section 21(1)(l)(iii): amended, on 26 April 2005, by section 7 of the Relationsh
 
 #### 22 Employment
 
-- Where an applicant for employment or an employee is qualified for work of any description, it shall be unlawful for an employer, or any person acting or purporting to act on behalf of an employer,-
+(1) Where an applicant for employment or an employee is qualified for work of any description, it shall be unlawful for an employer, or any person acting or purporting to act on behalf of an employer,—
 
 (a) to refuse or omit to employ the applicant on work of that description which is available; or
 
@@ -1320,11 +1629,11 @@ Section 21(1)(l)(iii): amended, on 26 April 2005, by section 7 of the Relationsh
 
 (c) to terminate the employment of the employee, or subject the employee to any detriment, in circumstances in which the employment of other employees employed on work of that description would not be terminated, or in which other employees employed on work of that description would not be subjected to such detriment; or
 
-(d) to retire the employee, or to require or cause the employee to retire or resign,-
+(d) to retire the employee, or to require or cause the employee to retire or resign,—
 
 by reason of any of the prohibited grounds of discrimination.
 
-- It shall be unlawful for any person concerned with procuring employment for other persons or procuring employees for any employer to treat any person seeking employment differently from other persons in the same or substantially similar circumstances by reason of any of the prohibited grounds of discrimination.
+(2) It shall be unlawful for any person concerned with procuring employment for other persons or procuring employees for any employer to treat any person seeking employment differently from other persons in the same or substantially similar circumstances by reason of any of the prohibited grounds of discrimination.
 
 Compare: 1977 No 49 s 15(1), (2); 1992 No 16 s 3
 
@@ -1356,9 +1665,9 @@ Compare: 1977 No 49 s 15(8)
 
 #### 25 Exception in relation to work involving national security
 
-- Nothing in section 22 shall apply to any restrictions on the employment of any person on work involving the national security of New Zealand-
+(1) Nothing in section 22 shall apply to any restrictions on the employment of any person on work involving the national security of New Zealand—
 
-(a) by reference to his or her-
+(a) by reference to his or her—
 
 (i) religious or ethical belief; or
 
@@ -1372,7 +1681,7 @@ Compare: 1977 No 49 s 15(8)
 
 (b) by reference to the national origin of any relative of that person.
 
-- It shall not be a breach of section 22 to decline to employ a person under the age of 20 years on work involving the national security of New Zealand where that work requires a secret or top secret security clearance.
+(2) It shall not be a breach of section 22 to decline to employ a person under the age of 20 years on work involving the national security of New Zealand where that work requires a secret or top secret security clearance.
 
 Compare: 1977 No 49 s 15(10)
 
@@ -1390,7 +1699,7 @@ Part 2 s 27
 
 #### 26 Exception in relation to work performed outside New Zealand
 
-Nothing in section 22 shall prevent different treatment based on sex, religious or ethical belief, or age if the duties of the position in respect of which that treatment is accorded-
+Nothing in section 22 shall prevent different treatment based on sex, religious or ethical belief, or age if the duties of the position in respect of which that treatment is accorded—
 
 (a) are to be performed wholly or mainly outside New Zealand; and
 
@@ -1400,15 +1709,15 @@ Compare: 1977 No 49 ss 15(9), 15A(1)(b); 1992 No 16 s 4
 
 #### 27 Exceptions in relation to authenticity and privacy
 
-- Nothing in section 22 shall prevent different treatment based on sex or age where, for reasons of authenticity, being of a particular sex or age is a genuine occupational qualification for the position or employment.
+(1) Nothing in section 22 shall prevent different treatment based on sex or age where, for reasons of authenticity, being of a particular sex or age is a genuine occupational qualification for the position or employment.
 
-- Nothing in section 22 shall prevent different treatment based on sex, religious or ethical belief, disability, age, political opinion, or sexual orientation where the position is one of domestic employment in a private household.
+(2) Nothing in section 22 shall prevent different treatment based on sex, religious or ethical belief, disability, age, political opinion, or sexual orientation where the position is one of domestic employment in a private household.
 
-- Nothing in section 22 shall prevent different treatment based on sex where-
+(3) Nothing in section 22 shall prevent different treatment based on sex where—
 
 (a) the position needs to be held by one sex to preserve reasonable standards of privacy; or
 
-(b) the nature or location of the employment makes it impracticable for the employee to live elsewhere than in premises provided by the employer, and-
+(b) the nature or location of the employment makes it impracticable for the employee to live elsewhere than in premises provided by the employer, and—
 
 (i) the only premises available (being premises in which more than 1 employee is required to sleep) are not equipped with separate sleeping accommodation for each sex; and
 
@@ -1426,21 +1735,21 @@ Human Rights Act 1993
 
 Reprinted as at 1 July 2013
 
-- Nothing in section 22 shall prevent different treatment based on sex, race, ethnic or national origins, or sexual orientation where the position is that of a counsellor on highly personal matters such as sexual matters or the prevention of violence.
+(4) Nothing in section 22 shall prevent different treatment based on sex, race, ethnic or national origins, or sexual orientation where the position is that of a counsellor on highly personal matters such as sexual matters or the prevention of violence.
 
-- Where, as a term or condition of employment, a position ordinarily obliges or qualifies the holder of that position to live in premises provided by the employer, the employer does not commit a breach of section 22 by omitting to apply that term or condition in respect of employees of a particular sex or marital status if in all the circumstances it is not reasonably practicable for the employer to do so.
+(5) Where, as a term or condition of employment, a position ordinarily obliges or qualifies the holder of that position to live in premises provided by the employer, the employer does not commit a breach of section 22 by omitting to apply that term or condition in respect of employees of a particular sex or marital status if in all the circumstances it is not reasonably practicable for the employer to do so.
 
 Compare: 1977 No 49 ss 15(3), 15A(1)(a); 1992 No 16 s 4
 
 #### 28 Exceptions for purposes of religion
 
-- Nothing in section 22 shall prevent different treatment based on sex where the position is for the purposes of an organised religion and is limited to one sex so as to comply with the doctrines or rules or established customs of the religion.
+(1) Nothing in section 22 shall prevent different treatment based on sex where the position is for the purposes of an organised religion and is limited to one sex so as to comply with the doctrines or rules or established customs of the religion.
 
-- Nothing in section 22 shall prevent different treatment based on religious or ethical belief where-
+(2) Nothing in section 22 shall prevent different treatment based on religious or ethical belief where—
 
 (a) that treatment is accorded under section 65 of the Private Schools Conditional Integration Act 1975; or
 
-(b) the sole or principal duties of the position (not being a position to which section 65 of the Private Schools Conditional Integration Act 1975 applies)-
+(b) the sole or principal duties of the position (not being a position to which section 65 of the Private Schools Conditional Integration Act 1975 applies)—
 
 (i) are, or are substantially the same as, those of a clergyman, priest, pastor, official, or teacher among adherents of that belief or otherwise involve the propagation of that belief; or
 
@@ -1448,7 +1757,7 @@ Compare: 1977 No 49 ss 15(3), 15A(1)(a); 1992 No 16 s 4
 
 (iii) consist of acting as a social worker on behalf of an organisation whose members comprise solely or principally adherents of that belief.
 
-- Where a religious or ethical belief requires its adherents to follow a particular practice, an employer must accommodate the practice so long as any adjustment of the employer's activities required to accommodate the practice does not unreasonably disrupt the employer's activities.
+(3) Where a religious or ethical belief requires its adherents to follow a particular practice, an employer must accommodate the practice so long as any adjustment of the employer's activities required to accommodate the practice does not unreasonably disrupt the employer's activities.
 
 Compare: 1977 No 49 s 15(6), (7)
 
@@ -1466,15 +1775,15 @@ Part 2 s 30
 
 #### 29 Further exceptions in relation to disability
 
-- Nothing in section 22 shall prevent different treatment based on disability where-
+(1) Nothing in section 22 shall prevent different treatment based on disability where—
 
 (a) the position is such that the person could perform the duties of the position satisfactorily only with the aid of special services or facilities and it is not reasonable to expect the employer to provide those services or facilities; or
 
 (b) the environment in which the duties of the position are to be performed or the nature of those duties, or of some of them, is such that the person could perform those duties only with a risk of harm to that person or to others, including the risk of infecting others with an illness, and it is not reasonable to take that risk.
 
-- Nothing in subsection (1)(b) shall apply if the employer could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
+(2) Nothing in subsection (1)(b) shall apply if the employer could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
 
-- Nothing in section 22 shall apply to terms of employment or conditions of work that are set or varied after taking into account-
+(3) Nothing in section 22 shall apply to terms of employment or conditions of work that are set or varied after taking into account—
 
 (a) any special limitations that the disability of a person imposes on his or her capacity to carry out the work; and
 
@@ -1482,9 +1791,9 @@ Part 2 s 30
 
 #### 30 Further exceptions in relation to age
 
-- Nothing in section 22(1)(a) or section 22(1)(d) shall apply in relation to any position or employment where being of a particular age or in a particular age group is a genuine occupational qualification for that position or employment, whether for reasons of safety or for any other reason.
+(1) Nothing in section 22(1)(a) or section 22(1)(d) shall apply in relation to any position or employment where being of a particular age or in a particular age group is a genuine occupational qualification for that position or employment, whether for reasons of safety or for any other reason.
 
-- Nothing in section 22(1)(b) shall prevent payment of a person at a lower rate than another person employed in the same or substantially similar circumstances where the lower rate is paid on the basis that the first-mentioned person has not attained a particular age, not exceeding 20 years of age.
+(2) Nothing in section 22(1)(b) shall prevent payment of a person at a lower rate than another person employed in the same or substantially similar circumstances where the lower rate is paid on the basis that the first-mentioned person has not attained a particular age, not exceeding 20 years of age.
 
 41
 
@@ -1498,27 +1807,27 @@ Human Rights Act 1993
 
 Reprinted as at 1 July 2013
 
-- Nothing in section 22(1)(a) shall prevent preferential treatment based on age accorded to persons who are to be paid in accordance with subsection (2).
+(3) Nothing in section 22(1)(a) shall prevent preferential treatment based on age accorded to persons who are to be paid in accordance with subsection (2).
 
-Compare: 1977 No 49 s 15A(2)-(4); 1992 No 16 s 4
+Compare: 1977 No 49 s 15A(2)–(4); 1992 No 16 s 4
 
 #### 30A Exception in relation to employment-related retirement benefits
 
-- Nothing in section 22(1)(b) prevents different treatment based on age with respect to, or in any way related to, the payment of a benefit to an employee on retirement if-
+(1) Nothing in section 22(1)(b) prevents different treatment based on age with respect to, or in any way related to, the payment of a benefit to an employee on retirement if—
 
-(a) the employee's entitlement to that benefit ( the retirement benefit ), or the calculation of that retirement benefit, is determined in whole or in part (and whether directly or indirectly) by the employee's age; and
+(a) the employee's entitlement to that benefit (the retirement benefit), or the calculation of that retirement benefit, is determined in whole or in part (and whether directly or indirectly) by the employee's age; and
 
 (b) the retirement benefit is a term of a written employment contract that was in force on or before 1 February 1999; and
 
 (c) the employee was, on or before 1 February 1999, a party to that employment contract.
 
-- If a retirement benefit was a term of an employee's written employment contract on 1 February 1999, subsection (1) continues to apply in relation to the payment of that retirement benefit even if either or both of the following things occur after that date:
+(2) If a retirement benefit was a term of an employee's written employment contract on 1 February 1999, subsection (1) continues to apply in relation to the payment of that retirement benefit even if either or both of the following things occur after that date:
 
 (a) the employee and the employer enter into a new written employment contract or employment agreement under which the employee remains entitled to that retirement benefit:
 
 (b) a different person becomes the employee's employer as a result of a merger, takeover, restructuring, or reorganisation, but the employee remains entitled to that retirement benefit by virtue of any enactment or agreement.
 
-- This section does not limit section 149.
+(3) This section does not limit section 149.
 
 Section 30A: inserted, on 1 October 1999, by section 2 of the Human Rights Amendment Act 1999 (1999 No 100).
 
@@ -1538,7 +1847,7 @@ Part 2 s 33
 
 #### 31 Exception in relation to employment of a political nature
 
-Nothing in section 22 shall prevent different treatment based on political opinion where the position is one as-
+Nothing in section 22 shall prevent different treatment based on political opinion where the position is one as—
 
 (a) a political adviser or secretary to a member of Parliament; or
 
@@ -1552,9 +1861,9 @@ Section 31(c): amended, on 1 July 2001, by section 151 of the Local Electoral Ac
 
 #### 32 Exception in relation to family status
 
-Nothing in section 22 shall prevent restrictions imposed by an employer-
+Nothing in section 22 shall prevent restrictions imposed by an employer—
 
-(a) on the employment of any person who is married to, or in a civil union or in a de facto relationship with, or who is a relative of, another employee if-
+(a) on the employment of any person who is married to, or in a civil union or in a de facto relationship with, or who is a relative of, another employee if—
 
 (i) there would be a reporting relationship between them; or
 
@@ -1582,9 +1891,11 @@ Part 2 s 34
 
 Human Rights Act 1993
 
+Reprinted as at 1 July 2013
+
 #### 34 Regular forces
 
-- Nothing in section 22(1)(c) or section 22(1)(d) shall prevent the Chief of Defence Force from instituting, under section 57A of the Defence Act 1990, the discharge or release of a member of the regular forces.
+(1) Nothing in section 22(1)(c) or section 22(1)(d) shall prevent the Chief of Defence Force from instituting, under section 57A of the Defence Act 1990, the discharge or release of a member of the regular forces.
 
 (2) [Repealed]
 
@@ -1602,23 +1913,21 @@ Compare: 1977 No 49 s 15(4)
 
 #### 36 Partnerships
 
-- It shall be unlawful for a firm, or for persons jointly promoting the formation of a firm,-
+(1) It shall be unlawful for a firm, or for persons jointly promoting the formation of a firm,—
 
 (a) to refuse or to omit to offer a person admission to the firm as a partner; or
 
-(b) to offer or afford a person less favourable terms and conditions as a partner than are made available to other members or prospective members of the firm,-
+(b) to offer or afford a person less favourable terms and conditions as a partner than are made available to other members or prospective members of the firm,—
 
 by reason of any of the prohibited grounds of discrimination.
 
-- It shall be unlawful for a firm-
+(2) It shall be unlawful for a firm—
 
 (a) to deny any partner increased status in the firm or an increased share in the capital or profits of the firm; or
 
-(b) to expel any partner from the firm or to subject any partner to any other detriment,-
+(b) to expel any partner from the firm or to subject any partner to any other detriment,—
 
 by reason of any of the prohibited grounds of discrimination.
-
-Reprinted as at 1 July 2013
 
 44
 
@@ -1632,35 +1941,25 @@ Human Rights Act 1993
 
 Part 2 s 36
 
-(2A) It is unlawful for a firm, or for persons jointly promoting the formation of a firm, to fail to provide special services or facilities that could reasonably be provided by the firm, or those persons, in the circumstances and that, if provided, would enable a person with a disability-
+(2A) It is unlawful for a firm, or for persons jointly promoting the formation of a firm, to fail to provide special services or facilities that could reasonably be provided by the firm, or those persons, in the circumstances and that, if provided, would enable a person with a disability—
 
 (a) to be accepted as a partner and remain in partnership; or
 
-(b)
+(b) to be offered the same terms and conditions as a partner (including terms and conditions as to status in the firm or entitlements to shares in capital or profits) that are made available to other members or prospective members of the firm.
 
-to be offered the same terms and conditions as a partner
-
-(including terms and conditions as to status in the firm
-
-or entitlements to shares in capital or profits) that are
-
-made available to other members or prospective mem-
-
-bers of the firm.
-
-- Nothing in this section prevents the fixing of reasonable terms and conditions in relation to a partner or prospective partner, who by reason of disability or age-
+(3) Nothing in this section prevents the fixing of reasonable terms and conditions in relation to a partner or prospective partner, who by reason of disability or age—
 
 (a) has a restricted capacity to participate or continue to participate in the partnership, that cannot be restored to normal by the provision of any special services or facilities required to be provided under subsection (2A); or
 
 (b) requires special conditions if he or she is to participate or continue to participate in the partnership, even if any special services or facilities required to be provided under subsection (2A) are provided.
 
-- Nothing in this section applies in respect of a person with a disability, if the disability of the person is such that-
+(4) Nothing in this section applies in respect of a person with a disability, if the disability of the person is such that—
 
 (a) there would be a risk of harm to that person or others, including the risk of infecting others with an illness if that person were to accept or remain in partnership or be given the same terms and conditions as a partner (including terms and conditions as to status in the firm or entitlement to shares in capital or profits) that were made available to other members or prospective members of the firm; and
 
 (b) it is not reasonable to take that risk.
 
-- Subsection (4) does not apply if the firm, or persons jointly promoting the formation of a firm, could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
+(5) Subsection (4) does not apply if the firm, or persons jointly promoting the formation of a firm, could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
 
 Compare: 1977 No 49 s 19; 1992 No 16 s 8
 
@@ -1688,17 +1987,17 @@ Section 36(5): added, on 10 September 2008, by section 4(2) of the Human Rights 
 
 #### 37 Organisations of employees or employers and professional and trade associations
 
-- It shall be unlawful for an organisation to which this section applies, or for any person acting or purporting to act on behalf of any such organisation,-
+(1) It shall be unlawful for an organisation to which this section applies, or for any person acting or purporting to act on behalf of any such organisation,—
 
 (a) to refuse or omit to accept any person for membership; or
 
 (b) to offer any person less favourable terms of membership and less favourable access to any benefits, facilities, or services, including the right to stand for election and hold office in the organisation, than would otherwise be made available; or
 
-(c) to deprive a person of membership, or suspend him or her, in circumstances in which other persons would not be deprived of membership or suspended,-
+(c) to deprive a person of membership, or suspend him or her, in circumstances in which other persons would not be deprived of membership or suspended,—
 
 by reason of any of the prohibited grounds of discrimination.
 
-(1A) It is unlawful for an organisation to which this section applies, or for any person acting or purporting to act on behalf of any such organisation, to fail to provide special services or facilities that could reasonably be provided by the organisation in the circumstances and that, if provided, would enable a person with a disability to-
+(1A) It is unlawful for an organisation to which this section applies, or for any person acting or purporting to act on behalf of any such organisation, to fail to provide special services or facilities that could reasonably be provided by the organisation in the circumstances and that, if provided, would enable a person with a disability—
 
 (a) be accepted and remain in membership; or
 
@@ -1716,9 +2015,9 @@ Human Rights Act 1993
 
 Part 2 s 38
 
-- Nothing in this section shall prevent an organisation to which this section applies from charging different fees to persons in different age groups.
+(2) Nothing in this section shall prevent an organisation to which this section applies from charging different fees to persons in different age groups.
 
-(2A) Nothing in this section applies in respect of a person with a disability, if the disability of the person is such that-
+(2A) Nothing in this section applies in respect of a person with a disability, if the disability of the person is such that—
 
 (a) there would be a risk of harm to that person or others, including the risk of infecting others with an illness if that person were to accept or remain in membership or be given equal access to benefits, facilities, or services provided by the organisation (including the right to stand for election and hold office); and
 
@@ -1726,7 +2025,7 @@ Part 2 s 38
 
 (2B) Subsection (2A) does not apply if the organisation could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
 
-- This section applies to an organisation of employees, an organisation of employers, or any other organisation that exists for the purposes of members who carry on a particular profession, trade, or calling.
+(3) This section applies to an organisation of employees, an organisation of employers, or any other organisation that exists for the purposes of members who carry on a particular profession, trade, or calling.
 
 Compare: 1977 No 49 s 20; 1992 No 16 s 9
 
@@ -1738,7 +2037,7 @@ Section 37(2B): inserted, on 10 September 2008, by section 5(2) of the Human Rig
 
 #### 38 Qualifying bodies
 
-- It shall be unlawful for an authority or body empowered to confer an approval, authorisation, or qualification that is needed for, or facilitates, engagement in a profession, trade, or calling, or any person acting or purporting to act on behalf of any such authority or body,-
+(1) It shall be unlawful for an authority or body empowered to confer an approval, authorisation, or qualification that is needed for, or facilitates, engagement in a profession, trade, or calling, or any person acting or purporting to act on behalf of any such authority or body,—
 
 (a) to refuse or omit to confer that approval, authorisation, or qualification on a person; or
 
@@ -1756,19 +2055,19 @@ Human Rights Act 1993
 
 Reprinted as at 1 July 2013
 
-(c) to withdraw that approval, authorisation, or qualification or vary the terms on which it is held, in circumstances in which it would not otherwise be withdrawn or varied,-
+(c) to withdraw that approval, authorisation, or qualification or vary the terms on which it is held, in circumstances in which it would not otherwise be withdrawn or varied,—
 
 by reason of any of the prohibited grounds of discrimination.
 
-- For the purposes of this section confer includes renew or extend.
+(2) For the purposes of this section confer includes renew or extend.
 
 Compare: 1977 No 49 s 21(1), (3); 1992 No 16 s 10(1)
 
 #### 39 Exceptions in relation to qualifying bodies
 
-- Nothing in section 38 shall apply where the authorisation or qualification is needed for, or facilitates engagement in, a profession or calling for the purposes of an organised religion and is limited to one sex or to persons of that religious belief so as to comply with the doctrines or rules or established customs of that religion.
+(1) Nothing in section 38 shall apply where the authorisation or qualification is needed for, or facilitates engagement in, a profession or calling for the purposes of an organised religion and is limited to one sex or to persons of that religious belief so as to comply with the doctrines or rules or established customs of that religion.
 
-- Nothing in section 38 shall prevent different treatment based on disability where-
+(2) Nothing in section 38 shall prevent different treatment based on disability where—
 
 (a) the person seeking or holding the approval, authorisation, or qualification is not, by reason of that person's disability, able to perform the duties required of a person who holds the approval, authorisation, or qualification; or
 
@@ -1776,7 +2075,7 @@ Compare: 1977 No 49 s 21(1), (3); 1992 No 16 s 10(1)
 
 (c) conditions placed on the granting of the approval, authorisation, or qualification to any person or on the retention of the approval, authorisation, or qualification by any person are reasonably related to the disability of that person.
 
-(2A) For the purposes of applying subsection (2)(a) and (b), an authority or body referred to in section 38 must,-
+(2A) For the purposes of applying subsection (2)(a) and (b), an authority or body referred to in section 38 must,—
 
 48
 
@@ -1794,7 +2093,7 @@ Part 2 s 40
 
 (b) in the case of subsection (2)(b), take account of whether the risk of harm referred to in that paragraph could be reduced to a normal level, without unreasonable disruption to an employer or to any other relevant person.
 
-- Nothing in section 38 shall apply where-
+(3) Nothing in section 38 shall apply where—
 
 (a) the authority or body imposes a reasonable and appropriate minimum age under which the approval, authorisation, or qualification will not be conferred; or
 
@@ -1806,15 +2105,17 @@ Section 39(2A): inserted, on 10 September 2008, by section 6 of the Human Rights
 
 #### 40 Vocational training bodies
 
-It shall be unlawful for any organisation or association which has as its function or one of its principal functions the provision of training, or facilities or opportunities for training (including facilities or opportunities by way of financial grants), that would help to fit a person for any employment, or for any person acting or purporting to act on behalf of any such organisation or association,-
+It shall be unlawful for any organisation or association which has as its function or one of its principal functions the provision of training, or facilities or opportunities for training (including facilities or opportunities by way of financial grants), that would help to fit a person for any employment, or for any person acting or purporting to act on behalf of any such organisation or association,—
 
 (a) to refuse or omit to provide training, or facilities or opportunities for training; or
 
 (b) to provide training, or facilities or opportunities for training, on less favourable terms and conditions than would otherwise be made available; or
 
-(c) to terminate training, or facilities or opportunities for training,-
+(c) to terminate training, or facilities or opportunities for training,—
 
-by reason of any of the prohibited grounds of discrimination. Compare: 1977 No 49 s 22(1); 1992 No 16 s 11(1)
+by reason of any of the prohibited grounds of discrimination.
+
+Compare: 1977 No 49 s 22(1); 1992 No 16 s 11(1)
 
 49
 
@@ -1830,21 +2131,21 @@ Reprinted as at 1 July 2013
 
 #### 41 Exceptions in relation to vocational training bodies
 
-- Nothing in section 40 shall prevent an organisation or association from affording persons preferential access to facilities for training that would help to fit them for employment where it appears to that organisation or association that those persons are in special need of training by reason of the period for which they have not been engaged in regular full-time employment.
+(1) Nothing in section 40 shall prevent an organisation or association from affording persons preferential access to facilities for training that would help to fit them for employment where it appears to that organisation or association that those persons are in special need of training by reason of the period for which they have not been engaged in regular full-time employment.
 
-- Subject to subsection (3), nothing in section 40 shall apply where a person's disability is such that there would be a risk of harm to that person or to others, including the risk of infecting others with an illness, if that person were to be provided with training, or facilities or opportunities for training, and it is not reasonable to take that risk.
+(2) Subject to subsection (3), nothing in section 40 shall apply where a person's disability is such that there would be a risk of harm to that person or to others, including the risk of infecting others with an illness, if that person were to be provided with training, or facilities or opportunities for training, and it is not reasonable to take that risk.
 
-- Nothing in subsection (2) shall apply if the organisation or association providing training, or facilities or opportunities for training, could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
+(3) Nothing in subsection (2) shall apply if the organisation or association providing training, or facilities or opportunities for training, could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
 
-- Nothing in section 40 shall prevent an organisation or association from providing training, or facilities or opportunities for training (including facilities or opportunities by way of financial grants), only for persons above a particular age or in a particular age group.
+(4) Nothing in section 40 shall prevent an organisation or association from providing training, or facilities or opportunities for training (including facilities or opportunities by way of financial grants), only for persons above a particular age or in a particular age group.
 
-- Nothing in section 40 shall prevent the making of financial grants by an organisation or association only to persons above a particular age or in a particular age group.
+(5) Nothing in section 40 shall prevent the making of financial grants by an organisation or association only to persons above a particular age or in a particular age group.
 
-- Nothing in section 40 shall prevent an organisation or association from charging different fees to persons in different age groups.
+(6) Nothing in section 40 shall prevent an organisation or association from charging different fees to persons in different age groups.
 
-- Nothing in section 40 makes it unlawful to fail to provide special services or facilities designed for a specified purpose if those special services or facilities cannot reasonably be provided in the circumstances.
+(7) Nothing in section 40 makes it unlawful to fail to provide special services or facilities designed for a specified purpose if those special services or facilities cannot reasonably be provided in the circumstances.
 
-- In subsection (7), a specified purpose means 1 or more of the following purposes:
+(8) In subsection (7), a specified purpose means 1 or more of the following purposes:
 
 (a) to enable a person with a disability to undergo and remain in training; or
 
@@ -1874,27 +2175,27 @@ Section 41(8): added, on 10 September 2008, by section 7 of the Human Rights Ame
 
 #### 42 Access by the public to places, vehicles, and facilities
 
-- It shall be unlawful for any person-
+(1) It shall be unlawful for any person—
 
 (a) to refuse to allow any other person access to or use of any place or vehicle which members of the public are entitled or allowed to enter or use; or
 
 (b) to refuse any other person the use of any facilities in that place or vehicle which are available to members of the public; or
 
-(c) to require any other person to leave or cease to use that place or vehicle or those facilities,-
+(c) to require any other person to leave or cease to use that place or vehicle or those facilities,—
 
 by reason of any of the prohibited grounds of discrimination.
 
-- In this section the term vehicle includes a vessel, an aircraft, or a hovercraft.
+(2) In this section the term vehicle includes a vessel, an aircraft, or a hovercraft.
+
+Compare: 1977 No 49 s 23(1), (3)
 
 #### 43 Exceptions in relation to access by the public to places, vehicles, and facilities
 
-- Section 42 shall not prevent the maintenance of separate facilities for each sex on the ground of public decency or public safety.
+(1) Section 42 shall not prevent the maintenance of separate facilities for each sex on the ground of public decency or public safety.
 
-- Nothing in section 42 requires any person to provide for any person, by reason of the disability of that person, special services or special facilities to enable any such person to gain access to or use any place or vehicle when it would not be reasonable to require the provision of such special services or facilities.
+(2) Nothing in section 42 requires any person to provide for any person, by reason of the disability of that person, special services or special facilities to enable any such person to gain access to or use any place or vehicle when it would not be reasonable to require the provision of such special services or facilities.
 
-- Nothing in subsection (2) limits section 118 of the Building Act 2004.
-
-Compare: 1977 No 49 s 23(1), (3)
+(3) Nothing in subsection (2) limits section 118 of the Building Act 2004.
 
 51
 
@@ -1908,9 +2209,9 @@ Human Rights Act 1993
 
 Reprinted as at 1 July 2013
 
-- Subject to subsection (5), nothing in section 42 shall apply where the disability of a person is such that there would be a risk of harm to that person or to others, including the risk of infecting others with an illness, if that person were to have access to or use of any place or vehicle and it is not reasonable to take that risk.
+(4) Subject to subsection (5), nothing in section 42 shall apply where the disability of a person is such that there would be a risk of harm to that person or to others, including the risk of infecting others with an illness, if that person were to have access to or use of any place or vehicle and it is not reasonable to take that risk.
 
-- Subsection (4) shall not apply if the person in charge of the place, vehicle, or facility could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
+(5) Subsection (4) shall not apply if the person in charge of the place, vehicle, or facility could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
 
 Compare: 1977 No 49 s 23(2)
 
@@ -1922,17 +2223,17 @@ Section 43(3): amended, on 31 March 2005, by section 414 of the Building Act 200
 
 #### 44 Provision of goods and services
 
-- It shall be unlawful for any person who supplies goods, facilities, or services to the public or to any section of the public-
+(1) It shall be unlawful for any person who supplies goods, facilities, or services to the public or to any section of the public—
 
 (a) to refuse or fail on demand to provide any other person with those goods, facilities, or services; or
 
-(b) to treat any other person less favourably in connection with the provision of those goods, facilities, or services than would otherwise be the case,-
+(b) to treat any other person less favourably in connection with the provision of those goods, facilities, or services than would otherwise be the case,—
 
 by reason of any of the prohibited grounds of discrimination.
 
-- For the purposes of subsection (1), but without limiting the meaning of the terms goods, facilities, and services in that subsection, the term facilities includes facilities by way of banking or insurance or for grants, loans, credit, or finance.
+(2) For the purposes of subsection (1), but without limiting the meaning of the terms goods, facilities, and services in that subsection, the term facilities includes facilities by way of banking or insurance or for grants, loans, credit, or finance.
 
-- Where any club, or any branch or affiliate of any club, that grants privileges to members of any other club, branch, or affiliate refuses or fails on demand to provide those privileges to any of those members, or treats any of those members less favourably in connection with the provision of those privileges than would otherwise be the case, by reason of any of the prohibited grounds of discrimination, that club, branch, or
+(3) Where any club, or any branch or affiliate of any club, that grants privileges to members of any other club, branch, or affiliate refuses or fails on demand to provide those privileges to any of those members, or treats any of those members less favourably in connection with the provision of those privileges than would otherwise be the case, by reason of any of the prohibited grounds of discrimination, that club, branch, or
 
 52
 
@@ -1948,9 +2249,9 @@ Part 2 s 48
 
 affiliate shall be deemed to have committed a breach of this section.
 
-- Subject to subsection (3), nothing in this section shall apply to access to membership of a club or to the provision of services or facilities to members of a club.
+(4) Subject to subsection (3), nothing in this section shall apply to access to membership of a club or to the provision of services or facilities to members of a club.
 
-Compare: 1977 No 49 s 24(1)-(3)
+Compare: 1977 No 49 s 24(1)–(3)
 
 #### 45 Exception in relation to courses and counselling
 
@@ -1966,9 +2267,9 @@ Where the nature of a skill varies according to whether it is exercised in relat
 
 #### 48 Exception in relation to insurance
 
-- It shall not be a breach of section 44 to offer or provide annuities, life insurance policies, accident insurance policies, or other policies of insurance, whether for individual persons or groups of persons, on different terms or conditions for each sex or for persons with a disability or for persons of different ages if the different treatment-
+(1) It shall not be a breach of section 44 to offer or provide annuities, life insurance policies, accident insurance policies, or other policies of insurance, whether for individual persons or groups of persons, on different terms or conditions for each sex or for persons with a disability or for persons of different ages if the different treatment—
 
-(a) is based on-
+(a) is based on—
 
 (i) actuarial or statistical data, upon which it is reasonable to rely, relating to life-expectancy, accidents, or sickness; or
 
@@ -1988,7 +2289,7 @@ Reprinted as at 1 July 2013
 
 (b) is reasonable having regard to the applicability of the data or advice or opinion, and of any other relevant factors, to the particular circumstances.
 
-- In assessing, for the purposes of this section, whether it is reasonable to rely on any data or advice or opinion, and whether different treatment is reasonable, the Commission or the Complaints Division may-
+(2) In assessing, for the purposes of this section, whether it is reasonable to rely on any data or advice or opinion, and whether different treatment is reasonable, the Commission or the Complaints Division may—
 
 (a) require justification to be provided for reliance on the data or advice or opinion and for the different treatment; and
 
@@ -2000,9 +2301,9 @@ Section 48(2)(b): amended, on 1 May 2011, by section 82 of the Financial Markets
 
 #### 49 Exception in relation to sport
 
-- Subject to subsection (2), nothing in section 44 shall prevent the exclusion of persons of one sex from participation in any competitive sporting activity in which the strength, stamina, or physique of competitors is relevant.
+(1) Subject to subsection (2), nothing in section 44 shall prevent the exclusion of persons of one sex from participation in any competitive sporting activity in which the strength, stamina, or physique of competitors is relevant.
 
-- Subsection (1) does not apply in relation to the exclusion of persons from participation in-
+(2) Subsection (1) does not apply in relation to the exclusion of persons from participation in—
 
 (a) the coaching of persons engaged in any sporting activity; or
 
@@ -2012,7 +2313,7 @@ Section 48(2)(b): amended, on 1 May 2011, by section 82 of the Financial Markets
 
 (d) sporting activities by persons who have not attained the age of 12 years.
 
-- It shall not be a breach of section 44 to exclude any person from any competitive sporting event or activity if that person's disability is such that there would be a risk of harm to that person or to others, including the risk of infecting others with an illness, if that person were to take part in that competitive
+(3) It shall not be a breach of section 44 to exclude any person from any competitive sporting event or activity if that person's disability is such that there would be a risk of harm to that person or to others, including the risk of infecting others with an illness, if that person were to take part in that competitive
 
 54
 
@@ -2028,7 +2329,7 @@ Part 2 s 52
 
 sporting event or activity and it is not reasonable to take that risk.
 
-- It shall not be a breach of section 44 to conduct competitive sporting events or activities in which only persons with a particular disability or age qualification may take part.
+(4) It shall not be a breach of section 44 to conduct competitive sporting events or activities in which only persons with a particular disability or age qualification may take part.
 
 #### 50 Exception in relation to travel services
 
@@ -2040,15 +2341,15 @@ It shall not be a breach of section 44 to provide goods, services, or facilities
 
 #### 52 Exception in relation to disability
 
-It shall not be a breach of section 44 for a person who supplies facilities or services-
+It shall not be a breach of section 44 for a person who supplies facilities or services—
 
-(a) to refuse to provide those facilities or services to any person if-
+(a) to refuse to provide those facilities or services to any person if—
 
 (i) that person's disability requires those facilities or services to be provided in a special manner; and
 
 (ii) the person who supplies the facilities or services cannot reasonably be expected to provide them in that special manner; or
 
-(b) to provide those facilities or services to any person on terms that are more onerous than those on which they are made available to other persons, if-
+(b) to provide those facilities or services to any person on terms that are more onerous than those on which they are made available to other persons, if—
 
 (i) that person's disability requires those facilities or services to be provided in a special manner; and
 
@@ -2072,7 +2373,7 @@ Reprinted as at 1 July 2013
 
 #### 53 Land, housing, and other accommodation
 
-- It shall be unlawful for any person, on his or her own behalf or on behalf or purported behalf of any principal,-
+(1) It shall be unlawful for any person, on his or her own behalf or on behalf or purported behalf of any principal,—
 
 (a) to refuse or fail to dispose of any estate or interest in land or any residential or business accommodation to any other person; or
 
@@ -2082,11 +2383,11 @@ Reprinted as at 1 July 2013
 
 (d) to deny any person, directly or indirectly, the right to occupy any land or any residential or business accommodation; or
 
-(e) to terminate any estate or interest in land or the right of any person to occupy any land or any residential or business accommodation,-
+(e) to terminate any estate or interest in land or the right of any person to occupy any land or any residential or business accommodation,—
 
 by reason of any of the prohibited grounds of discrimination.
 
-- It shall be unlawful for any person, on his or her own behalf or on behalf or purported behalf of any principal, to impose or seek to impose on any other person any term or condition which limits, by reference to any of the prohibited grounds of discrimination, the persons or class of persons who may be the licensees or invitees of the occupier of any land or any residential or business accommodation.
+(2) It shall be unlawful for any person, on his or her own behalf or on behalf or purported behalf of any principal, to impose or seek to impose on any other person any term or condition which limits, by reference to any of the prohibited grounds of discrimination, the persons or class of persons who may be the licensees or invitees of the occupier of any land or any residential or business accommodation.
 
 Compare: 1977 No 49 s 25(1), (2)
 
@@ -2114,11 +2415,11 @@ Nothing in section 53 shall apply to accommodation in any hostel or in any estab
 
 #### 56 Further exception in relation to disability
 
-- Subject to subsection (2), nothing in section 53 shall apply, in relation to any accommodation, if the disability of the person is such that there would be a risk of harm to that person or others, including the risk of infecting others with an illness, if that person were to live in that accommodation and it is not reasonable to take that risk.
+(1) Subject to subsection (2), nothing in section 53 shall apply, in relation to any accommodation, if the disability of the person is such that there would be a risk of harm to that person or others, including the risk of infecting others with an illness, if that person were to live in that accommodation and it is not reasonable to take that risk.
 
-- Subsection (1) shall not apply if the person in charge of the accommodation could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
+(2) Subsection (1) shall not apply if the person in charge of the accommodation could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
 
-- Nothing in section 53 makes it unlawful to fail to provide special services or facilities designed to make accommodation suitable for occupation by a person with a disability, if those special services or facilities cannot reasonably be provided in the circumstances.
+(3) Nothing in section 53 makes it unlawful to fail to provide special services or facilities designed to make accommodation suitable for occupation by a person with a disability, if those special services or facilities cannot reasonably be provided in the circumstances.
 
 Section 56(3): added, on 10 September 2008, by section 8 of the Human Rights Amendment Act 2008 (2008 No 65).
 
@@ -2126,7 +2427,7 @@ Section 56(3): added, on 10 September 2008, by section 8 of the Human Rights Ame
 
 #### 57 Educational establishments
 
-- It shall be unlawful for an educational establishment, or the authority responsible for the control of an educational establishment, or any person concerned in the management of an educational establishment or in teaching at an educational establishment,-
+(1) It shall be unlawful for an educational establishment, or the authority responsible for the control of an educational establishment, or any person concerned in the management of an educational establishment or in teaching at an educational establishment,—
 
 (a) to refuse or fail to admit a person as a pupil or student; or
 
@@ -2146,23 +2447,23 @@ Reprinted as at 1 July 2013
 
 (c) to deny or restrict access to any benefits or services provided by the establishment; or
 
-(d) to exclude a person as a pupil or a student or subject him or her to any other detriment,-
+(d) to exclude a person as a pupil or a student or subject him or her to any other detriment,—
 
 by reason of any of the prohibited grounds of discrimination.
 
-- In this section educational establishment includes an establishment offering any form of training or instruction and an educational establishment under the control of an organisation or association referred to in section 40.
+(2) In this section educational establishment includes an establishment offering any form of training or instruction and an educational establishment under the control of an organisation or association referred to in section 40.
 
-- Compare: 1977 No 49 s 26(1), (3)
+Compare: 1977 No 49 s 26(1), (3)
 
 #### 58 Exceptions in relation to establishments for particular groups
 
-- An educational establishment maintained wholly or principally for students of one sex, race, or religious belief, or for students with a particular disability, or for students in a particular age group, or the authority responsible for the control of any such establishment, does not commit a breach of section 57 by refusing to admit students of a different sex, race, or religious belief, or students not having that disability or not being in that age group.
+(1) An educational establishment maintained wholly or principally for students of one sex, race, or religious belief, or for students with a particular disability, or for students in a particular age group, or the authority responsible for the control of any such establishment, does not commit a breach of section 57 by refusing to admit students of a different sex, race, or religious belief, or students not having that disability or not being in that age group.
 
-- Nothing in section 57 shall prevent an organisation or association from affording persons preferential access to facilities for training that would help to fit them for employment where it appears to that organisation or association that those persons are in special need of training by reason of the period for which they have not been engaged in regular full-time employment.
+(2) Nothing in section 57 shall prevent an organisation or association from affording persons preferential access to facilities for training that would help to fit them for employment where it appears to that organisation or association that those persons are in special need of training by reason of the period for which they have not been engaged in regular full-time employment.
 
-- Nothing in section 57 shall prevent an organisation or association from providing training, or facilities or opportunities for training (including facilities or opportunities by way of financial grants), only for persons above a particular age or in a particular age group.
+(3) Nothing in section 57 shall prevent an organisation or association from providing training, or facilities or opportunities for training (including facilities or opportunities by way of financial grants), only for persons above a particular age or in a particular age group.
 
-- Nothing in section 57 shall prevent the making of financial grants by an organisation or association only to persons above a particular age or in a particular age group.
+(4) Nothing in section 57 shall prevent the making of financial grants by an organisation or association only to persons above a particular age or in a particular age group.
 
 58
 
@@ -2176,7 +2477,7 @@ Human Rights Act 1993
 
 Part 2 s 60
 
-- Nothing in section 57 shall prevent an organisation or association from charging different fees to persons in different age groups.
+(5) Nothing in section 57 shall prevent an organisation or association from charging different fees to persons in different age groups.
 
 Compare: 1977 No 49 s 26(2)
 
@@ -2186,11 +2487,11 @@ Nothing in section 57 shall prevent the holding or provision, at any educational
 
 #### 60 Further exceptions in relation to disability
 
-- Nothing in section 57 applies to a person whose disability is such that that person requires special services or facilities that in the circumstances cannot reasonably be made available (being services or facilities that are required to enable the person to participate in the educational programme of an establishment referred to in that section or to enable the person to derive substantial benefits from that programme).
+(1) Nothing in section 57 applies to a person whose disability is such that that person requires special services or facilities that in the circumstances cannot reasonably be made available (being services or facilities that are required to enable the person to participate in the educational programme of an establishment referred to in that section or to enable the person to derive substantial benefits from that programme).
 
-- Subject to subsection (3), nothing in section 57 shall apply where the person's disability is such that there would be a risk of harm to that person or to others, including the risk of infecting others with an illness, if that person were to be admitted to an educational establishment and it is not reasonable to take that risk.
+(2) Subject to subsection (3), nothing in section 57 shall apply where the person's disability is such that there would be a risk of harm to that person or to others, including the risk of infecting others with an illness, if that person were to be admitted to an educational establishment and it is not reasonable to take that risk.
 
-- Nothing in subsection (2) shall apply if the person in charge of the educational establishment could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
+(3) Nothing in subsection (2) shall apply if the person in charge of the educational establishment could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
 
 Compare: Equal Opportunity Act 1984 s 28(5) (Vic)
 
@@ -2214,23 +2515,25 @@ Reprinted as at 1 July 2013
 
 #### 61 Racial disharmony
 
-- It shall be unlawful for any person-
+(1) It shall be unlawful for any person—
 
 (a) to publish or distribute written matter which is threatening, abusive, or insulting, or to broadcast by means of radio or television words which are threatening, abusive, or insulting; or
 
 (b) to use in any public place as defined in section 2(1) of the Summary Offences Act 1981, or within the hearing of persons in any such public place, or at any meeting to which the public are invited or have access, words which are threatening, abusive, or insulting; or
 
-(c) to use in any place words which are threatening, abusive, or insulting if the person using the words knew or ought to have known that the words were reasonably likely to be published in a newspaper, magazine, or periodical or broadcast by means of radio or television,-
+(c) to use in any place words which are threatening, abusive, or insulting if the person using the words knew or ought to have known that the words were reasonably likely to be published in a newspaper, magazine, or periodical or broadcast by means of radio or television,—
 
 being matter or words likely to excite hostility against or bring into contempt any group of persons in or who may be coming to New Zealand on the ground of the colour, race, or ethnic or national origins of that group of persons.
 
-- It shall not be a breach of subsection (1) to publish in a newspaper, magazine, or periodical or broadcast by means of radio or television a report relating to the publication or distribution of matter by any person or the broadcast or use of words by any person, if the report of the matter or words accurately conveys the intention of the person who published or distributed the matter or broadcast or used the words.
+(2) It shall not be a breach of subsection (1) to publish in a newspaper, magazine, or periodical or broadcast by means of radio or television a report relating to the publication or distribution of matter by any person or the broadcast or use of words by any person, if the report of the matter or words accurately conveys the intention of the person who published or distributed the matter or broadcast or used the words.
 
-- For the purposes of this section,-
+(3) For the purposes of this section,—
 
 newspaper means a paper containing public news or observations on public news, or consisting wholly or mainly of advertisements, being a newspaper that is published periodically at intervals not exceeding 3 months
 
-publishes or distributes means publishes or distributes to the public at large or to any member or members of the public written matter includes any writing, sign, visible representation, or sound recording.
+publishes or distributes means publishes or distributes to the public at large or to any member or members of the public
+
+written matter includes any writing, sign, visible representation, or sound recording.
 
 Compare: 1971 No 150 s 9A; 1977 No 49 s 86; 1989 No 127 s 2
 
@@ -2248,15 +2551,15 @@ Part 2 s 62
 
 #### 62 Sexual harassment
 
-- It shall be unlawful for any person (in the course of that person's involvement in any of the areas to which this subsection is applied by subsection (3)) to make a request of any other person for sexual intercourse, sexual contact, or other form of sexual activity which contains an implied or overt promise of preferential treatment or an implied or overt threat of detrimental treatment.
+(1) It shall be unlawful for any person (in the course of that person's involvement in any of the areas to which this subsection is applied by subsection (3)) to make a request of any other person for sexual intercourse, sexual contact, or other form of sexual activity which contains an implied or overt promise of preferential treatment or an implied or overt threat of detrimental treatment.
 
-- It shall be unlawful for any person (in the course of that person's involvement in any of the areas to which this subsection is applied by subsection (3)) by the use of language (whether written or spoken) of a sexual nature, or of visual material of a sexual nature, or by physical behaviour of a sexual nature, to subject any other person to behaviour that-
+(2) It shall be unlawful for any person (in the course of that person's involvement in any of the areas to which this subsection is applied by subsection (3)) by the use of language (whether written or spoken) of a sexual nature, or of visual material of a sexual nature, or by physical behaviour of a sexual nature, to subject any other person to behaviour that—
 
 (a) is unwelcome or offensive to that person (whether or not that is conveyed to the first-mentioned person); and
 
 (b) is either repeated, or of such a significant nature, that it has a detrimental effect on that person in respect of any of the areas to which this subsection is applied by subsection (3).
 
-- The areas to which subsections (1) and (2) apply are-
+(3) The areas to which subsections (1) and (2) apply are—
 
 (a) the making of an application for employment:
 
@@ -2278,7 +2581,7 @@ Part 2 s 62
 
 (j) education.
 
-- Where a person complains of sexual harassment, no account shall be taken of any evidence of the person's sexual experience or reputation.
+(4) Where a person complains of sexual harassment, no account shall be taken of any evidence of the person's sexual experience or reputation.
 
 61
 
@@ -2290,9 +2593,11 @@ Part 2 s 63
 
 Human Rights Act 1993
 
+Reprinted as at 1 July 2013
+
 #### 63 Racial harassment
 
-- It shall be unlawful for any person to use language (whether written or spoken), or visual material, or physical behaviour that-
+(1) It shall be unlawful for any person to use language (whether written or spoken), or visual material, or physical behaviour that—
 
 (a) expresses hostility against, or brings into contempt or ridicule, any other person on the ground of the colour, race, or ethnic or national origins of that person; and
 
@@ -2300,7 +2605,7 @@ Human Rights Act 1993
 
 (c) is either repeated, or of such a significant nature, that it has a detrimental effect on that other person in respect of any of the areas to which this subsection is applied by subsection (2).
 
-- The areas to which subsection (1) applies are-
+(2) The areas to which subsection (1) applies are—
 
 (a) the making of an application for employment:
 
@@ -2332,8 +2637,6 @@ Section 64: repealed, on 1 December 2004, by section 3 of the Human Rights Amend
 
 Where any conduct, practice, requirement, or condition that is not apparently in contravention of any provision of this Part has the effect of treating a person or group of persons differently on 1 of the prohibited grounds of discrimination in a situ-
 
-Reprinted as at 1 July 2013
-
 62
 
 [[END OF PAGE 62]]
@@ -2352,9 +2655,9 @@ Compare: 1977 No 49 s 27; 1992 No 16 s 12
 
 #### 66 Victimisation
 
-- It shall be unlawful for any person to treat or to threaten to treat any other person less favourably than he or she would treat other persons in the same or substantially similar circumstances-
+(1) It shall be unlawful for any person to treat or to threaten to treat any other person less favourably than he or she would treat other persons in the same or substantially similar circumstances—
 
-(a) on the ground that that person, or any relative or associate of that person,-
+(a) on the ground that that person, or any relative or associate of that person,—
 
 (i) intends to make use of his or her rights under this Act or to make a disclosure under the Protected Disclosures Act 2000; or
 
@@ -2380,7 +2683,7 @@ Human Rights Act 1993
 
 Reprinted as at 1 July 2013
 
-- Subsection (1) shall not apply where a person is treated less favourably because he or she has knowingly made a false allegation or otherwise acted in bad faith.
+(2) Subsection (1) shall not apply where a person is treated less favourably because he or she has knowingly made a false allegation or otherwise acted in bad faith.
 
 Compare: 1977 No 49 s 31
 
@@ -2388,19 +2691,19 @@ Section 66(1)(a): substituted, on 1 January 2001, by section 25 of the Protected
 
 #### 67 Advertisements
 
-- It shall be unlawful for any person to publish or display, or to cause or allow to be published or displayed, any advertisement or notice which indicates, or could reasonably be understood as indicating, an intention to commit a breach of any of the provisions of this Part.
+(1) It shall be unlawful for any person to publish or display, or to cause or allow to be published or displayed, any advertisement or notice which indicates, or could reasonably be understood as indicating, an intention to commit a breach of any of the provisions of this Part.
 
-- For the purposes of subsection (1), use of a job description with a gender connotation (such as postman or stewardess) shall be taken to indicate an intention to discriminate, unless the advertisement contains an indication to the contrary.
+(2) For the purposes of subsection (1), use of a job description with a gender connotation (such as postman or stewardess) shall be taken to indicate an intention to discriminate, unless the advertisement contains an indication to the contrary.
 
 Compare: 1971 No 150 s 7; 1977 No 49 s 32
 
 #### 68 Liability of employer and principals
 
-- Subject to subsection (3), anything done or omitted by a person as the employee of another person shall, for the purposes of this Part, be treated as done or omitted by that other person as well as by the first-mentioned person, whether or not it was done with that other person's knowledge or approval.
+(1) Subject to subsection (3), anything done or omitted by a person as the employee of another person shall, for the purposes of this Part, be treated as done or omitted by that other person as well as by the first-mentioned person, whether or not it was done with that other person's knowledge or approval.
 
-- Anything done or omitted by a person as the agent of another person shall, for the purposes of this Part, be treated as done or omitted by that other person as well as by the first-mentioned person, unless it is done or omitted without that other person's express or implied authority, precedent or subsequent.
+(2) Anything done or omitted by a person as the agent of another person shall, for the purposes of this Part, be treated as done or omitted by that other person as well as by the first-mentioned person, unless it is done or omitted without that other person's express or implied authority, precedent or subsequent.
 
-- In proceedings under this Act against any person in respect of an act alleged to have been done by an employee of that person, it shall be a defence for that person to prove that he or she took such steps as were reasonably practicable to prevent the employee from doing that act, or from doing as an employee of that person acts of that description.
+(3) In proceedings under this Act against any person in respect of an act alleged to have been done by an employee of that person, it shall be a defence for that person to prove that he or she took such steps as were reasonably practicable to prevent the employee from doing that act, or from doing as an employee of that person acts of that description.
 
 Compare: 1977 No 49 s 33
 
@@ -2418,31 +2721,31 @@ Part 2 s 70
 
 #### 69 Further provision in relation to sexual or racial harassment in employment
 
-- Where-
+(1) Where—
 
 (a) a request of the kind described in section 62(1) is made to an employee; or
 
-(b) an employee is subjected to behaviour of the kind described in section 62(2) or section 63-
+(b) an employee is subjected to behaviour of the kind described in section 62(2) or section 63—
 
 by a person who is a customer or a client of the employee's employer, the employee may make a complaint in writing about that request or behaviour to the employee's employer.
 
-- The employer, on receiving a complaint under subsection (1),-
+(2) The employer, on receiving a complaint under subsection (1),—
 
 (a) shall inquire into the facts; and
 
-(b) if satisfied that such a request was made or that such behaviour took place,-
+(b) if satisfied that such a request was made or that such behaviour took place,—
 
 shall take whatever steps are practicable to prevent any repetition of such a request or of such behaviour.
 
-- Where any person, being a person in relation to whom an employee has made a complaint under subsection (1),-
+(3) Where any person, being a person in relation to whom an employee has made a complaint under subsection (1),—
 
-(a) either-
+(a) either—
 
 (i) makes to that employee after the complaint a request of the kind described in section 62(1); or
 
 (ii) subjects that employee after the complaint to behaviour of the kind described in section 62(2) or section 63; and
 
-(b) the employer of that employee has not taken whatever steps are practicable to prevent the repetition of such a request or such behaviour,-
+(b) the employer of that employee has not taken whatever steps are practicable to prevent the repetition of such a request or such behaviour,—
 
 that employer shall be deemed to have committed a breach of this Act and the provisions of this Act shall apply accordingly.
 
@@ -2450,7 +2753,7 @@ that employer shall be deemed to have committed a breach of this Act and the pro
 
 #### 70 Superannuation schemes
 
-- Subject to subsection (3), nothing in section 22 or section 44 relating to different treatment on the ground of age or disability shall apply to any condition in, or requirement of, a superannuation scheme in existence at the commencement of this Act in relation to a person who was a member of the scheme
+(1) Subject to subsection (3), nothing in section 22 or section 44 relating to different treatment on the ground of age or disability shall apply to any condition in, or requirement of, a superannuation scheme in existence at the commencement of this Act in relation to a person who was a member of the scheme
 
 65
 
@@ -2466,29 +2769,29 @@ Reprinted as at 1 July 2013
 
 at the commencement of this Act or who becomes a member of the scheme before 1 January 1996.
 
-- It shall continue to be lawful for the provisions of a superannuation scheme to provide-
+(2) It shall continue to be lawful for the provisions of a superannuation scheme to provide—
 
 (a) different benefits for members of each sex on the basis of the same contributions; or
 
-(b) the same benefits for members of each sex on the basis of different contributions,-
+(b) the same benefits for members of each sex on the basis of different contributions,—
 
-- if the different treatment-
+if the different treatment—
 
 (c) is based on actuarial or statistical data, upon which it is reasonable to rely, relating to life-expectancy, accidents, or sickness; and
 
 (d) is reasonable having regard to the applicability of the data, and of any other relevant factors, to the particular circumstances.
 
-- It shall continue to be unlawful to require an applicant for membership of a superannuation scheme to have attained a minimum age.
+(3) It shall continue to be unlawful to require an applicant for membership of a superannuation scheme to have attained a minimum age.
 
-- Nothing in section 22 or section 44 shall prevent the provisions of a superannuation scheme from-
+(4) Nothing in section 22 or section 44 shall prevent the provisions of a superannuation scheme from—
 
 (a) providing or requiring different contributions for members; or
 
-(b) providing benefits for members that differ in nature or amount,-
+(b) providing benefits for members that differ in nature or amount,—
 
-by reason of the disability or age of those members, if the different treatment-
+by reason of the disability or age of those members, if the different treatment—
 
-(c) is based on-
+(c) is based on—
 
 (i) actuarial or statistical data, upon which it is reasonable to rely, relating to life-expectancy, accidents, or sickness; or
 
@@ -2508,7 +2811,7 @@ Human Rights Act 1993
 
 Part 2 s 70
 
-- Nothing in section 22 or section 44 shall prevent the provisions of a superannuation scheme, or the trustees of the scheme, from-
+(5) Nothing in section 22 or section 44 shall prevent the provisions of a superannuation scheme, or the trustees of the scheme, from—
 
 (a) requiring an applicant for membership of the scheme to be under a specified maximum age; or
 
@@ -2522,7 +2825,7 @@ Part 2 s 70
 
 (f) providing benefits for members of the scheme that differ in nature and amount according to the member's period of membership (including any period deemed by the trustees of the scheme to be membership) of the scheme and of any scheme replaced by that scheme, and, in the case of a superannuation scheme provided by an employer, of any scheme to which the employer has paid contributions on behalf of the employee.
 
-- In assessing for the purposes of this section whether it is reasonable to rely on any data or advice or opinion and whether different treatment is reasonable, the Commission or the Complaints Division may-
+(6) In assessing for the purposes of this section whether it is reasonable to rely on any data or advice or opinion and whether different treatment is reasonable, the Commission or the Complaints Division may—
 
 (a) require justification to be provided for reliance on the data or advice or opinion and for the different treatment; and
 
@@ -2558,9 +2861,9 @@ Section 71: amended, on 1 May 2011, by section 85(1) of the Financial Markets Au
 
 #### 72 Power to vary trust deeds
 
-- Notwithstanding any Act or rule of law or the provisions of the instrument or conditions governing any superannuation scheme, the trustees of the scheme may make such amendments to that instrument or those conditions as are necessary or desirable to give effect to the provisions of sections 22, 44, and 70.
+(1) Notwithstanding any Act or rule of law or the provisions of the instrument or conditions governing any superannuation scheme, the trustees of the scheme may make such amendments to that instrument or those conditions as are necessary or desirable to give effect to the provisions of sections 22, 44, and 70.
 
-- Every amendment to the provisions of an instrument or conditions governing any superannuation scheme made under subsection (1) on or after the commencement of the Human Rights Amendment Act 1994 must be made by deed.
+(2) Every amendment to the provisions of an instrument or conditions governing any superannuation scheme made under subsection (1) on or after the commencement of the Human Rights Amendment Act 1994 must be made by deed.
 
 Section 72: substituted, on 9 December 1994, by section 7 of the Human Rights Amendment Act 1994 (1994 No 138).
 
@@ -2568,7 +2871,7 @@ Section 72: substituted, on 9 December 1994, by section 7 of the Human Rights Am
 
 #### 73 Measures to ensure equality
 
-- Anything done or omitted which would otherwise constitute a breach of any of the provisions of this Part shall not constitute such a breach if-
+(1) Anything done or omitted which would otherwise constitute a breach of any of the provisions of this Part shall not constitute such a breach if—
 
 (a) it is done or omitted in good faith for the purpose of assisting or advancing persons or groups of persons, being in each case persons against whom discrimination is unlawful by virtue of this Part; and
 
@@ -2586,7 +2889,7 @@ Part 3 s 75
 
 (b) those persons or groups need or may reasonably be supposed to need assistance or advancement in order to achieve an equal place with other members of the community.
 
-- Nothing in this Part-
+(2) Nothing in this Part—
 
 (a) limits the power of the Crown to establish or arrange work or training schemes or employment assistance measures, eligibility for which may, in whole or in part, be determined by a person's age, employment status, or family status; or
 
@@ -2596,11 +2899,11 @@ Compare: 1977 No 49 s 29; 1992 No 16 s 13(1)
 
 #### 74 Measures relating to pregnancy, childbirth, or family responsibilities
 
-For the avoidance of doubt it is hereby declared that preferential treatment granted by reason of-
+For the avoidance of doubt it is hereby declared that preferential treatment granted by reason of—
 
 (a) a woman's pregnancy or childbirth; or
 
-(b) a person's responsibility for part-time care or full-time care of children or other dependants-
+(b) a person's responsibility for part-time care or full-time care of children or other dependants—
 
 shall not constitute a breach of this Part.
 
@@ -2612,7 +2915,7 @@ Part 3: substituted, on 1 January 2002, by section 9 of the Human Rights Amendme
 
 #### 75 Object of this Part
 
-The object of this Part is to establish procedures that-
+The object of this Part is to establish procedures that—
 
 69
 
@@ -2642,13 +2945,13 @@ Section 75: substituted, on 1 January 2002, by section 9 of the Human Rights Ame
 
 #### 76 Functions of Commission under this Part
 
-- The primary functions of the Commission under this Part are-
+(1) The primary functions of the Commission under this Part are—
 
 (a) to provide information to members of the public who have questions about discrimination; and
 
 (b) to facilitate the resolution of disputes about compliance with Part 1A or Part 2, by the parties concerned, in the most efficient, informal, and cost-effective manner possible.
 
-- The Commission has, in order to carry out its function under subsection (1)(b), the following functions:
+(2) The Commission has, in order to carry out its function under subsection (1)(b), the following functions:
 
 (a) to receive and assess a complaint alleging that there has been a breach of Part 1A or Part 2, or both:
 
@@ -2676,15 +2979,15 @@ Section 76: substituted, on 1 January 2002, by section 9 of the Human Rights Ame
 
 #### 77 Dispute resolution services
 
-- The Commission must provide dispute resolution services for the purposes of carrying out its functions under section 76.
+(1) The Commission must provide dispute resolution services for the purposes of carrying out its functions under section 76.
 
-- Services provided under this section may include-
+(2) Services provided under this section may include—
 
 (a) the provision of general information about discrimination and legal obligations in relation to discrimination:
 
 (b) the provision of information about what services are available for persons who have disputes about compliance with Part 1A or Part 2:
 
-(c) the provision of a venue for, and a mediator at, any dispute resolution meeting that-
+(c) the provision of a venue for, and a mediator at, any dispute resolution meeting that—
 
 (i) is designed to enable each party to discuss and seek to resolve any complaint, without prejudice to his or her position; and
 
@@ -2696,7 +2999,7 @@ Section 77: substituted, on 1 January 2002, by section 9 of the Human Rights Ame
 
 #### 78 Method of providing services
 
-Services provided under section 77 may be provided in any manner, including-
+Services provided under section 77 may be provided in any manner, including—
 
 71
 
@@ -2714,7 +3017,7 @@ Reprinted as at 1 July 2013
 
 (b) by publishing pamphlets, brochures, booklets, or codes; or
 
-(c) by specialists who-
+(c) by specialists who—
 
 (i) respond to requests or themselves identify how, where, and when their services can best support the object of this Part; or
 
@@ -2726,13 +3029,13 @@ Section 78: substituted, on 1 January 2002, by section 9 of the Human Rights Ame
 
 #### 79 How complaints received to be treated
 
-- This section applies if the Commission receives, under section 76(2)(a), a complaint alleging that there has been a breach of Part 1A or Part 2 or both Parts.
+(1) This section applies if the Commission receives, under section 76(2)(a), a complaint alleging that there has been a breach of Part 1A or Part 2 or both Parts.
 
-- If the complaint or part of it concerns an enactment, or an act or omission that is authorised or required by an enactment, the complaint or relevant part of it must be treated only as a complaint that the enactment is in breach of Part 1A.
+(2) If the complaint or part of it concerns an enactment, or an act or omission that is authorised or required by an enactment, the complaint or relevant part of it must be treated only as a complaint that the enactment is in breach of Part 1A.
 
-- Despite every other provision of this section, if the complaint or part of it concerns a judgment or other order of a court, or an act or omission of a court affecting the conduct of any proceedings, the Commission must take no further action in relation to the complaint or relevant part of it.
+(3) Despite every other provision of this section, if the complaint or part of it concerns a judgment or other order of a court, or an act or omission of a court affecting the conduct of any proceedings, the Commission must take no further action in relation to the complaint or relevant part of it.
 
-- If the complaint or part of it concerns an act or omission by a person or body referred to in section 3 of the New Zealand Bill of Rights Act 1990, and neither subsection (2) nor subsection (3) applies, the complaint or relevant part of it-
+(4) If the complaint or part of it concerns an act or omission by a person or body referred to in section 3 of the New Zealand Bill of Rights Act 1990, and neither subsection (2) nor subsection (3) applies, the complaint or relevant part of it—
 
 (a) must be treated only as a complaint that there is a breach of Part 1A, unless the act or omission complained of involves conduct that-
 
@@ -2754,21 +3057,21 @@ Part 3 s 79A
 
 (b) must be treated only as a complaint that there has been a breach of the relevant provision or provisions of Part 2 if the act or omission complained of involves conduct that is unlawful under any of sections 22, 23, 61 to 63, and 66.
 
-- If the complaint or relevant part of it concerns a breach of Part 2, and none of subsections (2) to (4) applies to the complaint or relevant part of it, the complaint or relevant part of it must be treated only as a complaint that there has been a breach of the relevant provision or provisions of Part 2.
+(5) If the complaint or relevant part of it concerns a breach of Part 2, and none of subsections (2) to (4) applies to the complaint or relevant part of it, the complaint or relevant part of it must be treated only as a complaint that there has been a breach of the relevant provision or provisions of Part 2.
 
-- Nothing in this section prevents the Commission from involving any person that it considers appropriate in information gathering and the resolution of disputes.
+(6) Nothing in this section prevents the Commission from involving any person that it considers appropriate in information gathering and the resolution of disputes.
 
 Section 79: substituted, on 1 January 2002, by section 9 of the Human Rights Amendment Act 2001 (2001 No 96).
 
 #### 79A Choice of procedures
 
-- If the circumstances giving rise to a complaint under Part 2 are such that an employee would also be entitled to pursue a personal grievance under the Employment Relations Act 2000, the employee may take one, but not both, of the following steps:
+(1) If the circumstances giving rise to a complaint under Part 2 are such that an employee would also be entitled to pursue a personal grievance under the Employment Relations Act 2000, the employee may take one, but not both, of the following steps:
 
 (a) the employee may make in relation to those circumstances a complaint under this Act:
 
 (b) the employee may, if the grievance is not otherwise resolved, apply to the Employment Relations Authority for the resolution of the grievance under the Employment Relations Act 2000.
 
-- To avoid doubt, a complaint referred to in subsection (1) includes, but is not limited to, a complaint about sexual harassment or racial harassment.
+(2) To avoid doubt, a complaint referred to in subsection (1) includes, but is not limited to, a complaint about sexual harassment or racial harassment.
 
 73
 
@@ -2782,21 +3085,21 @@ Human Rights Act 1993
 
 Reprinted as at 1 July 2013
 
-- For the purposes of subsection (1)(a), an employee makes a complaint when proceedings about that complaint are commenced by the complainant or the Commission.
+(3) For the purposes of subsection (1)(a), an employee makes a complaint when proceedings about that complaint are commenced by the complainant or the Commission.
 
-- If an employee makes a complaint under subsection (1)(a), the employee may not exercise or continue to exercise any rights relating to the subject matter of the complaint that the employee may have under the Employment Relations Act 2000.
+(4) If an employee makes a complaint under subsection (1)(a), the employee may not exercise or continue to exercise any rights relating to the subject matter of the complaint that the employee may have under the Employment Relations Act 2000.
 
-- If an employee applies to the Employment Relations Authority for a resolution of the grievance under subsection (1)(b), the employee may not exercise or continue to exercise any rights relating to the subject matter of the grievance that the employee may have under this Act.
+(5) If an employee applies to the Employment Relations Authority for a resolution of the grievance under subsection (1)(b), the employee may not exercise or continue to exercise any rights relating to the subject matter of the grievance that the employee may have under this Act.
 
 Section 79A: inserted, on 1 December 2004, by section 4 of the Human Rights Amendment Act 2004 (2004 No 88).
 
 #### 80 Taking action or further action in relation to complaint
 
-- The Commission may only take action or further action under this Part in relation to a complaint if the complainant or person alleged to be aggrieved (if not the complainant) informs the Commission that he or she wishes to proceed with the complaint.
+(1) The Commission may only take action or further action under this Part in relation to a complaint if the complainant or person alleged to be aggrieved (if not the complainant) informs the Commission that he or she wishes to proceed with the complaint.
 
-- The Commission may decline to take action or further action under this Part in relation to a complaint if the complaint relates to a matter of which the complainant or the person alleged to be aggrieved (if not the complainant) has had knowledge for more than 12 months before the complaint is received by the Commission.
+(2) The Commission may decline to take action or further action under this Part in relation to a complaint if the complaint relates to a matter of which the complainant or the person alleged to be aggrieved (if not the complainant) has had knowledge for more than 12 months before the complaint is received by the Commission.
 
-- The Commission may also decline to take action or further action under this Part in relation to a complaint if, in the Commission's opinion,-
+(3) The Commission may also decline to take action or further action under this Part in relation to a complaint if, in the Commission's opinion,—
 
 (a) the subject matter of the complaint is trivial; or
 
@@ -2820,7 +3123,7 @@ Part 3 s 81
 
 would be reasonable for the complainant or the person alleged to be aggrieved (if not the complainant) to exercise.
 
-- If the Commission decides to take no action or no further action in relation to a complaint, it must inform the complainant or the person alleged to be aggrieved (if not the complainant) and the person against whom the complaint is made-
+(4) If the Commission decides to take no action or no further action in relation to a complaint, it must inform the complainant or the person alleged to be aggrieved (if not the complainant) and the person against whom the complaint is made—
 
 (a) of that decision; and
 
@@ -2834,9 +3137,9 @@ Section 80: substituted, on 1 January 2002, by section 9 of the Human Rights Ame
 
 #### 81 Commission to inform parties of process
 
-- Before gathering information about a complaint, the Commission must comply with subsections (2) and (4).
+(1) Before gathering information about a complaint, the Commission must comply with subsections (2) and (4).
 
-- The Commission must inform the following persons of the Commission's intention to gather information under section 82, and provide them with general information about the matters stated in subsection (3):
+(2) The Commission must inform the following persons of the Commission's intention to gather information under section 82, and provide them with general information about the matters stated in subsection (3):
 
 (a) the complainant (if any); and
 
@@ -2848,7 +3151,7 @@ Section 80: substituted, on 1 January 2002, by section 9 of the Human Rights Ame
 
 (e) any other person or body that the Commission considers relevant.
 
-- The matters referred to in subsection (2) are-
+(3) The matters referred to in subsection (2) are—
 
 (a) rights and obligations under this Act; and
 
@@ -2868,19 +3171,19 @@ Human Rights Act 1993
 
 Reprinted as at 1 July 2013
 
-- The Commission must also inform the person against whom the complaint was made and, if subsection (2)(d) applies, the Attorney-General-
+(4) The Commission must also inform the person against whom the complaint was made and, if subsection (2)(d) applies, the Attorney-General—
 
 (a) of the details of the complaint (if any); and
 
 (b) of the right of that person and, if subsection (2)(d) applies, of the Attorney-General to submit to the Commission, within a reasonable time, information in response to the complaint.
 
-- Arequirement under this section to inform a person is satisfied if all reasonable efforts have been made to inform the person.
+(5) A requirement under this section to inform a person is satisfied if all reasonable efforts have been made to inform the person.
 
 Section 81: substituted, on 1 January 2002, by section 9 of the Human Rights Amendment Act 2001 (2001 No 96).
 
 #### 82 Information gathering and disclosure by Commission
 
-- When the Commission gathers information about a complaint under section 76(2)(b) for the purposes of section 76(2)(c) or (d)-
+(1) When the Commission gathers information about a complaint under section 76(2)(b) for the purposes of section 76(2)(c) or (d)—
 
 (a) that process must be conducted in private:
 
@@ -2888,17 +3191,17 @@ Section 81: substituted, on 1 January 2002, by section 9 of the Human Rights Ame
 
 (c) except as provided in section 81(4)(b), no person is entitled as of right to be heard by the Commission.
 
-- The Commission must make all reasonable efforts to give all parties concerned all relevant information gathered (if any) by it in relation to a complaint promptly after the information is gathered.
+(2) The Commission must make all reasonable efforts to give all parties concerned all relevant information gathered (if any) by it in relation to a complaint promptly after the information is gathered.
 
 Section 82: substituted, on 1 January 2002, by section 9 of the Human Rights Amendment Act 2001 (2001 No 96).
 
 #### 83 Settlement
 
-- This section applies if at any time it appears to the Commission from a complaint (including one referred back to the Commission by the Director, under section 90(1)(b), or the Tribunal, under section 92D), or from information gathered in relation to the complaint (including any response made under section 81(4)(b)), that it may be possible to reach a settlement.
+(1) This section applies if at any time it appears to the Commission from a complaint (including one referred back to the Commission by the Director, under section 90(1)(b), or the Tribunal, under section 92D), or from information gathered in relation to the complaint (including any response made under section 81(4)(b)), that it may be possible to reach a settlement.
 
-- The Commission must use its best endeavours to assist the parties to secure a settlement.
+(2) The Commission must use its best endeavours to assist the parties to secure a settlement.
 
-- In this section, settlement -
+(3) In this section, settlement—
 
 76
 
@@ -2920,19 +3223,19 @@ Section 83: substituted, on 1 January 2002, by section 9 of the Human Rights Ame
 
 #### 84 Reference of complaint to Director or from Director or Tribunal
 
-- The complainant, aggrieved person, or party seeking to enforce a settlement may refer a complaint to the Director so that he or she may decide, under section 90(1)(a) or (c), whether to represent that person in proceedings before the Human Rights Tribunal.
+(1) The complainant, aggrieved person, or party seeking to enforce a settlement may refer a complaint to the Director so that he or she may decide, under section 90(1)(a) or (c), whether to represent that person in proceedings before the Human Rights Review Tribunal.
 
-- The Commission must promptly inform all parties concerned of every reference of a complaint back to the Commission, whether the reference back is one by the Director, under section 90(1)(b), or one by the Tribunal, under section 92D.
+(2) The Commission must promptly inform all parties concerned of every reference of a complaint back to the Commission, whether the reference back is one by the Director, under section 90(1)(b), or one by the Tribunal, under section 92D.
 
-- Arequirement under this section to inform a person is satisfied if all reasonable efforts have been made to inform the person.
+(3) A requirement under this section to inform a person is satisfied if all reasonable efforts have been made to inform the person.
 
-- If a complaint is referred back to the Commission by the Director, under section 90(1)(b), or by the Tribunal, under section 92D, the Commission may, without limiting its other powers, require the parties to attend a dispute resolution meeting or other form of mediation designed to facilitate resolution of the complaint.
+(4) If a complaint is referred back to the Commission by the Director, under section 90(1)(b), or by the Tribunal, under section 92D, the Commission may, without limiting its other powers, require the parties to attend a dispute resolution meeting or other form of mediation designed to facilitate resolution of the complaint.
 
 Section 84: substituted, on 1 January 2002, by section 9 of the Human Rights Amendment Act 2001 (2001 No 96).
 
 #### 85 Confidentiality of information disclosed at dispute resolution meeting
 
-- Except with the consent of the parties or the relevant party, persons referred to in subsection (2) must keep confidential-
+(1) Except with the consent of the parties or the relevant party, persons referred to in subsection (2) must keep confidential—
 
 (a) a statement, admission, or document created or made for the purposes of a dispute resolution meeting; and
 
@@ -2950,7 +3253,7 @@ Reprinted as at 1 July 2013
 
 (b) information that is disclosed orally for the purposes of, and in the course of, a dispute resolution meeting.
 
-- Subsection (1) applies to every person who-
+(2) Subsection (1) applies to every person who—
 
 (a) is a mediator for a dispute resolution meeting; or
 
@@ -2964,13 +3267,13 @@ Section 85: substituted, on 1 January 2002, by section 9 of the Human Rights Ame
 
 #### 86 Evidence as to dispute resolution meeting
 
-- Nomediator at a dispute resolution meeting may give evidence in any proceedings, whether under this Act or any other Act, about-
+(1) No mediator at a dispute resolution meeting may give evidence in any proceedings, whether under this Act or any other Act, about—
 
 (a) the meeting; or
 
 (b) anything related to the meeting that comes to his or her knowledge for the purposes of, or in the course of, the meeting.
 
-- No evidence is admissible in any court, or before any person acting judicially, of any statement, admission, document, or information that, under section 85(1), is required to be kept confidential.
+(2) No evidence is admissible in any court, or before any person acting judicially, of any statement, admission, document, or information that, under section 85(1), is required to be kept confidential.
 
 Section 86: substituted, on 1 January 2002, by section 9 of the Human Rights Amendment Act 2001 (2001 No 96).
 
@@ -2994,7 +3297,7 @@ Part 3 s 90
 
 #### 88 Limits on effect of section 80(1) or sections 85 to 87
 
-Nothing in section 80(1) or sections 85 to 87-
+Nothing in section 80(1) or sections 85 to 87—
 
 (a) prevents the discovery or affects the admissibility of any evidence (being evidence that is otherwise discoverable or admissible and that existed independently of the mediation process) just because the evidence was presented for the purposes of, or in the course of, a dispute resolution meeting; or
 
@@ -3018,7 +3321,7 @@ Section 89: substituted, on 1 January 2002, by section 9 of the Human Rights Ame
 
 #### 90 Functions of Director of Human Rights Proceedings under this Part
 
-- The Director's functions under this Part include, in relation to a complaint,-
+(1) The Director's functions under this Part include, in relation to a complaint,—
 
 79
 
@@ -3038,13 +3341,13 @@ Reprinted as at 1 July 2013
 
 (c) deciding, in accordance with sections 91(3) and 92, whether, and to what extent, to provide representation for a complainant, aggrieved person (if not the complainant), or group of persons who requests, or who request, the Director to provide representation in proceedings before the Tribunal or in related proceedings against the person against whom the complaint was made or the Attorney-General, and providing representation for the complainant, aggrieved person, or group of persons, accordingly.
 
-- The Director's functions under this Part include, in relation to a request from the Commission to provide representation in proceedings brought under section 92B, section 92E, or section 97 or in proceedings in which the Commission is entitled to appear and be heard under section 92H, deciding, in accordance with sections 91(3) and 92, whether, and to what extent, to provide representation for the Commission in proceedings before the Tribunal or in related proceedings.
+(2) The Director's functions under this Part include, in relation to a request from the Commission to provide representation in proceedings brought under section 92B, section 92E, or section 97 or in proceedings in which the Commission is entitled to appear and be heard under section 92H, deciding, in accordance with sections 91(3) and 92, whether, and to what extent, to provide representation for the Commission in proceedings before the Tribunal or in related proceedings.
 
-- In this section and sections 92 and 92C, related proceedings , in relation to proceedings before the Tribunal, means proceedings of any of the following descriptions:
+(3) In this section and sections 92 and 92C, related proceedings, in relation to proceedings before the Tribunal, means proceedings of any of the following descriptions:
 
 (a) an appeal to the High Court against a decision of the Tribunal:
 
-(b) proceedings in the High Court arising out of-
+(b) proceedings in the High Court arising out of—
 
 (i) the statement of a case under section 122; or
 
@@ -3064,7 +3367,7 @@ Part 3 s 92
 
 (c) an appeal to the Court of Appeal against a decision of the High Court made in proceedings described in paragraph (a) or paragraph (b):
 
-(d) an appeal to the Supreme Court against-
+(d) an appeal to the Supreme Court against—
 
 (i) a decision of the High Court made in proceedings described in paragraph (a) or paragraph (b); or
 
@@ -3076,21 +3379,21 @@ Section 90(3): substituted, on 1 January 2004, by section 48(1) of the Supreme C
 
 #### 91 Requirements for Director's decisions under section 90
 
-- The Director may make a decision under section 90(1)(a) if it appears to him or her that a party has failed to observe the terms of a settlement reached on a previous occasion.
+(1) The Director may make a decision under section 90(1)(a) if it appears to him or her that a party has failed to observe the terms of a settlement reached on a previous occasion.
 
-- The Director may make a decision under section 90(1)(b) if-
+(2) The Director may make a decision under section 90(1)(b) if—
 
 (a) it appears to the Director that the complaint may yet be able to be resolved by the parties and the Commission (for example, by mediation); or
 
 (b) it is unclear to the Director, from information available to him or her, in relation to the complaint, whether a party has failed to observe the terms of a settlement reached on a previous occasion.
 
-- The Director may make a decision under section 90(1)(c) or (2) if it appears to him or her that a settlement has not been reached and that no action or further action by the Commission is likely to facilitate a settlement.
+(3) The Director may make a decision under section 90(1)(c) or (2) if it appears to him or her that a settlement has not been reached and that no action or further action by the Commission is likely to facilitate a settlement.
 
 Section 91: substituted, on 1 January 2002, by section 9 of the Human Rights Amendment Act 2001 (2001 No 96).
 
 #### 92 Matters Director to have regard to in deciding whether to provide representation in proceedings before Tribunal or in related proceedings
 
-- In deciding under section 90(1)(a) or (c) or section 90(2) whether, and to what extent, to provide representation for a complainant, aggrieved person, group of persons, party to a settlement of a complaint, or the Commission, the Director-
+(1) In deciding under section 90(1)(a) or (c) or section 90(2) whether, and to what extent, to provide representation for a complainant, aggrieved person, group of persons, party to a settlement of a complaint, or the Commission, the Director—
 
 81
 
@@ -3108,7 +3411,7 @@ Reprinted as at 1 July 2013
 
 (b) may have regard to any other matter that the Director considers relevant.
 
-- The matters referred to in subsection (1)(a) are-
+(2) The matters referred to in subsection (1)(a) are—
 
 (a) whether the complaint raises a significant question of law:
 
@@ -3130,13 +3433,13 @@ Section 92: substituted, on 1 January 2002, by section 9 of the Human Rights Ame
 
 #### 92A Director to notify and report on decisions on representation
 
-- Promptly after making a decision under section 90(1)(a) or (c), the Director must notify the complainant, aggrieved person, group of persons, or party seeking to enforce a settlement reached on a previous occasion-
+(1) Promptly after making a decision under section 90(1)(a) or (c), the Director must notify the complainant, aggrieved person, group of persons, or party seeking to enforce a settlement reached on a previous occasion—
 
 (a) of the terms of the decision; and
 
 (b) if the Director has decided not to provide representation for the complainant, aggrieved person, class of persons, or party seeking to enforce a settlement, of the reasons for the decision.
 
-- Promptly after making a decision under section 90(2), the Director must notify the Commission-
+(2) Promptly after making a decision under section 90(2), the Director must notify the Commission—
 
 82
 
@@ -3154,13 +3457,13 @@ Part 3 s 92B
 
 (b) of the reasons for the decision.
 
-- If the Director decides to provide representation to the Commission in proceedings in which the Commission is entitled to be heard under section 92H, but subsequently concludes that there is, or may be, a conflict of interest in the provision, or continued provision, of legal representation by the Director to both the complainant and the Commission, the Director must-
+(3) If the Director decides to provide representation to the Commission in proceedings in which the Commission is entitled to be heard under section 92H, but subsequently concludes that there is, or may be, a conflict of interest in the provision, or continued provision, of legal representation by the Director to both the complainant and the Commission, the Director must—
 
 (a) cease to provide representation to the Commission; and
 
 (b) promptly advise the Commission of the Director's decision.
 
-- The Director must report to the Minister, at least once each year and without referring to identifiable individuals concerned, on the Director's decisions under section 90(1)(a) and (c), and, as soon as practicable, the Minister must present a copy of the report to the House of Representatives.
+(4) The Director must report to the Minister, at least once each year and without referring to identifiable individuals concerned, on the Director's decisions under section 90(1)(a) and (c), and, as soon as practicable, the Minister must present a copy of the report to the House of Representatives.
 
 Section 92A: inserted, on 1 January 2002, by section 9 of the Human Rights Amendment Act 2001 (2001 No 96).
 
@@ -3170,7 +3473,7 @@ Heading: inserted, on 1 January 2002, by section 9 of the Human Rights Amendment
 
 #### 92B Civil proceedings arising from complaints
 
-- If a complaint referred to in section 76(2)(a) has been made, the complainant, the person aggrieved (if not the complainant), or the Commission may bring civil proceedings before the Human Rights Review Tribunal-
+(1) If a complaint referred to in section 76(2)(a) has been made, the complainant, the person aggrieved (if not the complainant), or the Commission may bring civil proceedings before the Human Rights Review Tribunal—
 
 (a) for a breach of Part 1A (other than a breach of Part 1A that is an enactment, or an act or omission authorised or required by an enactment or otherwise by law), against the person or persons alleged to be responsible for the breach:
 
@@ -3192,15 +3495,15 @@ the New Zealand Bill of Rights Act 1990 alleged to be responsible for the breach
 
 (c) for a breach of Part 2, against the person or persons alleged to be responsible for the breach.
 
-- If a complaint under section 76(2)(a) relates to a discriminatory practice alleged to be in breach of Part 1A or Part 2 and to affect a class of persons, proceedings under subsection (1) may be brought by the Commission on behalf of the class of persons affected.
+(2) If a complaint under section 76(2)(a) relates to a discriminatory practice alleged to be in breach of Part 1A or Part 2 and to affect a class of persons, proceedings under subsection (1) may be brought by the Commission on behalf of the class of persons affected.
 
-- A person against whom a complaint referred to in section 76(2)(a) has been made may bring civil proceedings before the Tribunal in relation to the complaint if no proceedings in relation to the complaint have been brought under subsection (1) by, or on behalf of, the complainant or person aggrieved or a class of persons.
+(3) A person against whom a complaint referred to in section 76(2)(a) has been made may bring civil proceedings before the Tribunal in relation to the complaint if no proceedings in relation to the complaint have been brought under subsection (1) by, or on behalf of, the complainant or person aggrieved or a class of persons.
 
-- If parties to a complaint under section 76(2)(a) have reached a settlement of the complaint (whether through mediation or otherwise) but one of them is failing to observe a term of the settlement, another of them may bring proceedings before the Tribunal to enforce the settlement.
+(4) If parties to a complaint under section 76(2)(a) have reached a settlement of the complaint (whether through mediation or otherwise) but one of them is failing to observe a term of the settlement, another of them may bring proceedings before the Tribunal to enforce the settlement.
 
-- The rights given by subsections (1), (3), and (4) are not limited or affected just because the Commission or a mediator at a dispute resolution meeting or the Director is taking any action in relation to the complaint concerned.
+(5) The rights given by subsections (1), (3), and (4) are not limited or affected just because the Commission or a mediator at a dispute resolution meeting or the Director is taking any action in relation to the complaint concerned.
 
-- Despite subsection (2), the Commission may bring proceedings under subsection (1) only if-
+(6) Despite subsection (2), the Commission may bring proceedings under subsection (1) only if—
 
 (a) the complainant or person aggrieved (if not the complainant) has not brought proceedings; and
 
@@ -3208,7 +3511,7 @@ the New Zealand Bill of Rights Act 1990 alleged to be responsible for the breach
 
 (c) it considers that bringing the proceedings will facilitate the performance of its functions stated in section 5(2)(a).
 
-- Despite subsections (1) to (6), no proceedings may be brought under this section in respect of a complaint or relevant part of a complaint to which section 79(3) applies.
+(7) Despite subsections (1) to (6), no proceedings may be brought under this section in respect of a complaint or relevant part of a complaint to which section 79(3) applies.
 
 Section 92B: inserted, on 1 January 2002, by section 9 of the Human Rights Amendment Act 2001 (2001 No 96).
 
@@ -3232,25 +3535,25 @@ Section 92BA: inserted, on 1 December 2004, by section 5 of the Human Rights Ame
 
 #### 92C Representation in civil proceedings arising from complaints
 
-- Aparty to proceedings before the Tribunal or related proceedings may appear and be heard-
+(1) A party to proceedings before the Tribunal or related proceedings may appear and be heard—
 
 (a) in person, or by a barrister or solicitor provided by the person; or
 
 (b) by a barrister or solicitor provided by the Director if, and to the extent that, the Director has decided, under section 90(1)(a) or (c) or (2), to provide representation for the party in the proceedings.
 
-- The Tribunal may, on an application for the purpose by any person, give directions as to the representation, in proceedings before it, of a plaintiff of a kind referred to in section 92N(1) to (3) or of any other party to the proceedings who may be able to bring, take part in, or defend the proceedings, only through a representative.
+(2) The Tribunal may, on an application for the purpose by any person, give directions as to the representation, in proceedings before it, of a plaintiff of a kind referred to in section 92N(1) to (3) or of any other party to the proceedings who may be able to bring, take part in, or defend the proceedings, only through a representative.
 
-- The Office of Human Rights Proceedings must pay all costs of representation provided-
+(3) The Office of Human Rights Proceedings must pay all costs of representation provided—
 
 (a) by the Director for a complainant, aggrieved person, group of persons, or party to a settlement of a complaint; and
 
 (b) in accordance with a decision of the Director under section 90(1)(a) or (c).
 
-- The Office of Human Rights Proceedings must pay any award of costs made against a person in proceedings for which representation is provided for that person by the Director.
+(4) The Office of Human Rights Proceedings must pay any award of costs made against a person in proceedings for which representation is provided for that person by the Director.
 
-- Any award of costs made in favour of a person in proceedings for which representation is provided for that person by the Director must be paid to the Office of Human Rights Proceedings.
+(5) Any award of costs made in favour of a person in proceedings for which representation is provided for that person by the Director must be paid to the Office of Human Rights Proceedings.
 
-- Nothing in this Act limits or affects the entitlement to legal aid (if any) of a party in respect of proceedings or intended proceedings (whether or not representation for the party in the proceedings may, or is to be, is being, or has been, provided
+(6) Nothing in this Act limits or affects the entitlement to legal aid (if any) of a party in respect of proceedings or intended proceedings (whether or not representation for the party in the proceedings may, or is to be, is being, or has been, provided
 
 85
 
@@ -3270,11 +3573,11 @@ Section 92C: inserted, on 1 January 2002, by section 9 of the Human Rights Amend
 
 #### 92D Tribunal may refer complaint back to Commission, or adjourn proceedings to seek resolution by settlement
 
-- When proceedings under section 92B are brought, the Tribunal-
+(1) When proceedings under section 92B are brought, the Tribunal—
 
 (a) must (whether through a member or officer) first consider whether an attempt has been made to resolve the complaint (whether through mediation or otherwise); and
 
-(b) must refer the complaint under section 76(2)(a) to which the proceedings relate back to the Commission unless the Tribunal is satisfied that attempts at resolution, or further attempts at resolution, of the complaint by the parties and the Commission-
+(b) must refer the complaint under section 76(2)(a) to which the proceedings relate back to the Commission unless the Tribunal is satisfied that attempts at resolution, or further attempts at resolution, of the complaint by the parties and the Commission—
 
 (i) will not contribute constructively to resolving the complaint; or
 
@@ -3282,9 +3585,9 @@ Section 92C: inserted, on 1 January 2002, by section 9 of the Human Rights Amend
 
 (iii) will undermine the urgent or interim nature of the proceedings.
 
-- The Tribunal may, at any time before, during, or after the hearing of proceedings, refer a complaint under section 76(2)(a) back to the Commission if it appears to the Tribunal, from what is known to it about the complaint, that the complaint may yet be able to be resolved by the parties and the Commission (for example, by mediation).
+(2) The Tribunal may, at any time before, during, or after the hearing of proceedings, refer a complaint under section 76(2)(a) back to the Commission if it appears to the Tribunal, from what is known to it about the complaint, that the complaint may yet be able to be resolved by the parties and the Commission (for example, by mediation).
 
-- The Tribunal may, instead of exercising the power conferred by subsection (2), adjourn any proceedings relating to a complaint under section 76(2)(a) for a specified period if it appears to the Tribunal, from what is known about the complaint, that the complaint may yet be able to be resolved by the parties.
+(3) The Tribunal may, instead of exercising the power conferred by subsection (2), adjourn any proceedings relating to a complaint under section 76(2)(a) for a specified period if it appears to the Tribunal, from what is known about the complaint, that the complaint may yet be able to be resolved by the parties.
 
 Section 92D: inserted, on 1 January 2002, by section 9 of the Human Rights Amendment Act 2001 (2001 No 96).
 
@@ -3302,7 +3605,7 @@ Part 3 s 92F
 
 #### 92E Civil proceedings arising from inquiry by Commission
 
-- If the Commission considers that an inquiry by it under section 5(2)(h) has disclosed or may have disclosed a breach of a kind referred to in any of paragraphs (a) to (c), it may bring civil proceedings before the Tribunal,-
+(1) If the Commission considers that an inquiry by it under section 5(2)(h) has disclosed or may have disclosed a breach of a kind referred to in any of paragraphs (a) to (c), it may bring civil proceedings before the Tribunal,—
 
 (a) for a breach of Part 1A (other than a breach of Part 1A that is an enactment, or an act or omission authorised or required by an enactment or otherwise by law), against the person or persons alleged to be responsible for the breach:
 
@@ -3310,17 +3613,17 @@ Part 3 s 92F
 
 (c) for a breach of Part 2, against the person or persons alleged to be responsible for the breach.
 
-- The Commission may exercise the right in subsection (1) only if it considers that the exercise of the right will facilitate the performance of its functions stated in section 5(2)(a).
+(2) The Commission may exercise the right in subsection (1) only if it considers that the exercise of the right will facilitate the performance of its functions stated in section 5(2)(a).
 
-- This section does not limit section 6 or section 92H or section 97.
+(3) This section does not limit section 6 or section 92H or section 97.
 
 Section 92E: inserted, on 1 January 2002, by section 9 of the Human Rights Amendment Act 2001 (2001 No 96).
 
 #### 92F Proof of justified limits and exceptions
 
-- Theonusofproving, in any proceedings under this Part, that an act or omission is, under section 5 of the New Zealand Bill of Rights Act 1990, a justified limit on the right to freedom from discrimination affirmed by section 19 of the New Zealand Bill of Rights Act 1990 lies on the defendant.
+(1) The onus of proving, in any proceedings under this Part, that an act or omission is, under section 5 of the New Zealand Bill of Rights Act 1990, a justified limit on the right to freedom from discrimination affirmed by section 19 of the New Zealand Bill of Rights Act 1990 lies on the defendant.
 
-- The onus of proving, in any proceedings under this Part, that conduct is, under any provision of Part 2, excepted from conduct that is unlawful under any provision of Part 2 lies on the defendant.
+(2) The onus of proving, in any proceedings under this Part, that conduct is, under any provision of Part 2, excepted from conduct that is unlawful under any provision of Part 2 lies on the defendant.
 
 Compare: 1977 No 49 s 39
 
@@ -3340,7 +3643,7 @@ Reprinted as at 1 July 2013
 
 #### 92G Right of Attorney-General to appear in civil proceedings
 
-- The Attorney-General may appear and be heard, in person or by a barrister or solicitor,-
+(1) The Attorney-General may appear and be heard, in person or by a barrister or solicitor,—
 
 (a) in proceedings before the Human Rights Review Tribunal alleging a breach of Part 1A, or alleging a breach of Part 2 by a person or body referred to in section 3 of the New Zealand Bill of Rights Act 1990:
 
@@ -3354,9 +3657,9 @@ Reprinted as at 1 July 2013
 
 (iv) the Supreme Court.
 
-- The right to appear and be heard given by subsection (1) may be exercised whether or not the Attorney-General is or was a party to the proceedings before the Human Rights Review Tribunal.
+(2) The right to appear and be heard given by subsection (1) may be exercised whether or not the Attorney-General is or was a party to the proceedings before the Human Rights Review Tribunal.
 
-- If, under subsection (1), the Attorney-General appears in any proceedings of a kind described in that subsection, he or she has, unless those proceedings are by way of appeal, the right to adduce evidence and the right to cross-examine witnesses.
+(3) If, under subsection (1), the Attorney-General appears in any proceedings of a kind described in that subsection, he or she has, unless those proceedings are by way of appeal, the right to adduce evidence and the right to cross-examine witnesses.
 
 Compare: 1977 No 49 s 38A; 1983 No 56 s 13; 1993 No 35 s 3(5)
 
@@ -3366,7 +3669,7 @@ Section 92G(1)(b)(iv): added, on 1 January 2004, by section 48(1) of the Supreme
 
 #### 92H Right of Commission to appear in civil proceedings
 
-- The Commission may appear and be heard, in person or by a barrister or solicitor,-
+(1) The Commission may appear and be heard, in person or by a barrister or solicitor,—
 
 (a) in proceedings before the Human Rights Review Tribunal; and
 
@@ -3392,15 +3695,15 @@ Part 3 s 92I
 
 (iv) the Supreme Court.
 
-- The right to appear and be heard given by subsection (1) may be exercised-
+(2) The right to appear and be heard given by subsection (1) may be exercised—
 
 (a) whether or not the Commission is or was a party to the proceedings before the Human Rights Review Tribunal; but
 
 (b) only if the Commission considers that the exercise of the right will facilitate the performance of its functions stated in section 5(2)(a).
 
-- If, under subsection (1), the Commission appears in any proceedings of a kind described in that subsection, it has, unless those proceedings are by way of appeal, the right to adduce evidence and the right to cross-examine witnesses.
+(3) If, under subsection (1), the Commission appears in any proceedings of a kind described in that subsection, it has, unless those proceedings are by way of appeal, the right to adduce evidence and the right to cross-examine witnesses.
 
-- This section is not limited by section 92B or section 92E or section 97.
+(4) This section is not limited by section 92B or section 92E or section 97.
 
 Compare: 1977 No 49 s 38A; 1983 No 56 s 13; 1993 No 35 s 3(5)
 
@@ -3414,11 +3717,11 @@ Heading: inserted, on 1 January 2002, by section 9 of the Human Rights Amendment
 
 #### 92I Remedies
 
-- This section is subject to sections 92J and 92K (which relate to the only remedy that may be granted by the Tribunal if it finds that an enactment is in breach of Part 1A).
+(1) This section is subject to sections 92J and 92K (which relate to the only remedy that may be granted by the Tribunal if it finds that an enactment is in breach of Part 1A).
 
-- In proceedings before the Human Rights Review Tribunal brought under section 92B(1) or (4) or section 92E, the plaintiff may seek any of the remedies described in subsection (3) that the plaintiff thinks fit.
+(2) In proceedings before the Human Rights Review Tribunal brought under section 92B(1) or (4) or section 92E, the plaintiff may seek any of the remedies described in subsection (3) that the plaintiff thinks fit.
 
-- If, in proceedings referred to in subsection (2), the Tribunal is satisfied on the balance of probabilities that the defendant has committed a breach of Part 1A or Part 2 or the terms of a settlement of a complaint, the Tribunal may grant 1 or more of the following remedies:
+(3) If, in proceedings referred to in subsection (2), the Tribunal is satisfied on the balance of probabilities that the defendant has committed a breach of Part 1A or Part 2 or the terms of a settlement of a complaint, the Tribunal may grant 1 or more of the following remedies:
 
 89
 
@@ -3448,9 +3751,9 @@ Reprinted as at 1 July 2013
 
 (h) any other relief the Tribunal thinks fit.
 
-- It is no defence to proceedings referred to in subsection (2) or subsection (5) that the breach was unintentional or without negligence on the part of the party against whom the complaint was made, but, subject to section 92P, the Tribunal must take the conduct of the parties into account in deciding what, if any, remedy to grant.
+(4) It is no defence to proceedings referred to in subsection (2) or subsection (5) that the breach was unintentional or without negligence on the part of the party against whom the complaint was made, but, subject to section 92P, the Tribunal must take the conduct of the parties into account in deciding what, if any, remedy to grant.
 
-- In proceedings before the Human Rights Review Tribunal brought, under section 92B(3), by the person against whom a complaint was made, that person may seek a declaration that he or she has not committed a breach of Part 1A or Part 2.
+(5) In proceedings before the Human Rights Review Tribunal brought, under section 92B(3), by the person against whom a complaint was made, that person may seek a declaration that he or she has not committed a breach of Part 1A or Part 2.
 
 Compare: 1977 No 49 s 38(5), (6), (8); 1983 No 56 s 12(3)
 
@@ -3470,31 +3773,31 @@ Part 3 s 92K
 
 #### 92J Remedy for enactments in breach of Part 1A
 
-- If, in proceedings before the Human Rights Review Tribunal, the Tribunal finds that an enactment is in breach of Part 1A, the only remedy that the Tribunal may grant is the declaration referred to in subsection (2).
+(1) If, in proceedings before the Human Rights Review Tribunal, the Tribunal finds that an enactment is in breach of Part 1A, the only remedy that the Tribunal may grant is the declaration referred to in subsection (2).
 
-- The declaration that may be granted by the Tribunal, if subsection (1) applies, is a declaration that the enactment that is the subject of the finding is inconsistent with the right to freedom from discrimination affirmed by section 19 of the New Zealand Bill of Rights Act 1990.
+(2) The declaration that may be granted by the Tribunal, if subsection (1) applies, is a declaration that the enactment that is the subject of the finding is inconsistent with the right to freedom from discrimination affirmed by section 19 of the New Zealand Bill of Rights Act 1990.
 
-- The Tribunal may not grant a declaration under subsection (2) unless that decision has the support of all or a majority of the members of the Tribunal.
+(3) The Tribunal may not grant a declaration under subsection (2) unless that decision has the support of all or a majority of the members of the Tribunal.
 
-- Nothing in this section affects the New Zealand Bill of Rights Act 1990.
+(4) Nothing in this section affects the New Zealand Bill of Rights Act 1990.
 
 Section 92J: inserted, on 1 January 2002, by section 9 of the Human Rights Amendment Act 2001 (2001 No 96).
 
 #### 92K Effect of declaration
 
-- A declaration under section 92J does not-
+(1) A declaration under section 92J does not—
 
 (a) affect the validity, application, or enforcement of the enactment in respect of which it is given; or
 
 (b) prevent the continuation of the act, omission, policy, or activity that was the subject of the complaint.
 
-- If a declaration is made under section 92J and that declaration is not overturned on appeal or the time for lodging an appeal expires, the Minister for the time being responsible for the administration of the enactment must present to the House of Representatives-
+(2) If a declaration is made under section 92J and that declaration is not overturned on appeal or the time for lodging an appeal expires, the Minister for the time being responsible for the administration of the enactment must present to the House of Representatives—
 
 (a) a report bringing the declaration to the attention of the House of Representatives; and
 
 (b) a report containing advice on the Government's response to the declaration.
 
-- The Minister referred to in subsection (2) must carry out the duties imposed on the Minister by that subsection within 120 days of the date of disposal of all appeals against the granting of the declaration or, if no appeal is lodged, the date when the time for lodging an appeal expires.
+(3) The Minister referred to in subsection (2) must carry out the duties imposed on the Minister by that subsection within 120 days of the date of disposal of all appeals against the granting of the declaration or, if no appeal is lodged, the date when the time for lodging an appeal expires.
 
 91
 
@@ -3514,9 +3817,9 @@ Section 92K: inserted, on 1 January 2002, by section 9 of the Human Rights Amend
 
 #### 92L Costs
 
-- In any proceedings under section 92B or section 92E or section 97, the Tribunal may make any award as to costs that it thinks fit, whether or not it grants any other remedy.
+(1) In any proceedings under section 92B or section 92E or section 97, the Tribunal may make any award as to costs that it thinks fit, whether or not it grants any other remedy.
 
-- Without limiting the matters that the Tribunal may consider in determining whether to make an award of costs under this section, the Tribunal may take into account whether, and to what extent, any party to the proceedings-
+(2) Without limiting the matters that the Tribunal may consider in determining whether to make an award of costs under this section, the Tribunal may take into account whether, and to what extent, any party to the proceedings—
 
 (a) has participated in good faith in the process of information gathering by the Commission:
 
@@ -3530,7 +3833,7 @@ Section 92L: inserted, on 1 January 2002, by section 9 of the Human Rights Amend
 
 #### 92M Damages
 
-- In any proceedings under section 92B(1) or (4) or section 92E, the Tribunal may award damages against the defendant for a breach of Part 1A or Part 2 or the terms of a settlement of a complaint in respect of any 1 or more of the following:
+(1) In any proceedings under section 92B(1) or (4) or section 92E, the Tribunal may award damages against the defendant for a breach of Part 1A or Part 2 or the terms of a settlement of a complaint in respect of any 1 or more of the following:
 
 (a) pecuniary loss suffered as a result of, and expenses reasonably incurred by the complainant or, as the case may be, the aggrieved person for the purpose of, the transaction or activity out of which the breach arose:
 
@@ -3550,7 +3853,7 @@ Human Rights Act 1993
 
 Part 3 s 92N
 
-- This section applies subject to sections 92J, 92N, and 92O and to subpart 1 of Part 2 of the Prisoners' and Victims' Claims Act 2005.
+(2) This section applies subject to sections 92J, 92N, and 92O and to subpart 1 of Part 2 of the Prisoners' and Victims' Claims Act 2005.
 
 Compare: 1977 No 49 s 40(1)
 
@@ -3560,17 +3863,17 @@ Section 92M(2): amended, on 4 June 2005, by section 65 of the Prisoners' and Vic
 
 #### 92N Directions as to payment of damages in certain cases
 
-- If the plaintiff is a minor who is not married or in a civil union, the Tribunal may, in its discretion, direct the defendant to pay damages awarded under section 92M to Public Trust or to a person or trustee corporation acting as the manager of any property of the plaintiff.
+(1) If the plaintiff is a minor who is not married or in a civil union, the Tribunal may, in its discretion, direct the defendant to pay damages awarded under section 92M to Public Trust or to a person or trustee corporation acting as the manager of any property of the plaintiff.
 
-- If the plaintiff is a mentally disordered person within the meaning of section 2(1) of the Mental Health (Compulsory Assessment and Treatment) Act 1992 whose property is not being managed under the Protection of Personal and Property Rights Act 1988, but who lacks, in the opinion of the Tribunal, the mental capacity to manage his or her own affairs in relation to his or her own property, the Tribunal may, in its discretion, direct the defendant to pay damages awarded under section 92M to Public Trust.
+(2) If the plaintiff is a mentally disordered person within the meaning of section 2(1) of the Mental Health (Compulsory Assessment and Treatment) Act 1992 whose property is not being managed under the Protection of Personal and Property Rights Act 1988, but who lacks, in the opinion of the Tribunal, the mental capacity to manage his or her own affairs in relation to his or her own property, the Tribunal may, in its discretion, direct the defendant to pay damages awarded under section 92M to Public Trust.
 
-- If the plaintiff is a person whose property is being managed under the Protection of Personal and Property Rights Act 1988, the Tribunal must ascertain whether the terms of the property order cover management of money received as damages and,-
+(3) If the plaintiff is a person whose property is being managed under the Protection of Personal and Property Rights Act 1988, the Tribunal must ascertain whether the terms of the property order cover management of money received as damages and,—
 
 (a) if damages fall within the terms of the property order, the Tribunal must direct the defendant to pay damages awarded under section 92M to the person or trustee corporation acting as the property manager; or
 
 (b) if damages do not fall within the terms of the property order, the Tribunal may, in its discretion, direct the defendant to pay damages awarded under section 92M to Public Trust.
 
-- If money is paid to Public Trust under any of subsections (1) to (3),-
+(4) If money is paid to Public Trust under any of subsections (1) to (3),—
 
 93
 
@@ -3614,11 +3917,11 @@ Section 92N(4)(c): added, on 1 March 2002, by section 170(1) of the Public Trust
 
 #### 92O Tribunal may defer or modify remedies for breach of Part 1A or Part 2 or terms of settlement
 
-- If, in any proceedings under this Part, the Tribunal determines that an act or omission is in breach of Part 1A or Part 2 or the terms of a settlement of a complaint, it may, on the application of any party to the proceedings, take 1 or more of the actions stated in subsection (2).
+(1) If, in any proceedings under this Part, the Tribunal determines that an act or omission is in breach of Part 1A or Part 2 or the terms of a settlement of a complaint, it may, on the application of any party to the proceedings, take 1 or more of the actions stated in subsection (2).
 
-- The actions are,-
+(2) The actions are,—
 
-(a) instead of, or as well as, awarding damages or granting any other remedy,-
+(a) instead of, or as well as, awarding damages or granting any other remedy,—
 
 94
 
@@ -3648,7 +3951,7 @@ Section 92O: inserted, on 1 January 2002, by section 9 of the Human Rights Amend
 
 #### 92P Matters to be taken into account in exercising powers given by section 92O
 
-- In determining whether to take 1 or more of the actions referred to in section 92O, the Tribunal must take account of the following matters:
+(1) In determining whether to take 1 or more of the actions referred to in section 92O, the Tribunal must take account of the following matters:
 
 (a) whether or not the defendant in the proceedings has acted in good faith:
 
@@ -3676,7 +3979,7 @@ Reprinted as at 1 July 2013
 
 (g) any other matter that the Tribunal considers relevant.
 
-- If the Tribunal finds that an act or omission is in breach of Part 1A or that an act or omission by a person or body referred to in section 3 of the New Zealand Bill of Rights Act 1990 is in breach of Part 2, in determining whether to take 1 or more of the actions referred to in section 92O, the Tribunal must, in addition to the matters specified in subsection (1), take account of-
+(2) If the Tribunal finds that an act or omission is in breach of Part 1A or that an act or omission by a person or body referred to in section 3 of the New Zealand Bill of Rights Act 1990 is in breach of Part 2, in determining whether to take 1 or more of the actions referred to in section 92O, the Tribunal must, in addition to the matters specified in subsection (1), take account of—
 
 (a) the requirements of fair public administration; and
 
@@ -3690,11 +3993,11 @@ Heading: inserted, on 1 January 2002, by section 9 of the Human Rights Amendment
 
 #### 92Q Monetary limits on remedies Tribunal may grant
 
-- Proceedings under section 92B or section 92E may be brought before the Human Rights Review Tribunal irrespective of the amount of damages claimed or the value of the property in respect of which any remedy is sought.
+(1) Proceedings under section 92B or section 92E may be brought before the Human Rights Review Tribunal irrespective of the amount of damages claimed or the value of the property in respect of which any remedy is sought.
 
-- However, except as provided in sections 92R to 92V, the Tribunal must not award any damages or grant any remedy in any proceedings of that kind if the making of that award or the granting of that remedy would, because of the monetary limits contained in sections 29 to 34 of the District Courts Act 1947, be beyond the jurisdiction of a District Court.
+(2) However, except as provided in sections 92R to 92V, the Tribunal must not award any damages or grant any remedy in any proceedings of that kind if the making of that award or the granting of that remedy would, because of the monetary limits contained in sections 29 to 34 of the District Courts Act 1947, be beyond the jurisdiction of a District Court.
 
-- For the purposes of subsection (2), if civil proceedings under section 92B are brought on behalf of more than 1 complainant or, as the case may be, more than 1 aggrieved person, those proceedings must, for the purpose of applying any monetary limit under subsection (2), be treated as if each complainant or, as the case may be, each aggrieved person on whose behalf those proceedings are brought, were the plaintiff in a separate action against the defendant.
+(3) For the purposes of subsection (2), if civil proceedings under section 92B are brought on behalf of more than 1 complainant or, as the case may be, more than 1 aggrieved person, those proceedings must, for the purpose of applying any monetary limit under subsection (2), be treated as if each complainant or, as the case may be, each aggrieved person on whose behalf those proceedings are brought, were the plaintiff in a separate action against the defendant.
 
 Compare: 1977 No 49 s 41; 1983 No 56 s 15; 1993 No 5 s 3(6)
 
@@ -3718,7 +4021,7 @@ Heading: inserted, on 1 January 2002, by section 9 of the Human Rights Amendment
 
 #### 92R Tribunal to refer granting of remedies to High Court
 
-The Human Rights Review Tribunal must refer the granting of a remedy in any proceedings under section 92B or section 92E to the High Court if the Tribunal is satisfied on the balance of probabilities that a defendant in the proceedings has committed a breach of Part 1A or Part 2 or the terms of a settlement of a complaint, but that-
+The Human Rights Review Tribunal must refer the granting of a remedy in any proceedings under section 92B or section 92E to the High Court if the Tribunal is satisfied on the balance of probabilities that a defendant in the proceedings has committed a breach of Part 1A or Part 2 or the terms of a settlement of a complaint, but that—
 
 (a) the granting of the appropriate remedy under section 92I would be outside the limits imposed by section 92Q; or
 
@@ -3730,15 +4033,15 @@ Section 92R: inserted, on 1 January 2002, by section 9 of the Human Rights Amend
 
 #### 92S Further provisions on reference to High Court
 
-- A reference under section 92R is made by sending, to the Registrar of the High Court nearest to where the proceedings were commenced, a report on the proceedings that-
+(1) A reference under section 92R is made by sending, to the Registrar of the High Court nearest to where the proceedings were commenced, a report on the proceedings that—
 
 (a) sets out the Tribunal's finding with regard to the breach of Part 1A or Part 2 or the terms of a settlement of a complaint; and
 
 (b) includes, or is accompanied by, a statement of the considerations to which the Tribunal has had regard in making the reference to that court.
 
-- A copy of the report must be given or sent promptly to every party to the proceedings.
+(2) A copy of the report must be given or sent promptly to every party to the proceedings.
 
-- Except as provided in this Act, the procedure for a reference under section 92R is the same as the procedure prescribed by
+(3) Except as provided in this Act, the procedure for a reference under section 92R is the same as the procedure prescribed by
 
 97
 
@@ -3754,21 +4057,21 @@ Reprinted as at 1 July 2013
 
 rules of court in respect of appeals, and those rules apply with all necessary modifications.
 
-Compare: 1977 No 49 s 42(4)-(6), (8)
+Compare: 1977 No 49 s 42(4)–(6), (8)
 
 Section 92S: inserted, on 1 January 2002, by section 9 of the Human Rights Amendment Act 2001 (2001 No 96).
 
 #### 92T High Court decides remedies on reference from Tribunal
 
-- This section applies where the granting of a remedy in any proceedings under section 92B or section 92E is referred to the High Court under section 92R.
+(1) This section applies where the granting of a remedy in any proceedings under section 92B or section 92E is referred to the High Court under section 92R.
 
-- The High Court may direct the Tribunal to amplify any report made under section 92S(1).
+(2) The High Court may direct the Tribunal to amplify any report made under section 92S(1).
 
-- Every person who, under section 92S(2), is given or sent a copy of a report under section 92S(1) is entitled to be heard and to tender in the High Court evidence as to the remedy (if any) to be granted on the basis of the Tribunal's finding that the defendant has committed a breach of Part 1A or Part 2 or the terms of a settlement of a complaint.
+(3) Every person who, under section 92S(2), is given or sent a copy of a report under section 92S(1) is entitled to be heard and to tender in the High Court evidence as to the remedy (if any) to be granted on the basis of the Tribunal's finding that the defendant has committed a breach of Part 1A or Part 2 or the terms of a settlement of a complaint.
 
-- However, no person referred to in subsection (3) may, on the reference under section 92R, challenge the finding of the Tribunal referred to in subsection (3).
+(4) However, no person referred to in subsection (3) may, on the reference under section 92R, challenge the finding of the Tribunal referred to in subsection (3).
 
-- The High Court must decide, on the basis of the Tribunal's finding that the defendant has committed a breach of Part 1A or Part 2, whether 1 or more of the remedies set out in section 92I or the remedy set out in section 92J is to be granted.
+(5) The High Court must decide, on the basis of the Tribunal's finding that the defendant has committed a breach of Part 1A or Part 2, whether 1 or more of the remedies set out in section 92I or the remedy set out in section 92J is to be granted.
 
 Compare: 1977 No 49 s 42(2), (5), (6)
 
@@ -3776,13 +4079,13 @@ Section 92T: inserted, on 1 January 2002, by section 9 of the Human Rights Amend
 
 #### 92U High Court's decision on remedies to be included in, and given effect to as part of, Tribunal's determination
 
-- Every decision of the High Court under section 92T(5)-
+(1) Every decision of the High Court under section 92T(5)—
 
 (a) must be remitted to the Tribunal for inclusion in its determination with regard to the proceedings; and
 
 (b) has effect as part of that determination despite the limits imposed by section 92Q.
 
-- Nothing in subsection (1)-
+(2) Nothing in subsection (1)—
 
 (a) limits sections 123 to 125; or
 
@@ -3810,19 +4113,21 @@ Heading: inserted, on 1 January 2002, by section 9 of the Human Rights Amendment
 
 #### 92V Abandonment to enable Tribunal to make award of damages
 
-- This section applies where the Tribunal would have jurisdiction in any proceedings under section 92B or section 92E to make an award of damages in accordance with section 92M if the amount of the award were within the limit for the time being fixed by section 29(1) of the District Courts Act 1947 (as applied by section 92Q(2)).
+(1) This section applies where the Tribunal would have jurisdiction in any proceedings under section 92B or section 92E to make an award of damages in accordance with section 92M if the amount of the award were within the limit for the time being fixed by section 29(1) of the District Courts Act 1947 (as applied by section 92Q(2)).
 
-- The Tribunal may make an award within that limit if the plaintiff abandons the excess.
+(2) The Tribunal may make an award within that limit if the plaintiff abandons the excess.
 
-- An award of damages in those proceedings in accordance with section 92M operates to discharge from liability in respect of the amount abandoned in that way any person against whom the proceedings are brought and the subsequent award is made.
+(3) An award of damages in those proceedings in accordance with section 92M operates to discharge from liability in respect of the amount abandoned in that way any person against whom the proceedings are brought and the subsequent award is made.
 
-- This section overrides sections 92Q to 92U. Compare: 1977 No 49 s 43
+(4) This section overrides sections 92Q to 92U.
+
+Compare: 1977 No 49 s 43
 
 Section 92V: inserted, on 1 January 2002, by section 9 of the Human Rights Amendment Act 2001 (2001 No 96).
 
 #### 92W Extension of jurisdiction by agreement between parties
 
-- If, in any proceedings under section 92B or section 92E, only section 92Q prevents the Tribunal from granting any 1 or more of the remedies stated in section 92I, and the parties to the proceedings, by memorandum signed by them or their respective solicitors or agents, agree that the Tribunal is to have jurisdiction to grant any 1 or more of those remedies irrespective of
+(1) If, in any proceedings under section 92B or section 92E, only section 92Q prevents the Tribunal from granting any 1 or more of the remedies stated in section 92I, and the parties to the proceedings, by memorandum signed by them or their respective solicitors or agents, agree that the Tribunal is to have jurisdiction to grant any 1 or more of those remedies irrespective of
 
 99
 
@@ -3838,7 +4143,7 @@ Reprinted as at 1 July 2013
 
 section 92Q, the Tribunal has jurisdiction to grant 1 or more of those remedies accordingly.
 
-- This section overrides sections 92Q to 92U.
+(2) This section overrides sections 92Q to 92U.
 
 Compare: 1977 No 49 s 44(1)
 
@@ -3864,7 +4169,7 @@ Section 93: amended, on 1 January 2002, by section 11(c) of the Human Rights Ame
 
 #### 94 Functions of Tribunal
 
-The functions of the Tribunal shall be-
+The functions of the Tribunal shall be—
 
 (a) to consider and adjudicate upon proceedings brought pursuant to sections 92B, 92E, 95, and 97:
 
@@ -3888,15 +4193,15 @@ Part 4 s 97
 
 #### 95 Power to make interim order
 
-- In respect of any matter in which the Tribunal has jurisdiction under this Act to make any final determination, the Chairperson of the Tribunal shall have power to make an interim order if he or she is satisfied that it is necessary in the interests of justice to make the order to preserve the position of the parties pending a final determination of the proceedings.
+(1) In respect of any matter in which the Tribunal has jurisdiction under this Act to make any final determination, the Chairperson of the Tribunal shall have power to make an interim order if he or she is satisfied that it is necessary in the interests of justice to make the order to preserve the position of the parties pending a final determination of the proceedings.
 
-- An application for an interim order may be made,-
+(2) An application for an interim order may be made,—
 
 (a) in the case of proceedings under section 92B(1), (2), (3), or (4), by the person or body bringing the proceedings; and
 
 (b) in the case of proceedings under section 92E, by the Commission.
 
-- Acopy of the application shall be served on the defendant who shall be entitled to be heard before a decision on the application is made.
+(3) A copy of the application shall be served on the defendant who shall be entitled to be heard before a decision on the application is made.
 
 Compare: 1977 No 49 s 46A; 1993 No 35 s 4(1)
 
@@ -3908,7 +4213,7 @@ Where an interim order has been made, the defendant may, with the leave of the T
 
 #### 97 Power in respect of exception for genuine occupational qualification or genuine justification
 
-- The Tribunal may exercise the power referred to in subsection (2), but only-
+(1) The Tribunal may exercise the power referred to in subsection (2), but only—
 
 (a) in respect of a matter in which it has jurisdiction under this Act to make a final determination; and
 
@@ -3926,7 +4231,7 @@ Human Rights Act 1993
 
 Reprinted as at 1 July 2013
 
-- The power is to declare that an act, omission, practice, requirement, or condition that would otherwise be unlawful under Part 2 is not unlawful because it constitutes either or both-
+(2) The power is to declare that an act, omission, practice, requirement, or condition that would otherwise be unlawful under Part 2 is not unlawful because it constitutes either or both—
 
 (a) a genuine occupational qualification, in respect of sections 22 to 41:
 
@@ -3938,7 +4243,7 @@ Section 97: substituted, on 1 January 2002, by section 14 of the Human Rights Am
 
 #### 98 Membership of Tribunal
 
-The Tribunal shall consist of-
+The Tribunal shall consist of—
 
 (a) a Chairperson; and
 
@@ -3948,15 +4253,15 @@ Compare: 1977 No 49 s 47; 1993 No 35 s 5(1)
 
 #### 99 Chairpersons of Tribunal
 
-- Every Chairperson of the Tribunal shall be appointed by the Governor-General on the recommendation of the Minister.
+(1) Every Chairperson of the Tribunal shall be appointed by the Governor-General on the recommendation of the Minister.
 
-- Where the Governor-General on the recommendation of the Minister considers it necessary, the Governor-General may appoint 2 persons to the office of Chairperson of the Tribunal.
+(2) Where the Governor-General on the recommendation of the Minister considers it necessary, the Governor-General may appoint 2 persons to the office of Chairperson of the Tribunal.
 
-- Where there are 2 Chairpersons of the Tribunal, each Chairperson shall exercise principally those parts of the Tribunal's jurisdiction that are specified from time to time in his or her warrant of appointment but nothing shall prevent each Chairperson from exercising any other part of the Tribunal's jurisdiction.
+(3) Where there are 2 Chairpersons of the Tribunal, each Chairperson shall exercise principally those parts of the Tribunal's jurisdiction that are specified from time to time in his or her warrant of appointment but nothing shall prevent each Chairperson from exercising any other part of the Tribunal's jurisdiction.
 
-- Where a second Chairperson of the Tribunal is appointed, a new warrant of appointment may be issued to the existing Chairperson specifying the parts of the Tribunal's jurisdiction that the existing Chairperson is principally to exercise.
+(4) Where a second Chairperson of the Tribunal is appointed, a new warrant of appointment may be issued to the existing Chairperson specifying the parts of the Tribunal's jurisdiction that the existing Chairperson is principally to exercise.
 
-- In this Part, a reference to the Chairperson or the Chairperson of the Tribunal shall be read as a reference to either Chairperson where there are 2 Chairpersons of the Tribunal. Compare: 1977 No 49 s 47A; 1993 No 35 s 5(1)
+(5) In this Part, a reference to the Chairperson or the Chairperson of the Tribunal shall be read as a reference to either Chairperson where there are 2 Chairpersons of the Tribunal. Compare: 1977 No 49 s 47A; 1993 No 35 s 5(1)
 
 102
 
@@ -3972,7 +4277,7 @@ Part 4 s 100
 
 #### 99A Criteria and requirement for appointment of Chairpersons
 
-- In recommending a person for appointment as a Chairperson of the Tribunal, the Minister must have regard not only to the matters stated in section 101(2) but also to the person's-
+(1) In recommending a person for appointment as a Chairperson of the Tribunal, the Minister must have regard not only to the matters stated in section 101(2) but also to the person's—
 
 (a) experience in dispute resolution:
 
@@ -3980,19 +4285,19 @@ Part 4 s 100
 
 (c) ability to perform the functions of a Chairperson of the Tribunal.
 
-- Every person appointed as a Chairperson of the Tribunal must be a barrister or solicitor of the High Court of not less than 5 years' practice.
+(2) Every person appointed as a Chairperson of the Tribunal must be a barrister or solicitor of the High Court of not less than 5 years' practice.
 
 Section 99A: inserted, on 1 January 2002, by section 15 of the Human Rights Amendment Act 2001 (2001 No 96).
 
 #### 100 Appointment and term of office
 
-[Repealed]
+(1) [Repealed]
 
-- Except as otherwise provided in section 103, every person appointed as a Chairperson of the Tribunal shall hold office for such term, not exceeding 5 years, as the Governor-General on the recommendation of the Minister shall specify in the instrument appointing that Chairperson.
+(2) Except as otherwise provided in section 103, every person appointed as a Chairperson of the Tribunal shall hold office for such term, not exceeding 5 years, as the Governor-General on the recommendation of the Minister shall specify in the instrument appointing that Chairperson.
 
-- Any person appointed as a Chairperson may hold that office concurrently with any other office held by him or her and may from time to time be reappointed.
+(3) Any person appointed as a Chairperson may hold that office concurrently with any other office held by him or her and may from time to time be reappointed.
 
-- Where the term for which a Chairperson has been appointed expires, that Chairperson, unless sooner vacating or removed from office under section 103, shall continue to hold office, by virtue of the appointment for the term that has expired, until-
+(4) Where the term for which a Chairperson has been appointed expires, that Chairperson, unless sooner vacating or removed from office under section 103, shall continue to hold office, by virtue of the appointment for the term that has expired, until—
 
 (a) that Chairperson is reappointed; or
 
@@ -4018,13 +4323,13 @@ Reprinted as at 1 July 2013
 
 #### 101 Panel
 
-- The Minister shall maintain a panel of not more than 20 persons who may be appointed pursuant to section 98.
+(1) The Minister shall maintain a panel of not more than 20 persons who may be appointed pursuant to section 98.
 
-- In considering the suitability of persons for inclusion on the panel, the Minister must have regard to the need for persons included on the panel to have between them knowledge of, or experience in,-
+(2) In considering the suitability of persons for inclusion on the panel, the Minister must have regard to the need for persons included on the panel to have between them knowledge of, or experience in,—
 
 (a) different aspects of matters likely to come before the Tribunal:
 
-(b) NewZealandlaw, or the law of another country, or international law, on human rights:
+(b) New Zealand law, or the law of another country, or international law, on human rights:
 
 (c) public administration, or the law relating to public administration:
 
@@ -4034,7 +4339,7 @@ Reprinted as at 1 July 2013
 
 (2A) At least 3 members of the panel must be barristers or solicitors of the High Court of not less than 5 years' practice.
 
-- The name of a person shall be removed from the panel if-
+(3) The name of a person shall be removed from the panel if—
 
 (a) the person dies or is, under the Insolvency Act 2006, adjudged bankrupt; or
 
@@ -4044,7 +4349,7 @@ Reprinted as at 1 July 2013
 
 (d) the person requests by writing addressed to the Minister that his or her name be removed.
 
-- Where subsection (3)(c) or subsection (3)(d) applies, the name of the person shall not be removed from the panel until any hearings in respect of which that person was appointed to the Tribunal have concluded.
+(4) Where subsection (3)(c) or subsection (3)(d) applies, the name of the person shall not be removed from the panel until any hearings in respect of which that person was appointed to the Tribunal have concluded.
 
 Compare: 1977 No 49 s 47C; 1993 No 35 s 5(1)
 
@@ -4068,23 +4373,23 @@ Section 101(3)(a): amended, on 3 December 2007, by section 445 of the Insolvency
 
 #### 102 Deputy Chairperson
 
-- In any case in which a Chairperson of the Tribunal becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if a Chairperson deems it not proper or desirable that he or she should adjudicate on any specified matter, the Governor-General, on the recommendation of the Minister, may appoint a suitable person to be the deputy of that Chairperson to act for that Chairperson for the period or purpose stated in the appointment.
+(1) In any case in which a Chairperson of the Tribunal becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if a Chairperson deems it not proper or desirable that he or she should adjudicate on any specified matter, the Governor-General, on the recommendation of the Minister, may appoint a suitable person to be the deputy of that Chairperson to act for that Chairperson for the period or purpose stated in the appointment.
 
-- No person shall be appointed as a Deputy Chairperson unless he or she is eligible for appointment as a Chairperson.
+(2) No person shall be appointed as a Deputy Chairperson unless he or she is eligible for appointment as a Chairperson.
 
-- Every Deputy Chairperson appointed under this section shall, while acting for a Chairperson, be deemed to be a Chairperson of the Tribunal.
+(3) Every Deputy Chairperson appointed under this section shall, while acting for a Chairperson, be deemed to be a Chairperson of the Tribunal.
 
-- No appointment of a Deputy Chairperson, and no act done by a Deputy Chairperson as such, and no act done by the Tribunal while he or she is acting as such, shall in any proceedings be questioned on the ground that the occasion for the appointment had not arisen or had ceased.
+(4) No appointment of a Deputy Chairperson, and no act done by a Deputy Chairperson as such, and no act done by the Tribunal while he or she is acting as such, shall in any proceedings be questioned on the ground that the occasion for the appointment had not arisen or had ceased.
 
 Compare: 1977 No 49 s 48; 1993 No 35 s 5(1)
 
 #### 103 Vacation of office by Chairperson and Deputy Chairperson
 
-- A Chairperson and any Deputy Chairperson of the Tribunal may at any time resign his or her office by delivering a notice in writing to that effect to the Minister.
+(1) A Chairperson and any Deputy Chairperson of the Tribunal may at any time resign his or her office by delivering a notice in writing to that effect to the Minister.
 
-- A Chairperson and any Deputy Chairperson of the Tribunal shall be deemed to have vacated his or her office if he or she dies or is, under the Insolvency Act 2006, adjudged bankrupt.
+(2) A Chairperson and any Deputy Chairperson of the Tribunal shall be deemed to have vacated his or her office if he or she dies or is, under the Insolvency Act 2006, adjudged bankrupt.
 
-- A Chairperson and any Deputy Chairperson of the Tribunal may at any time be removed from office by the Governor-General for disability affecting performance of duty, neglect of
+(3) A Chairperson and any Deputy Chairperson of the Tribunal may at any time be removed from office by the Governor-General for disability affecting performance of duty, neglect of
 
 105
 
@@ -4108,23 +4413,23 @@ Section 103(2): amended, on 3 December 2007, by section 445 of the Insolvency Ac
 
 #### 104 Sittings of Tribunal
 
-- Sittings of the Tribunal shall be held at such times and places as the Tribunal or Chairperson from time to time appoints.
+(1) Sittings of the Tribunal shall be held at such times and places as the Tribunal or Chairperson from time to time appoints.
 
-- Anysitting may be adjourned from time to time and from place to place by the Tribunal or a Chairperson or by the Secretary to the Tribunal.
+(2) Any sitting may be adjourned from time to time and from place to place by the Tribunal or a Chairperson or by the Secretary to the Tribunal.
 
-- No sitting of the Tribunal shall take place unless all the members are present, but the decision of a majority of the members shall be the decision of the Tribunal.
+(3) No sitting of the Tribunal shall take place unless all the members are present, but the decision of a majority of the members shall be the decision of the Tribunal.
 
-- A Chairperson shall preside at all sittings of the Tribunal.
+(4) A Chairperson shall preside at all sittings of the Tribunal.
 
-- Subject to the provisions of this Act and of any regulations made under this Act, the Tribunal may regulate its procedure in such manner as the Tribunal thinks fit and may prescribe or approve forms for the purposes of this Act.
+(5) Subject to the provisions of this Act and of any regulations made under this Act, the Tribunal may regulate its procedure in such manner as the Tribunal thinks fit and may prescribe or approve forms for the purposes of this Act.
 
 Compare: 1977 No 49 s 50; 1993 No 35 s 5(2)
 
 #### 105 Substantial merits
 
-- The Tribunal must act according to the substantial merits of the case, without regard to technicalities.
+(1) The Tribunal must act according to the substantial merits of the case, without regard to technicalities.
 
-- In exercising its powers and functions, the Tribunal must act-
+(2) In exercising its powers and functions, the Tribunal must act—
 
 (a) in accordance with the principles of natural justice; and
 
@@ -4136,7 +4441,7 @@ Section 105: substituted, on 1 January 2002, by section 18 of the Human Rights A
 
 #### 106 Evidence in proceedings before Tribunal
 
-- The Tribunal may-
+(1) The Tribunal may—
 
 (a) call for evidence and information from the parties or any other person:
 
@@ -4158,11 +4463,11 @@ Part 4 s 107
 
 (d) receive as evidence any statement, document, information, or matter that may, in its opinion, assist to deal effectively with the matter before it, whether or not it would be admissible in a court of law.
 
-- The Tribunal may take evidence on oath, and for that purpose any member or officer of the Tribunal may administer an oath.
+(2) The Tribunal may take evidence on oath, and for that purpose any member or officer of the Tribunal may administer an oath.
 
-- The Tribunal may permit a person appearing as a witness before it to give evidence by tendering a written statement and, if the Tribunal thinks fit, verifying it by oath.
+(3) The Tribunal may permit a person appearing as a witness before it to give evidence by tendering a written statement and, if the Tribunal thinks fit, verifying it by oath.
 
-- Subject to subsections (1) to (3), the Evidence Act 2006 shall apply to the Tribunal in the same manner as if the Tribunal were a court within the meaning of that Act.
+(4) Subject to subsections (1) to (3), the Evidence Act 2006 shall apply to the Tribunal in the same manner as if the Tribunal were a court within the meaning of that Act.
 
 Compare: 1977 No 49 s 52
 
@@ -4172,11 +4477,11 @@ Section 106(4): amended, on 1 August 2007, by section 216 of the Evidence Act 20
 
 #### 107 Sittings to be held in public except in special circumstances
 
-- Except as provided by subsections (2) and (3), every hearing of the Tribunal shall be held in public.
+(1) Except as provided by subsections (2) and (3), every hearing of the Tribunal shall be held in public.
 
-- The Tribunal may deliberate in private as to its decision in any matter or as to any question arising in the course of any proceedings before it.
+(2) The Tribunal may deliberate in private as to its decision in any matter or as to any question arising in the course of any proceedings before it.
 
-- Where the Tribunal is satisfied that it is desirable to do so, the Tribunal may, of its own motion or on the application of any party to the proceedings,-
+(3) Where the Tribunal is satisfied that it is desirable to do so, the Tribunal may, of its own motion or on the application of any party to the proceedings,—
 
 (a) order that any hearing held by it be heard in private, either as to the whole or any portion thereof:
 
@@ -4198,7 +4503,7 @@ Reprinted as at
 
 1 July 2013
 
-- Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who acts in contravention of any order made by the Tribunal under subsection (3)(b) or subsection (3)(c).
+(4) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who acts in contravention of any order made by the Tribunal under subsection (3)(b) or subsection (3)(c).
 
 Compare: 1977 No 49 s 54
 
@@ -4206,11 +4511,11 @@ Section 107(4): amended, on 1 July 2013, by section 413 of the Criminal Procedur
 
 #### 108 Persons entitled to be heard
 
-- Any person who is a party to the proceedings before the Tribunal, and any person who satisfies the Tribunal that he or she has an interest in the proceedings greater than the public generally, may appear and may call evidence on any matter that should be taken into account in determining the proceedings.
+(1) Any person who is a party to the proceedings before the Tribunal, and any person who satisfies the Tribunal that he or she has an interest in the proceedings greater than the public generally, may appear and may call evidence on any matter that should be taken into account in determining the proceedings.
 
-- If any person who is not a party to the proceedings before the Tribunal wishes to appear, the person must give notice to the Tribunal and to every party before appearing.
+(2) If any person who is not a party to the proceedings before the Tribunal wishes to appear, the person must give notice to the Tribunal and to every party before appearing.
 
-- A person who has a right to appear or is allowed to appear before the Tribunal may appear in person or be represented by his or her counsel or agent.
+(3) A person who has a right to appear or is allowed to appear before the Tribunal may appear in person or be represented by his or her counsel or agent.
 
 Section 108(2): substituted, on 1 January 2002, by section 20 of the Human Rights Amendment Act 2001 (2001 No 96).
 
@@ -4222,7 +4527,7 @@ Section 108A: inserted, on 1 January 2002, by section 21 of the Human Rights Ame
 
 #### 108B Submissions in relation to remedies
 
-- Before the Tribunal grants any remedy under Part 3, it must give the parties to the proceedings and, if the remedy under consideration is a declaration under section 92J, the AttorneyGeneral, an opportunity to make submissions on-
+(1) Before the Tribunal grants any remedy under Part 3, it must give the parties to the proceedings and, if the remedy under consideration is a declaration under section 92J, the Attorney-General, an opportunity to make submissions on—
 
 (a) the implications of granting that remedy; and
 
@@ -4240,15 +4545,15 @@ Part 4 s 110
 
 (b) the appropriateness of that remedy.
 
-- Subsection (1) does not limit any provision in Part 3 or section 108.
+(2) Subsection (1) does not limit any provision in Part 3 or section 108.
 
 Section 108B: inserted, on 1 January 2002, by section 21 of the Human Rights Amendment Act 2001 (2001 No 96).
 
-#### 109 W itness summons
+#### 109 Witness summons
 
-- The Tribunal may, if it considers it necessary, of its own motion, or on the application of any party to the proceedings, issue a witness summons to any person requiring that person to attend before the Tribunal to give evidence at the hearing of the proceedings.
+(1) The Tribunal may, if it considers it necessary, of its own motion, or on the application of any party to the proceedings, issue a witness summons to any person requiring that person to attend before the Tribunal to give evidence at the hearing of the proceedings.
 
-- The witness summons shall state-
+(2) The witness summons shall state—
 
 (a) the place where the person is to attend; and
 
@@ -4260,19 +4565,19 @@ Section 108B: inserted, on 1 January 2002, by section 21 of the Human Rights Ame
 
 (e) the penalty for failing to attend.
 
-- The power to issue a witness summons may be exercised by the Tribunal or a Chairperson, or by any officer of the Tribunal purporting to act by the direction or with the authority of the Tribunal or a Chairperson.
+(3) The power to issue a witness summons may be exercised by the Tribunal or a Chairperson, or by any officer of the Tribunal purporting to act by the direction or with the authority of the Tribunal or a Chairperson.
 
 Section 109(1): amended, on 1 January 2002, by section 22 of the Human Rights Amendment Act 2001 (2001 No 96).
 
 #### 110 Service of summons
 
-- A witness summons may be served-
+(1) A witness summons may be served—
 
 (a) by delivering it personally to the person summoned; or
 
 (b) by posting it by registered letter addressed to the person summoned at that person's usual place of residence.
 
-- The summons shall,-
+(2) The summons shall,—
 
 (a) where it is served under subsection (1)(a), be served at least 24 hours before the attendance of the witness is required; or
 
@@ -4290,19 +4595,19 @@ Reprinted as at 1 July 2013
 
 (b) where it is served under subsection (1)(b), be served at least 10 days before the date on which the attendance of the witness is required.
 
-- If the summons is posted by registered letter, it shall be deemed for the purposes of subsection (2)(b) to have been served at the time when the letter would be delivered in the ordinary course of post.
+(3) If the summons is posted by registered letter, it shall be deemed for the purposes of subsection (2)(b) to have been served at the time when the letter would be delivered in the ordinary course of post.
 
-#### 111 W itnesses' allowances
+#### 111 Witnesses' allowances
 
-- Every witness attending before the Tribunal to give evidence pursuant to a summons shall be entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations shall apply accordingly.
+(1) Every witness attending before the Tribunal to give evidence pursuant to a summons shall be entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations shall apply accordingly.
 
-- On each occasion on which the Tribunal issues a summons under section 109(1), the Tribunal, or the person exercising the power of the Tribunal under subsection (3) of that section, shall fix an amount which, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, shall be paid or tendered to the witness.
+(2) On each occasion on which the Tribunal issues a summons under section 109(1), the Tribunal, or the person exercising the power of the Tribunal under subsection (3) of that section, shall fix an amount which, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, shall be paid or tendered to the witness.
 
-- The amount fixed under subsection (2) shall be the estimated amount of the allowances and travelling expenses to which, in the opinion of the Tribunal or person, the witness will be entitled according to the prescribed scales if the witness attends at the time and place specified in the summons.
+(3) The amount fixed under subsection (2) shall be the estimated amount of the allowances and travelling expenses to which, in the opinion of the Tribunal or person, the witness will be entitled according to the prescribed scales if the witness attends at the time and place specified in the summons.
 
-- Where a party to the proceedings has requested the issue of the witness summons, the fees, allowances, and travelling expenses payable to the witness shall be paid by that party.
+(4) Where a party to the proceedings has requested the issue of the witness summons, the fees, allowances, and travelling expenses payable to the witness shall be paid by that party.
 
-- Where the Tribunal has of its own motion issued the witness summons, the Tribunal may direct that the amount of those fees, allowances, and travelling expenses-
+(5) Where the Tribunal has of its own motion issued the witness summons, the Tribunal may direct that the amount of those fees, allowances, and travelling expenses—
 
 (a) form part of the costs of the proceedings; or
 
@@ -4328,7 +4633,7 @@ Witnesses and counsel appearing before the Tribunal shall have the same privileg
 
 #### 113 Non-attendance or refusal to co-operate
 
-- Every person commits an offence who, after being summoned to attend to give evidence before the Tribunal or to produce to the Tribunal any papers, documents, records, or things, without sufficient cause,-
+(1) Every person commits an offence who, after being summoned to attend to give evidence before the Tribunal or to produce to the Tribunal any papers, documents, records, or things, without sufficient cause,—
 
 (a) fails to attend in accordance with the summons; or
 
@@ -4336,21 +4641,21 @@ Witnesses and counsel appearing before the Tribunal shall have the same privileg
 
 (c) fails to produce any such paper, document, record, or thing.
 
-- Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $1,500.
+(2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $1,500.
 
-- No person summoned to attend before a Tribunal shall be convicted of an offence against subsection (1) unless there was tendered or paid to that person travelling expenses in accordance with section 111.
+(3) No person summoned to attend before a Tribunal shall be convicted of an offence against subsection (1) unless there was tendered or paid to that person travelling expenses in accordance with section 111.
 
 Section 113(2): amended, on 1 July 2013, by section 413 of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### 114 Power to commit for contempt
 
-- If any person-
+(1) If any person—
 
 (a) assaults, threatens, or intimidates, or intentionally insults, the Tribunal or any member of it or any special adviser to or officer of the Tribunal, during a sitting of the Tribunal, or in going to, or returning from, any sitting; or
 
 (b) intentionally interrupts the proceedings of the Tribunal or otherwise misbehaves while the Tribunal is sitting; or
 
-(c) intentionally and without lawful excuse disobeys an order or direction of a member of the Tribunal in the course of any proceedings before the Tribunal,-
+(c) intentionally and without lawful excuse disobeys an order or direction of a member of the Tribunal in the course of any proceedings before the Tribunal,—
 
 111
 
@@ -4368,7 +4673,7 @@ Reprinted as at
 
 any officer of the Tribunal, with or without the assistance of any constable or other person, may, in accordance with any order given by a member of the Tribunal, take the person into custody and detain him or her for a period expiring not later than 1 hour following the rising of the Tribunal, and the Chairperson may, if he or she thinks fit, by warrant under his or her hand, commit the person to prison for any period not exceeding 10 days or impose a fine not exceeding $1,500.
 
-- A warrant under subsection (1) may be filed in any District Court and shall then be enforceable as an order made by that court.
+(2) A warrant under subsection (1) may be filed in any District Court and shall then be enforceable as an order made by that court.
 
 Section 114(1)(c): amended, on 1 October 2008, pursuant to section 116(a)(ii) of the Policing Act 2008 (2008 No 72).
 
@@ -4380,7 +4685,7 @@ Section 115: amended, on 1 January 2002, by section 23 of the Human Rights Amend
 
 #### 116 Reasons to be given
 
-- This section applies to the following decisions of the Tribunal:
+(1) This section applies to the following decisions of the Tribunal:
 
 (a) a decision to grant 1 or more of the remedies described in section 92I or the remedy described in section 92J or an order under section 95:
 
@@ -4388,7 +4693,7 @@ Section 115: amended, on 1 January 2002, by section 23 of the Human Rights Amend
 
 (c) a decision to dismiss proceedings brought under section 92B or section 92E or section 95 or section 97.
 
-- Every decision to which this section applies must be in writing and must show the Tribunal's reasons for the decision, including-
+(2) Every decision to which this section applies must be in writing and must show the Tribunal's reasons for the decision, including—
 
 (a) relevant findings of fact; and
 
@@ -4408,7 +4713,7 @@ Human Rights Act 1993
 
 Part 4 s 120
 
-- The Tribunal must notify the parties, the Attorney-General, and the Human Rights Commission of every decision of the Tribunal.
+(3) The Tribunal must notify the parties, the Attorney-General, and the Human Rights Commission of every decision of the Tribunal.
 
 Section 116: substituted, on 1 January 2002, by section 24 of the Human Rights Amendment Act 2001 (2001 No 96).
 
@@ -4426,19 +4731,19 @@ Compare: 1977 No 49 s 58
 
 #### 119 Fees of members of Tribunal
 
-- A member of the Tribunal is entitled-
+(1) A member of the Tribunal is entitled—
 
 (a) to receive remuneration not within paragraph (b) for services as a member at a rate and of a kind determined by the Minister in accordance with the fees framework; and
 
 (b) in accordance with the fees framework, to be reimbursed for actual and reasonable travelling and other expenses incurred in carrying out his or her office as a member.
 
-- For the purposes of subsection (1), fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
+(2) For the purposes of subsection (1), fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
 
 Section 119: substituted, on 25 January 2005, by section 200 of the Crown Entities Act 2004 (2004 No 115).
 
 #### 120 Services for Tribunal
 
-- The Ministry of Justice shall furnish such secretarial, recording, and clerical services as may be necessary to enable the Tribunal to discharge its functions.
+(1) The Ministry of Justice shall furnish such secretarial, recording, and clerical services as may be necessary to enable the Tribunal to discharge its functions.
 
 113
 
@@ -4452,7 +4757,7 @@ Human Rights Act 1993
 
 Reprinted as at 1 July 2013
 
-- The cost of any services provided by the Ministry of Justice pursuant to this section shall be paid from public money appropriated by Parliament for the purpose.
+(2) The cost of any services provided by the Ministry of Justice pursuant to this section shall be paid from public money appropriated by Parliament for the purpose.
 
 Compare: 1977 No 49 s 60
 
@@ -4462,7 +4767,7 @@ Section 120(2): amended, on 1 October 2003, pursuant to section 14(1) of the Sta
 
 #### 121 Enforcement
 
-- The following orders made by the Tribunal may, on registration of a certified copy in the District Court, be enforced in all respects as if they were an order of that court:
+(1) The following orders made by the Tribunal may, on registration of a certified copy in the District Court, be enforced in all respects as if they were an order of that court:
 
 (a) an order for the award of costs under section 92L; and
 
@@ -4470,7 +4775,7 @@ Section 120(2): amended, on 1 October 2003, pursuant to section 14(1) of the Sta
 
 (c) an interim order under section 95.
 
-- Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who contravenes or refuses to comply with any other order of the Tribunal made under section 92I or an interim order of the Tribunal made under section 95.
+(2) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who contravenes or refuses to comply with any other order of the Tribunal made under section 92I or an interim order of the Tribunal made under section 95.
 
 Compare: 1977 No 49 s 61
 
@@ -4482,9 +4787,9 @@ Section 121(2): amended, on 1 January 2002, by section 25(2) of the Human Rights
 
 #### 122 Stating case for High Court
 
-- The Tribunal may, at any time, before or during the hearing or before delivering its decision, on the application of any party to the proceedings or of its own motion, state a case for the opinion of the High Court on any question of law arising in any proceedings before the Tribunal.
+(1) The Tribunal may, at any time, before or during the hearing or before delivering its decision, on the application of any party to the proceedings or of its own motion, state a case for the opinion of the High Court on any question of law arising in any proceedings before the Tribunal.
 
-(1A) If, in any proceedings before the Tribunal, the validity of any regulation is questioned, the Tribunal must, unless it considers that there is no arguable case in support of the contention that the regulation is invalid, either-
+(1A) If, in any proceedings before the Tribunal, the validity of any regulation is questioned, the Tribunal must, unless it considers that there is no arguable case in support of the contention that the regulation is invalid, either—
 
 114
 
@@ -4502,13 +4807,13 @@ Part 4 s 122A
 
 (b) if the leave of the High Court is obtained, order, under section 122A(1), that the proceedings before it or the relevant matter or matters at issue be removed to the High Court for determination.
 
-- The Tribunal shall give notice to the parties to the proceedings of the Tribunal's intention to state a case under this section, specifying the registry of the High Court in which the case is to be filed.
+(2) The Tribunal shall give notice to the parties to the proceedings of the Tribunal's intention to state a case under this section, specifying the registry of the High Court in which the case is to be filed.
 
-- Except where the Tribunal intends to state the case of its own motion, the question shall be in the form of a special case drawn up by the parties to the proceedings, and, if the parties do not agree, to be settled by the Tribunal.
+(3) Except where the Tribunal intends to state the case of its own motion, the question shall be in the form of a special case drawn up by the parties to the proceedings, and, if the parties do not agree, to be settled by the Tribunal.
 
-- Where the Tribunal intends to state the case of its own motion, it shall itself state and sign a case setting forth the facts and questions of law arising for the determination of the High Court.
+(4) Where the Tribunal intends to state the case of its own motion, it shall itself state and sign a case setting forth the facts and questions of law arising for the determination of the High Court.
 
-- The High Court shall hear and determine any question submitted to it under this section, and shall remit the case with its opinion to the Tribunal.
+(5) The High Court shall hear and determine any question submitted to it under this section, and shall remit the case with its opinion to the Tribunal.
 
 Compare: 1977 No 49 s 62
 
@@ -4516,9 +4821,9 @@ Section 122(1A): inserted, on 1 January 2002, by section 26 of the Human Rights 
 
 #### 122A Removal to High Court of proceedings or issue
 
-- The Tribunal may, with the leave of the High Court, order that proceedings before it under this Act, or a matter at issue in them, be removed to the High Court for determination.
+(1) The Tribunal may, with the leave of the High Court, order that proceedings before it under this Act, or a matter at issue in them, be removed to the High Court for determination.
 
-- The Tribunal may make an order under this section, with the leave of the High Court, before or during the hearing, and either on the application of a party to the proceedings or on its own initiative, but only if-
+(2) The Tribunal may make an order under this section, with the leave of the High Court, before or during the hearing, and either on the application of a party to the proceedings or on its own initiative, but only if—
 
 (a) an important question of law is likely to arise in the proceedings or matter other than incidentally; or
 
@@ -4536,7 +4841,7 @@ Human Rights Act 1993
 
 Reprinted as at 1 July 2013
 
-- empowering the making of the regulation does not authorise the making of a regulation authorising or requiring unjustified discrimination, or otherwise); or
+empowering the making of the regulation does not authorise the making of a regulation authorising or requiring unjustified discrimination, or otherwise); or
 
 (c) the nature and the urgency of the proceedings or matter mean that it is in the public interest that they or it be removed immediately to the High Court; or
 
@@ -4544,17 +4849,17 @@ Reprinted as at 1 July 2013
 
 (e) the Tribunal is of the opinion that, in all the circumstances, the High Court should determine the proceedings or matter.
 
-- Despite subsection (2), if the validity of any regulation is questioned in proceedings before the Tribunal and the leave of the High Court is obtained for the making of an order under this section, the Tribunal must make an order under this section.
+(3) Despite subsection (2), if the validity of any regulation is questioned in proceedings before the Tribunal and the leave of the High Court is obtained for the making of an order under this section, the Tribunal must make an order under this section.
 
-- If the Tribunal declines to remove proceedings, or a matter at issue in them, to the High Court (whether as a result of the refusal of the High Court to grant leave or otherwise), the party applying for the removal may seek the special leave of the High Court for an order of the High Court that the proceedings or matter be removed to the High Court and, in determining whether to grant an order of that kind, the High Court must apply the criteria stated in subsection (2)(a) to (d).
+(4) If the Tribunal declines to remove proceedings, or a matter at issue in them, to the High Court (whether as a result of the refusal of the High Court to grant leave or otherwise), the party applying for the removal may seek the special leave of the High Court for an order of the High Court that the proceedings or matter be removed to the High Court and, in determining whether to grant an order of that kind, the High Court must apply the criteria stated in subsection (2)(a) to (d).
 
-- An order for removal to the High Court under this section may be made subject to any conditions the Tribunal or the High Court, as the case may be, thinks fit.
+(5) An order for removal to the High Court under this section may be made subject to any conditions the Tribunal or the High Court, as the case may be, thinks fit.
 
-- Nothing in this section limits section 122. Section 122A: inserted, on 1 January 2002, by section 27 of the Human Rights Amendment Act 2001 (2001 No 96).
+(6) Nothing in this section limits section 122. Section 122A: inserted, on 1 January 2002, by section 27 of the Human Rights Amendment Act 2001 (2001 No 96).
 
 #### 122B Proceedings or issue removed to High Court
 
-- If the Tribunal, acting under section 122A, orders the removal of proceedings, or a matter at issue in them, to the High Court, unless section 122A(2)(b) applies the High Court may, if it considers that the proceedings or matter ought instead to be determined by the Tribunal, order that the Tribunal determine the matter.
+(1) If the Tribunal, acting under section 122A, orders the removal of proceedings, or a matter at issue in them, to the High Court, unless section 122A(2)(b) applies the High Court may, if it considers that the proceedings or matter ought instead to be determined by the Tribunal, order that the Tribunal determine the matter.
 
 116
 
@@ -4568,7 +4873,7 @@ Human Rights Act 1993
 
 Part 4 s 123
 
-- If the Tribunal, under section 122A, orders that proceedings, or a matter at issue in them, be removed to the High Court, and the High Court makes no order under subsection (1),-
+(2) If the Tribunal, under section 122A, orders that proceedings, or a matter at issue in them, be removed to the High Court, and the High Court makes no order under subsection (1),—
 
 (a) the High Court must determine the proceedings or matter and may exercise any power that the Tribunal could have exercised in, or in relation to, the proceedings or matter; and
 
@@ -4578,9 +4883,9 @@ Section 122B: inserted, on 1 January 2002, by section 27 of the Human Rights Ame
 
 #### 123 Appeals to High Court
 
-- Where any party is dissatisfied with any interim order made by the Chairperson under section 95, that party may appeal to the High Court against the whole or part of that order.
+(1) Where any party is dissatisfied with any interim order made by the Chairperson under section 95, that party may appeal to the High Court against the whole or part of that order.
 
-- Aparty to a proceeding under section 92B or section 92E may appeal to the High Court against all or any part of a decision of the Tribunal-
+(2) A party to a proceeding under section 92B or section 92E may appeal to the High Court against all or any part of a decision of the Tribunal—
 
 (a) dismissing the proceeding; or
 
@@ -4592,13 +4897,13 @@ Section 122B: inserted, on 1 January 2002, by section 27 of the Human Rights Ame
 
 (e) constituting a final determination of the Tribunal in the proceeding.
 
-(2A) For the purposes of subsection (2)(d), the Tribunal does not in a proceeding refuse to grant the remedy described in section 92J unless-
+(2A) For the purposes of subsection (2)(d), the Tribunal does not in a proceeding refuse to grant the remedy described in section 92J unless—
 
 (a) a party to the proceeding expressly applies to the Tribunal for the remedy in relation to a particular enactment; and
 
 (b) the Tribunal does not grant the remedy in relation to that enactment.
 
-- Where any party is dissatisfied with any decision of the Tribunal making a declaration under section 97, that party may
+(3) Where any party is dissatisfied with any decision of the Tribunal making a declaration under section 97, that party may
 
 117
 
@@ -4612,23 +4917,23 @@ Human Rights Act 1993
 
 Reprinted as at 1 July 2013
 
-- appeal to the High Court against the whole or any part of that decision.
+appeal to the High Court against the whole or any part of that decision.
 
-- Every appeal under this section shall be made by giving notice of appeal within 30 days after the date of the giving by the Tribunal in writing of the decision to which the appeal relates.
+(4) Every appeal under this section shall be made by giving notice of appeal within 30 days after the date of the giving by the Tribunal in writing of the decision to which the appeal relates.
 
-- In determining any appeal under this section the High Court shall have the powers conferred on the Tribunal by sections 105 and 106, and those sections shall apply accordingly with such modifications as are necessary.
+(5) In determining any appeal under this section the High Court shall have the powers conferred on the Tribunal by sections 105 and 106, and those sections shall apply accordingly with such modifications as are necessary.
 
-- In its determination of any appeal, the court may-
+(6) In its determination of any appeal, the court may—
 
 (a) confirm, modify, or reverse the order or decision appealed against, or any part of that order or decision:
 
 (b) exercise any of the powers that could have been exercised by the Tribunal in the proceedings to which the appeal relates.
 
-- Notwithstanding anything in subsection (6), the court may in any case, instead of determining any appeal, refer to the Tribunal, in accordance with the rules of court, for further consideration by the Tribunal, the whole or any part of the matter to which the appeal relates.
+(7) Notwithstanding anything in subsection (6), the court may in any case, instead of determining any appeal, refer to the Tribunal, in accordance with the rules of court, for further consideration by the Tribunal, the whole or any part of the matter to which the appeal relates.
 
-- Subject to the provisions of this Act, the procedure in respect of any such appeal shall be in accordance with the rules of court.
+(8) Subject to the provisions of this Act, the procedure in respect of any such appeal shall be in accordance with the rules of court.
 
-- Notice of appeal shall not operate as a stay of proceedings in respect of the decision to which the appeal relates unless the Tribunal or the High Court so orders.
+(9) Notice of appeal shall not operate as a stay of proceedings in respect of the decision to which the appeal relates unless the Tribunal or the High Court so orders.
 
 Compare: 1977 No 49 s 63
 
@@ -4638,7 +4943,7 @@ Section 123(2A): inserted, on 1 January 2004, by section 47 of the Supreme Court
 
 #### 124 Appeal to Court of Appeal on a question of law
 
-- Any party to any proceedings before the High Court under this Act may, with the leave of the High Court, appeal to the Court
+(1) Any party to any proceedings before the High Court under this Act may, with the leave of the High Court, appeal to the Court
 
 118
 
@@ -4654,19 +4959,19 @@ Part 4 s 124
 
 of Appeal against any determination of the High Court on a question of law arising in those proceedings:
 
-- provided that, if the High Court refuses to grant leave to appeal to the Court of Appeal, the Court of Appeal may grant special leave to appeal.
+provided that, if the High Court refuses to grant leave to appeal to the Court of Appeal, the Court of Appeal may grant special leave to appeal.
 
-- A party desiring to appeal to the Court of Appeal under this section shall, within 21 days after the determination of the High Court, or within such further time as that court may allow, give notice of his or her application for leave to appeal in such manner as may be directed by the rules of that court, and the High Court may grant leave accordingly if in the opinion of that court the question of law involved in the appeal is one which, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for decision.
+(2) A party desiring to appeal to the Court of Appeal under this section shall, within 21 days after the determination of the High Court, or within such further time as that court may allow, give notice of his or her application for leave to appeal in such manner as may be directed by the rules of that court, and the High Court may grant leave accordingly if in the opinion of that court the question of law involved in the appeal is one which, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for decision.
 
-- Where the High Court refuses leave to any party to appeal to the Court of Appeal under this section, that party may, within 21 days after the refusal of the High Court or within such further time as the Court of Appeal may allow, apply to the Court of Appeal, in such manner as may be directed by the rules of that court, for special leave to appeal to that court, and the Court of Appeal may grant leave accordingly if, in the opinion of that court, the question of law involved in the appeal is one which, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for decision.
+(3) Where the High Court refuses leave to any party to appeal to the Court of Appeal under this section, that party may, within 21 days after the refusal of the High Court or within such further time as the Court of Appeal may allow, apply to the Court of Appeal, in such manner as may be directed by the rules of that court, for special leave to appeal to that court, and the Court of Appeal may grant leave accordingly if, in the opinion of that court, the question of law involved in the appeal is one which, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for decision.
 
-- On any appeal to the Court of Appeal under this section, the Court of Appeal shall have the same power to adjudicate on the proceedings as the High Court had.
+(4) On any appeal to the Court of Appeal under this section, the Court of Appeal shall have the same power to adjudicate on the proceedings as the High Court had.
 
-- The same judgment must be entered in the High Court, and the same execution and other consequences and proceedings must follow on it, as if the decision of the Court of Appeal on an appeal under this section had been given in the High Court.
+(5) The same judgment must be entered in the High Court, and the same execution and other consequences and proceedings must follow on it, as if the decision of the Court of Appeal on an appeal under this section had been given in the High Court.
 
-- The decision of the Court of Appeal on any application to that court for leave to appeal shall be final.
+(6) The decision of the Court of Appeal on any application to that court for leave to appeal shall be final.
 
-- Compare: 1977 No 49 s 64
+Compare: 1977 No 49 s 64
 
 Section 124(5): substituted, on 1 January 2004, by section 47 of the Supreme Court Act 2003 (2003 No 53).
 
@@ -4688,21 +4993,21 @@ The High Court shall have power to make such order as to the whole or any part o
 
 #### 126 Additional members of High Court for purposes of Act
 
-- For the purpose of the exercise by the High Court of its jurisdiction and powers-
+(1) For the purpose of the exercise by the High Court of its jurisdiction and powers—
 
 (a) under section 92T; or
 
-(b) under section 123 in respect of any appeal under section 123(2) or section 123(3) in which a question of fact is involved,-
+(b) under section 123 in respect of any appeal under section 123(2) or section 123(3) in which a question of fact is involved,—
 
 there shall be 2 additional members of the court who shall be persons appointed by a Judge of the court for the purposes of the hearing or appeal from the panel maintained by the Minister under section 101.
 
-- Before entering upon the exercise of the duties of their office, the additional members shall take an oath before a Judge of the High Court that they will faithfully and impartially perform the duties of their office.
+(2) Before entering upon the exercise of the duties of their office, the additional members shall take an oath before a Judge of the High Court that they will faithfully and impartially perform the duties of their office.
 
-- The presence of a Judge of the High Court and of at least 1 additional member shall be necessary to constitute a sitting of the court.
+(3) The presence of a Judge of the High Court and of at least 1 additional member shall be necessary to constitute a sitting of the court.
 
-- The decision of a majority (including the Judge, or, where more than 1 Judge sits, including a majority of the Judges) of the members present at a sitting of the court shall be the decision of the court. If the members present are equally divided in opinion, the decision of the Judge, or of a majority of the Judges, shall be the decision of the court.
+(4) The decision of a majority (including the Judge, or, where more than 1 Judge sits, including a majority of the Judges) of the members present at a sitting of the court shall be the decision of the court. If the members present are equally divided in opinion, the decision of the Judge, or of a majority of the Judges, shall be the decision of the court.
 
-- If any question before the court cannot be decided in accordance with subsection (4), the question shall be referred to the Court of Appeal for decision in accordance with the practice and procedure of that court, which for the purpose shall have all the powers of the court under this Act. The decision of the Court of Appeal in any proceedings under this subsection shall be final and shall take effect and be entered as if it were a decision of the court under this Act.
+(5) If any question before the court cannot be decided in accordance with subsection (4), the question shall be referred to the Court of Appeal for decision in accordance with the practice and procedure of that court, which for the purpose shall have all the powers of the court under this Act. The decision of the Court of Appeal in any proceedings under this subsection shall be final and shall take effect and be entered as if it were a decision of the court under this Act.
 
 120
 
@@ -4716,13 +5021,13 @@ Human Rights Act 1993
 
 Part 5 s 126A
 
-- An additional member is entitled-
+(6) An additional member is entitled—
 
 (a) to receive remuneration not within paragraph (b) for services as a member at a rate and of a kind determined by the Minister in accordance with the fees framework; and
 
 (b) in accordance with the fees framework, to be reimbursed for actual and reasonable travelling and other expenses incurred in carrying out his or her office as a member.
 
-- For the purposes of subsection (6), fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
+(7) For the purposes of subsection (6), fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
 
 Compare: 1977 No 49 s 66; 1991 No 60 s 3(4)
 
@@ -4740,7 +5045,7 @@ Part 5 heading: amended, on 1 January 2002, by section 30 of the Human Rights Am
 
 #### 126A Evidence order
 
-- Any District Court Judge who is satisfied, on an application made by the Commission in accordance with subsection (3), that any person can provide information, documents, or things, or give evidence, that will or may be relevant to a specified inquiry, may make an order-
+(1) Any District Court Judge who is satisfied, on an application made by the Commission in accordance with subsection (3), that any person can provide information, documents, or things, or give evidence, that will or may be relevant to a specified inquiry, may make an order—
 
 (a) requiring that person to produce to the Commission any information, or documents, or things specified in the order; or
 
@@ -4758,9 +5063,9 @@ Human Rights Act 1993
 
 Reprinted as at 1 July 2013
 
-- If an order is made under subsection (1)(a), the District Court Judge may, as a condition of the order, require the Commission to reimburse the person who is the subject of the order for the actual and reasonable expenses incurred by that person in complying with the order or in producing any specified class of information, documents, or things.
+(2) If an order is made under subsection (1)(a), the District Court Judge may, as a condition of the order, require the Commission to reimburse the person who is the subject of the order for the actual and reasonable expenses incurred by that person in complying with the order or in producing any specified class of information, documents, or things.
 
-- An application by the Commission for an order under subsection (1) must be in writing and must-
+(3) An application by the Commission for an order under subsection (1) must be in writing and must—
 
 (a) set out the reasons why the order is sought; and
 
@@ -4768,17 +5073,17 @@ Reprinted as at 1 July 2013
 
 (c) explain why the information, documents, things, or evidence in question will or may be relevant to the inquiry.
 
-- In this section, specified inquiry means an inquiry by the Commission under section 5(2)(h) into the contravention or possible contravention by any person of New Zealand law relating to human rights.
+(4) In this section, specified inquiry means an inquiry by the Commission under section 5(2)(h) into the contravention or possible contravention by any person of New Zealand law relating to human rights.
 
 Section 126A: inserted, on 1 January 2002, by section 31 of the Human Rights Amendment Act 2001 (2001 No 96).
 
 #### 127 Evidence
 
-- The Commission may, by notice in writing, require any person who is the subject of an order under section 126A(1)(a) to provide any information, and to produce any documents or things in the possession of or under the control of that person, that are specified in the order.
+(1) The Commission may, by notice in writing, require any person who is the subject of an order under section 126A(1)(a) to provide any information, and to produce any documents or things in the possession of or under the control of that person, that are specified in the order.
 
-- The Commission may summon before it, and examine on oath, any person who is subject to an order under section 126A(1)(b), in accordance with the terms of the order, and a Commissioner may for that purpose administer an oath to the person summoned.
+(2) The Commission may summon before it, and examine on oath, any person who is subject to an order under section 126A(1)(b), in accordance with the terms of the order, and a Commissioner may for that purpose administer an oath to the person summoned.
 
-- Every such examination by a Commission shall be deemed to be a judicial proceeding within the meaning of section 108 of the Crimes Act 1961 (which relates to perjury).
+(3) Every such examination by a Commission shall be deemed to be a judicial proceeding within the meaning of section 108 of the Crimes Act 1961 (which relates to perjury).
 
 Compare: 1977 No 49 s 73(1), (2)
 
@@ -4802,13 +5107,13 @@ Section 127(3): amended, on 1 January 2002, by section 32 of the Human Rights Am
 
 #### 128 Protection and privileges of witnesses, etc
 
-- Every person shall have the same privileges in relation to the giving of information to, the answering of questions put by, and the production of documents and things to, a Commission as witnesses have in any court.
+(1) Every person shall have the same privileges in relation to the giving of information to, the answering of questions put by, and the production of documents and things to, a Commission as witnesses have in any court.
 
-- No person shall be required to supply any information to or to answer any question put by a Commission in relation to any matter, or to produce to a Commission any document or paper or thing relating to any matter, in any case where compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on that person by the provisions of any Act or regulations, other than the Official Information Act 1982.
+(2) No person shall be required to supply any information to or to answer any question put by a Commission in relation to any matter, or to produce to a Commission any document or paper or thing relating to any matter, in any case where compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on that person by the provisions of any Act or regulations, other than the Official Information Act 1982.
 
-- No person shall be liable to prosecution for an offence against any enactment, other than section 143, by reason of that person's compliance with any requirement of a Commission under section 127.
+(3) No person shall be liable to prosecution for an offence against any enactment, other than section 143, by reason of that person's compliance with any requirement of a Commission under section 127.
 
-- Where the attendance of any person is required by a Commission under section 127, the person shall be entitled to the same fees, allowances, and expenses as if the person were a witness in a court and, for the purpose,-
+(4) Where the attendance of any person is required by a Commission under section 127, the person shall be entitled to the same fees, allowances, and expenses as if the person were a witness in a court and, for the purpose,—
 
 (a) the provisions of any regulations in that behalf under the Criminal Procedure Act 2011 shall apply accordingly; and
 
@@ -4842,19 +5147,19 @@ Section 128(4)(b): amended, on 1 January 2002, by section 33 of the Human Rights
 
 #### 129 Disclosure of certain matters not to be required
 
-- Where-
+(1) Where—
 
 (a) the Prime Minister certifies that the giving of any information or the answering of any question or the production of any document or thing might prejudice the security, defence, or international relations of New Zealand (including New Zealand's relations with the government of any other country or with any international organisation); or
 
-(b) the Attorney-General certifies that the giving of any information or the answering of any question or the production of any document or thing-
+(b) the Attorney-General certifies that the giving of any information or the answering of any question or the production of any document or thing—
 
 (i) might prejudice the prevention, investigation, or detection of offences; or
 
-(ii) might involve the disclosure of proceedings of Cabinet, or any committee of Cabinet, relating to matters of a secret or confidential nature, and such disclosure would be injurious to the public interest,-
+(ii) might involve the disclosure of proceedings of Cabinet, or any committee of Cabinet, relating to matters of a secret or confidential nature, and such disclosure would be injurious to the public interest,—
 
 the Commission shall not require the information to be given, or, as the case may be, the document or thing to be produced.
 
-- Subject to the provisions of subsection (1), the rule of law which authorises or requires the withholding of any document, or the refusal to answer any question, on the ground that the disclosure of the document or the answering of the question would be injurious to the public interest shall not apply in respect of any investigation by a Commission.
+(2) Subject to the provisions of subsection (1), the rule of law which authorises or requires the withholding of any document, or the refusal to answer any question, on the ground that the disclosure of the document or the answering of the question would be injurious to the public interest shall not apply in respect of any investigation by a Commission.
 
 Compare: 1977 No 49 s 74
 
@@ -4876,23 +5181,23 @@ Part 5 s 130
 
 #### 130 Proceedings privileged
 
-- Sections 120 to 126 of the Crown Entities Act 2004 apply except to the extent provided in subsections (2) and (2A) (which set out special rules relating to proceedings under section 131 (which relates to inciting racial disharmony)).
+(1) Sections 120 to 126 of the Crown Entities Act 2004 apply except to the extent provided in subsections (2) and (2A) (which set out special rules relating to proceedings under section 131 (which relates to inciting racial disharmony)).
 
-- No proceedings under section 131 lie against any Commissioner or person engaged or employed in connection with the work of the Commission and the Director of Human Rights Proceedings ( relevant person ) for anything he or she may do or report or say in the course of the exercise or intended exercise of his or her duties under this Act, unless it is shown that he or she acted in bad faith.
+(2) No proceedings under section 131 lie against any Commissioner or person engaged or employed in connection with the work of the Commission and the Director of Human Rights Proceedings (relevant person) for anything he or she may do or report or say in the course of the exercise or intended exercise of his or her duties under this Act, unless it is shown that he or she acted in bad faith.
 
 (2A) Sections 122 to 126 of the Crown Entities Act 2004 then apply as if the conduct for which a relevant person may be indemnified or insured under those sections included conduct that is covered by the immunity in subsection (2).
 
 (2B) No relevant person can be required to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to his or her knowledge in the exercise of his or her functions.
 
-- Nothing in subsection (2) applies in respect of proceedings for-
+(3) Nothing in subsection (2) applies in respect of proceedings for—
 
 (a) an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
 
 (b) the offence of attempting or conspiring to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961.
 
-- Anything said or any information supplied or any document or thing produced by any person in the course of any inquiry by, or proceedings before, the Commission or a Commissioner under this Act shall be privileged in the same manner as if the inquiry or proceedings were proceedings in a court.
+(4) Anything said or any information supplied or any document or thing produced by any person in the course of any inquiry by, or proceedings before, the Commission or a Commissioner under this Act shall be privileged in the same manner as if the inquiry or proceedings were proceedings in a court.
 
-- For the purposes of clause 3 of Part 2 of Schedule 1 of the Defamation Act 1992, any report made by the Commission or a Commissioner under this Act shall be deemed to be an
+(5) For the purposes of clause 3 of Part 2 of Schedule 1 of the Defamation Act 1992, any report made by the Commission or a Commissioner under this Act shall be deemed to be an
 
 125
 
@@ -4924,15 +5229,17 @@ Section 130(4): amended, on 1 January 2002, by section 35(b) of the Human Rights
 
 #### 131 Inciting racial disharmony
 
-- Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $7,000 who, with intent to excite hostility or ill-will against, or bring into contempt or ridicule, any group of persons in New Zealand on the ground of the colour, race, or ethnic or national origins of that group of persons,-
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $7,000 who, with intent to excite hostility or ill-will against, or bring into contempt or ridicule, any group of persons in New Zealand on the ground of the colour, race, or ethnic or national origins of that group of persons,—
 
 (a) publishes or distributes written matter which is threatening, abusive, or insulting, or broadcasts by means of radio or television words which are threatening, abusive, or insulting; or
 
-(b) uses in any public place (as defined in section 2(1) of the Summary Offences Act 1981), or within the hearing of persons in any such public place, or at any meeting to which the public are invited or have access, words which are threatening, abusive, or insulting,-
+(b) uses in any public place (as defined in section 2(1) of the Summary Offences Act 1981), or within the hearing of persons in any such public place, or at any meeting to which the public are invited or have access, words which are threatening, abusive, or insulting,—
 
 being matter or words likely to excite hostility or ill-will against, or bring into contempt or ridicule, any such group of persons in New Zealand on the ground of the colour, race, or ethnic or national origins of that group of persons.
 
-- For the purposes of this section, publishes or distributes and written matter have the meaning given to them in section 61. Compare: 1971 No 150 s 25; 1977 No 49 s 86
+(2) For the purposes of this section, publishes or distributes and written matter have the meaning given to them in section 61.
+
+Compare: 1971 No 150 s 25; 1977 No 49 s 86
 
 126
 
@@ -4958,15 +5265,17 @@ Compare: 1971 No 150 s 26
 
 #### 133 Licences and registration
 
-- Where any person is licensed or registered under any enactment to carry on any occupation or activity or where any premises or vehicle are registered or licensed for any purpose under any enactment, and where the person or other authority authorised to renew, revoke, cancel, or review any such licence or registration is satisfied-
+(1) Where any person is licensed or registered under any enactment to carry on any occupation or activity or where any premises or vehicle are registered or licensed for any purpose under any enactment, and where the person or other authority authorised to renew, revoke, cancel, or review any such licence or registration is satisfied—
 
 (a) that in the carrying on of the occupation or activity; or
 
-(b) that in the use of the premises or vehicle,there has been a breach of any of the provisions of Part 2, the person or authority, in addition to any other powers which that person or authority has, but subject to subsection (2), may refuse to renew or may revoke or cancel any such licence or registration, as the case may require, or may impose any other penalty authorised by the enactment, whether by way of censure, fine, or otherwise.
+(b) that in the use of the premises or vehicle,—
 
-- Any procedural requirements of the enactment, including any whereby a complaint is a prerequisite to the exercise by the person or authority of its powers under the enactment, shall be observed.
+there has been a breach of any of the provisions of Part 2, the person or authority, in addition to any other powers which that person or authority has, but subject to subsection (2), may refuse to renew or may revoke or cancel any such licence or registration, as the case may require, or may impose any other penalty authorised by the enactment, whether by way of censure, fine, or otherwise.
 
-- In any case in which any of the powers conferred by subsection (1) are exercised,-
+(2) Any procedural requirements of the enactment, including any whereby a complaint is a prerequisite to the exercise by the person or authority of its powers under the enactment, shall be observed.
+
+(3) In any case in which any of the powers conferred by subsection (1) are exercised,—
 
 (a) the person or authority shall in giving its decision state that the decision is being made pursuant to subsection (1); and
 
@@ -4986,25 +5295,25 @@ Reprinted as at 1 July 2013
 
 grounds shall be entitled to appeal against the decision made pursuant to subsection (1).
 
-- In this section the term enactment means any provision of any Act, regulations, or bylaws.
+(4) In this section the term enactment means any provision of any Act, regulations, or bylaws.
 
 Compare: 1971 No 150 s 23
 
 #### 134 Access by the public to places, vehicles, and facilities
 
-- Every person commits an offence who-
+(1) Every person commits an offence who—
 
 (a) refuses to allow any other person access to or use of any place or vehicle which members of the public are entitled or allowed to enter or use; or
 
 (b) refuses any other person the use of any facilities in that place or vehicle which are available to members of the public; or
 
-(c) requires any other person to leave or to cease to use that place or vehicle or those facilities,-
+(c) requires any other person to leave or to cease to use that place or vehicle or those facilities,—
 
 when that refusal or requirement is in breach of any of the provisions of Part 2.
 
-- Every person who commits an offence against this section is liable on conviction to a fine not exceeding $3,000.
+(2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $3,000.
 
-- In this section the term vehicle includes a vessel, an aircraft, or a hovercraft.
+(3) In this section the term vehicle includes a vessel, an aircraft, or a hovercraft.
 
 Compare: 1971 No 150 s 24; 1977 No 49 s 86
 
@@ -5018,7 +5327,7 @@ Compare: 1971 No 150 s 26
 
 #### 136 Condition in restraint of marriage, civil union, or de facto relationship
 
-Acondition, whether oral or contained in a deed, will, or other instrument, which restrains or has the effect of restraining a person from marrying or entering into a civil union or de facto relationship shall be void if the person or class of person whom the person subject to the condition may or may not marry or enter into a civil union or de facto relationship with is identified or defined, expressly or by implication, by reference to the colour, race, or ethnic or national origins of the person or class of person.
+A condition, whether oral or contained in a deed, will, or other instrument, which restrains or has the effect of restraining a person from marrying or entering into a civil union or de facto relationship shall be void if the person or class of person whom the person subject to the condition may or may not marry or enter into a civil union or de facto relationship with is iden-
 
 128
 
@@ -5032,6 +5341,8 @@ Human Rights Act 1993
 
 Part 7 s 140
 
+tified or defined, expressly or by implication, by reference to the colour, race, or ethnic or national origins of the person or class of person.
+
 Compare: 1971 No 150 s 27(1)
 
 Section 136 heading: amended, on 20 September 2007, by section 4(1) of the Human Rights Amendment Act 2007 (2007 No 64).
@@ -5042,9 +5353,9 @@ Section 136: amended, on 20 September 2007, by section 4(3) of the Human Rights 
 
 #### 137 Advisors to be officials
 
-- Every person engaged by the Commission in connection with its work is an official for the purposes of sections 105 and 105A of the Crimes Act 1961.
+(1) Every person engaged by the Commission in connection with its work is an official for the purposes of sections 105 and 105A of the Crimes Act 1961.
 
-- This section does not limit section 135 of the Crown Entities Act 2004.
+(2) This section does not limit section 135 of the Crown Entities Act 2004.
 
 Section 137: substituted, on 25 January 2005, by section 200 of the Crown Entities Act 2004 (2004 No 115).
 
@@ -5058,15 +5369,15 @@ Section 138: amended, on 1 January 2002, by section 36 of the Human Rights Amend
 
 #### 139 Restriction on delegation
 
-- The Commission may not delegate the powers or functions in section 7 or section 76.
+(1) The Commission may not delegate the powers or functions in section 7 or section 76.
 
-- In other respects, section 73 of the Crown Entities Act 2004 applies.
+(2) In other respects, section 73 of the Crown Entities Act 2004 applies.
 
 Section 139: substituted, on 25 January 2005, by section 200 of the Crown Entities Act 2004 (2004 No 115).
 
 #### 140 Delegation of powers by certain Commissioners
 
-- The Chief Human Rights Commissioner or the Race Relations Commissioner may, in writing signed by him or her, delegate
+(1) The Chief Human Rights Commissioner or the Race Relations Commissioner may, in writing signed by him or her, delegate
 
 129
 
@@ -5082,7 +5393,7 @@ Reprinted as at 1 July 2013
 
 to an officer or employee of the Commission any of the Commissioner's functions or powers under this Act, except this power of delegation and the power to make a report under this Act.
 
-- A delegation under this section-
+(2) A delegation under this section—
 
 (a) may be made to a specified person or to the holder for the time being of a specified office or to the holders of offices of a specified class; and
 
@@ -5092,15 +5403,15 @@ to an officer or employee of the Commission any of the Commissioner's functions 
 
 (d) is revocable at will and, until revoked, continues in force according to its tenor.
 
-- If a function or power is delegated under this section, the performance or exercise of the function or power must not be inconsistent with determinations of the Commission under section 7.
+(3) If a function or power is delegated under this section, the performance or exercise of the function or power must not be inconsistent with determinations of the Commission under section 7.
 
-- If a function or power is delegated under this section and the Commissioner by whom it was made ceases to hold office, the delegation continues to have effect as if it were made by his or her successor.
+(4) If a function or power is delegated under this section and the Commissioner by whom it was made ceases to hold office, the delegation continues to have effect as if it were made by his or her successor.
 
-- Aperson purporting to exercise a function or power of a Commissioner by virtue of a delegation under this section must, when required to do so, produce evidence of the person's authority to exercise the power.
+(5) A person purporting to exercise a function or power of a Commissioner by virtue of a delegation under this section must, when required to do so, produce evidence of the person's authority to exercise the power.
 
-- Sections 62 to 72 of the Crown Entities Act 2004 apply to a delegate under this section as if the delegate were a member and as if the disclosure must be made to the Commission and with other necessary modifications.
+(6) Sections 62 to 72 of the Crown Entities Act 2004 apply to a delegate under this section as if the delegate were a member and as if the disclosure must be made to the Commission and with other necessary modifications.
 
-- Sections 74 to 76 of the Crown Entities Act 2004 do not apply to a delegation under this section.
+(7) Sections 74 to 76 of the Crown Entities Act 2004 do not apply to a delegation under this section.
 
 Compare: 1977 No 49 s 80
 
@@ -5130,9 +5441,9 @@ Section 141: repealed, on 25 January 2005, by section 200 of the Crown Entities 
 
 #### 141A Certain acts not to be questioned
 
-- No action of the Chief Commissioner or the Race Relations Commissioner that is required by this Act to be undertaken jointly with the other may be questioned in any proceedings on the ground that it was not undertaken jointly.
+(1) No action of the Chief Commissioner or the Race Relations Commissioner that is required by this Act to be undertaken jointly with the other may be questioned in any proceedings on the ground that it was not undertaken jointly.
 
-- No action of the Chief Commissioner or the Equal Employment Opportunities Commissioner that is required by this Act to be undertaken jointly with the other may be questioned in any proceedings on the ground that it was not undertaken jointly.
+(2) No action of the Chief Commissioner or the Equal Employment Opportunities Commissioner that is required by this Act to be undertaken jointly with the other may be questioned in any proceedings on the ground that it was not undertaken jointly.
 
 Section 141A: inserted, on 1 January 2002, by section 38 of the Human Rights Amendment Act 2001 (2001 No 96).
 
@@ -5146,7 +5457,7 @@ Section 142: repealed, on 25 January 2005, by section 200 of the Crown Entities 
 
 #### 143 Offences
 
-Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $3,000 who-
+Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $3,000 who—
 
 (a) without lawful justification or excuse, wilfully obstructs, hinders, or resists the Commission or a Commissioner or any other person in the exercise of its or his or her powers under this Act:
 
@@ -5176,7 +5487,7 @@ Section 143: amended, on 1 July 2013, by section 413 of the Criminal Procedure A
 
 #### 144 Regulations
 
-- The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
 
 (a) prescribing the procedure to be followed under this Act in respect of complaints to and proceedings before the Commission or in respect of proceedings before the Tribunal:
 
@@ -5184,7 +5495,7 @@ Section 143: amended, on 1 July 2013, by section 413 of the Criminal Procedure A
 
 (c) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 
-- For the avoidance of doubt, it is hereby declared that the power conferred by subsection (1) to make regulations in respect of proceedings before the Tribunal includes power to make regulations in respect of proceedings in connection with the exercise or performance of any function, power, or duty conferred or imposed on the Tribunal by or under any other enactment.
+(2) For the avoidance of doubt, it is hereby declared that the power conferred by subsection (1) to make regulations in respect of proceedings before the Tribunal includes power to make regulations in respect of proceedings in connection with the exercise or performance of any function, power, or duty conferred or imposed on the Tribunal by or under any other enactment.
 
 Compare: 1977 No 49 s 85(1)
 
@@ -5228,21 +5539,21 @@ Heading: substituted, on 1 January 2002, by section 40 of the Human Rights Amend
 
 #### 148 Former office of Commissioner abolished
 
-- The office of Commissioner under section 7(1) of the principal Act (as it read immediately before the commencement of this section) is abolished.
+(1) The office of Commissioner under section 7(1) of the principal Act (as it read immediately before the commencement of this section) is abolished.
 
-- No person is entitled to compensation for loss of office as a Commissioner under subsection (1).
+(2) No person is entitled to compensation for loss of office as a Commissioner under subsection (1).
 
 Section 148: substituted, on 1 January 2002, by section 40 of the Human Rights Amendment Act 2001 (2001 No 96).
 
 #### 148A Certain former Commissioners to be transitional members of Commission
 
-- The person who, immediately before the commencement of this section, held office as Chief Commissioner under section 7(1)(a) (as it read immediately before the commencement of this section) is taken to have been appointed to the office of Chief Commissioner under section 8(1)(a) (as substituted by section 5 of the Human Rights Amendment Act 2001).
+(1) The person who, immediately before the commencement of this section, held office as Chief Commissioner under section 7(1)(a) (as it read immediately before the commencement of this section) is taken to have been appointed to the office of Chief Commissioner under section 8(1)(a) (as substituted by section 5 of the Human Rights Amendment Act 2001).
 
-- The person who, immediately before the commencement of this section, held office as the Race Relations Conciliator is taken to have been appointed to the office of Race Relations Commissioner under section 8(1)(b) (as substituted by section 5 of the Human Rights Amendment Act 2001).
+(2) The person who, immediately before the commencement of this section, held office as the Race Relations Conciliator is taken to have been appointed to the office of Race Relations Commissioner under section 8(1)(b) (as substituted by section 5 of the Human Rights Amendment Act 2001).
 
-- Every person who, immediately before the commencement of this section, held office as Commissioner under section 7(1)(e) (as it read immediately before the commencement of this section) is taken to have been appointed to the office of Commissioner under section 8(1)(d) (as substituted by section 5 of the Human Rights Amendment Act 2001).
+(3) Every person who, immediately before the commencement of this section, held office as Commissioner under section 7(1)(e) (as it read immediately before the commencement of this section) is taken to have been appointed to the office of Commissioner under section 8(1)(d) (as substituted by section 5 of the Human Rights Amendment Act 2001).
 
-- The Privacy Commissioner appointed under the Privacy Act 1993 and the Commissioner appointed to be Proceedings
+(4) The Privacy Commissioner appointed under the Privacy Act 1993 and the Commissioner appointed to be Proceedings
 
 133
 
@@ -5258,7 +5569,7 @@ Reprinted as at 1 July 2013
 
 Commissioner under section 7(1)(d) (as it read before the commencement of the Human Rights Amendment Act 2001) cease to be Human Rights Commissioners on the commencement of this section.
 
-- Every person who is taken to have been appointed to the office of Commissioner under this section is appointed on the same terms and conditions and for the remainder of the term for which the person was appointed under section 7(1) (as it read immediately before the commencement of this section).
+(5) Every person who is taken to have been appointed to the office of Commissioner under this section is appointed on the same terms and conditions and for the remainder of the term for which the person was appointed under section 7(1) (as it read immediately before the commencement of this section).
 
 Section 148A: inserted, on 1 January 2002, by section 40 of the Human Rights Amendment Act 2001 (2001 No 96).
 
@@ -5268,15 +5579,15 @@ Heading: inserted, on 1 January 2002, by section 40 of the Human Rights Amendmen
 
 #### 148B Assets and liabilities vest in Commission
 
-Onthe commencement of this section, the assets and liabilities of the Race Relations Conciliator vest in the Commission.
+On the commencement of this section, the assets and liabilities of the Race Relations Conciliator vest in the Commission.
 
 Section 148B: inserted, on 1 January 2002, by section 40 of the Human Rights Amendment Act 2001 (2001 No 96).
 
 #### 148C References to Race Relations Conciliator
 
-- From the commencement of this section, unless the context otherwise requires, every reference to the Race Relations Conciliator in any instrument, document, or notice is to be read as a reference to the Race Relations Commissioner.
+(1) From the commencement of this section, unless the context otherwise requires, every reference to the Race Relations Conciliator in any instrument, document, or notice is to be read as a reference to the Race Relations Commissioner.
 
-- Despite subsection (1), every reference to the Race Relations Conciliator in any contract or other instrument, document, or notice that creates, or is evidence of, an asset or liability, must be read as a reference to the Commission.
+(2) Despite subsection (1), every reference to the Race Relations Conciliator in any contract or other instrument, document, or notice that creates, or is evidence of, an asset or liability, must be read as a reference to the Commission.
 
 Section 148C: inserted, on 1 January 2002, by section 40 of the Human Rights Amendment Act 2001 (2001 No 96).
 
@@ -5306,15 +5617,15 @@ Section 148E: inserted, on 1 January 2002, by section 40 of the Human Rights Ame
 
 #### 148F All employees transferred to Commission
 
-- Every person employed by the Race Relations Conciliator immediately before the commencement of this section is, on and from that date, an employee of the Commission on the same terms and conditions that applied to the employee immediately before that date.
+(1) Every person employed by the Race Relations Conciliator immediately before the commencement of this section is, on and from that date, an employee of the Commission on the same terms and conditions that applied to the employee immediately before that date.
 
-- For the purposes of every enactment, law, contract, and agreement relating to the employment of the employee,-
+(2) For the purposes of every enactment, law, contract, and agreement relating to the employment of the employee,—
 
 (a) the contract of employment of that employee is taken to be unbroken; and
 
 (b) the employee's period of service with the Race Relations Conciliator and every other period of service of that employee that is recognised by the Race Relations Conciliator as continuous service is taken to have been a period of service with the Commission.
 
-- Aperson to whom subsection (1) applies is not entitled to any compensation just because the person has ceased to be an employee of the Race Relations Conciliator.
+(3) A person to whom subsection (1) applies is not entitled to any compensation just because the person has ceased to be an employee of the Race Relations Conciliator.
 
 Section 148F: inserted, on 1 January 2002, by section 40 of the Human Rights Amendment Act 2001 (2001 No 96).
 
@@ -5338,9 +5649,9 @@ Reprinted as at
 
 #### 148G Proceedings Commissioner
 
-- The person who, immediately before the commencement of this section, held office as the Proceedings Commissioner under section 7(1)(d) (as it read immediately before the commencement of this section) is taken to have been appointed to the office of Director of Human Rights Proceedings under section 20A (as substituted by section 5 of the Human Rights Amendment Act 2001).
+(1) The person who, immediately before the commencement of this section, held office as the Proceedings Commissioner under section 7(1)(d) (as it read immediately before the commencement of this section) is taken to have been appointed to the office of Director of Human Rights Proceedings under section 20A (as substituted by section 5 of the Human Rights Amendment Act 2001).
 
-- The Director of Human Rights Proceedings is appointed on the same terms and conditions and for the remainder of the term for which he or she was appointed Proceedings Commissioner.
+(2) The Director of Human Rights Proceedings is appointed on the same terms and conditions and for the remainder of the term for which he or she was appointed Proceedings Commissioner.
 
 Section 148G: inserted, on 1 January 2002, by section 40 of the Human Rights Amendment Act 2001 (2001 No 96).
 
@@ -5352,13 +5663,13 @@ Section 148H: inserted, on 1 January 2002, by section 40 of the Human Rights Ame
 
 #### 148I Proceedings to which Proceedings Commissioner party
 
-- Proceedings to which the Proceedings Commissioner was a party or that he or she was considering bringing, before the commencement of this section-
+(1) Proceedings to which the Proceedings Commissioner was a party or that he or she was considering bringing, before the commencement of this section—
 
 (a) must be brought, continued, completed, and enforced by the Director; and
 
 (b) may be brought, continued, completed, and enforced against the Director.
 
-- Sections 86 to 92, 95, and 97 (as they read immediately before the commencement of this section) apply (with any necessary modifications) to any proceedings to which the Proceedings Commissioner was a party before the commencement of this section as if-
+(2) Sections 86 to 92, 95, and 97 (as they read immediately before the commencement of this section) apply (with any necessary modifications) to any proceedings to which the Proceedings Commissioner was a party before the commencement of this section as if—
 
 (a) the Director were the Proceedings Commissioner; and
 
@@ -5382,13 +5693,13 @@ Section 148I: inserted, on 1 January 2002, by section 40 of the Human Rights Ame
 
 #### 148J Complaints referred to Proceedings Commissioner for decision as to proceedings
 
-- Subsection (2) applies-
+(1) Subsection (2) applies—
 
 (a) if a complaint is referred to the Proceedings Commissioner under section 75(g) (as it read immediately before the commencement of this section), but no proceedings have been instituted by the Proceedings Commissioner; or
 
 (b) if the Proceedings Commissioner was required to decide whether to institute proceedings against a party to a settlement under section 82(1)(c) (as it read immediately before the commencement of this section), but no proceedings were instituted by the Proceedings Commissioner before the commencement of this section.
 
-- If this subsection applies,-
+(2) If this subsection applies,—
 
 (a) if the Commissioner has not made a decision on whether to institute proceedings, the Director must decide, under section 90(1)(c), whether to provide representation in relation to the complaint:
 
@@ -5400,7 +5711,7 @@ Section 148J: inserted, on 1 January 2002, by section 40 of the Human Rights Ame
 
 #### 148K Transfer of employees from Commission to Office
 
-- The Commission and the Office of Human Rights Proceedings may, after consulting the employee concerned, agree to the transfer of an employee from the Commission to the Office of Human Rights Proceedings on the same terms and conditions
+(1) The Commission and the Office of Human Rights Proceedings may, after consulting the employee concerned, agree to the transfer of an employee from the Commission to the Office of Human Rights Proceedings on the same terms and conditions
 
 137
 
@@ -5418,13 +5729,13 @@ Reprinted as at
 
 that applied to the employee immediately before the date of transfer.
 
-- For the purposes of every enactment, law, contract, and agreement relating to the employment of the employee,-
+(2) For the purposes of every enactment, law, contract, and agreement relating to the employment of the employee,—
 
 (a) the contract of employment of that employee is taken to have been unbroken; and
 
 (b) the employee's period of service with the Commission, and every other period of service of that employee that is recognised by the Commission as continuous service, is taken to have been a period of service with the Office of Human Rights Proceedings.
 
-- An employee of the Commission who is transferred to the Office of Human Rights Proceedings under subsection (1) is not entitled to any compensation just because-
+(3) An employee of the Commission who is transferred to the Office of Human Rights Proceedings under subsection (1) is not entitled to any compensation just because—
 
 (a) the position held by the employee with the Commission has ceased to exist; or
 
@@ -5444,9 +5755,9 @@ Section 148L: inserted, on 1 January 2002, by section 40 of the Human Rights Ame
 
 #### 148M Outstanding complaints to be dealt with by Commission under new procedure
 
-- A complaint lodged with the Complaints Division before the commencement of this Act must be dealt with by the Commission under Part 3 (as substituted by section 9 of the Human Rights Amendment Act 2001) as if the complaint were made to the Commission under section 76(2)(a).
+(1) A complaint lodged with the Complaints Division before the commencement of this Act must be dealt with by the Commission under Part 3 (as substituted by section 9 of the Human Rights Amendment Act 2001) as if the complaint were made to the Commission under section 76(2)(a).
 
-- For the purposes of subsection (1),-
+(2) For the purposes of subsection (1),—
 
 138
 
@@ -5464,13 +5775,13 @@ Part 7 s 148O
 
 (b) if section 79(2) applies to the complaint, the Commission must inform the Attorney-General of the details of the complaint as soon as practicable.
 
-- Despite subsection (1), if, in relation to a complaint, the Complaints Division has decided not to investigate the complaint further under section 76(1) or section 77(1)(a) (as they read immediately before the commencement of this section), the Commission must take no action or further action in relation to the complaint.
+(3) Despite subsection (1), if, in relation to a complaint, the Complaints Division has decided not to investigate the complaint further under section 76(1) or section 77(1)(a) (as they read immediately before the commencement of this section), the Commission must take no action or further action in relation to the complaint.
 
 Section 148M: inserted, on 1 January 2002, by section 40 of the Human Rights Amendment Act 2001 (2001 No 96).
 
 #### 148N Breaches of Part 1A
 
-No act or omission that occurred before 1 January 2002 is capable of being in breach of Part 1A unless-
+No act or omission that occurred before 1 January 2002 is capable of being in breach of Part 1A unless—
 
 (a) the act or omission continues on or after 1 January 2002; or
 
@@ -5480,9 +5791,9 @@ Section 148N: inserted, on 1 January 2002, by section 40 of the Human Rights Ame
 
 #### 148O Complaints about breaches of Part 1A
 
-- Despite section 76, the Commission is not under a duty to receive or assess any complaint alleging a breach of Part 1A that is made to the Commission before 1 April 2002.
+(1) Despite section 76, the Commission is not under a duty to receive or assess any complaint alleging a breach of Part 1A that is made to the Commission before 1 April 2002.
 
-- The Commission is not under a duty to receive or assess any complaint alleging that an act or omission that occurred before 1 January 2002 and that ceased to continue or to be in force before 1 January 2002 is in breach of Part 1A.
+(2) The Commission is not under a duty to receive or assess any complaint alleging that an act or omission that occurred before 1 January 2002 and that ceased to continue or to be in force before 1 January 2002 is in breach of Part 1A.
 
 Section 148O: inserted, on 1 January 2002, by section 40 of the Human Rights Amendment Act 2001 (2001 No 96).
 
@@ -5496,11 +5807,13 @@ Part 7 s 149
 
 Human Rights Act 1993
 
+Reprinted as at 1 July 2013
+
 ### Savings
 
 #### 149 Special provisions in relation to written employment contracts in force on 1 April 1992
 
-- This section applies to every employment contract (whether a collective employment contract or an individual employment contract) that-
+(1) This section applies to every employment contract (whether a collective employment contract or an individual employment contract) that—
 
 (a) is in writing; and
 
@@ -5508,23 +5821,21 @@ Human Rights Act 1993
 
 (c) specifies an age at which an employee is required to retire.
 
-- Where the parties to an employment contract to which this section applies agree in writing, at any time on or after 1 April 1992, to confirm or vary the age specified in the employment contract, the age, as so confirmed or varied, shall have effect notwithstanding section 22.
+(2) Where the parties to an employment contract to which this section applies agree in writing, at any time on or after 1 April 1992, to confirm or vary the age specified in the employment contract, the age, as so confirmed or varied, shall have effect notwithstanding section 22.
 
-- Where the parties to an employment contract to which this section applies have not agreed in writing to confirm or vary the age specified in the employment contract, section 22 shall apply in relation to that employment contract.
+(3) Where the parties to an employment contract to which this section applies have not agreed in writing to confirm or vary the age specified in the employment contract, section 22 shall apply in relation to that employment contract.
 
-- Where, as at 1 April 1992, the age at which an employer is required to retire, under a term of that employee's employment contract, was specified only in a document that sets out the employer's policy on the retirement ages of the employer's employees or any of them, this section shall not apply in relation to that employee's employment contract.
+(4) Where, as at 1 April 1992, the age at which an employee is required to retire, under a term of that employee's employment contract, was specified only in a document that sets out the employer's policy on the retirement ages of the employer's employees or any of them, this section shall not apply in relation to that employee's employment contract.
 
 Compare: 1977 No 49 s 15C; 1992 No 16 s 4
 
 #### 150 Charitable instruments
 
-- Nothing in this Act shall apply-
+(1) Nothing in this Act shall apply—
 
 (a) to any provision in an existing or future will, deed, or other instrument where that provision confers charitable benefits, or enables charitable benefits to be conferred, on persons against whom discrimination is unlawful by virtue of Part 2; or
 
 (b) to any act done in order to comply with any provision described in paragraph (a).
-
-Reprinted as at 1 July 2013
 
 140
 
@@ -5538,7 +5849,7 @@ Human Rights Act 1993
 
 Part 7 s 153
 
-- For the purposes of this section, charitable benefits means benefits for purposes that are charitable in accordance with the law of New Zealand.
+(2) For the purposes of this section, charitable benefits means benefits for purposes that are charitable in accordance with the law of New Zealand.
 
 Compare: 1971 No 150 s 36(1); 1977 No 49 s 91(1); 1983 No 56 s 18(1)
 
@@ -5556,11 +5867,11 @@ Section 152: repealed, on 1 January 2002, by section 41 of the Human Rights Amen
 
 #### 153 Savings
 
-- Nothing in this Act affects the right to bring any proceedings, whether civil or criminal, that may be brought other than under this Act, but, in assessing any damages to be awarded to or on behalf of any person under this Act or otherwise, a court must take account of any damages already awarded to or on behalf of that person in respect of the same cause of action.
+(1) Nothing in this Act affects the right to bring any proceedings, whether civil or criminal, that may be brought other than under this Act, but, in assessing any damages to be awarded to or on behalf of any person under this Act or otherwise, a court must take account of any damages already awarded to or on behalf of that person in respect of the same cause of action.
 
-- Subject to the Illegal Contracts Act 1970, no proceedings, civil or criminal, shall lie against any person, except as provided by this Act, in respect of any act or omission which is unlawful by virtue only of any of the provisions of Part 2.
+(2) Subject to the Illegal Contracts Act 1970, no proceedings, civil or criminal, shall lie against any person, except as provided by this Act, in respect of any act or omission which is unlawful by virtue only of any of the provisions of Part 2.
 
-- Nothing in this Act shall affect any enactment or rule of law, or any policy or administrative practice of the Government of New Zealand, that-
+(3) Nothing in this Act shall affect any enactment or rule of law, or any policy or administrative practice of the Government of New Zealand, that—
 
 (a) [Repealed]
 
@@ -5614,7 +5925,7 @@ Schedule 1: substituted, on 1 January 2002, by section 43 of the Human Rights Am
 
 #### 1 General manager: appointment, term of office, and conditions
 
-- The general manager-
+(1) The general manager—
 
 (a) is appointed by the Chief Human Rights Commissioner, after consultation with the Commission, under section 18, and his or her office is a full-time one; and
 
@@ -5624,11 +5935,11 @@ Schedule 1: substituted, on 1 January 2002, by section 43 of the Human Rights Am
 
 (d) unless he or she sooner vacates or no longer holds or is removed from the office, continues in it until his or her successor comes into it, even though the term for which he or she was appointed has expired.
 
-- Subclause (1) is subject to section 117 of the Crown Entities Act 2004.
+(2) Subclause (1) is subject to section 117 of the Crown Entities Act 2004.
 
-- In the case of absence from duty of the general manager (for any reason) or on the occurrence of a vacancy in that position (for any reason) and while the absence or vacancy continues, all or any of the powers and duties of the general manager may be exercised and performed by any other employee of the Commission for the time being directed by the Chief Commissioner (after consultation by the Chief Commissioner with the Commission) to exercise and perform them, whether the direction has been given before the absence or vacancy occurs or while it continues.
+(3) In the case of absence from duty of the general manager (for any reason) or on the occurrence of a vacancy in that position (for any reason) and while the absence or vacancy continues, all or any of the powers and duties of the general manager may be exercised and performed by any other employee of the Commission for the time being directed by the Chief Commissioner (after consultation by the Chief Commissioner with the Commission) to exercise and perform them, whether the direction has been given before the absence or vacancy occurs or while it continues.
 
-- No direction given under subclause (3) and no acts done by any employee of the Commission acting under that direction may in any proceedings be questioned on the ground that-
+(4) No direction given under subclause (3) and no acts done by any employee of the Commission acting under that direction may in any proceedings be questioned on the ground that—
 
 (a) the occasion for the direction had not arisen or had ceased; or
 
@@ -5676,9 +5987,9 @@ Schedule 1 clause 5: repealed, on 25 January 2005, by section 200 of the Crown E
 
 #### 6 Superannuation or retiring allowances
 
-- For the purpose of providing superannuation or retiring allowances for the Commissioners, the Commission may, out of the funds of the Commission, make payments to or subsidise any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
+(1) For the purpose of providing superannuation or retiring allowances for the Commissioners, the Commission may, out of the funds of the Commission, make payments to or subsidise any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
 
-- Despite anything in this Act, any person who, immediately before being appointed as a Commissioner or the general manager or, as the case may be, becoming an employee of the Commission, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 is deemed to be, for the purposes of the Government Superannuation Fund Act 1956, employed in the Government service so long as that person continues to hold office as a Commissioner or the general manager or, as the case may be, to be an employee of the Commission, and that Act
+(2) Despite anything in this Act, any person who, immediately before being appointed as a Commissioner or the general manager or, as the case may be, becoming an employee of the Commission, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 is deemed to be, for the purposes of the Government Superannuation Fund Act 1956, employed in the Government service so long as that person continues to hold office as a Commissioner or the general manager or, as the case may be, to be an employee of the Commission, and that Act
 
 144
 
@@ -5692,9 +6003,9 @@ Human Rights Act 1993
 
 Schedule 1
 
-- applies to that person in all respects as if that person's service as a Commissioner or the general manager or, as the case may be, as an employee of that kind were Government service.
+applies to that person in all respects as if that person's service as a Commissioner or the general manager or, as the case may be, as an employee of that kind were Government service.
 
-- For the purpose of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2), to a person who holds office as a Commissioner or the general manager or, as the case may be, is in the service of the Commission as an employee and (in any such case) is a contributor to the Government Superannuation Fund, controlling authority , in relation to the person, means the Commission.
+(3) For the purpose of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2), to a person who holds office as a Commissioner or the general manager or, as the case may be, is in the service of the Commission as an employee and (in any such case) is a contributor to the Government Superannuation Fund, controlling authority, in relation to the person, means the Commission.
 
 Schedule 1 clause 6(1): amended, on 25 January 2005, by section 200 of the Crown Entities Act 2004 (2004 No 115).
 
@@ -5792,19 +6103,21 @@ Schedule 2: substituted, on 1 January 2002, by section 43 of the Human Rights Am
 
 #### 1 Interpretation
 
-In this schedule, unless the context otherwise requires,Director means the Director of Human Rights Proceedings, or alternate Director of Human Rights Proceedings, appointed under section 20A
+In this schedule, unless the context otherwise requires,—
+
+Director means the Director of Human Rights Proceedings, or alternate Director of Human Rights Proceedings, appointed under section 20A
 
 functions include powers or duties
 
-Office meansthe Office of Human Rights Proceedings referred to in section 20.
+Office means the Office of Human Rights Proceedings referred to in section 20.
 
 #### 2 Staff
 
-- The Director may, in accordance with this clause, appoint any employees (including acting or temporary or casual employees) that he or she considers necessary for the efficient carrying out of the functions of the Director.
+(1) The Director may, in accordance with this clause, appoint any employees (including acting or temporary or casual employees) that he or she considers necessary for the efficient carrying out of the functions of the Director.
 
-- Employees appointed under this clause are employed on any terms and conditions of employment the Director determines.
+(2) Employees appointed under this clause are employed on any terms and conditions of employment the Director determines.
 
-- Subclause (2) is subject to section 116 of the Crown Entities Act 2004, except that the reference in section 116(1) to agreement by a Crown entity must be read as a reference to agreement by the Director.
+(3) Subclause (2) is subject to section 116 of the Crown Entities Act 2004, except that the reference in section 116(1) to agreement by a Crown entity must be read as a reference to agreement by the Director.
 
 (4) [Repealed]
 
@@ -5832,9 +6145,9 @@ Reprinted as at 1 July 2013
 
 #### 4 Appointment of experts
 
-- The Director may, as and when the need arises, appoint any person (other than a Commissioner) who, in the Director's opinion, possesses expert knowledge or is otherwise able to assist in connection with the exercise or performance of the functions of the Director to make such inquiries or to conduct such research or to make such reports or to render such other services as may be necessary for the efficient exercise or performance by the Office of the functions of the Director.
+(1) The Director may, as and when the need arises, appoint any person (other than a Commissioner) who, in the Director's opinion, possesses expert knowledge or is otherwise able to assist in connection with the exercise or performance of the functions of the Director to make such inquiries or to conduct such research or to make such reports or to render such other services as may be necessary for the efficient exercise or performance by the Office of the functions of the Director.
 
-- The Office must pay persons appointed under this clause, for services rendered by them, fees or commission or both at such rates as the Director thinks fit, and may separately reimburse them for expenses reasonably incurred in rendering services for the Office.
+(2) The Office must pay persons appointed under this clause, for services rendered by them, fees or commission or both at such rates as the Director thinks fit, and may separately reimburse them for expenses reasonably incurred in rendering services for the Office.
 
 #### 5 Application of Crown Entities Act 2004 to Director
 
@@ -5844,9 +6157,9 @@ Schedule 2 clause 5: substituted, on 25 January 2005, by section 200 of the Crow
 
 #### 6 Superannuation or retiring allowances
 
-- For the purpose of providing superannuation or retiring allowances for the Director, the Office may, out of the funds of the Office, make payments to or subsidise any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
+(1) For the purpose of providing superannuation or retiring allowances for the Director, the Office may, out of the funds of the Office, make payments to or subsidise any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
 
-- Despite anything in this Act, any person who, immediately before being appointed as the Director or, as the case may be, becoming an employee of the Office, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 is deemed to be, for the purposes of the Government Superannuation Fund Act 1956, employed in the Government service so long as that person continues to hold office as the Director or, as the case may be, to be an employee of the Office, and that Act applies to that person in all respects as if that person's service as the
+(2) Despite anything in this Act, any person who, immediately before being appointed as the Director or, as the case may be, becoming an employee of the Office, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 is deemed to be, for the purposes of the Government Superannuation Fund Act 1956, employed in the Government service so long as that person continues to hold office as the Director or, as the case may be, to be an employee of the Office, and that Act applies to that person in all respects as if that person's service as the
 
 148
 
@@ -5862,7 +6175,7 @@ Schedule 2
 
 Director or, as the case may be, as an employee of that kind were Government service.
 
-- For the purpose of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2), to a person who holds office as the Director or, as the case may be, is in the service of the Office as an employee and (in any such case) is a contributor to the Government Superannuation Fund, controlling authority , in relation to the person, means the Office.
+(3) For the purpose of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2), to a person who holds office as the Director or, as the case may be, is in the service of the Office as an employee and (in any such case) is a contributor to the Government Superannuation Fund, controlling authority, in relation to the person, means the Office.
 
 Schedule 2 clause 6(1): amended, on 25 January 2005, by section 200 of the Crown Entities Act 2004 (2004 No 115).
 
@@ -5926,13 +6239,13 @@ Schedule 3
 
 ## Schedule 3
 
+s 146
+
 ### Enactments repealed
 
 [Repealed]
 
 Schedule 3: repealed, on 1 January 2002, by section 43 of the Human Rights Amendment Act 2001 (2001 No 96).
-
-s 146
 
 151
 
@@ -5962,25 +6275,25 @@ Commencement
 
 #### 1 Short Title
 
-This Act may be cited as the Human Rights Amendment Act 1994, and shall be read together with and deemed part of the Human Rights Act 1993 (hereinafter referred to as 'the principal Act').
+This Act may be cited as the Human Rights Amendment Act 1994, and shall be read together with and deemed part of the Human Rights Act 1993 (hereinafter referred to as “the principal Act”).
 
 ### Application of principal Act and Human Rights Commission Act 1977 to superannuation schemes
 
 #### 2 Application of principal Act to superannuation schemes providing benefits on account of marital status
 
-- Notwithstanding any rule of law, nothing in section 22 or section 44 or section 70 of the principal Act shall prevent, or be taken ever to have prevented, the provisions of a superannuation scheme, or the trustees of the scheme, from providing, on the death of a member of the scheme, a benefit for either-
+(1) Notwithstanding any rule of law, nothing in section 22 or section 44 or section 70 of the principal Act shall prevent, or be taken ever to have prevented, the provisions of a superannuation scheme, or the trustees of the scheme, from providing, on the death of a member of the scheme, a benefit for either—
 
 (a) the spouse of that member; or
 
-(b) the civil union partner or de facto partner of that member,-
+(b) the civil union partner or de facto partner of that member,—
 
 without providing a similar or corresponding or equivalent benefit on the death of other members of the scheme.
 
-- Subject to subsection (5), this section applies in respect of superannuation schemes established before or after the commencement of this Act.
+(2) Subject to subsection (5), this section applies in respect of superannuation schemes established before or after the commencement of this Act.
 
-- This section applies notwithstanding any judgment, decision, or order of any court or tribunal given or made before or after the commencement of this Act in proceedings commenced before the commencement of this Act.
+(3) This section applies notwithstanding any judgment, decision, or order of any court or tribunal given or made before or after the commencement of this Act in proceedings commenced before the commencement of this Act.
 
-- Nothing in section 153(1) of the principal Act limits or affects this section.
+(4) Nothing in section 153(1) of the principal Act limits or affects this section.
 
 152
 
@@ -5992,23 +6305,23 @@ Reprinted as at 1 July 2013
 
 Human Rights Act 1993
 
-- Nothing in this section applies to the provision of benefits under a superannuation scheme or by the trustees of a scheme in respect of any person who, at any time on or after 1 January 1996, becomes a member of the scheme unless,-
+(5) Nothing in this section applies to the provision of benefits under a superannuation scheme or by the trustees of a scheme in respect of any person who, at any time on or after 1 January 1996, becomes a member of the scheme unless,—
 
 (a) immediately before becoming a member, that person was a member of another superannuation scheme that provides or provided, or the trustees of which provide or provided, benefits of a kind referred to in paragraph (a) or paragraph (b) of subsection (1); and
 
-(b) that person became a member of the first-mentioned scheme as a result of a requirement, or the exercise of a right, to leave that other scheme by reason of any merger, takeover, or restructuring of, or reorganisation of the business of, that person's employer.
+(b) that person became a member of the first-mentioned scheme as a result of a requirement, or the exercise of a right, to leave that other scheme by reason of any merger, takeover, or restructuring of, or reorganisation of the business of, that person’s employer.
 
-- Nothing in this section affects the validity of any amendment to the instrument or conditions governing a superannuation scheme made pursuant to section 72 of the principal Act before the commencement of this Act.
+(6) Nothing in this section affects the validity of any amendment to the instrument or conditions governing a superannuation scheme made pursuant to section 72 of the principal Act before the commencement of this Act.
 
 Section 2(1)(b): substituted, on 26 April 2005, by section 7 of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 #### 3 Application of principal Act to superannuation schemes providing benefits for children and dependants
 
-- For the avoidance of doubt, it is hereby declared that nothing in section 22 or section 44 or section 70 of the principal Act shall prevent, or be taken ever to have prevented, the provisions of a superannuation scheme, or the trustees of the scheme, from providing, on the death of a member of the scheme, a benefit for a child or dependant of that member's family, including a child or dependant belonging to a particular class determined by reference to age, disability, or employment status without providing a similar or corresponding or equivalent benefit on the death of other members of the scheme.
+(1) For the avoidance of doubt, it is hereby declared that nothing in section 22 or section 44 or section 70 of the principal Act shall prevent, or be taken ever to have prevented, the provisions of a superannuation scheme, or the trustees of the scheme, from providing, on the death of a member of the scheme, a benefit for a child or dependant of that member’s family, including a child or dependant belonging to a particular class determined by reference to age, disability, or employment status without providing a similar or corresponding or equivalent benefit on the death of other members of the scheme.
 
-- This section applies in respect of superannuation schemes established before or after the commencement of this Act.
+(2) This section applies in respect of superannuation schemes established before or after the commencement of this Act.
 
-- This section applies notwithstanding any judgment, decision, or order of any court or tribunal given or made before or after the commencement of this Act in proceedings commenced before the commencement of this Act.
+(3) This section applies notwithstanding any judgment, decision, or order of any court or tribunal given or made before or after the commencement of this Act in proceedings commenced before the commencement of this Act.
 
 153
 
@@ -6024,17 +6337,17 @@ Reprinted as at
 
 #### 4 Savings in respect of certain superannuation schemes
 
-- For the avoidance of doubt, it is hereby declared that nothing in section 22 or section 44 of the principal Act relating to different treatment on the ground of sex or marital status shall apply, or be taken ever to have applied, to-
+(1) For the avoidance of doubt, it is hereby declared that nothing in section 22 or section 44 of the principal Act relating to different treatment on the ground of sex or marital status shall apply, or be taken ever to have applied, to—
 
 (a) a superannuation scheme to which subsection (2) of section 88 of the Human Rights Commission Act 1977 applied, except in respect of a person who became a member of the scheme on or after 1 April 1980 or to whom amendments to the scheme were applied pursuant to subsection (4) of that section; or
 
 (b) a superannuation scheme established as an alternative to making amendments of the kind referred to in subsection (4) of section 88 of the Human Rights Commission Act 1977 to an existing scheme, except in respect of a person who became a member of the scheme by virtue of subsections (4) and (5) of that section.
 
-- For the avoidance of doubt, it is hereby further declared that where any superannuation scheme was amended for the purpose of ensuring that its operation did not involve a breach of section 15(1) or section 24(1) of the Human Rights Commission Act 1977, nothing in the principal Act, and nothing in those amendments, shall deprive, or be taken ever to have deprived, any person who joined the scheme before the date on which those amendments came into force of any right or option to retire at a particular age or on a particular date or to become entitled under the scheme to a pension or other benefit, unless that person relinquishes that right or option.
+(2) For the avoidance of doubt, it is hereby further declared that where any superannuation scheme was amended for the purpose of ensuring that its operation did not involve a breach of section 15(1) or section 24(1) of the Human Rights Commission Act 1977, nothing in the principal Act, and nothing in those amendments, shall deprive, or be taken ever to have deprived, any person who joined the scheme before the date on which those amendments came into force of any right or option to retire at a particular age or on a particular date or to become entitled under the scheme to a pension or other benefit, unless that person relinquishes that right or option.
 
 #### 5 Application of Human Rights Commission Act 1977 to superannuation schemes
 
-- Notwithstanding any rule of law, nothing in section 15(1) or section 24(1) or section 88 of the Human Rights Commission Act 1977 shall be taken ever to have prevented the provisions of a superannuation scheme, or the trustees of the scheme, from providing, on the death of a member of the scheme, a benefit for either-
+(1) Notwithstanding any rule of law, nothing in section 15(1) or section 24(1) or section 88 of the Human Rights Commission Act 1977 shall be taken ever to have prevented the provisions of a superannuation scheme, or the trustees of the scheme, from providing, on the death of a member of the scheme, a benefit for either—
 
 (a) the spouse of that member; or
 
@@ -6048,15 +6361,15 @@ Reprinted as at 1 July 2013
 
 Human Rights Act 1993
 
-(b) the civil union partner or de facto partner of that member,-
+(b) the civil union partner or de facto partner of that member,—
 
 without providing a similar or corresponding or equivalent benefit on the death of other members of the scheme.
 
-- This section applies notwithstanding any judgment, decision, or order of any court or tribunal given or made before or after the commencement of this Act in proceedings commenced before the commencement of this Act.
+(2) This section applies notwithstanding any judgment, decision, or order of any court or tribunal given or made before or after the commencement of this Act in proceedings commenced before the commencement of this Act.
 
-- Nothing in section 153(1) of the principal Act limits or affects this section.
+(3) Nothing in section 153(1) of the principal Act limits or affects this section.
 
-- Nothing in this section affects the validity of any amendment to the instrument or conditions governing a superannuation scheme made pursuant to section 90 of the Human Rights Commission Act 1977.
+(4) Nothing in this section affects the validity of any amendment to the instrument or conditions governing a superannuation scheme made pursuant to section 90 of the Human Rights Commission Act 1977.
 
 Section 5(1)(b): substituted, on 26 April 2005, by section 7 of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
@@ -6112,15 +6425,15 @@ Human Rights Act 1993
 
 Notes
 
-For a detailed list of the editorial conventions, see http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force .
+For a detailed list of the editorial conventions, see http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force.
 
 ### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
 
-Section 17C of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in sections 17D and 17E of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted. Anewformat of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by section 17C of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+Section 17C of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in sections 17D and 17E of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted. A new format of legislation was introduced on 1 January 2000. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by section 17C of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
 
 In outline, the editorial changes made in reprints under the authority of section 17C of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
 
-- omission of unnecessary referential words (such as 'of this section' and 'of this Act')
+- omission of unnecessary referential words (such as “of this section” and “of this Act”)
 
 - typeface and type size (Times Roman, generally in 11.5 point)
 
@@ -6132,7 +6445,7 @@ In outline, the editorial changes made in reprints under the authority of sectio
 
 - format of definitions (eg, the defined term now appears in bold type, without quotation marks)
 
-- format of dates (eg, a date formerly expressed as 'the 1st day of January 1999' is now expressed as '1 January 1999')
+- format of dates (eg, a date formerly expressed as “the 1st day of January 1999” is now expressed as “1 January 1999”)
 
 157
 
@@ -6166,9 +6479,17 @@ Reprinted as at 1 July 2013
 
 ### 5 List of amendments incorporated in this reprint (most recent first)
 
-Criminal Procedure Act 2011 (2011 No 81): section 413 Financial Markets Authority Act 2011 (2011 No 5): sections 82, 85(1) Accident Compensation Amendment Act 2010 (2010 No 1): section 5(1)(b) Policing Act 2008 (2008 No 72): sections 116(a)(ii), 130(1) Human Rights Amendment Act 2008 (2008 No 65) Human Rights Amendment Act 2007 (2007 No 64) Human Rights (Women in Armed Forces) Amendment Act 2007 (2007 No 16) Evidence Act 2006 (2006 No 69): section 216 Insolvency Act 2006 (2006 No 55): section 445 Prisoners' and Victims' Claims Act 2005 (2005 No 74): section 65 New Zealand Superannuation and Retirement Income Amendment Act 2005
-
-(2005 No 42): section 9(1)
+Criminal Procedure Act 2011 (2011 No 81): section 413
+Financial Markets Authority Act 2011 (2011 No 5): sections 82, 85(1)
+Accident Compensation Amendment Act 2010 (2010 No 1): section 5(1)(b)
+Policing Act 2008 (2008 No 72): sections 116(a)(ii), 130(1)
+Human Rights Amendment Act 2008 (2008 No 65)
+Human Rights Amendment Act 2007 (2007 No 64)
+Human Rights (Women in Armed Forces) Amendment Act 2007 (2007 No 16)
+Evidence Act 2006 (2006 No 69): section 216
+Insolvency Act 2006 (2006 No 55): section 445
+Prisoners’ and Victims’ Claims Act 2005 (2005 No 74): section 65
+New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42): section 9(1)
 
 158
 
@@ -6182,11 +6503,27 @@ Human Rights Act 1993
 
 Notes
 
+Relationships (Statutory References) Act 2005 (2005 No 3): section 7
+Crown Entities Act 2004 (2004 No 115): section 200
+Human Rights Amendment Act 2004 (2004 No 88)
+Building Act 2004 (2004 No 72): section 414
+Supreme Court Act 2003 (2003 No 53): sections 47, 48(1)
+State Sector Amendment Act 2003 (2003 No 41): section 14(1)
+Public Trust Act 2001 (2001 No 100): section 170(1)
+Human Rights Amendment Act 2001 (2001 No 96)
+New Zealand Superannuation Act 2001 (2001 No 84): section 77
+Local Electoral Act 2001 (2001 No 35): section 151
+Employment Relations Act 2000 (2000 No 24): section 240
+Protected Disclosures Act 2000 (2000 No 7): section 25
+Human Rights Amendment Act 1999 (1999 No 100)
+Accident Insurance Act 1998 (1998 No 114): section 415(1)
+Human Rights Amendment Act 1994 (1994 No 138)
+Health and Disability Commissioner Act 1994 (1994 No 88): section 82
+
 12
 
-Relationships (Statutory References) Act 2005 (2005 No 3): section 7 Crown Entities Act 2004 (2004 No 115): section 200 Human Rights Amendment Act 2004 (2004 No 88) Building Act 2004 (2004 No 72): section 414 Supreme Court Act 2003 (2003 No 53): sections 47, 48(1) State Sector Amendment Act 2003 (2003 No 41): section 14(1) Public Trust Act 2001 (2001 No 100): section 170(1) Human Rights Amendment Act 2001 (2001 No 96) New Zealand Superannuation Act 2001 (2001 No 84): section 77 Local Electoral Act 2001 (2001 No 35): section 151 Employment Relations Act 2000 (2000 No 24): section 240 Protected Disclosures Act 2000 (2000 No 7): section 25 Human Rights Amendment Act 1999 (1999 No 100) Accident Insurance Act 1998 (1998 No 114): section 415(1) Human Rights Amendment Act 1994 (1994 No 138) Health and Disability Commissioner Act 1994 (1994 No 88): section 82
-
-Wellington, New Zealand: Published under the authority of the New Zealand Government-2013
+Wellington, New Zealand:
+Published under the authority of the New Zealand Government—2013
 
 159
 
