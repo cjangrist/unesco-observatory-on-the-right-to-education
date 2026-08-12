@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-##### Further Education and Training Strategy
+# Further Education and Training Strategy
 
 2014 - 2019
 
@@ -8,10 +8,7 @@
 
 [[START OF PAGE 2]]
 
-##### Further	
-  Education and	
-  Training Strategy	
-  2014-2019
+# Further Education and Training Strategy 2014-2019
 
 1
 
@@ -29,7 +26,7 @@ Published
 
 [[START OF PAGE 4]]
 
-###### Preface
+# Preface
 
 The	
   Further	
@@ -632,13 +629,8 @@ The
   through	
   FET:
 
-Skills	
-  as	
-  a	
-  resource	
-  for	
-  economic	
-  growth: a	
+## Skills as a resource for economic growth:
+a
   skilled,	
   innovative	
   and	
@@ -670,12 +662,8 @@ Skills
   education	
   and training.
 
-Skills	
-  as	
-  drivers	
-  of	
-  employment	
-  growth: employment	
+## Skills as drivers of employment growth:
+employment
   growth	
   in	
   many	
@@ -749,12 +737,8 @@ Skills
   in	
   Ireland.
 
-Skills	
-  as	
-  drivers	
-  of	
-  productivity	
-  increase: along	
+## Skills as drivers of productivity increase:
+along
   with	
   technological	
   advances,	
@@ -766,12 +750,8 @@ Skills
   productivity	
   increases.
 
-Skills	
-  and	
-  'smartening'	
-  of	
-  the	
-  economy: driven	
+## Skills and 'smartening' of the economy:
+driven
   by	
   technological	
   advances	
@@ -800,16 +780,8 @@ Skills
 
 [[START OF PAGE 6]]
 
-Skills	
-  as	
-  a	
-  driver	
-  of	
-  social	
-  inclusion	
-  and	
-  social	
-  mobility: regardless	
+## Skills as a driver of social inclusion and social mobility:
+regardless
   of	
   age	
   and circumstances,	
@@ -881,12 +853,8 @@ Skills
   knowledge-­-based	
   economy.
 
-Skills	
-  as	
-  an	
-  insulator	
-  from	
-  unemployment: as	
+## Skills as an insulator from unemployment:
+as
   job	
   security	
   gives	
@@ -2423,9 +2391,7 @@ Finally,
 
 [[START OF PAGE 10]]
 
-###### Table	
-  of	
-  Contents
+# Table of Contents
 
 9
 
@@ -2445,9 +2411,7 @@ Finally,
 
 [[START OF PAGE 13]]
 
-###### List	
-  of	
-  Acronyms
+# List of Acronyms
 
 AEGI | Adult	
 --- | ---
@@ -2890,9 +2854,7 @@ Note:
 
 [[START OF PAGE 18]]
 
-# Part	
-  1 Executive	
-  Summary
+# Part 1 Executive Summary
 
 17
 
@@ -2900,12 +2862,9 @@ Note:
 
 [[START OF PAGE 19]]
 
-###### Executive	
-  Summary
+## Executive Summary
 
-###### Introduction	
-  &	
-  Background
+### Introduction & Background
 
 This	
   is	
@@ -2985,7 +2944,7 @@ This
   and	
   services.
 
-###### Context
+### Context
 
 The	
   further	
@@ -3235,12 +3194,7 @@ In
   'Youth	
   Guarantee'.
 
-###### Main	
-  purpose	
-  of	
-  the	
-  FET	
-  Strategy
+### Main purpose of the FET Strategy
 
 The	
   Strategy	
@@ -3319,17 +3273,7 @@ The
 
 [[START OF PAGE 20]]
 
-###### How	
-  will	
-  we	
-  know	
-  that	
-  the	
-  Strategy	
-  is	
-  successful?	
-  (The	
-  Vision)
+### How will we know that the Strategy is successful? (The Vision)
 
 Real	
   and	
@@ -3605,12 +3549,7 @@ Real
 
 [[START OF PAGE 21]]
 
-###### The	
-  Purpose	
-  of	
-  FET	
-  (The	
-  Mission)
+### The Purpose of FET (The Mission)
 
 Being	
   one	
@@ -3767,9 +3706,7 @@ Serving
   and	
   enterprises.
 
-###### Developing	
-  the	
-  Strategy
+### Developing the Strategy
 
 SOLAS,	
   in	
@@ -3858,16 +3795,7 @@ SOLAS,
   of	
   apprenticeship.
 
-###### What	
-  the	
-  research	
-  and	
-  consultation	
-  process	
-  tells	
-  us	
-  about	
-  FET
+### What the research and consultation process tells us about FET
 
 The	
   research	
@@ -3981,9 +3909,7 @@ The
 
 [[START OF PAGE 22]]
 
-###### The	
-  'Learner	
-  Voice'
+### The 'Learner Voice'
 
 One	
   of	
@@ -4052,9 +3978,7 @@ One
   in	
   FET.
 
-###### Definition	
-  of	
-  FET
+### Definition of FET
 
 FET	
   provides	
@@ -4155,11 +4079,7 @@ FET
   of	
   exclusion.
 
-###### Development	
-  and	
-  Scope	
-  of	
-  FET
+### Development and Scope of FET
 
 The	
   ESRI	
@@ -4371,9 +4291,7 @@ The
 
 [[START OF PAGE 23]]
 
-###### Strengths	
-  of	
-  FET
+### Strengths of FET
 
 FET	
   is	
@@ -4501,9 +4419,7 @@ FET
   and the	
   state. 3
 
-###### Standing	
-  of	
-  FET
+### Standing of FET
 
 The	
   standing	
@@ -4877,11 +4793,7 @@ Finally,
   and	
   numeracy.
 
-###### FET	
-  and	
-  National	
-  Skills	
-  Strategy
+### FET and National Skills Strategy
 
 In	
   terms	
@@ -5002,11 +4914,7 @@ This
   this	
   Strategy.
 
-###### Economic	
-  and	
-  Labour	
-  Market	
-  Context
+### Economic and Labour Market Context
 
 The	
   most	
@@ -5381,13 +5289,7 @@ IDA
   timely	
   manner.
 
-###### Matching	
-  FET	
-  provision	
-  to	
-  employer	
-  skill	
-  needs
+### Matching FET provision to employer skill needs
 
 There	
   have	
@@ -5830,17 +5732,7 @@ The
   market	
   needs.
 
-###### NESC	
-  Strategic	
-  Review	
-  of	
-  Further	
-  Education	
-  and	
-  Training	
-  and	
-  the	
-  Unemployed
+### NESC Strategic Review of Further Education and Training and the Unemployed
 
 This	
   recent	
@@ -5927,21 +5819,7 @@ This
   of	
   programmes.
 
-###### Strategies	
-  proposed	
-  via	
-  submissions	
-  to	
-  the	
-  DES-­-led	
-  Consultation	
-  Process	
-  on	
-  the establishment	
-  of	
-  SOLAS	
-  in	
-  2011/2012
+### Strategies proposed via submissions to the DES-­-led Consultation Process on the establishment of SOLAS in 2011/2012
 
 Some	
   of	
@@ -5997,14 +5875,7 @@ Some
   employment	
   outcomes.
 
-###### Proposed	
-  recommendations	
-  arising	
-  from	
-  the	
-  Review	
-  of	
-  Apprenticeship
+### Proposed recommendations arising from the Review of Apprenticeship
 
 A	
   recent	
@@ -6107,18 +5978,9 @@ A
 
 [[START OF PAGE 27]]
 
-###### Key	
-  Issues	
-  Emerging	
-  from	
-  the	
-  ESRI	
-  Evidence
+### Key Issues Emerging from the ESRI Evidence
 
-###### The	
-  Nature	
-  of	
-  Provision
+#### The Nature of Provision
 
 There	
   are	
@@ -6198,9 +6060,7 @@ There
   the	
   sector.
 
-###### The	
-  Data	
-  Infrastructure
+#### The Data Infrastructure
 
 The	
   data	
@@ -6252,8 +6112,7 @@ The
   all	
   levels.
 
-###### Non-­-accredited	
-  Provision
+#### Non-­-accredited Provision
 
 Interviews	
   with	
@@ -6363,8 +6222,7 @@ Interviews
   annual	
   basis.
 
-###### Active	
-  Inclusion
+### Active Inclusion
 
 Active	
   inclusion	
@@ -6622,7 +6480,7 @@ While
   dual	
   approach.
 
-###### Equality
+#### Equality
 
 It	
   is	
@@ -6698,10 +6556,7 @@ It
   public	
   bodies.
 
-###### Literacy	
-  and	
-  Numeracy	
-  Strategy
+### Literacy and Numeracy Strategy
 
 The	
   specific	
@@ -6960,10 +6815,7 @@ The
 
 [[START OF PAGE 29]]
 
-###### Employee	
-  Development	
-  and	
-  Entrepreneurship
+### Employee Development and Entrepreneurship
 
 For	
   many	
@@ -7250,11 +7102,7 @@ The
 
 [[START OF PAGE 30]]
 
-###### Progression	
-  Paths	
-  to	
-  Higher	
-  Education
+### Progression Paths to Higher Education
 
 The	
   HEA	
@@ -7428,14 +7276,7 @@ The
   ETB	
   employer forum).
 
-###### Continuous	
-  Professional	
-  Development	
-  (CPD)	
-  within	
-  the	
-  FET	
-  Sector
+### Continuous Professional Development (CPD) within the FET Sector
 
 Interviews	
   with	
@@ -7775,9 +7616,7 @@ Feedback
   CPD	
   strategy.
 
-###### Guidance	
-  and	
-  FET
+### Guidance and FET
 
 The	
   need	
@@ -7835,8 +7674,7 @@ The
   services	
   etc.
 
-###### FET	
-  Funding
+### FET Funding
 
 In	
   the	
@@ -8172,13 +8010,7 @@ From
   good	
   repair.
 
-###### Proposed	
-  New	
-  Funding	
-  Arrangements	
-  for	
-  FET	
-  Provision
+### Proposed New Funding Arrangements for FET Provision
 
 A	
   significant	
@@ -8399,11 +8231,7 @@ There
 
 [[START OF PAGE 33]]
 
-###### Core	
-  Principles	
-  and	
-  Strategic	
-  Goals
+### Core Principles and Strategic Goals
 
 In	
   order	
@@ -8485,10 +8313,7 @@ In
   for	
   money.
 
-###### The	
-  High	
-  Level	
-  Goals
+#### The High Level Goals
 
 The	
   overall	
@@ -8756,12 +8581,7 @@ The
 
 [[START OF PAGE 34]]
 
-###### Implementing	
-  the	
-  Strategy	
-  -	
-  The	
-  Challenges
+### Implementing the Strategy - The Challenges
 
 Some	
   of	
@@ -8951,8 +8771,7 @@ Some
   be	
   essential.
 
-###### Implementation	
-  Costs
+#### Implementation Costs
 
 A	
   cost	
@@ -8975,14 +8794,7 @@ A
   are	
   envisaged.
 
-###### Connecting	
-  the	
-  main	
-  elements	
-  of	
-  the	
-  FET	
-  Strategy
+### Connecting the main elements of the FET Strategy
 
 Diagram	
   1	
@@ -9001,17 +8813,15 @@ Diagram
 
 [[START OF PAGE 35]]
 
-###### FET	
-  Strategy	
-  Diagram
+#### FET Strategy Diagram
 
 - ǁŽƌůĚ ĐůĂƐƐ ŝŶƚĞŐƌĂƚĞĚ & d ƐǇƐƚĞŵ͕ ŚŝŐŚůǇ ǀĂůƵĞĚ ďǇ ůĞĂƌŶĞƌƐ ĂŶĚ ĞŵƉůŽǇĞƌƐ͕ ǁŚĞƌĞ Ă ŚŝŐŚĞƌ ƉƌŽƉŽƌƟŽŶ ŽĨ ƚŚŽƐĞ ǁŚŽ ĞŶŐĂŐĞ ŝŶ & d ŝŶĐůƵĚŝŶŐ ƚŚŽƐĞ ǁŝƚŚ
 
 ďĂƌƌŝĞƌƐ ƚŽ ƉĂƌƟĐŝƉĂƟŽŶ͕ ƐƵĐŚ ĂƐ ƉĞƌƐŽŶƐ ǁŝƚŚ Ă ĚŝƐĂďŝůŝƚǇ ĂƐ ǁĞůů ĂƐ ĐƵƌƌĞŶƚ ƉƌŝŽƌŝƚǇ ĐŽŚŽƌƚƐ ŝĚĞŶƟĮĞĚ ďǇ  ^W ƐƵĐŚ ĂƐ ůŽŶŐ ƚĞƌŵ ƵŶĞŵƉůŽǇĞĚ ƉĞƌƐŽŶƐ͕ ƐƚĂǇ ĞŶŐĂŐĞĚ͕ ĐŽŵƉůĞƚĞ ƋƵĂůŝĮĐĂƟŽŶƐ͕ ƚƌĂŶƐŝƟŽŶ ƐƵĐĐĞƐƐĨƵůůǇ ŝŶƚŽ ĞŵƉůŽǇŵĞŶƚ Žƌ͕ ǁŚĞƌĞ ĂƉƉƌŽƉƌŝĂƚĞ ŵŽǀĞ ŝŶƚŽ ŚŝŐŚĞƌ ůĞǀĞů ƋƵĂůŝĮĐĂƟŽŶƐ ŝŶ & d Žƌ , d
 
-##### E &/d^ K& & d
+E &/d^ K& & d
 
-##### KZ  WZ/E /W> ^
+KZ  WZ/E /W> ^
 
 & d D/^^/KE
 
@@ -9091,9 +8901,7 @@ Literacy and Numeracy
 
 [[START OF PAGE 36]]
 
-# Part	
-  2 FET	
-  Strategy
+# Part 2 FET Strategy
 
 35
 
@@ -9101,19 +8909,9 @@ Literacy and Numeracy
 
 [[START OF PAGE 37]]
 
-## Section	
-  1 Introduction,	
-  Vision	
-  and	
-  Mission	
-  for	
-  FET
+## Section 1 Introduction, Vision and Mission for FET
 
-###### Key	
-  points	
-  in	
-  this	
-  Section
+### Key points in this Section
 
 - The	
   background	
@@ -9230,10 +9028,7 @@ Literacy and Numeracy
   the FET	
   Strategy.
 
-### 1.1 Introduction,	
-  Background	
-  and	
-  Context
+### 1.1 Introduction, Background and Context
 
 The	
   reform	
@@ -9998,9 +9793,7 @@ One
   partners	
   and organisations.
 
-### 1.2 Government	
-  Reform	
-  Agenda
+### 1.2 Government Reform Agenda
 
 The	
   Strategy	
@@ -10140,11 +9933,7 @@ There
 
 [[START OF PAGE 40]]
 
-#### 1.2.1	
-  	
-   Higher	
-  Education	
-  Reform
+#### 1.2.1 Higher Education Reform
 
 In	
   May	
@@ -10309,16 +10098,7 @@ In
   of	
   technology.
 
-#### 1.2.2	
-  	
-   Development	
-  and	
-  launch	
-  of	
-  'Intreo',	
-  Department	
-  of Social	
-  Protection
+#### 1.2.2 Development and launch of 'Intreo', Department of Social Protection
 
 'Intreo'	
   is	
@@ -10441,9 +10221,7 @@ In
   jobs	
   crisis.
 
-#### 1.2.3	
-  	
-   'Jobpath' 34
+#### 1.2.3 'Jobpath' 34
 
 JobPath	
   is	
@@ -12965,21 +12743,9 @@ The
 
 [[START OF PAGE 49]]
 
-## Section	
-  2
+## Section 2 Development, Scope and Standing of FET
 
-###### Development,	
-  Scope	
-  and	
-  Standing	
-  of	
-  FET
-
-###### Key	
-  points	
-  in	
-  this	
-  Section
+### Key points in this Section
 
 - The	
   development	
@@ -16173,9 +15939,7 @@ Studies
   broader	
   society. 61
 
-###### Studies	
-  show	
-  that:
+Studies show that:
 
 - Individuals	
   with	
@@ -17816,20 +17580,9 @@ The
 
 [[START OF PAGE 63]]
 
-## Section	
-  3
+## Section 3 Economic and Labour Market Context
 
-###### Economic	
-  and	
-  Labour	
-  Market	
-  Context
-
-###### Key	
-  points	
-  in	
-  this	
-  Section
+### Key points in this Section
 
 - The	
   most	
@@ -19167,9 +18920,7 @@ Zombie
 Constrained	
   credit
 
-###### Source:	
-  SOLAS	
-  SMLRU
+Source: SOLAS SMLRU
 
 The	
   exceptions	
@@ -19670,7 +19421,7 @@ SOLAS
   Occupational	
   Families
 
-###### Introduction
+#### Introduction
 
 The	
   identification	
@@ -20438,12 +20189,7 @@ With
   and	
   FET providers.
 
-###### ICT,	
-  science	
-  and	
-  engineering	
-  (STEM)	
-  family
+#### ICT, science and engineering (STEM) family
 
 This	
   occupational	
@@ -20647,12 +20393,7 @@ occupations
   Cloud	
   Computing/Virtualisation.
 
-###### Education,	
-  health	
-  and	
-  social	
-  care	
-  family
+#### Education, health and social care family
 
 This	
   family	
@@ -20801,11 +20542,7 @@ The
   in	
   total).
 
-###### Legal,	
-  business	
-  and	
-  financial	
-  family
+#### Legal, business and financial family
 
 Above	
   average	
@@ -20852,8 +20589,7 @@ Above
   'strong'	
   recovery scenario.
 
-###### Security	
-  family
+#### Security family
 
 This	
   occupational	
@@ -20917,8 +20653,7 @@ This
 
 [[START OF PAGE 73]]
 
-###### Construction	
-  family
+#### Construction family
 
 This	
   occupational	
@@ -21039,9 +20774,7 @@ This
   industrial	
   heritage. 107
 
-###### Non-­-construction	
-  craft	
-  family
+#### Non-­-construction craft family
 
 This	
   occupational	
@@ -21127,8 +20860,7 @@ This
   through	
   BUSI.
 
-###### Transport	
-  family
+#### Transport family
 
 Transport	
   occupations	
@@ -21326,8 +21058,7 @@ Transport
 
 [[START OF PAGE 74]]
 
-###### Administrative	
-  family
+#### Administrative family
 
 Administrative	
   occupations	
@@ -21370,11 +21101,7 @@ Administrative
   'strong'	
   growth scenario.
 
-###### Sales	
-  and	
-  customer	
-  care	
-  family
+#### Sales and customer care family
 
 This	
   occupational	
@@ -21513,11 +21240,7 @@ The
   that	
   regard.
 
-###### Arts,	
-  sports	
-  and	
-  tourism	
-  family
+#### Arts, sports and tourism family
 
 This	
   occupational	
@@ -21670,7 +21393,7 @@ This
 
 [[START OF PAGE 75]]
 
-###### Farming
+#### Farming
 
 The	
   number	
@@ -21875,7 +21598,7 @@ Harvest
   this	
   area.
 
-###### Operatives
+#### Operatives
 
 This	
   occupational	
@@ -22028,7 +21751,7 @@ This
 
 [[START OF PAGE 76]]
 
-###### Elementary
+#### Elementary
 
 This	
   occupational	
@@ -23976,21 +23699,9 @@ It
 
 [[START OF PAGE 82]]
 
-## Section	
-  4
+## Section 4 Key Messages from Government Reviews and Studies
 
-###### Key	
-  Messages	
-  from	
-  Government	
-  Reviews and	
-  Studies
-
-###### Key	
-  points	
-  in	
-  this	
-  Section
+### Key points in this Section
 
 - The	
   National	
@@ -24144,22 +23855,7 @@ It
 
 [[START OF PAGE 83]]
 
-### 4.1 A	
-  Strategic	
-  Review	
-  of	
-  Further	
-  Education	
-  and	
-  Training	
-  and the	
-  Unemployed	
-  -­-	
-  National	
-  Economic	
-  and	
-  Social	
-  Council
+### 4.1 A Strategic Review of Further Education and Training and the Unemployed -­- National Economic and Social Council
 
 The	
   recent	
@@ -24627,16 +24323,7 @@ Even
   acute	
   needs.
 
-#### 4.1.1	
-  	
-   The	
-  Main	
-  Strategies	
-  proposed	
-  in	
-  the	
-  NESC	
-  Review include:
+#### 4.1.1 The Main Strategies proposed in the NESC Review include:
 
 - Prioritisation	
   of	
@@ -24804,13 +24491,7 @@ Even
 
 [[START OF PAGE 85]]
 
-### 4.2 DES-­-led	
-  Consultation	
-  Process	
-  on	
-  the	
-  establishment	
-  of SOLAS
+### 4.2 DES-­-led Consultation Process on the establishment of SOLAS
 
 The	
   most	
@@ -24918,12 +24599,7 @@ The
   as employment	
   outcomes.
 
-### 4.3 Review	
-  of	
-  Apprenticeship	
-  Training	
-  in	
-  Ireland
+### 4.3 Review of Apprenticeship Training in Ireland
 
 The	
   current	
@@ -25289,19 +24965,9 @@ Close
 
 [[START OF PAGE 87]]
 
-## Section	
-  5 Key	
-  Issues	
-  Emerging	
-  from	
-  the	
-  ESRI Evidence
+## Section 5 Key Issues Emerging from the ESRI Evidence
 
-###### Key	
-  points	
-  in	
-  this	
-  Section
+### Key points in this Section
 
 - With	
   regard	
@@ -25397,19 +25063,9 @@ Close
   form	
   of accreditation.
 
-### 5.1 Major	
-  Issues	
-  that	
-  Strategy	
-  can	
-  address	
-  with Immediate	
-  Effect
+### 5.1 Major Issues that Strategy can address with Immediate Effect
 
-#### 5.1.1 The	
-  Nature	
-  of	
-  Provision
+#### 5.1.1 The Nature of Provision
 
 The	
   research	
@@ -26067,9 +25723,7 @@ In
   forum	
   etc.
 
-#### 5.1.2 The	
-  Data	
-  Infrastructure
+#### 5.1.2 The Data Infrastructure
 
 The	
   data	
@@ -26821,16 +26475,9 @@ All
   'Jobs	
   Initiatives'.
 
-### 5.2 Major	
-  Issues	
-  requiring	
-  Further	
-  Evidence	
-  for	
-  Strategy Development
+### 5.2 Major Issues requiring Further Evidence for Strategy Development
 
-#### 5.2.1 Non-­-accredited	
-  Provision
+#### 5.2.1 Non-­-accredited Provision
 
 It	
   was	
@@ -27140,19 +26787,9 @@ Arising
 
 [[START OF PAGE 92]]
 
-## Section	
-  6
+## Section 6 Active Inclusion/Literacy and Numeracy
 
-###### Active	
-  Inclusion/Literacy	
-  and	
-  Numeracy
-
-###### Key	
-  points	
-  in	
-  this	
-  Section
+### Key points in this Section
 
 - Active	
   inclusion	
@@ -27263,8 +26900,7 @@ Arising
   literacy	
   programme.
 
-### 6.1 Active	
-  Inclusion
+### 6.1 Active Inclusion
 
 In	
   October	
@@ -27967,11 +27603,7 @@ It
   with	
   equality legislation.
 
-#### 6.1.2 Recognition	
-  of	
-  Prior	
-  Learning	
-  (RPL)
+#### 6.1.2 Recognition of Prior Learning (RPL)
 
 The	
   validation	
@@ -28306,9 +27938,7 @@ Learners
   the	
   ETB sector.
 
-#### 6.1.3 Low	
-  Quality	
-  Employment
+#### 6.1.3 Low Quality Employment
 
 The	
   impact	
@@ -29193,8 +28823,7 @@ The
   and	
   centres. 157
 
-#### 6.1.4 Community	
-  Education
+#### 6.1.4 Community Education
 
 Community	
   education	
@@ -29542,8 +29171,7 @@ The
 
 [[START OF PAGE 98]]
 
-#### 6.1.5 Disability	
-  Strategy
+#### 6.1.5 Disability Strategy
 
 The	
   National	
@@ -29671,10 +29299,7 @@ The
   in	
   FET.
 
-### 6.2 Literacy	
-  and	
-  Numeracy	
-  Strategy
+### 6.2 Literacy and Numeracy Strategy
 
 In	
   1973,	
@@ -31208,16 +30833,9 @@ The
 
 [[START OF PAGE 103]]
 
-## Section	
-  7 Employee	
-  Development	
-  and Enterpreneurship
+## Section 7 Employee Development and Enterpreneurship
 
-###### Key	
-  points	
-  in	
-  this	
-  Section
+### Key points in this Section
 
 - For	
   many	
@@ -31309,8 +30927,7 @@ The
   own	
   business.
 
-### 7.1 Employee	
-  Development
+### 7.1 Employee Development
 
 Much	
   of	
@@ -32085,10 +31702,7 @@ In
   and	
   qualifications.
 
-### 7.2 Recognition	
-  of	
-  Workplace	
-  Learning
+### 7.2 Recognition of Workplace Learning
 
 According	
   to	
@@ -32207,10 +31821,7 @@ According
 
 [[START OF PAGE 106]]
 
-### 7.3 Entrepreneurship	
-  and	
-  Self-­-employment	
-  Training
+### 7.3 Entrepreneurship and Self-­-employment Training
 
 Government	
   ambition	
@@ -32540,21 +32151,9 @@ It
 
 [[START OF PAGE 107]]
 
-## Section	
-  8
+## Section 8 Progression for FET Graduates to Higher Education
 
-###### Progression	
-  for	
-  FET	
-  Graduates	
-  to	
-  Higher Education
-
-###### Key	
-  points	
-  in	
-  this	
-  Section
+### Key points in this Section
 
 - Exploratory	
   data	
@@ -33390,23 +32989,9 @@ In
 
 [[START OF PAGE 110]]
 
-## Section	
-  9
+## Section 9 Qualifications and Professional Development for Staff involved in FET
 
-###### Qualifications	
-  and	
-  Professional Development	
-  for	
-  Staff	
-  involved	
-  in	
-  FET
-
-###### Key	
-  points	
-  in	
-  this	
-  Section
+### Key points in this Section
 
 - International	
   research	
@@ -34198,17 +33783,9 @@ Those
 
 [[START OF PAGE 113]]
 
-## Section	
-  10
+## Section 10 Guidance and FET
 
-###### Guidance and	
-  FET
-
-###### Key	
-  points	
-  in	
-  this	
-  Section
+### Key points in this Section
 
 - Guidance	
   and	
@@ -35209,16 +34786,9 @@ http://ktl.jyu.fi/img/portal/23229/ELGPN_resource_kit_2011-­-12_web.pdf?cs=1350
 
 [[START OF PAGE 116]]
 
-## Section	
-  11
+## Section 11 Funding
 
-###### Funding
-
-###### Key	
-  points	
-  in	
-  this	
-  Section
+### Key points in this Section
 
 - In	
   2014,	
@@ -35982,13 +35552,7 @@ Finally,
   and	
   co-­-operation hours.
 
-### 11.2 Proposed	
-  New	
-  Funding	
-  Arrangements	
-  for	
-  FET	
-  Provision
+### 11.2 Proposed New Funding Arrangements for FET Provision
 
 Current	
   provision	
@@ -36707,20 +36271,9 @@ There
 
 [[START OF PAGE 120]]
 
-## Section	
-  12
+## Section 12 Core Principles and Strategic Goals
 
-###### Core	
-  Principles	
-  and	
-  Strategic	
-  Goals
-
-###### Key	
-  points	
-  in	
-  this	
-  Section
+### Key points in this Section
 
 The	
   principles	
@@ -36763,10 +36316,7 @@ The
   for	
   money
 
-###### The	
-  Strategic	
-  Goals	
-  are:
+The Strategic Goals are:
 
 Strategic	
   Goal	
@@ -38335,19 +37885,15 @@ Some
 
 [[START OF PAGE 126]]
 
-###### Diagram	
-  1:	
-  FET	
-  Strategy	
-  Diagram
+Diagram 1: FET Strategy Diagram
 
 - ǁŽƌůĚ ĐůĂƐƐ ŝŶƚĞŐƌĂƚĞĚ & d ƐǇƐƚĞŵ͕ ŚŝŐŚůǇ ǀĂůƵĞĚ ďǇ ůĞĂƌŶĞƌƐ ĂŶĚ ĞŵƉůŽǇĞƌƐ͕ ǁŚĞƌĞ Ă ŚŝŐŚĞƌ ƉƌŽƉŽƌƟŽŶ ŽĨ ƚŚŽƐĞ ǁŚŽ ĞŶŐĂŐĞ ŝŶ & d ŝŶĐůƵĚŝŶŐ ƚŚŽƐĞ ǁŝƚŚ
 
 ďĂƌƌŝĞƌƐ ƚŽ ƉĂƌƟĐŝƉĂƟŽŶ͕ ƐƵĐŚ ĂƐ ƉĞƌƐŽŶƐ ǁŝƚŚ Ă ĚŝƐĂďŝůŝƚǇ ĂƐ ǁĞůů ĂƐ ĐƵƌƌĞŶƚ ƉƌŝŽƌŝƚǇ ĐŽŚŽƌƚƐ ŝĚĞŶƟĮĞĚ ďǇ  ^W ƐƵĐŚ ĂƐ ůŽŶŐ ƚĞƌŵ ƵŶĞŵƉůŽǇĞĚ ƉĞƌƐŽŶƐ͕ ƐƚĂǇ ĞŶŐĂŐĞĚ͕ ĐŽŵƉůĞƚĞ ƋƵĂůŝĮĐĂƟŽŶƐ͕ ƚƌĂŶƐŝƟŽŶ ƐƵĐĐĞƐƐĨƵůůǇ ŝŶƚŽ ĞŵƉůŽǇŵĞŶƚ Žƌ͕ ǁŚĞƌĞ ĂƉƉƌŽƉƌŝĂƚĞ ŵŽǀĞ ŝŶƚŽ ŚŝŐŚĞƌ ůĞǀĞů ƋƵĂůŝĮĐĂƟŽŶƐ ŝŶ & d Žƌ , d
 
-##### E &/d^ K& & d
+E &/d^ K& & d
 
-##### KZ  WZ/E /W> ^
+KZ  WZ/E /W> ^
 
 & d D/^^/KE
 
@@ -38614,9 +38160,7 @@ LEVELS
 
 [[START OF PAGE 128]]
 
-Part	
-  3 Overarching Implementation	
-  Plan
+# Part 3 Overarching Implementation Plan
 
 127
 
@@ -38624,11 +38168,9 @@ Part
 
 [[START OF PAGE 129]]
 
-###### Overarching	
-  Implementation	
-  Plan
+## Overarching Implementation Plan
 
-###### Purpose
+### Purpose
 
 The	
   purpose	
@@ -38662,8 +38204,7 @@ The
   Strategy	
   2014-­-2019.
 
-###### Implementation	
-  Oversight
+### Implementation Oversight
 
 On-­-going	
   management	
@@ -38722,8 +38263,7 @@ On-­-going
   implementation	
   process.
 
-###### Implementation	
-  Monitoring
+### Implementation Monitoring
 
 Overall	
   monitoring	
@@ -38832,7 +38372,7 @@ SOLAS
   and	
   AONTAS.
 
-###### Targets
+### Targets
 
 DES	
   sets	
@@ -38900,8 +38440,7 @@ DES
   of	
   QQI.
 
-###### Implementation	
-  Cost
+### Implementation Cost
 
 The	
   overall	
@@ -39614,16 +39153,7 @@ Any
   listed	
   below.
 
-###### Figure	
-  11:	
-  Key	
-  actions	
-  where	
-  additional	
-  funding	
-  may	
-  be	
-  required
+Figure 11: Key actions where additional funding may be required
 
 Item
 ---
@@ -39675,11 +39205,9 @@ Not
 
 [[START OF PAGE 132]]
 
-###### Overarching	
-  Implementation	
-  Plan
+## Overarching Implementation Plan
 
-###### Introduction
+### Introduction
 
 The	
   following	
@@ -39859,23 +39387,9 @@ A
 
 [[START OF PAGE 133]]
 
-###### Overarching	
-  Implementation	
-  Plan	
-  by	
-  each Goal	
-  and	
-  related	
-  Objectives
+## Overarching Implementation Plan by each Goal and related Objectives
 
-###### Strategic	
-  Goal	
-  1	
-  :	
-  Skills	
-  for	
-  the	
-  Economy
+### Strategic Goal 1 : Skills for the Economy
 
 - FET	
   will	
@@ -39897,28 +39411,7 @@ A
   economic	
   development
 
-Strategic	
-  Objective	
-  1.1: Install	
-  an	
-  appropriate	
-  advisory	
-  infrastructure	
-  to	
-  ensure	
-  the	
-  relevant provision	
-  is	
-  informed	
-  directly	
-  by	
-  employers	
-  and	
-  reflects/responds	
-  to	
-  emerging	
-  labour	
-  market challenges.
+#### Strategic Objective 1.1: Install an appropriate advisory infrastructure to ensure the relevant provision is informed directly by employers and reflects/responds to emerging labour market challenges.
 
 Proposed	
 --- | --- | ---
@@ -40183,29 +39676,7 @@ Provide
   ETBs,	
   Intreo.
 
-Strategic	
-  Objective	
-  1.2: Provide	
-  further	
-  education	
-  and	
-  training	
-  programmes	
-  for	
-  a	
-  diverse	
-  range	
-  of individuals	
-  including	
-  unemployed	
-  people	
-  and	
-  particularly	
-  long-­-term	
-  unemployed	
-  and	
-  young unemployed	
-  people.
+#### Strategic Objective 1.2: Provide further education and training programmes for a diverse range of individuals including unemployed people and particularly long-­-term unemployed and young unemployed people.
 
 Proposed	
 --- | --- | ---
@@ -40269,12 +39740,7 @@ Align
   Review. | SOLAS | HEA,	
   QQI
 
-Strategic	
-  Objective	
-  1.3: Implement	
-  new	
-  apprenticeship	
-  system.
+#### Strategic Objective 1.3: Implement new apprenticeship system.
 
 133
 
@@ -40342,24 +39808,7 @@ Identify
   Authorities,	
   IITD.
 
-Strategic	
-  Objective	
-  1.4 :	
-  Provide	
-  further	
-  education	
-  and	
-  training	
-  programmes	
-  for	
-  employees supported	
-  by	
-  a	
-  new	
-  FET	
-  employee	
-  development	
-  strategy.
+#### Strategic Objective 1.4 : Provide further education and training programmes for employees supported by a new FET employee development strategy.
 
 Proposed	
 --- | --- | ---
@@ -40421,23 +39870,7 @@ Identify
   Local	
    Authorities.
 
-Strategic	
-  Objective	
-  1.5: Provide	
-  further	
-  education	
-  and	
-  training	
-  programmes	
-  to	
-  assist	
-  people	
-  to start	
-  and	
-  sustain	
-  their	
-  own	
-  business.
+#### Strategic Objective 1.5: Provide further education and training programmes to assist people to start and sustain their own business.
 
 134
 
@@ -40445,11 +39878,7 @@ Strategic
 
 [[START OF PAGE 136]]
 
-###### Strategic	
-  Goal	
-  2:	
-  Active	
-  Inclusion
+### Strategic Goal 2: Active Inclusion
 
 - FET	
   provision	
@@ -40597,13 +40026,7 @@ Agree,
   Employers'	
    Associations.
 
-Strategic	
-  Objective	
-  2.1: Support	
-  Active	
-  Inclusion	
-  across	
-  FET.
+#### Strategic Objective 2.1: Support Active Inclusion across FET.
 
 135
 
@@ -40752,19 +40175,7 @@ Set
   Aontas,	
   ETBs.
 
-Strategic	
-  Objective	
-  2.2: Devise	
-  and	
-  Implement	
-  a	
-  strategy	
-  to	
-  promote	
-  literacy	
-  and	
-  numeracy	
-  across FET.
+#### Strategic Objective 2.2: Devise and Implement a strategy to promote literacy and numeracy across FET.
 
 136
 
@@ -40772,11 +40183,7 @@ Strategic
 
 [[START OF PAGE 138]]
 
-###### Strategic	
-  Goal	
-  3:	
-  Quality	
-  Provision
+### Strategic Goal 3: Quality Provision
 
 - FET	
   	
@@ -40796,14 +40203,7 @@ Strategic
   quality	
   standards.
 
-###### Strategic	
-  Objective	
-  3.1: Respond	
-  to	
-  the	
-  needs	
-  of	
-  learners.
+#### Strategic Objective 3.1: Respond to the needs of learners.
 
 Proposed	
 --- | --- | ---
@@ -40879,14 +40279,7 @@ Systematically
    AONTAS,	
   QQI.
 
-###### Strategic	
-  Objective	
-  3.2: Ensure	
-  excellence	
-  in	
-  FET	
-  Programme	
-  Development.
+#### Strategic Objective 3.2: Ensure excellence in FET Programme Development.
 
 Proposed	
 --- | --- | ---
@@ -41038,24 +40431,7 @@ Ensure
   NALA,	
   QQI.
 
-Strategic	
-  Objective	
-  3.3: Upgrade	
-  the	
-  guidance	
-  service	
-  within	
-  FET	
-  and	
-  extend	
-  it	
-  to	
-  all	
-  who	
-  engage with	
-  FET	
-  including	
-  employees.
+#### Strategic Objective 3.3: Upgrade the guidance service within FET and extend it to all who engage with FET including employees.
 
 Proposed	
 --- | --- | ---
@@ -41187,30 +40563,9 @@ Introduce
   provision. | Council,	
   QQI.
 
-Strategic	
-  Objective	
-  3.4: Develop	
-  standards	
-  for	
-  staff	
-  qualifications	
-  in	
-  the	
-  FET	
-  sector
+#### Strategic Objective 3.4: Develop standards for staff qualifications in the FET sector
 
-###### Strategic	
-  Action	
-  3.5: Provide	
-  effective	
-  progression	
-  pathways	
-  for	
-  FET	
-  graduates	
-  to	
-  higher	
-  education.
+#### Strategic Action 3.5: Provide effective progression pathways for FET graduates to higher education.
 
 Proposed	
 --- | --- | ---
@@ -41269,13 +40624,7 @@ Remove
 
 [[START OF PAGE 141]]
 
-###### Strategic	
-  Goal	
-  4:	
-  Integrated	
-  Planning	
-  and	
-  Funding
+### Strategic Goal 4: Integrated Planning and Funding
 
 - FET	
   provision	
@@ -41357,17 +40706,7 @@ Implement
   All	
   providers.
 
-Strategic	
-  Objective	
-  4.1: Implement	
-  a	
-  new	
-  integrated	
-  and	
-  co-­-ordinated	
-  FET	
-  planning	
-  model.
+#### Strategic Objective 4.1: Implement a new integrated and co-­-ordinated FET planning model.
 
 Proposed	
 --- | --- | ---
@@ -41487,20 +40826,7 @@ Undertake
   DSP,	
    QQI.
 
-Strategic	
-  Objective	
-  4.2: Develop	
-  and	
-  install	
-  a	
-  'fit-­-for-­-purpose'	
-  data	
-  infrastructure	
-  to	
-  support	
-  FET policy	
-  and	
-  provision.
+#### Strategic Objective 4.2: Develop and install a 'fit-­-for-­-purpose' data infrastructure to support FET policy and provision.
 
 140
 
@@ -41556,21 +40882,7 @@ Sustain
   AONTAS,	
    NALA.
 
-Strategic	
-  Objective	
-  4.3: Introduce	
-  performance-­-related	
-  funding	
-  (appropriate	
-  to	
-  the	
-  type	
-  of	
-  FET provision	
-  and	
-  defined	
-  strategic	
-  outcomes).
+#### Strategic Objective 4.3: Introduce performance-­-related funding (appropriate to the type of FET provision and defined strategic outcomes).
 
 Proposed	
 --- | --- | ---
@@ -41650,16 +40962,7 @@ Examine
   DES,	
   ETBI.
 
-Strategic	
-  Objective	
-  4.4: Evaluate	
-  the	
-  effectiveness	
-  of	
-  all	
-  current	
-  FET	
-  provision.
+#### Strategic Objective 4.4: Evaluate the effectiveness of all current FET provision.
 
 141
 
@@ -41667,12 +40970,7 @@ Strategic
 
 [[START OF PAGE 143]]
 
-###### Strategic	
-  Goal	
-  5:	
-  Standing	
-  of	
-  FET
+### Strategic Goal 5: Standing of FET
 
 - The	
   aim	
@@ -41696,21 +40994,7 @@ Strategic
   social	
   options.
 
-Strategic	
-  Objective	
-  5.1: Promote	
-  and	
-  provide	
-  high	
-  quality	
-  FET	
-  responsive	
-  to	
-  the	
-  needs	
-  of	
-  industry and	
-  learners.
+#### Strategic Objective 5.1: Promote and provide high quality FET responsive to the needs of industry and learners.
 
 Proposed	
 --- | --- | ---
@@ -41808,41 +41092,7 @@ Ensure
   FIT,	
    NALA.
 
-Strategic	
-  Objective	
-  5.2: Conduct	
-  independent	
-  research	
-  on	
-  the	
-  local,	
-  regional	
-  and	
-  national economic	
-  and	
-  social	
-  benefits	
-  of	
-  FET	
-  provision	
-  in	
-  each	
-  ETB	
-  (impact	
-  studies)	
-  and	
-  raise	
-  awareness	
-  of these	
-  benefits	
-  to	
-  improve	
-  the	
-  standing	
-  and	
-  appreciation	
-  of	
-  FET.
+#### Strategic Objective 5.2: Conduct independent research on the local, regional and national economic and social benefits of FET provision in each ETB (impact studies) and raise awareness of these benefits to improve the standing and appreciation of FET.
 
 Proposed	
 --- | --- | ---
@@ -41886,30 +41136,11 @@ Conduct
 # Appendix	
   1
 
-###### Glossary	
-  of	
-  Terms	
-  relating	
-  to	
-  FET	
-  Provision
+## Glossary of Terms relating to FET Provision
 
-###### FET	
-  Provision	
-  formerly	
-  provided	
-  by	
-  VECs	
-  and	
-  now	
-  provided by	
-  ETBs.
+### FET Provision formerly provided by VECs and now provided by ETBs.
 
-###### Post	
-  Leaving	
-  Certificate	
-  (PLC)	
-  Courses
+#### Post Leaving Certificate (PLC) Courses
 
 The	
   PLC	
@@ -42053,11 +41284,7 @@ The
   and	
   6.
 
-###### Vocational	
-  Training	
-  Opportunities	
-  Scheme	
-  (VTOS)
+#### Vocational Training Opportunities Scheme (VTOS)
 
 The	
   VTOS	
@@ -42147,7 +41374,7 @@ The
   NFQ	
   levels.
 
-###### Youthreach
+#### Youthreach
 
 Youthreach	
   is	
@@ -42263,11 +41490,7 @@ Youthreach
 
 [[START OF PAGE 145]]
 
-###### Back	
-  to	
-  Education	
-  Initiative	
-  (BTEI)
+#### Back to Education Initiative (BTEI)
 
 The	
   BTEI	
@@ -42373,8 +41596,7 @@ The
   the	
   NFQ.
 
-###### Community	
-  Education
+#### Community Education
 
 Community	
   Education	
@@ -42515,9 +41737,7 @@ Community
   organisations	
   etc.
 
-###### Adult	
-  Literacy	
-  (AL)
+#### Adult Literacy (AL)
 
 Adult	
   Literacy	
@@ -42600,13 +41820,7 @@ Adult
   group	
   setting.
 
-###### English	
-  for	
-  Speakers	
-  of	
-  Other	
-  Languages	
-  (ESOL)
+#### English for Speakers of Other Languages (ESOL)
 
 New	
   community	
@@ -42704,9 +41918,7 @@ New
 
 [[START OF PAGE 146]]
 
-###### Skills	
-  for	
-  Work
+#### Skills for Work
 
 Skills	
   for	
@@ -42794,22 +42006,9 @@ Skills
   are	
   accredited.
 
-###### FET	
-  Provision	
-  formerly	
-  provided	
-  or	
-  funded	
-  by	
-  FÁS	
-  and	
-  now provided	
-  or	
-  funded	
-  by	
-  ETBs.
+### FET Provision formerly provided or funded by FÁS and now provided or funded by ETBs.
 
-###### Apprenticeship
+#### Apprenticeship
 
 Apprenticeship	
   is	
@@ -42955,10 +42154,7 @@ Apprenticeship
   by	
   industry.
 
-###### Specific	
-  Skills	
-  Training	
-  (SST)
+#### Specific Skills Training (SST)
 
 Specific	
   Skills	
@@ -43063,7 +42259,7 @@ Specific
 
 [[START OF PAGE 147]]
 
-###### Traineeship
+#### Traineeship
 
 Traineeships	
   typically	
@@ -43149,8 +42345,7 @@ Traineeships
   Software	
   Developer.
 
-###### Bridging/Foundation	
-  courses
+#### Bridging/Foundation courses
 
 Bridging	
   and	
@@ -43241,10 +42436,7 @@ Bridging
   occupational/vocational	
   skills.
 
-###### Short	
-  modular	
-  type	
-  courses
+#### Short modular type courses
 
 Short	
   modular	
@@ -43312,9 +42504,7 @@ Short
   year	
   round.
 
-###### Blended	
-  learning	
-  courses
+#### Blended learning courses
 
 Blended	
   learning	
@@ -43396,8 +42586,7 @@ Blended
   accredited	
   body.
 
-###### Refresher	
-  Training
+#### Refresher Training
 
 Refresher	
   Training is	
@@ -43451,8 +42640,7 @@ Refresher
 
 [[START OF PAGE 148]]
 
-###### Part-­-time	
-  Courses
+#### Part-­-time Courses
 
 - Part-­-time	
   day	
@@ -43534,16 +42722,9 @@ Refresher
   accredited	
   body.
 
-###### Community	
-  Training	
-  Provision
+#### Community Training Provision
 
-###### a. The	
-  Local	
-  Training	
-  Initiative	
-  programme	
-  (LTI)
+##### a. The Local Training Initiative programme (LTI)
 
 The	
   LTI	
@@ -43656,10 +42837,7 @@ The
   year	
   round.
 
-###### b. Specialist	
-  Training	
-  Providers	
-  (STPs)
+##### b. Specialist Training Providers (STPs)
 
 18	
   STPs	
@@ -43758,10 +42936,7 @@ Enhanced
   the	
   NFQ.
 
-###### c. Community	
-  Training	
-  Centres	
-  (CTCs)
+##### c. Community Training Centres (CTCs)
 
 CTCs	
   are	
@@ -43876,18 +43051,9 @@ CTCs
 
 [[START OF PAGE 149]]
 
-###### FET	
-  Provision	
-  formerly	
-  managed	
-  by	
-  FÁS	
-  and	
-  now	
-  managed by	
-  SOLAS
+### FET Provision formerly managed by FÁS and now managed by SOLAS
 
-###### Momentum
+#### Momentum
 
 Momentum	
   was	
@@ -43954,9 +43120,7 @@ Momentum
   NFQ	
   accreditation.
 
-###### On-­-Line	
-  Learning	
-  (eCollege)
+#### On-­-Line Learning (eCollege)
 
 On-­-Line	
   learning	
@@ -44014,13 +43178,7 @@ On-­-Line
   Developer	
   and Microsoft.
 
-###### Construction	
-  Skills	
-  Certification	
-  Scheme/Quarrying	
-  Skills	
-  Certification	
-  Scheme (CSCS/QSCS)
+#### Construction Skills Certification Scheme/Quarrying Skills Certification Scheme (CSCS/QSCS)
 
 The	
   Construction	
@@ -44073,9 +43231,7 @@ The
 # Appendix	
   2
 
-###### 1-­-2-­-1	
-  Interview	
-  Process
+## 1-­-2-­-1 Interview Process
 
 The	
   following	
@@ -44260,12 +43416,7 @@ The
 # Appendix	
   3
 
-###### SOLAS-­-led	
-  Further	
-  Education	
-  and	
-  Training	
-  Workshops
+## SOLAS-­-led Further Education and Training Workshops
 
 The	
   following	
@@ -44789,14 +43940,7 @@ The
 # Appendix	
   4
 
-###### Further	
-  Education	
-  and	
-  Training	
-  Strategy	
-  -­-	
-  Consultation	
-  Workshop
+## Further Education and Training Strategy -­- Consultation Workshop
 
 Clock	
   Tower,	
@@ -44810,7 +43954,7 @@ Clock
   Dublin	
   1.
 
-###### Agenda
+### Agenda
 
 8.30	
 --- | ---
@@ -44903,9 +44047,7 @@ Clock
   ESRI	
   presentation
 
-###### Round	
-  Table	
-  Discussions
+Round Table Discussions
 
 11:30	
 --- | ---
@@ -44926,8 +44068,7 @@ Clock
   (SOLAS)
 1:00 | Tea/Coffee/Refreshments
 
-###### Further	
-  Detail:
+### Further Detail:
 
 - Registration	
   8:30am
@@ -44977,10 +44118,7 @@ Clock
 # Appendix	
   5
 
-###### FET	
-  Strategy	
-  Advisory	
-  Committee
+## FET Strategy Advisory Committee
 
 Kathy	
 --- | ---
@@ -45143,10 +44281,7 @@ Jim
 # Appendix	
   6
 
-###### FET	
-  Strategy	
-  Techncial	
-  Sub-­-group
+## FET Strategy Techncial Sub-­-group
 
 Fiona	
 --- | ---
@@ -45213,10 +44348,7 @@ Rhona
 # Appendix	
   7
 
-###### Examples	
-  of	
-  Key	
-  Sources
+## Examples of Key Sources
 
 - Updated	
   'Pathways	
@@ -45511,7 +44643,7 @@ Web: www.solas.ie
 
 Email: info@solas.ie
 
-###### EUROPEAN UNION
+EUROPEAN UNION
 
 Investing in your future European Social Fund
 
