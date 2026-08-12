@@ -319,6 +319,61 @@ Education Sector Plan
 
 ## Contents
 
+1. INTRODUCTION............................................................................................................................................ 7
+1.1. EXECUTIVE SUMMARY................................................................................................................................ 7
+2. SOCIO-ECONOMIC OVERVIEW OF UZBEKISTAN...........................................................................................14
+2.1. MACRO-ECONOMIC SKETCH ............................................................................................................................ 14
+2.2. DEMOGRAPHIC FEATURES............................................................................................................................... 17
+2.3. LABOUR MARKET.............................................................................................................................................. 19
+2.4. PUBLIC FINANCE MANAGEMENT....................................................................................................................... 20
+3. ANALYSIS OF THE CURRENT EDUCATION SYSTEM ............................................................................................21
+3.1. GENERAL OVERVIEW................................................................................................................................ 21
+3.2. LEGISLATIVE BASIS OF EDUCATION SYSTEM........................................................................................... 22
+3.3. CURRENT STRATEGY AND ITS IMPLEMENTATION .................................................................................... 25
+3.3.1. Pre-primary education (Early Childhood Education) ........................................................................................ 25
+3.3.2 General Secondary Education ....................................................................................................................... 28
+3.3.3. Secondary Specialized Vocational Education ................................................................................................. 30
+3.3.4. Training, re-training and skills-improvement of pedagogical personnel .............................................................. 34
+3.3.4.1. General issues.....................................................................................................................................................34
+3.3.4.2. Structure and Contents of the System of Re-training and Skills-Improvement .......................................................35
+3.3.4.3. Quality of training, re-training and skills-improvement of pedagogical personnel ..................................................41
+3.3.5. Higher education ......................................................................................................................................... 42
+3.3.6. Adult Education ........................................................................................................................................... 46
+3.3.7. Out-of-School Education .............................................................................................................................. 48
+3.3.8. Education for children with special needs....................................................................................................... 49
+3.3.8.1. Education for children with various native languages ..................................................................................................50
+3.3.8.2. Education for children from low-income families .........................................................................................................51
+3.3.8.3. Education for children of rural, remote areas..............................................................................................................52
+3.3.8.4. Education for children with disabilities .......................................................................................................................52
+3.4 FINANCING AND ADMINISTRATION .................................................................................................................... 54
+3.4.1. Share of the education sector in the public budget ................................................................................. 54
+3.4.2. Budget allocation by levels of education......................................................................................................... 55
+3.4.4. Administrative structure of the education system............................................................................................. 58
+3.5 QUALITY OF EDUCATION ................................................................................................................................... 61
+3.5.1. Standards, assessment, and monitoring ........................................................................................................ 61
+3.5.4. Relevance of the education system in meeting the needs of the population and the country's labour market ............................................................................................................................................................... 63
+3.6 EXPERIENCE AND LESSONS LEARNED FROM PREVIOUS PROGRAMS SUPPORTED BY INTERNATIONAL ORGANIZATIONS..................................................................................................................................................... 66
+4. JUSTIFICATION OF STRATEGIC MEASURES IN EDUCATOIN SECTOR OF UZBEKISTAN ........................................69
+4.1. OVERALL STRATEGIC VISION ................................................................................................................... 69
+4.2 OUTCOMES AND OUTPUTS ACROSS SUB-SECTORS..................................................................................... 69
+4.3 SUMMARY OF STRATEGIC AREAS ................................................................................................................. 74
+4.3.1 Key Strategic Areas................................................................................................................................ 75
+4.3.1.1 Policy ................................................................................................................................................................75
+4.3.1.2 Infrastructure......................................................................................................................................................75
+4.3.1.3 Staff development...............................................................................................................................................75
+4.3.1.4 Monitoring + Evaluation.......................................................................................................................................75
+4.3.2 Supplementary Strategic Areas ............................................................................................................................76
+4.3.2.1 Sensitisation and Awareness raising.....................................................................................................................76
+4.3.2.2 Partnerships and integration of approaches ...........................................................................................................76
+4.3.2.3 Curriculum development......................................................................................................................................77
+4.3.2.4 Professional orientation .......................................................................................................................................77
+4.3.2.5 International exchange ........................................................................................................................................77
+4.3.2.6 Access to Education............................................................................................................................................77
+4.3.2.7 Continuity across sub-sectors ..............................................................................................................................77
+4.4 ACTION PLAN: KEY ACTIVITIES PER OUTPUT ................................................................................................ 78
+4.4.1 PLAN OF ACTIONS: RESULTS AND ACTIVITIES (OUTCOME # 1)................................................................. 79
+4.4.2. PLAN OF ACTIONS: RESULTS AND ACTIVITIES (OUTCOME # 2)................................................................ 85
+
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
@@ -327,13 +382,60 @@ Education Sector Plan
 
 6
 
+4.4.3. PLAN OF ACTIONS: RESULTS AND ACTIVITIES (OUTCOME # 3)................................................................ 92
+4.4.4. PLAN OF ACTIONS: RESULTS AND ACTIVITIES (OUTCOME # 4)................................................................ 99
+4.4.5. PLAN OF ACTIONS: RESULTS AND ACTIVITIES (OUTCOME # 5).............................................................. 104
+4.4.6. PLAN OF ACTIONS: RESULTS AND ACTIVITIES (OUTCOME # 6).............................................................. 113
+4.4.7. PLAN OF ACTIONS: RESULTS AND ACTIVITIES (OUTCOME # 7).............................................................. 119
+4.4.8. PLAN OF ACTIONS: RESULTS AND ACTIVITIES (OUTCOME # 8).............................................................. 123
+4.5. CAPACITY ASSESSMENT ................................................................................................................................ 131
+4.6 COMMUNICATION PLAN............................................................................................................................... 132
+4.7. RISK ASSESSMENT......................................................................................................................................... 132
+5. MONITORING AND EVALUATION OF THE EDUCATION SECTOR DEVELOPMENT PLAN .......................................134
+5.1. PURPOSE OF MONITORING AND EVALUATION ............................................................................................... 134
+5.2. MONITORING AND EVALUATION SYSTEM ....................................................................................................... 134
+5.3. MONITORING AND EVALUATION INDICATORS................................................................................................. 136
+5.3.1. Indicators related to Outcome 1: Children’s health and personalities developed in preparation for learning in school................................................................................................................................................................. 136
+5.3.2. Indicators related to Outcome 2: Learners’ general knowledge, independent thinking skills and organisational skills developed in preparation for successful progression into the SSVE system.............................................................. 137
+5.3.3. Indicators related to Outcome 3: SSVE graduates prepared for successful transition to the labour market or the higher education system...................................................................................................................................... 138
+5.3.4. Indicators related to Outcome 4: Teachers prepared for the transmission of knowledge, independent thinking and organisational skills to learners, and for the development of learners’ personalities in preparation for their contribution to society............................................................................................................................................................... 139
+5.3.5 Indicators related to Outcome 5: Graduates prepared as highly qualified specialists to contribute to scientific progress, socio-economic and cultural development of the country .......................................................................... 140
+5.3.6. Indicators related to Outcome 6: Adults empowered to expand their knowledge and skills according to their needs and interests through non-formal adult education................................................................................................... 140
+(a number of indicators are being developed, the final set is expected by the end of 2013) ........................................ 140
+5.3.7. Indicators related to Outcome 7: Opportunities created for children and youth to pursue their interests during their free time ............................................................................................................................................................ 141
+5.3.8. Indicators related to Outcome 8: Children and youth with special educational needs supported in accordance with their specific requirements and/or talents, for them to adequately participate in education.......................................... 141
+6. FINANCING AND COSTING CONSIDERATION ....................................................................................................143
+6.1. OVERVIEW OF BASELINE DATA....................................................................................................................... 144
+6.2. BASELINE AND ASSUMPTIONS ON EDUCATION TARGETS AND POLICY OPTIONS .......................................... 144
+6.2.1 Early childhood education/preschool education ....................................................................................... 144
+6.2.2. General secondary education ..................................................................................................................... 145
+6.2.3. Secondary Specialized, Vocational Education .............................................................................................. 146
+6.2.4. Teacher Training and Re-training........................................................................................................... 146
+6.2.5 Higher Education.................................................................................................................................. 146
+6.2.6 Adult Education .......................................................................................................................................... 147
+6.2.7 Out-of-school education .............................................................................................................................. 147
+6.2.8 Special Education Needs (SEN)................................................................................................................... 147
+6.2.9 Financial Framework................................................................................................................................... 148
+6.3 SIMULATION RESULTS...................................................................................................................................... 148
+6.3.1 Preschool education................................................................................................................................ 149
+6.3.3 Secondary Specialized, Vocational Education........................................................................................... 150
+6.3.5 Higher Education...................................................................................................................................... 151
+6.3.6 Adult education (no education budget allocation) .................................................................................... 151
+6.3.8 Special education needs (SEN) ................................................................................................................. 152
+LIST OF PERSONS AND INSTITUTIONS WHO CONTRIBUTED TO THE DRAFTING OF THE EDUCATION SECTOR PLAN...........................................................................................................................................................................153
+LIST OF INSTITUTIONS CONTRIBUTED TO DEVELOPMENT OF THE EDUCATION SECTOR PLAN ............................159
+LIST OF WORKSHOPS CONDUCTED IN THE PROCESS OF EDUCAOTIN SECTOR PLAN DEVELOPMENT .................161
+LIST OF LITERATURE USED IN DEVELOPING THE EDUCATION SECTOR PLAN......................................................162
+ANNEX 1 .............................................................................................................................................................168
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
 Education Sector Plan 7
 
-ANNEX 2 .............................................................................................................................................................  169 ANNEX 3 .............................................................................................................................................................  170 ANNEX 4 .............................................................................................................................................................  171
+ANNEX 2 .............................................................................................................................................................169
+ANNEX 3 .............................................................................................................................................................170
+ANNEX 4 .............................................................................................................................................................171
 
 [[END OF PAGE 7]]
 
@@ -373,7 +475,7 @@ The directions of the future strategy of Uzbekistan's education sector were iden
 
 The forecasting the dynamics of further development of the key indicators within the education sector, as well as the one of the financial support of the ESP for the period of 2013-2017 was conducted by means of simulation (computer modeling) of possible development scenarios.
 
-#### Section II: Socio-Economic Review of Uzbekistan
+#### Section II. Socio-Economic Review of Uzbekistan
 
 The Section provides analysis of key indicators of economic growth and those of the national economic development. In particular,  the  Gross  Domestic  Product's  growth  rates are  described  (in  2010  the  GDP
 
@@ -405,7 +507,7 @@ The second part of the Section provides the overview of the legislative basis of
 
 The  third  part of the  provided  analytical  work  stipulates  on  the  details  of  educational  systems' development (by types of education), where the issues of gender equality and the education of socially vulnerable groups of children were paid special attention to.
 
-The system of the lifelong education consists of about 18 thousand educational institutions, including 4,962 governmental and 145 private preschools, 9,765 general education schools, 143 academic lyceums, 1,408 vocational education colleges, and 75 higher education institutions. The problem of covering the age group of children from 7 to 15 by education in general education schools was solved de-facto (96.8%). 89% of children in  the  age  group of  15-18 has been continuing their education in secondary special, vocational education institutions. It is stated that the share of students belonging to those age groups, are higher than in  countries  that  are  included  into  the  same  group  with  Uzbekistan.  At  the  same  time,  the  coverage  of children in the age group from 3 to 6 with preschool education does not exceed 23.3%. The list of unsolved problems includes the issue of readiness of the children, not covered by preschools, to education in the general education schools. It calls for more active actions in regard to expanding the one-year groups of short-stay in preschools, and providing parents with materials for home reading. The issue of the increase in  the  capacity  of  teachers  and  managerial personnel within the system of general secondary education remains among the urgent ones. It is necessary to modernize the infrastructure and improve the provision level of the higher education institutions.
+The system of the lifelong education consists of about 18 thousand educational institutions, including 4,962 governmental and 145 private preschools, 9,765 general education schools, 143 academic lyceums, 1,408 vocational education colleges, and 75 higher education institutions. The problem of covering the age group of children from 7 to 15 by education in general education schools was solved de-facto (96.8%). 89% of
 
 > 1 Socially  vulnerable  children  are  children  living  in  difficult  life  situations,  who  are  in  need  for  a  special protection and support from the Government and society, including the following groups of children: the disabled, children with mental or physical defects, orphans without parental care; children in specialized institutions; children of low-income families (Article 3 of the Law of the Republic of Uzbekistan On Guarantees of Child Rights ).
 
@@ -417,7 +519,9 @@ Education Sector Plan
 
 10
 
-The equality of men and women is guaranteed by the legislation. The equality is reached in preschools (49% are girls), general education schools (48.4%), and vocational colleges (48.1%). At the same time, a downward trend  is  revealed  in  the  share  of  female  students  in  total  number  of  the  academic  lyceums' students (40.5%), as well as those studying at higher education institutions (37.5%). Besides, a significant disproportion exists within the sector-based structure of vocational colleges and universities. Girls give a much higher preference to such sectors as education, healthcare, physical culture and sports.
+children in the age group of 15-18 has been continuing their education in secondary special, vocational education institutions. It is stated that the share of students belonging to those age groups, are higher than in countries that are included into the same group with Uzbekistan. At the same time, the coverage of children in the age group from 3 to 6 with preschool education does not exceed 23.3%. The list of unsolved problems includes the issue of readiness of the children, not covered by preschools, to education in the general education schools. It calls for more active actions in regard to expanding the one-year groups of short-stay in preschools, and providing parents with materials for home reading. The issue of the increase in the capacity of teachers and managerial personnel within the system of general secondary education remains among the urgent ones. It is necessary to modernize the infrastructure and improve the provision level of the higher education institutions.
+
+The equality of men and women is guaranteed by the legislation. The equality is reached in preschools (49% are girls), general education schools (48.4%), and vocational colleges (48.1%). At the same time, a downward trend is revealed in the share of female students in total number of the academic lyceums' students (40.5%), as well as those studying at higher education institutions (37.5%). Besides, a significant disproportion exists within the sector-based structure of vocational colleges and universities. Girls give a much higher preference to such sectors as education, healthcare, physical culture and sports.
 
 The  teacher-training  is  conducted  on  the  basis  of  curricula,  undergraduate  and  graduate  education programs, as well as pedagogical specializations of vocational colleges (for preschools and out-of-school educational  institutions).  The  students  of  pedagogical  specializations  account  for  52.9  %  of  total  higher education students, and for 10.5% of vocational education students.  The teacher re-training programs are carried out in 86 specialized educational institutions (centers, institutes, university departments) with the frequency once in three years. To reach the goal, capacities of the Istedod Fund and the 'Mentor-follower' form are used as well. However, new requirements to the competencies of teachers point to the necessity to create more flexible teacher re-training system, which takes into account their educational needs. This, in turn, requires not only well-equipped teacher re-training institutions, but also trainer with high pedagogical skills.
 
@@ -431,7 +535,7 @@ The education of children in multi-ethnic territories is organized in six langua
 
 Children  of  low-income  families,  as  well  as  children  without  parental  care  live  and  study  in  boarding schools.  Education  and  maintenance  of  orphans  and  children  without  parental  care  are  provided  at Mekhribonlik homes. Annually more than 500 students of 'mass' general education schools, who belong to low-income families, are provided with winter clothing (raincoat, footwear, headwear, and gloves). There almost 80 thousand children (15% of the total cohort) are exempted from parent's fees for preschools.
 
-The issue of providing education to children, who live in remote and hard-to-access areas, is addressed by the  Government  from  the  position  of  ensuring  the  equal  rights  to  education  for  all  students  without categorizing  the  quality  of  education  by  geographical  locations.  The  unsolved  issues  of  such  schools include  scarcity  of  professional  personnel  and  limited  opportunities  for  improving  skills  through  regular trainings.
+The issue of providing education to children, who live in remote and hard-to-access areas, is addressed by
 
 [[END OF PAGE 10]]
 
@@ -441,7 +545,9 @@ Education Sector Plan
 
 11
 
-The  legislation  of  Uzbekistan  prohibits  the  educational  institutions  from  refusing  to  admit  or  limiting  the rights  of  HIV-positive  children  or  children  with  AIDS.  All  children  with  diseases  caused  by  HIV  infection study in mass educational institutions, and are equally involved in the school life with other students.
+the Government from the position of ensuring the equal rights to education for all students without categorizing the quality of education by geographical locations. The unsolved issues of such schools include scarcity of professional personnel and limited opportunities for improving skills through regular trainings.
+
+The legislation of Uzbekistan prohibits the educational institutions from refusing to admit or limiting the rights of HIV-positive children or children with AIDS. All children with diseases caused by HIV infection study in mass educational institutions, and are equally involved in the school life with other students.
 
 The education of children with  disabilities  is  conducted  at  specialized  preschools  (95),  schools  (85) and colleges (4) on the basis of the child's best interests and recommendations of the medical commission. There are more than 9,000 children who study at home. There are pilot projects are being implemented with the aim to establish an inclusive educational environment, within which some 28 thousand children study at regular general education schools. At the same time, some more work shall be conducted in terms of revising and introducing addenda to the legal mechanism of implementing the inclusive education. The physical  accessibility  of  buildings  and  territories  of  educational  institutions  and  establishing  the  special infrastructure shall be improved further. There are measures shall be taken on developing special literature and methodical provision for joint education of children.
 
@@ -455,7 +561,7 @@ The education sector in Uzbekistan is under the competency of two ministries (MP
 
 The  quality  of  education  is  regulated  in  accordance  with  the  State  Education  Standards  that  set requirements in relation to level of knowledge and abilities of students, as well as determine the contents of subjects. Besides the standards on the content of education, there are standards in relation to resources and requirements on the conditions of the educational process (requirements for school venues, standard norms, equipment and furniture, etc.), as well as qualification requirements to administration and teachers at  the  educational  institutions.  The  existing  monitoring  system  analyzes  the  level  of  learning  materials' acquisition. There's no holistic system to monitor all indicators that affect the quality of education. There no parameters were developed for quality educational services. Presently, a work is initiated in collaboration with  UNCIEF  in  regard  to  improving  the  monitoring  mechanisms,  identifying  the  quality  parameters  and indicators for resources, conditions, learning process, and education results.
 
-The  system  of  the  secondary  special,  vocational  education  offers  education  in  eight  directions,  thus covering all spheres of the national economy. The training of personnel at higher education level is also based on the holistic approach. Annually, more than 90% of vocational colleges' graduates are placed to jobs. The SSVE graduates receive micro-credits from banks to open own businesses (in 2011 such credits were  provided  for  the  total  amount  of  6.25  billion  soums).  Their  partnership  is  established  between educational institutions and employers. However, the efficiency level of the existing model of cooperation between the economy and the SSVE system shall be revised in terms of social partnership mechanisms.
+The system of the secondary special, vocational education offers education in eight directions, thus covering all spheres of the national economy. The training of personnel at higher education level is also based on the holistic approach. Annually, more than 90% of vocational colleges' graduates are placed to
 
 [[END OF PAGE 11]]
 
@@ -464,6 +570,8 @@ The  system  of  the  secondary  special,  vocational  education  offers  educat
 Education Sector Plan
 
 12
+
+jobs. The SSVE graduates receive micro-credits from banks to open own businesses (in 2011 such credits were provided for the total amount of 6.25 billion soums). Their partnership is established between educational institutions and employers. However, the efficiency level of the existing model of cooperation between the economy and the SSVE system shall be revised in terms of social partnership mechanisms.
 
 #### Section IV. Justification of Strategic Measures in the Education Sector of Uzbekistan
 
@@ -515,7 +623,7 @@ Education Sector Plan
 
 contribution to society;
 
--Graduates  prepared  as  highly  qualified  specialists  to  contribute  to  scientific  progress,  socioeconomic and cultural development;
+-Graduates prepared as highly qualified specialists to contribute to scientific progress, socio-economic and cultural development;
 
 -Adults  empowered  to  expand  their  knowledge  and  skills  according  to  their  needs  and  interests through non-formal adult education;
 
@@ -545,7 +653,7 @@ The  number  of  children,  covered  by  out-of-school  education  programs,  wi
 
 The expansion of the inclusive education environment in the preschool education institutions and general education schools is envisaged. That will be carried out along with the proportional decrease in the number of children with disabilities, who study at home or at specialized educational institutions.
 
-The results of simulations on macroeconomic perspectives and financial deficits for the ESP revealed that while the GDP is expected to grow continuously (by more than 8% annually), resources that are necessary for further development of the education sector, will exceed the resources that are utilized in the current development period. The biggest deficit is in 2013/2014, which will stabilize by 2016/2017. The total deficit during the years 2013 to 2017 is expected to amount to 450 million soums or USD 80 million per annum (calculated  at  the  exchange  rate  $1  equal  to  1970  soums).  The  conclusion  drawn  on  the  basis  of  the experience of financing the education sector during the previous years, states that the implementation of the  ESP  will  require  additional  foreign  investments  on  the  top  of  budgetary  financing  of  Uzbekistan's Government and investments of national sponsors.
+The results of simulations on macroeconomic perspectives and financial deficits for the ESP revealed that while the GDP is expected to grow continuously (by more than 8% annually), resources that are necessary for further development of the education sector, will exceed the resources that are utilized in the current
 
 [[END OF PAGE 13]]
 
@@ -554,6 +662,8 @@ The results of simulations on macroeconomic perspectives and financial deficits 
 Education Sector Plan
 
 14
+
+development period. The biggest deficit is in 2013/2014, which will stabilize by 2016/2017. The total deficit during the years 2013 to 2017 is expected to amount to 450 million soums or USD 80 million per annum (calculated at the exchange rate $1 equal to 1970 soums). The conclusion drawn on the basis of the experience of financing the education sector during the previous years, states that the implementation of the ESP will require additional foreign investments on the top of budgetary financing of Uzbekistan's Government and investments of national sponsors.
 
 ### 1.2. METHODOLOGY
 
@@ -635,7 +745,7 @@ GNI (USD) | 460 | 530 | 600 | 730 | 890 | 1,090 | 1,280
 
 Source: State Statistics Committee of the Republic of Uzbekistan
 
-The  above  estimate  does  not  reflect  properly  the  real  purchasing  power  of  the  average  Uzbek  people income, because goods and services available in Uzbekistan have not necessarily the same prices than in the rest of the world. The purchasing power of the dollar utilised in the Atlas method is the same one can find  in  the  United  States,  although  with  100  USD  one  can  purchase  more  goods  and/or  services  in Uzbekistan than in the United States. For instance, prices for purchasing or renting a house are quite much cheaper in Uzbekistan. It is the reason why for the purpose of international comparisons, one has created a second estimate of the GNI per capita based on the concept of equivalent Purchasing Power Parity' (PPP).
+The above estimate does not reflect properly the real purchasing power of the average Uzbek people income, because goods and services available in Uzbekistan have not necessarily the same prices than in the rest of the world. The purchasing power of the dollar utilised in the Atlas method is the same one can find in the United States, although with 100 USD one can purchase more goods and/or services in Uzbekistan than in the United States. For instance, prices for purchasing or renting a house are quite much cheaper in Uzbekistan. It is the reason why for the purpose of international comparisons, one has created a second estimate of the GNI per capita based on the concept of equivalent Purchasing Power Parity” (PPP).
 
 In order to move from the Atlas method to the PPP method, one has to rely on a coefficient which confronts the prices of all goods and services in Uzbekistan and in the United States, which is calculated periodically. The value of the coefficient was 3.93 in 2003 and 2.43 in 2010, which means that on average, American prices were 3.93 times higher than in Uzbekistan in 2003, and they were only 2.43 times higher in 2010. Actually, prices are progressively converging when less developed countries reduce the gap they have with more  developed  ones.  As  shown  in  the  table  below,  the  latest  value  for  GNI  per  capita,  PPP  (current international USD) in Uzbekistan was 3,110 as of 2010. Over the past 18 years, the value for this indicator has fluctuated between 3,110 in 2010 and 1,190 in 1994.
 
@@ -665,7 +775,7 @@ Between 1996 and 2002, the yearly inflation rate was in the range of 30%. It sta
 Inflation rate (Consumer prices)
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Year | 1996 | 1997 | 1998 | 1999 | 2000 | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010
-Inflation | 111, 0 | 27,6 | 26,0 | 26,0 | 28,2 | 26,6 | 21,6 | 3,8 | 3.7 | 7,8 | 6.8 | 6,8 | 7,8 | 7,4 | 7,3
+Inflation | 111,0 | 27,6 | 26,0 | 26,0 | 28,2 | 26,6 | 21,6 | 3,8 | 3.7 | 7,8 | 6.8 | 6,8 | 7,8 | 7,4 | 7,3
 
 0
 
@@ -711,6 +821,7 @@ Source: State Statistics Committee of the Republic of Uzbekistan
 
 GDP deflator 7
 --- | --- | --- | --- | --- | --- | --- | --- | ---
+Year | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010
 GDP deflator | 26,8 | 15,9 | 21,4 | 23,5 | 21,9 | 26,8 | 17,3 | 16,5
 
 > 6   GNI  per  capita  based  on  purchasing  power  parity  (PPP).  PPP  GNI  is  gross  national  income  (GNI) converted  to  international  dollars  using  purchasing  power  parity  rates.  An  international  dollar  has  the  same purchasing power over GNI as a U.S. dollar has in the United States. GNI is the sum of value added by all resident producers plus any product taxes (less subsidies) not included in the valuation of output plus net receipts of primary income (compensation of employees and property  income) from abroad. Data are in current international dollars. Source: World Bank, International Comparison Program database, as contained in http://www.indexmundi.com/facts/uzbekistan/gni-per-capita#NY.GNP.PCAP.CD .
@@ -778,7 +889,7 @@ After the split of the Former Soviet Union, most of the new Republics, including
 Population of Uzbekistan (millions) at the beginning of year
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Year | 2000 | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012
-Popula tion | 24.488 | 24.813 | 25.116 | 25.428 | 25.707 | 26.021 | 26.313 | 26.664 | 27.072 | 27.533 | 28.001 | 29.123 | 29.555
+Population | 24.488 | 24.813 | 25.116 | 25.428 | 25.707 | 26.021 | 26.313 | 26.664 | 27.072 | 27.533 | 28.001 | 29.123 | 29.555
 
 Source: State Statistics Committee of the Republic of Uzbekistan
 
@@ -920,9 +1031,10 @@ Source: State Statistics Committee of the Republic of Uzbekistan
 
 In 2001-2007, the GER of the corresponding ages at general education schools varied between 96.4% and 98.2%. The number of pupils has decreased at the same pace as the number of school age children.
 
-Number of children in the age group 7 to 15, total number of enrolled to general education schools, and the gross enrollment ration of the age group (thousands) of the academic year
+Number of children in the age group 7 to 15, total number of enrolled to general education schools, and the gross enrollment ration of the age group (thousands)
 --- | --- | --- | --- | --- | --- | --- | ---
-Indicator | At beginning 2000/2001 | 2001/2002 | 2002/2003 | 2003/2004 | 2004/2005 | 2005/2006 | 2006/2007
+Indicator | At beginning of the academic year
+ | 2000/2001 | 2001/2002 | 2002/2003 | 2003/2004 | 2004/2005 | 2005/2006 | 2006/2007
 Number of children in the age group 7 to 15 | 5798.2 | 5798.6 | 5799.3 | 5763.0 | 5706.5 | 5611.0 | 5487.6
 Number of students in grades 1 to 9 | 5645.0 | 5691.6 | 5675.1 | 5613.2 | 5545.9 | 5443.0 | 5290.1
 Gross enrollment ratio (%) | 97.36 | 98.16 | 98.92 | 98.52 | 98.24 | 98.23 | 97.85
@@ -943,7 +1055,7 @@ Source: State Statistics Committee of the Republic of Uzbekistan
 
 The unemployment rate for graduates from vocational colleges and higher education institutions fluctuates between 1.2% and 4%, which is low by international standards.
 
-In market economies, it is extremely difficult to forecast the number of required qualifications in the future. Modern economies are characterised by permanent technological changes, and the requirements of the job markets  are  moving  constantly.  Employment  decisions  are  the  outcome  of  thousands  of  potential entrepreneurs, and they do not know five years in advance what kind of job they plan to create. Ministries that are in charge of training future workers cannot anticipate what the number of new jobs to be created will be for every category of qualification proposed in their school systems. Therefore, education systems have been affected by downward trends in the number of qualifications offered by vocational institutions for the past 30 years. The number of qualifications has declined from several hundreds to thirty. In exchange, the 'families' of qualifications which can prepare for several possible job opportunities were offered. The system is based on the concept of 'transferable' competencies, and for every specific job, the final training is provided within the production (of a company or a firm).
+In market economies, it is extremely difficult to forecast the number of required qualifications in the future. Modern economies are characterised by permanent technological changes, and the requirements of the job markets are moving constantly. Employment decisions are the outcome of thousands of potential entrepreneurs, and they do not know five years in advance what kind of job they plan to create. Ministries that are in charge of training future workers cannot anticipate what the number of new jobs to be created will be for every category of qualification proposed in their school systems. Therefore, education systems have been affected by downward trends in the number of qualifications offered by vocational institutions for
 
 [[END OF PAGE 20]]
 
@@ -952,6 +1064,8 @@ In market economies, it is extremely difficult to forecast the number of require
 Education Sector Plan
 
 21
+
+the past 30 years. The number of qualifications has declined from several hundreds to thirty. In exchange, the 'families' of qualifications which can prepare for several possible job opportunities were offered. The system is based on the concept of 'transferable' competencies, and for every specific job, the final training is provided within the production (of a company or a firm).
 
 ### 2.4. PUBLIC FINANCE MANAGEMENT
 
@@ -987,19 +1101,19 @@ The specific feature of the National Model of the education system is the lifelo
 
 The operation of the system of the continuous education is ensured on the basis of the State Education Standards,  succession  of  education  programs  of  various  levels,  and  consists  of  the  following  types  of education:
 
-- Pre-Primary Education;
+1) Pre-Primary Education;
 
-- General Secondary Education;
+2) General Secondary Education;
 
-- Secondary Specialised Professional Education;
+3) Secondary Specialised Professional Education;
 
-- Higher Education;
+4) Higher Education;
 
-- Post-graduate Educaton;
+5) Post-graduate Educaton;
 
-- Skills Improvement and Re-training of Personnel;
+6) Skills Improvement and Re-training of Personnel;
 
-- Out-of-School Education.
+7) Out-of-School Education.
 
 Pre-primary  education  ensures  the  formation  of  a  healthy  and  developed  personality  of  the  child,  while preparing the child to education at school. Pre-primary education is offered to children up to the age  of seven in governmental, non-governmental preschools, as well as in families.
 
@@ -1009,7 +1123,7 @@ The  next  compulsory  stage  of  the  continuous  education  system  is  the  s
 
 The higher education  provides  for  training  of  highly  qualified  specialists.  The  training  of  specialists  with higher education is conducted at universities, academies, institutes and other educational institutions of the higher  school.  The  higher  educational  institutions  admit  people  with  secondary  special,  vocational education. The higher education is comprised of two stages: undergraduate ( bakalavriyat )  and  graduate ( magistratura ). The Bakalavriyat is the basic higher education that provides fundamental knowledge on an individual direction of the higher education with the period of education being no less than four years. The Magistratura is a higher education on a particular specialty with the period of education being no less than two years after completion of the bakalavriyat.
 
-The post-graduate education is aimed at serving for the needs of the society for scientific and scientificpedagogical personnel of the highest qualification. As of January 1, 2013, the previous two-layer system of post-graduate education is replaced by the single-stage system of defending and being granted the doctor of science degree 9 . The post-graduate education can be acquired at higher education institutions and thinktanks.
+The post-graduate education is aimed at serving for the needs of the society for scientific and scientific-pedagogical personnel of the highest qualification. As of January 1, 2013, the previous two-layer system of post-graduate education is replaced by the single-stage system of defending and being granted the doctor of science degree 9. The post-graduate education can be acquired at higher education institutions and think-
 
 > 8   The  standard  admission  age  to  schools  is  seven;  children  at  the  age  of  six  may  be  admitted  to  a  school  after  medical examination and interview with a psychologist.
 
@@ -1023,9 +1137,11 @@ Education Sector Plan
 
 23
 
-The skills improvement and re-training of personnel are aimed at refreshing and deepening the professional knowledge  and  skills  of  specialists.  The  forms  of  skills  improvement  i.e.  education  at  a  specialized educational institution for skills improvement (academy, institute, center, department, courses); education at a basic educational institution; the Ustoz-shogird 10 institute of mentoring; industrial internship; internship at a research institutions; foreign internship; self-education.
+tanks.
 
-The Out-of-school  education  is  aimed  at  serving  for  individual  educational  and  developmental  needs  of children and adolescents, facilitating the organization of their leisure and free time. Institutionally, the outof-school education is provided by Barkamol avlod centers, sports schools for children and adolescents, schools of music and arts, studios, libraries, health-improvement institutions and others.
+The skills improvement and re-training of personnel are aimed at refreshing and deepening the professional knowledge and skills of specialists. The forms of skills improvement i.e. education at a specialized educational institution for skills improvement (academy, institute, center, department, courses); education at a basic educational institution; the Ustoz-shogird 10 institute of mentoring; industrial internship; internship at a research institutions; foreign internship; self-education.
+
+The Out-of-school education is aimed at serving for individual educational and developmental needs of children and adolescents, facilitating the organization of their leisure and free time. Institutionally, the out-of-school education is provided by Barkamol avlod centers, sports schools for children and adolescents, schools of music and arts, studios, libraries, health-improvement institutions and others.
 
 The  out-of-school  education  system  is  represented  by  about  17  thousand  educational  institutions.  That number includes 4,962 governmental pre-primary education institutions, 9,765 general education schools, 143  academic  lyceums,  1,408  vocational  colleges,  and  75  higher  education  institutions.  The  detailed information on types of education is provided in the parts 3.3.1 - 3.3.8 of the present section.
 
@@ -1047,7 +1163,7 @@ The State guarantees free general education 14 .
 
 The school is supervised by the government.
 
-The concretization of the provisions stated in the Constitution is provided by the Law of the Republic of Uzbekistan  'On  Education',  adopted  on  29 th   of  August,  1997.  According  to  the  law,  the  education  is promulgated as a priority in the area of the public development in the country (Article 3). The law defines legal bases of teaching, educating, vocational training of citizens, and aimed at ensuring the constitutional right of an individual to education.
+The concretization of the provisions stated in the Constitution is provided by the Law of the Republic of Uzbekistan 'On Education', adopted on 29 th of August, 1997. According to the law, the education is
 
 > scientific-pedagogical personnel of the highest qualification' from 24.07.2012.
 
@@ -1069,7 +1185,9 @@ Education Sector Plan
 
 24
 
-The fundamental principles, goals of the state education policy, its orientation towards a person, towards educating  a  harmoniously  developed  generation  were  defined  in  the  National  Program  for  Personnel Training (NPPT), which was approved by the Law of the Republic of Uzbekistan on 29 th  of August, 1997. The Program envisages the implementation of the national model of personnel training, establishing socioeconomic,  legal,  psychological  and  pedagogical  and  other  conditions  that  are  necessary  for  forming  a harmoniously  developed  person,  his/her  adaptation  to  the  life  in  a  modern,  ever-changing  society, conscious selection and further mastering of educational and vocational programs; educating the citizens, who are aware of their civil responsibility, as well as their liability to the government and their families. The Program  defines  priority  directions  for  modernization  of  the  education  system  and  sets  implementation stages for that purpose.
+promulgated as a priority in the area of the public development in the country (Article 3). The law defines legal bases of teaching, educating, vocational training of citizens, and aimed at ensuring the constitutional right of an individual to education.
+
+The fundamental principles, goals of the state education policy, its orientation towards a person, towards educating a harmoniously developed generation were defined in the National Program for Personnel Training (NPPT), which was approved by the Law of the Republic of Uzbekistan on 29 th of August, 1997. The Program envisages the implementation of the national model of personnel training, establishing socio-economic, legal, psychological and pedagogical and other conditions that are necessary for forming a harmoniously developed person, his/her adaptation to the life in a modern, ever-changing society, conscious selection and further mastering of educational and vocational programs; educating the citizens, who are aware of their civil responsibility, as well as their liability to the government and their families. The Program defines priority directions for modernization of the education system and sets implementation stages for that purpose.
 
 The  legislative  basis  of  the  Republic  of  Uzbekistan  is  built  upon  the  acting  international  norms  and principles of regulating the process of ensuring and protecting the rights and freedom of an individual. The international legal documents, served as the basis, also include the followings:
 
@@ -1095,7 +1213,7 @@ educational,  healthcare,  and  cultural-enlightening  institutions  shall  be  
 
 teaching and maintaining the orphans and children without parental care or other legal representatives is provided on the basis of the full state support (Article 27);
 
-The State provides the necessary funds and takes other measures that guarantee education on the level of the acting educational standards and requirements to socially vulnerable children, who are in need for special pedagogical approaches (Article 29);
+The State provides the necessary funds and takes other measures that guarantee education on the level of the acting educational standards and requirements to socially vulnerable children, who are in
 
 > 15 Socially vulnerable children are children living in difficult life situations, who are in need for a special protection and support from the Government and society, including  the following groups of children: the disabled, children with mental or physical defects, orphans without parental care; children in specialized institutions; children of low-income families (Article 3 of the Law of the Republic of Uzbekistan On Guarantees of Child Rights ).
 
@@ -1107,7 +1225,9 @@ Education Sector Plan
 
 25
 
-Children  with  physical  and/or  mental  impediments  and  children  with  disabilities  have  the  right  to education and upbringing in educational institutions on the basis of the programs specially developed for them, and receive education that complies with their physical and mental abilities, and whishes (Article 29);
+need for special pedagogical approaches (Article 29);
+
+Children with physical and/or mental impediments and children with disabilities have the right to education and upbringing in educational institutions on the basis of the programs specially developed for them, and receive education that complies with their physical and mental abilities, and whishes (Article 29);
 
 parents  of  children  with  physical  or  mental  impediments  have  the  right  to  choose  a  type  of educational  institutions  (regular  or  specialised)  based  on  the  interests  of  the  child  and  the recommendations of the medical-psychological-pedagogical commission.
 
@@ -1185,7 +1305,7 @@ A study, conducted by the World Bank 19 , revealed that currently Uzbekistan has
 
 > 18  Does not include specialized preschools (specialized preschools are elaborated in the part 3.5)
 
-> 19  «Воспитание и образование в Узбекистане» ( Education and training in Uzbekistan) . The World Bank, 2012.
+> 19 «Воспитание и образование в Узбекистане» (Education and training in Uzbekistan). The World Bank, 2012.
 
 [[END OF PAGE 26]]
 
@@ -1197,27 +1317,76 @@ Education Sector Plan
 
 Access to Pre-primary education System in International Comparison
 
-Source: ' Воспитание и образование в Узбекистане» ( Education and training in Uzbekistan) . Navid Khasan. The World Bank, 2012
+Pre-primary Gross Enrollment Rate (%)
 
-In  addition  to  traditional  forms  of  pre-primary  education  there are alternative types  are being developed, including  the  centers  for  early  childhood  development  and  Sunday  schools,  short-stay  groups,  and  preschool groups at ' makhalla guzar' s 20 .
+120
+100
+80
+60
+40
+20
+0
 
-About 50% of Uzbekistan's population lives in rural areas, including the remote areas, where most young families  live  in  parents'  (i.e.  in  husband's  parents')  family,  and  usually  children  in  such  families  are educated at home until grade 1. Therefore, family education is considered as an essential part of the preprimary education in Uzbekistan.
+Ukraine
+Moldova
+Ghana
+Uzbekistan
+Belarus
+Bulgaria
+Chile
+Kazakhstan
+Turkey
+Mexico
+Czech Republic
+South Korea
+Portugal
+Cyprus
+Greece
+Saudi Arabia
+Italy
+France
+Germany
+Sweden
+Japan
+United Kingdom
+Finland
+Canada
+Australia
+Austria
+Netherlands
+United States
+Norway
+
+GDP per capita (US dollars)
+
+0
+10,000
+20,000
+30,000
+40,000
+50,000
+
+Source: “Воспитание и образование в Узбекистане» (Education and training in Uzbekistan). Navid Khasan. The World Bank, 2012
+
+In addition to traditional forms of pre-primary education there are alternative types are being developed, including the centers for early childhood development and Sunday schools, short-stay groups, and pre-school groups at “makhalla guzar”s 20.
+
+About 50% of Uzbekistan's population lives in rural areas, including the remote areas, where most young families live in parents' (i.e. in husband's parents') family, and usually children in such families are educated at home until grade 1. Therefore, family education is considered as an essential part of the pre-primary education in Uzbekistan.
+
+Alternative forms of education covered 45.9 thousand children of pre-school age.
 
 Number of children covered by non-traditional forms of pre-primary education
 --- | --- | --- | --- | --- | --- | ---
-Indicator | Short-stay groups | Early childhoo d develop ment centers | Sunday schools | Groups at out- of-school education institutions | Groups at makhallas | Educatio n at home
+Indicator | Short-stay groups | Early childhood development centers | Sunday schools | Groups at out-of-school education institutions | Groups at makhallas | Education at home
 Number of groups | 938 | 444 | 1123 | 48 | 43 | 57
 Number of children | 15508 | 7840 | 21207 | 1039 | 120 | 196
-
-Alternative forms of education covered 45.9 thousand children of pre-school age.
 
 Source: Intra-agency report of the MoPE, 2012.
 
 However, the development of the alternative forms of pre-primary education is restrained by underdeveloped legal basis in that regard, lack of standards (requirements), curricula, lack of methodical provision, poor readiness of pedagogical personnel to work in conditions of a flexible model with a half-day attendance by children.
 
-In  terms  of  gender  sensitivity,  the  gender  ratio  among  children  attending  the  governmental  pre-primary education institutions is relatively equal, and there's almost no difference between urban and rural areas in terms  of  gender  equality  in  preschools. Source:  Statistical  Yearbook  'Women  and  men  of  Uzbekistan'. Tashkent. State Statistical Committee of the Republic of Uzbekistan. 2012. P. 201.
+In terms of gender sensitivity, the gender ratio among children attending the governmental pre-primary education institutions is relatively equal, and there's almost no difference between urban and rural areas in
 
-> 20 Makhalla (in Uzbek)- is form of community, living in a small territory. Guzar is a cultural center of a makhalla, a place where makhalla member have meetings, wedding parties, and other events.
+> 20 Makhalla (in Uzbek)– is form of community, living in a small territory. Guzar – is a cultural center of a makhalla, a place where makhalla member have meetings, wedding parties, and other events.
 
 [[END OF PAGE 27]]
 
@@ -1227,19 +1396,15 @@ Education Sector Plan
 
 28
 
+terms of gender equality in preschools. Source: Statistical Yearbook “Women and men of Uzbekistan”. Tashkent. State Statistical Committee of the Republic of Uzbekistan. 2012. P. 201.
+
 Gender ratio of children in schools
 
 (as of year-end 2010)
 
-rural
-
-urban
-
-total
-
-boys
-
-girls
+rural | boys 50,2% | girls 49,8%
+urban | boys 51,4% | girls 48,6%
+total | boys 51,0% | girls 49,0%
 
 The total  number of  pedagogical personnel in  pre-schools equals to 51,662,  including  teachers (70.4%) and  managers  (9.6%),  as  well  as  music's  tutors  (9.3%),  speech  therapists  (1.1%),  speech  pathologists (1.4%), and other pedagogic specialists (8.2%). Source: Statistical yearbook for 2012/2013 academic year . Tashkent: MoPE, 2013. - p. 134.
 
@@ -1258,11 +1423,11 @@ One of the key challenges of the sector is the need for a clear definition on th
 
 In this regard, technical support from UNICEF has already contributed to the development of Early Learning and  Development  Standards  (ELDS). 21   This  led  to  the  concept  of  a  national  programme  for  pre-school education,  known  as Bolajon which  replaced  the  previous  curriculum  called  'The  Child  of  the  Third Millennium'. Bolajon was  tested  as  a  curriculum,  and  subsequently  approved  by  MoPE  as  national resource programme for pre-school teachers to educate pre-school aged children (MoPE 2011). Bolajon is now mandatory to be used by all pre-school pedagogues starting with the school year 2011-2012. Likewise, the syllabus on Bolajon was introduced into the teacher training system 22 .On the basis of Bolajon , further development and implementation of variational educational curricula are planned by MoPE to complement the existing curriculum.
 
-Increased parental involvement, also as a result of an intensified sensitisation campaign, will be important in order to enhance parents' positive perceptions on pre-school education. According to a recent study  by the  World  Bank  (2012),  parental  perceptions  of  quality  are  mainly  informed  by  the  qualifications  of  the teachers, whereby more highly-qualified teachers tend to be distributed rather to urban than to rural areas. Likewise, parents' perceptions of quality are influenced by the status of the school infrastructure, with only 35%  of  existing  schools  being  regarded  as  'fully  equipped'. Source:  'Воспитание  и  образование  в Узбекистане» (Education and training in Uzbekistan). Navid Khasan. The World Bank, 2012.
+Increased parental involvement, also as a result of an intensified sensitisation campaign, will be important
 
 > 21 State  requirements to  the  development  of children of  pre-school  age (Early  Learning  and  Development Standards) is a document which sets out the national principles for the development of children from 0 to 7 years, determining what a child should know and be able to do at an early age. An updated version was officially approved by MoPE in late 2012, after age and content validations. There is a related English language document available on Child Development Indicators (2009) which however is still in draft form.
 
-> 22  Currently, there is only one National Centre with 14 Territorial Institutes which specifically train pre-school teachers ( cf Section 3.3.4.2).
+> 22 Currently, there is only one National Centre with 14 Territorial Institutes which specifically train pre-school teachers (cfSection 3.3.4.2).
 
 [[END OF PAGE 28]]
 
@@ -1272,13 +1437,43 @@ Education Sector Plan
 
 29
 
+in order to enhance parents' positive perceptions on pre-school education. According to a recent study by the World Bank (2012), parental perceptions of quality are mainly informed by the qualifications of the teachers, whereby more highly-qualified teachers tend to be distributed rather to urban than to rural areas. Likewise, parents' perceptions of quality are influenced by the status of the school infrastructure, with only 35% of existing schools being regarded as “fully equipped”. Source: “Воспитание и образование в Узбекистане» (Education and training in Uzbekistan). Navid Khasan. The World Bank, 2012.
+
 ECD/Pre-School infrastructure status against regional enrolment rates
 
-Source: ' Воспитание и образование в Узбекистане» ( Education and training in Uzbekistan) . Navid Khasan. The World Bank, 2012
+120%
+100%
+80%
+60%
+40%
+20%
+0%
 
-When  considering  a  further  expansion  of  the  ECD/Pre-School  sub-sector,  the  provision  of  quality  preprimary education needs to be coupled with issues related to equitable access (particularly regarding the existing large differences between urban and rural communities), quality, accountability and financing.
+0.0
+10.0
+20.0
+30.0
+40.0
+50.0
+60.0
+70.0
 
-The issue related to readiness of children not  covered by preschools to education in general education schools remains to be one of the challenges. In this situation parents' have to change their positions and become active facilitators rather than observers. This, in turn, requires for special learning literature and methodical guidebooks for parents. The alternative forms of pre-primary education, particularly the oneyear preparatory groups will play a key role in ensuring necessary conditions for forming the equal initial opportunities.
+Enrolment Rate for 3-6 Year olds
+
+K.pakstan (R)
+Syrdarya (R)
+Andijan (R)
+Andijan (U)
+K. pakstan (U)
+Syrdarya (U)
+Tashkent City
+R² = 0.4313
+
+Source: “Воспитание и образование в Узбекистане» (Education and training in Uzbekistan). Navid Khasan. The World Bank, 2012
+
+When considering a further expansion of the ECD/Pre-School sub-sector, the provision of quality pre-primary education needs to be coupled with issues related to equitable access (particularly regarding the existing large differences between urban and rural communities), quality, accountability and financing.
+
+The issue related to readiness of children not covered by preschools to education in general education schools remains to be one of the challenges. In this situation parents' have to change their positions and become active facilitators rather than observers. This, in turn, requires for special learning literature and methodical guidebooks for parents. The alternative forms of pre-primary education, particularly the one-year preparatory groups will play a key role in ensuring necessary conditions for forming the equal initial opportunities.
 
 #### 3.3.2 General Secondary Education
 
@@ -1290,7 +1485,7 @@ Unlike  the  graduates  in  other  countries,  the  graduates  of  general  seco
 
 The level of children's enrollment in the general secondary education in Uzbekistan is quite high. According to  the  State  Statistics  Committee  the  gross  enrollment  ratio  of  school-age  children  (7-15)  at  general education  institutions  has  varied  between  98-99%  during  the  period  of  2000-2011  and  remains  stable within that range.
 
-The accessibility of the general secondary education is secured not only by providing it for free, but also by sufficient number of schools and their rational allocation.
+The accessibility of the general secondary education is secured not only by providing it for free, but also by
 
 [[END OF PAGE 29]]
 
@@ -1300,24 +1495,16 @@ Education Sector Plan
 
 30
 
-25%
-
-69%
-
-6%
-
-город
-
-село
-
-отдаленные районы
+sufficient number of schools and their rational allocation.
 
 Schools allocation
 
+25%
+69%
+6%
+
 urban
-
 rural
-
 Remote areas
 
 There  are  total  of  9,765  general  education schools including 2,459 in urban areas, 7,306  rural  areas,  including    617  in  remote and hard-to-access areas. ( Source: Statistical yearbook for 2012/2013 academic year. Tashkent: MoPE, 2013. - p. 134.)
@@ -1328,29 +1515,11 @@ with the Law of the Republic of Uzbekistan 'On Education', adopted in 1997, men 
 
 Gender ratio in general education schools
 
-(as of September,  2012)
+(as of September, 2012)
 
-48.2
-
-48.6
-
-48.4
-
-grades 1-4
-
-grades 5-9
-
-grades 1-9
-
-51.8
-
-51.4
-
-51.6
-
-Girls
-
-Boys
+grades 1-9 | Girls 48.4 | Boys 51.6
+grades 5-9 | Girls 48.6 | Boys 51.4
+grades 1-4 | Girls 48.2 | Boys 51.8
 
 Source: Statistical yearbook for 2012/2013 academic year. Tashkent: MoPE, 2013. - p. 134.
 
@@ -1363,7 +1532,7 @@ The construction and renovation works, along with equipping the schools with mod
 Construction, reconstruction, and complete overhaul of schools
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Years | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012
-Number schools | 636 | 1101 | 1330 | 1615 | 1861 | 1958 | 14 | 272 | 363
+Number of schools | 636 | 1101 | 1330 | 1615 | 1861 | 1958 | 14 | 272 | 363
 
 Source: Statistical yearbook for 2012/2013 academic year. Tashkent: MoPE, 2013. - p. 134.
 
@@ -1449,51 +1618,22 @@ A  special  focus  is  allocated  on  engineering  and  other  technical  profes
 
 SSVE Professional Profile
 
-107
-
-56
-
-18
-
-14
-
-13
-
-7
-
-5
-
-5
+Education | 5
+Science | 5
+Health and Social Security | 7
+Services | 13
+Social Sciences, Business, and Law | 14
+Agriculture and Water Management | 18
+Arts and Humanities | 56
+Engineering, Processing, and Construction | 107
 
 0
-
 20
-
 40
-
 60
-
 80
-
 100
-
 120
-
-Engineering, Processing, and Construction
-
-Arts and Humanities
-
-Agriculture and Water Management
-
-Social Sciences, Business, and Law
-
-Services
-
-Health and Social Security
-
-Science
-
-Education
 
 Source: Classifier of education areas, specialties and professions within the secondary, specialized vocational education.
 
@@ -1517,47 +1657,14 @@ The Orasta  qizlar interest  groups,  aimed  at  providing  spiritual,  politica
 
 Number and Sector-based Structure of Vocational College Graduates
 
-(beginning of the  2010/2011 school year)
+(beginning of the 2010/2011 school year)
 
-76,3%
-
-75,6%
-
-46,9%
-
-39,6%
-
-39,6%
-
-28,7%
-
-23,7%
-
-24,4%
-
-53,1%
-
-60,4%
-
-60,4%
-
-71,3%
-
-Education
-
-Health, Physical Cultrue, and Sports
-
-Economics and Law
-
-Agriculture
-
-Manufacturing and Construction
-
-Transports and Communications
-
-Girls
-
-Boys
+Education | Girls 76,3% | Boys 23,7%
+Health, Physical Cultrue, and Sports | Girls 75,6% | Boys 24,4%
+Economics and Law | Girls 46,9% | Boys 53,1%
+Agriculture | Girls 39,6% | Boys 60,4%
+Manufacturing and Construction | Girls 39,6% | Boys 60,4%
+Transports and Communications | Girls 28,7% | Boys 71,3%
 
 Source:Analytical paper : 'Effective employment policy: utilization of women's employment capacities.'
 
@@ -1582,10 +1689,8 @@ Education Sector Plan
 34
 
 Information about employment of graduates of Vocational Colleges, in thousands
+ | Total number of graduates in 2011 | Found jobs: On chosen and relevant specialties | Found jobs: In other areas | Admitted to universities | Total number of graduates in 2012 | Found jobs: On chosen and relevant specialties | Found jobs: In other areas | Admitted to universities
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Total numbe r of gradua te in | Including: | Total numbe r of gradua tes in | Including:
-Found jobs | Admitted | Found jobs | Admitte d to universit ies
-2011 | On chosen and relevant specialties | In other areas | to universiti es | 2012 | On chosen and relevant specialties | In other areas
 Total | 428.4 | 206.5 | 178.8 | 11.3 | 507.1 | 232.9 | 215.5 | 12.0
 Including by profile specialties of vocational colleges
 manufacturing | 61.1 | 29.9 | 24.8 | 1.4 | 73.2 | 32.1 | 32.3 | 1.7
@@ -1605,7 +1710,7 @@ Source: State Statistics Committee of the Republic of Uzbekistan.
 
 Colleges collect data on job placement of graduates in the same year, and so far there's no mechanism for the conduct of further monitoring of former graduates beyond the one-year period after graduation.
 
-In  accordance to the information, provided by the State Statistics Committee, during the period of 19982012  the  number  of  educational  institutions  within  SSVE  system  has  increased  from  35  units  to  1551, which  entailed  the  increase  in  the  share  children  of  relevant  age  group,  attending  those  educational institutions.
+In accordance to the information, provided by the State Statistics Committee, during the period of 1998-2012 the number of educational institutions within SSVE system has increased from 35 units to 1551, which entailed the increase in the share children of relevant age group, attending those educational institutions.
 
 In  2011,  the  total  investment  in  construction  and  reconstruction  of  academic  lyceums  amounted  to  31.9 billion UZS. Foreign investments equaled to USD 22.1 million. Between 1998 and 2012, the SSVE sector has attracted foreign investments of USD 234.6 million, including USD 208.2 million on loans and USD 26.4 million on grants 28 .
 
@@ -1666,7 +1771,7 @@ Orders for training the pedagogical personnel for preschools and general educati
 
 The  overall  management,  guidance  on  the  ways  and  methods  for  improving  the  system  of  training  the pedagogical and technical-pedagogical personnel, the list of the specialized higher educational institutions that will  provide  training,  re-training  and  skills-improvement  of  pedagogical  personnel,  as  well  as coordination of their activities, regardless of their subordination, is conducted by the Ministry of Higher and Secondary Specialized Education of the Republic of Uzbekistan.
 
-In  the  academic year 2010/2011 some 52.9% of students of higher education institutions and 10.5 % of students  of  vocational  colleges  were  trained  on  pedagogical  specialties.  In  accordance  to  the  State Statistics Committee, during the period of 2006 to 2011, the number of pedagogical profile students at the higher education institutions decreased from 158,032 to 145,190. At the same time, the total number of applicants  to  the  higher  education  institutions  increased  from  198,693  to  240,064,  while  33,956  (in 2006/2007  academic  year)  and  32,410  (in  2010/2011  academic  year)  were  admitted.  During  the  same period,  along  with  the  78%  increase  in  number  of  vocational  colleges  that  offer  specialties  related  to education  (the  number  of  them  increased  from  59  to  105),  the  number  of  students  in  those  areas  has increased only by 15% (the cohort of students, studying pedagogical profiles, increased from 133 thousand to 153 thousand).
+In the academic year 2010/2011 some 52.9% of students of higher education institutions and 10.5 % of students of vocational colleges were trained on pedagogical specialties. In accordance to the State
 
 [[END OF PAGE 35]]
 
@@ -1676,7 +1781,9 @@ Education Sector Plan
 
 36
 
-There  the  Programme  for  the  Preparation,  Re-orientation  and  Further  Training  of  Qualified  Pedagogical and Technical-Pedagogical Staff of the System of Secondary Specialized Professional Education for the Period until 2010 was adopted by the Resolution of the Cabinet of Ministers (2001). The Program is aimed at raising the overall level of qualification and professionalism of SSVE staff through the improvement of the infrastructure of the improvement of in-service institutions, the development of distance education systems and a closer cooperation with the industry.
+Statistics Committee, during the period of 2006 to 2011, the number of pedagogical profile students at the higher education institutions decreased from 158,032 to 145,190. At the same time, the total number of applicants to the higher education institutions increased from 198,693 to 240,064, while 33,956 (in 2006/2007 academic year) and 32,410 (in 2010/2011 academic year) were admitted. During the same period, along with the 78% increase in number of vocational colleges that offer specialties related to education (the number of them increased from 59 to 105), the number of students in those areas has increased only by 15% (the cohort of students, studying pedagogical profiles, increased from 133 thousand to 153 thousand).
+
+There the Programme for the Preparation, Re-orientation and Further Training of Qualified Pedagogical and Technical-Pedagogical Staff of the System of Secondary Specialized Professional Education for the Period until 2010 was adopted by the Resolution of the Cabinet of Ministers (2001). The Program is aimed at raising the overall level of qualification and professionalism of SSVE staff through the improvement of the infrastructure of the improvement of in-service institutions, the development of distance education systems and a closer cooperation with the industry.
 
 The Resolution of the Cabinet of Ministers on the Further Development of the System for Re-training of Pedagogical  Staff,  adopted  in  2006,  foresees  a  feedback  mechanism  between  the  requirements  for  inservice teacher training and the monitoring of training results. The Resolution also defines the skills of a modern teacher.
 
@@ -1684,9 +1791,9 @@ A  cardinal  improvement  in  the  system  of  selection  and  staffing  the  vo
 
 The  governmental  resolutions  'On  Measures  for  Further  Improving  the  System  of  Re-training  and Improving  the  Skills  of  Pedagogical  Personnel  of  Higher  Education  Institutions'  and  'On  Measures  for Further Improving the System of Skills Improvement and Re-training the Administrative and Pedagogical Personnel of Secondary, Specialized Vocational Education Institutions' (2012) are aimed at improving the professional qualifications and pedagogical skills of the field specialists.
 
-The skills-improvement and re-training of pedagogical personnel is conducted in centers and departments of  universities,  institutes,  academies,  as  well  as  sector-based  institutions  for  re-training  and  skillsimprovement. An increase in qualification category of teachers entails a raise in their salaries. In order to achieve  that  increase,  the  teachers  shall  undergo  trainings  in  the  above-mentioned  institutions  once  in every  three  years.  The  duration  of  a  course  is  up  to  four  weeks.  In  case  of  availability  of  modern information-communication technologies for information transmission, and special virtual courses on skillsimprovement, the training of pedagogical personnel may be organized on a part-time basis in line with the scheme 2+2 or 3+1 (i.e. 50% or 75% of the course is acquired by a student independently, in place of his/her  residence,  while  the  remaining  50%  or  25%  is  acquired  directly  by  attending  the  course  at  the educational institution).
+The skills-improvement and re-training of pedagogical personnel is conducted in centers and departments of universities, institutes, academies, as well as sector-based institutions for re-training and skills-improvement. An increase in qualification category of teachers entails a raise in their salaries. In order to achieve that increase, the teachers shall undergo trainings in the above-mentioned institutions once in every three years. The duration of a course is up to four weeks. In case of availability of modern information-communication technologies for information transmission, and special virtual courses on skills-improvement, the training of pedagogical personnel may be organized on a part-time basis in line with the scheme 2+2 or 3+1 (i.e. 50% or 75% of the course is acquired by a student independently, in place of his/her residence, while the remaining 50% or 25% is acquired directly by attending the course at the educational institution).
 
-Also, the capacities of the Istedod Foundation and the Ustoz-Shogird institute of tutorship are used for retraining and skills-improvement of pedagogical and administrative personnel of educational institutions (see the footnote # 10 in the page 23).
+Also, the capacities of the Istedod Foundation and the Ustoz-Shogird institute of tutorship are used for re-training and skills-improvement of pedagogical and administrative personnel of educational institutions (see the footnote # 10 in the page 23).
 
 ##### 3.3.4.2. Structure and Contents of the System of Re-training and Skills-Improvement
 
@@ -1710,107 +1817,40 @@ Education Sector Plan
 
 teachers and administrative personnel within the system of continuous education.
 
-The organizational charts below show the structures of the in-service training system for teachers in preprimary, general secondary, secondary specialized vocational education by levels of their responsibilities.
+The organizational charts below show the structures of the in-service training system for teachers in pre-primary, general secondary, secondary specialized vocational education by levels of their responsibilities.
 
 Structure of the in-service training system for pre-school and general secondary education teachers
 
-State Testing Centre
-
-(monitoring of quality of
-
-education, diagnosis and
-
-assessment of the
-
-qualification of pedagogical
-
-staff)
-
 Ministry of Public Education
+(overall supervision and coordination of quantitative indicators of the in-services training of pedagogical personnel)
 
-(overall supervision and coordination of
+Central In-Service and Re-training Institute of Public Education Personnel, Republican Scientific-Methodological Centre for In-service training for Pre-school teachers
+(development of the scientific-methodological basis for in-service training of teachers and managerial staff)
 
-quantitative indicators of the in-services
+Regional institutes for in-service training of pedagogical personnel
+(in-service training of pedagogical personnel of preschool and general secondary education)
 
-training of pedagogical personnel)
-
-Central In-Service and Re-training
-
-Institute of Public Education Personnel,
-
-Republican Scientific-Methodological
-
-Centre for In-service training for Pre-
-
-school teachers
-
-(development of the scientific-methodological basis for
-
-in-service training of teachers and managerial staff)
-
-Regional institutes for in-service training
-
-of pedagogical personnel
-
-(in-service training of pedagogical personnel of
-
-preschool and general secondary education)
-
-Istedod
-
-Fund
-
-(organization of foreign internships and
-
-courses on learning the leading pedagogical
-
-technologies)
+Istedod Fund
+(organization of foreign internships and courses on learning the leading pedagogical technologies)
 
 Project implementation groups
+Skills-improvement through grants (credit lines) of international organizations
 
-Skills-improvement through grants (credit
+State Testing Centre
+(monitoring of quality of education, diagnosis and assessment of the qualification of pedagogical staff)
 
-lines) of international organizations
-
-Regional branches of the
-
-Ministry of Public Education
-
+Regional branches of the Ministry of Public Education
 (place orders for training)
 
-District (city) departments
+District (city) departments for methodical support and organization of public education organizations' operations
+(differentiation and forming the cohort of teachers to attend in-service training)
 
-for methodical support and
-
-organization of public
-
-education organizations'
-
-operations
-
-(differentiation and forming
-
-the cohort of teachers to
-
-attend in-service training)
-
-Preschools and general
-
-secondary education
-
-schools
-
-(internal monitoring, selecting
-
-teachers for in-service
-
-training, developing individual
-
-tasks)
+Preschools and general secondary education schools
+(internal monitoring, selecting teachers for in-service training, developing individual tasks)
 
 Source: Resolution # 25 of the Cabinet of Ministers of Uzbekistan from February 16, 2006.
 
-The  Central  Institute  trains  the  heads  of  general  education  schools  and  out-of-school  educational institutions,  methodical  specialists,  and  specialists  of  the  territorial  authorities.  It  also  secures  the connection between the science and education practices, develops models of curricula, and programs of inservice training of pedagogical personnel. In addition, the Central Institute develops analytical summary of foreign  experience  and  promotes  it.  It  also  provides  the  regional  institutes  with  learning-methodological documentation,  offers  methodological  support  in  increasing  the  efficiency  of  in-service  training  of  the pedagogical personnel.
+The Central Institute trains the heads of general education schools and out-of-school educational institutions, methodical specialists, and specialists of the territorial authorities. It also secures the connection between the science and education practices, develops models of curricula, and programs of in-service training of pedagogical personnel. In addition, the Central Institute develops analytical summary of foreign experience and promotes it. It also provides the regional institutes with learning-methodological documentation, offers methodological support in increasing the efficiency of in-service training of the pedagogical personnel.
 
 The  development  of  methodological  documentation,  curricula  and  programs  for  preschool  education  is carried out by the Republican learning-methodological center for in-service training of pre-school teachers. The Center also trains the heads, methodology specialists and pedagogical personnel of preschools.
 
@@ -1848,99 +1888,36 @@ Education Sector Plan
 
 Structure of the in-service training system for the SSVE teachers
 
-State Testing Centre
+Ministry of Higher and Secondary Specialized Education
+(general management and coordination of in-service training)
 
-(monitoring of quality of
-
-education, diagnosis and
-
-assessment of the
-
-qualification of pedagogical
-
-staff)
-
-Ministry of Higher and Secondary
-
-Specialized Education
-
-(general management and coordination of in-
-
-service training)
-
-Teacher training institutions within the
-
-system of the MoPE
-
+Teacher training institutions within the system of the MoPE
 (teacher trainers for general subjects)
 
-Institute for In-service Training and
+Institute for In-service Training and Re-training of SSVE staff
+(in-service training for SSVE management staff)
 
-Re-training of SSVE staff
+Fund “Istedod”
+(organisation of training, courses and study visits abroad on learning the leading pedagogical technologies)
 
-(in-service training for SSVE
+Territorial centres for innovative educational technology at base academic lyceums and vocational colleges
+(exchange of experience, study of innovative educational technology and contemporary teaching techniques)
 
-management staff)
-
-Fund 'Istedod'
-
-(organisation of training, courses and
-
-study visits abroad on learning the
-
-leading pedagogical technologies)
-
-Territorial centres for innovative
-
-educational technology at base
-
-academic lyceums and vocational
-
-colleges
-
-(exchange of experience, study of
-
-innovative educational technology and
-
-contemporary teaching techniques)
-
-Centre for Secondary
-
-Specialised Vocational
-
-Education
-
+Centre for Secondary Specialised Vocational Education
 (issues request for training)
 
-Territorial departments of
+Territorial departments of secondary specialized vocational education
+(sets up the group of teachers that attend the in-service training)
 
-secondary specialized
+Secondary Specialized Vocational Education Institutions
+(internal monitoring, propose teachers for training, drafting individual tasks)
 
-vocational education
-
-(sets up the group of
-
-teachers that attend the in-
-
-service training)
-
-Secondary Specialized
-
-Vocational Education
-
-Institutions
-
-(internal monitoring,
-
-propose teachers for
-
-training, drafting
-
-individual tasks)
+State Testing Centre
+(monitoring of quality of education, diagnosis and assessment of the qualification of pedagogical staff)
 
 Source: Resolution # 25 of the Cabinet of Ministers of Uzbekistan from February 16, 2006.
 
-The in-service training of general subject teachers of academic lyceums and vocational colleges is carried out by 13 state universities. Teachers of special subjects at vocational colleges undergo in-service training in  41  higher  education  institutions  of  the  relevant  branches  of  the  industry 30 .  The  capacities  of  those institutions  allow  providing  in-service  training  for  more  than  15  thousand  pedagogical  and  technicalpedagogical personnel annually.
+The in-service training of general subject teachers of academic lyceums and vocational colleges is carried out by 13 state universities. Teachers of special subjects at vocational colleges undergo in-service training in 41 higher education institutions of the relevant branches of the industry 30. The capacities of those institutions allow providing in-service training for more than 15 thousand pedagogical and technical-pedagogical personnel annually.
 
 The structure and functioning of the system of in-service training in the SSVE are similar to those of the general education sector. The educational institutions recommend teachers to in-service training, and the territorial SSVE departments make decisions as for the training needs, as well as conduct final selection of teachers to attend the training. The SSVE center sends request to the relevant educational institutions on the basis of the received information.
 
@@ -1958,75 +1935,29 @@ Education Sector Plan
 
 Increase in SSVE teachers between 1998-2011
 
-1581
-
-6349
-
-10913
-
-20348
-
-24405
-
-34896
-
-54430
-
-60035
-
-67330
-
-80523
-
-93622
-
-108925
-
-115298 115907
+1998 | 1581
+1999 | 6349
+2000 | 10913
+2001 | 20348
+2002 | 24405
+2003 | 34896
+2004 | 54430
+2005 | 60035
+2006 | 67330
+2007 | 80523
+2008 | 93622
+2009 | 108925
+2010 | 115298
+2011 | 115907
 
 0
-
 20000
-
 40000
-
 60000
-
 80000
-
 100000
-
 120000
-
 140000
-
-1998
-
-1999
-
-2000
-
-2001
-
-2002
-
-2003
-
-2004
-
-2005
-
-2006
-
-2007
-
-2008
-
-2009
-
-2010
-
-2011
 
 Source: State Statistics Committee of the Republic of Uzbekistan
 
@@ -2034,81 +1965,31 @@ During  the  period  of  1998-2011  the  total  of  1,485  thousand  teachers  a
 
 Structure of the in-service training system for the higher education teachers
 
-Source: Resolution # 25 of the Cabinet of Ministers of Uzbekistan from February 16, 2006.
+Center for development of the higher and the secondary specialized vocational educatoin
+(development of scientific-methodological bases of the in-service training for the administration of units of universities)
 
-State Testing Center
-
-(monitoring of quality of
-
-education, diagnosis and
-
-assessment of the
-
-qualification of pedagogical
-
-staff)
-
-The institutes for re-training and skills-
-
-improvement under the higher education
-
-institutions
-
+The institutes for re-training and skills-improvement under the higher education institutions
 (in-service training for SSVE and HE teachers)
 
-Center for development of the higher and
+Centers and departments of in-service training under the HEIs
+(in-service training for SSVE and HE teachers)
 
-the secondary specialized vocational
-
-educatoin
-
-(development of scientific-methodological
-
-bases of the in-service training for the
-
-administration of units of universities)
-
-Fund 'Istedod'
-
-(organisation of training, courses and study
-
-visits abroad on learning the leading
-
-pedagogical technologies)
+Fund “Istedod”
+(organisation of training, courses and study visits abroad on learning the leading pedagogical technologies)
 
 Project implementation groups
+In-service training through the grants (loans) of international organizations
 
-In-service training through the grants (loans) of
+Ministry of higher and secondary special education
+(general supervision, and organization of in-service training for heads of HEIs)
 
-international organizations
+Higher Education Institutions
+(internal monitoring, propose teachers for training, drafting individual tasks)
 
-Centers and departments of in-service
+State Testing Center
+(monitoring of quality of education, diagnosis and assessment of the qualification of pedagogical staff)
 
-training under the HEIs
-
-((in-service training for SSVE and HE teachers)
-
-Ministry of higher and
-
-secondary special
-
-education
-
-(general supervision, and
-
-organization of in-service
-
-training for heads of HEIs)
-
-Higher Education
-
-Institutions
-
-(internal monitoring, propose
-
-teachers for training, drafting
-
-individual tasks)
+Source: Resolution # 25 of the Cabinet of Ministers of Uzbekistan from February 16, 2006.
 
 There the Main scientific-methodological center followed by five regional and 10 sector-based centers for in-service training at the leading higher education institutions were established in line with the Resolution #
 
@@ -2172,7 +2053,7 @@ Stage  2  (the  3 rd   year  of  training).  Appoint  experienced  teachers  at 
 
 Stage 3 (the 4 th  year of training). Increase the number of hours allocated for pedagogical internship of students in order to develop professional skills in them, and assist them in adaptation to school life and the future profession.
 
-The similar conclusions were drawn within the study, conducted by the Center of economic research in partnership with UNICEF ( Increasing the quality of general secondary education in Uzbekistan: priority  pedagogical personnel. Center for economic research, 2010).
+The similar conclusions were drawn within the study, conducted by the Center of economic research in partnership with UNICEF (Increasing the quality of general secondary education in Uzbekistan: priority – pedagogical personnel. Center for economic research, 2010).
 
 Besides, it was noted that:
 
@@ -2194,7 +2075,33 @@ Education Sector Plan
 
 Number of SSVE teachers, who underwent in-service training
 
-Source: MoHSSE,  2012.
+18000
+16000
+14000
+12000
+10000
+8000
+6000
+4000
+2000
+0
+
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+
+Source: MoHSSE, 2012.
 
 The current system of teacher-training does not ensure sufficient qualifications for the development of the child's personality and creativity, as well as formation of the decision-making skills. A more flexible system of  in-service  training  for  teachers  will  allow  for  taking  into  account  the  individual  needs  and  interests  of teachers.  A  teacher  will  be  interested  in  a  regular  improvement  of  own  qualification,  in  applying  the acquired skills in the teaching practice. This will require not only the well-equipped educational institutions for in-service training, but also teachers with a rich pedagogical and research experience, along with the ability  to  transform the knowledge and increasing the awareness of teachers on unique features of their profession. The feedback mechanism between the training and practical work, as in a pre-service well as in in-service states, will increase the efficiency the teacher training.
 
@@ -2262,95 +2169,54 @@ Source: State Statistics Committee, 2011 .
 
 The graph below displays the fields of study, where more than 20% of students were admitted to higher education institutions in 2009.
 
-Distribution of new entrants into tertiary programmes, by field of education Distribution of new entrants into  tertiary programmes, by field of education (2009) Only those fields in which more than 20% of students entered a tertiary programme in 2009 are shown in the graph below
-
-Turkey
-
-Russian Federation
-
-Hungary
-
-Poland
-
-Australia
-
-Denmark
-
-Netherlands
-
-Switzerland
-
-Austria
-
-Mexico
-
-Iceland
-
-Israel
-
-Estonia
-
-Argentina
-
-Portugal
-
-Czech Republic
-
-Italy
-
-Slovenia
-
-New Zealand
-
-OECD average
-
-Belgium
-
-Norway
-
-Spain
-
-Sweden
-
-Slovak Republic
-
-Japan
-
-Chile
-
-United Kingdom
-
-Germany
-
-Finland
-
-Ireland
-
-Korea
+Distribution of new entrants into tertiary programmes, by field of education
 
 Humanities, arts and education
+Health and welfare
+Social sciences, business and law
+Engineering, manufacturing and construction
 
 %
-
-Health and welfare
-
 50
-
 45
-
 40
-
 35
-
 30
-
 25
-
 20
 
-Social sciences, business and law
-
-Engineering, manufacturing  and construction
+Turkey
+Russian Federation
+Hungary
+Poland
+Australia
+Denmark
+Netherlands
+Switzerland
+Austria
+Mexico
+Iceland
+Israel
+Estonia
+Argentina
+Portugal
+Czech Republic
+Italy
+Slovenia
+New Zealand
+OECD average
+Belgium
+Norway
+Spain
+Sweden
+Slovak Republic
+Japan
+Chile
+United Kingdom
+Germany
+Finland
+Ireland
+Korea
 
 Source: OECD, 2011.
 
@@ -2370,118 +2236,38 @@ The gender equality within the system of higher education is guaranteed by the C
 
 HEIs.
 
-2010
-
-2011
-
-2012
-
-2013
-
-male
-
-170.8
-
-168.9
-
-158.0
-
-160.0
-
-female
-
-114.5
-
-105.6
-
-94.1
-
-95.9
-
-40,1%
-
-38,5%
-
-37,3%
-
-37,5%
-
-59,9%
-
-61,5%
-
-62,7%
-
-62,5%
-
-0.0
-
-50.0
-
-100.0
-
-150.0
-
-200.0
-
-250.0
-
-300.0
+Gender ratio
 
 Numer (thosuand people)
 
-Gender ratio
+2010 | male 170.8 (59,9%) | female 114.5 (40,1%)
+2011 | male 168.9 (61,5%) | female 105.6 (38,5%)
+2012 | male 158.0 (62,7%) | female 94.1 (37,3%)
+2013 | male 160.0 (62,5%) | female 95.9 (37,5%)
+
+0.0
+50.0
+100.0
+150.0
+200.0
+250.0
+300.0
 
 Source: MoHSSE, 2013.
 
 The real ratio of boys to girls by fields of study at higher education institutions indicates to a significant disproportion.  More  than  80.7%  of  students  of  the  study  fields  such  as  transport  and  communications, industry and construction, agriculture, as well as economics and law are men, the remaining 19.3% being represented  by  women.  The  majority  of  girls  choose  the  specialties  related  to  education  (52.9%)  and medicine (43.8%).
 
-Distribution of students by study fields (2010/2011 school year)
+Distribution of students by study fields
+(2010/2011 school year)
 
-52,9%
-
-43,8%
-
-19,3%
-
-17,7%
-
-16,5%
-
-10,4%
-
-47,1%
-
-56,2%
-
-80,7%
-
-82,3%
-
-83,5%
-
-89,6%
-
-Education
-
-Healthcare, physical  culture and
-
-sports
-
-Economics  and law
-
-Agriculture
-
-Industry and construction
-
-Transport and communications
-
-female
-
-male
+Education | female 52,9% | male 47,1%
+Healthcare, physical culture and sports | female 43,8% | male 56,2%
+Economics and law | female 19,3% | male 80,7%
+Agriculture | female 17,7% | male 82,3%
+Industry and construction | female 16,5% | male 83,5%
+Transport and communications | female 10,4% | male 89,6%
 
 Source: Analytical paper «Effective employment policy: utilization of women's employment capacities ».
-
 Tashkent: UNDP, 2012 - 45 p.
 
 [[END OF PAGE 45]]
@@ -2500,7 +2286,7 @@ There  a  total  of  22  thousand  teachers  work  in  the  system  of  higher  
 
 Scientific-pedagogical capacity of higher education institutions
 --- | --- | --- | --- | ---
-Teachers with scientific degrees (TSD) | Share of scientific personnel | Number of women among TSD | Share of women in TSD
+ | Teachers with scientific degrees (TSD) | Share of scientific personnel | Number of women among TSD | Share of women in TSD
 Total | 22,003 | 39.2% | 9,604 | 43.6%
 including:
 Doctors of sciences | 1,504 | 6.8% | 278 | 18.5%
@@ -2514,16 +2300,28 @@ As it was mentioned earlier (see part 3.3.3) during the period from 2005 to 2011
 
 The chart below displays the development of the total budget of the higher education sector, along with three key budget items (salaries, stipends, and infrastructure) for the period of 2007 to 2011.
 
-Spending to higher education  (UZS billion)
+Spending to higher education (UZS billion)
 
-Total spending to higher
+900000,0
+800000,0
+700000,0
+600000,0
+500000,0
+400000,0
+300000,0
+200000,0
+100000,0
+0,0
 
-education
+2007
+2008
+2009
+2010
+2011
 
+Total spending to higher education
 Salaries
-
 Stipends
-
 Infrastructure
 
 Source: MoHSSE, 2012.
@@ -2540,7 +2338,7 @@ Overall, it shall be noted that a positive trend in the job placement of graduat
 
 The table below shows the professional fields in which graduates from higher education institutions have been employed during the period of 2007 to 2010.
 
-2007 | 2008 | 2009 | 2010 | 2011
+ | 2007 | 2008 | 2009 | 2010 | 2011
 --- | --- | --- | --- | --- | ---
 Industry | 6,462 | 7,761 | 8,027 | 9,006 | 10,749
 Construction | 1,717 | 2,062 | 2,133 | 2,393 | 2,856
@@ -2565,7 +2363,7 @@ The  infrastructure  and  material-technical  bases  of  higher  educational  in
 
 #### 3.3.6. Adult Education
 
-The terminology 'adult education' is not mentioned in the legislative documents of Uzbekistan. Also there's no regular statistics on the matter. This area of education is still in the process of initial development.
+The terminology 'adult education' is not mentioned in the legislative documents of Uzbekistan. Also there's
 
 [[END OF PAGE 47]]
 
@@ -2574,6 +2372,8 @@ The terminology 'adult education' is not mentioned in the legislative documents 
 Education Sector Plan
 
 48
+
+no regular statistics on the matter. This area of education is still in the process of initial development.
 
 At present, the following system of adult education exists in Uzbekistan, and is aimed at lifelong education:
 
@@ -2589,7 +2389,7 @@ Rayon  (city)  Employment  Promotion  and  Social  Security  Centers  of  the  M
 
 The Chamber of Commerce and Industry has organized specialized training courses on such various areas related to management, self-improvement, and fundamentals of business, logistics, finance, and marketing strategies. The duration of such courses vary from two to five days.
 
-In order to support development of educational system and training of human resources on entrepreneurial activities,  training  of  entrepreneurs,  the  Chamber  jointly  with  MHSSE,  Ministry  of  Labor  and  Social Protection of Population, is cooperating with European Training Foundation(ETF) in the framework of ETF project  on  Development of National Qualifications Framework (NQF). This project will enable to develop institutional mechanism, facilitating implementation of NQF content as a tool for coordination of demand for qualified labor by the labor market and supply by the educational systemThere various training courses on economics, information  technologies  and  foreign  languages  are  offered  by  commercial  organizations.  In 2011  the  registration  of  private  (non-governmental)  educational  institutions  working  in  that  field  was initiated.
+In order to support development of educational system and training of human resources on entrepreneurial activities, training of entrepreneurs, the Chamber jointly with MHSSE, Ministry of Labor and Social Protection of Population, is cooperating with European Training Foundation(ETF) in the framework of ETF project on Development of National Qualifications Framework (NQF). This project will enable to develop institutional mechanism, facilitating implementation of NQF content as a tool for coordination of demand for qualified labor by the labor market and supply by the educational system. There various training courses on economics, information technologies and foreign languages are offered by commercial organizations. In 2011 the registration of private (non-governmental) educational institutions working in that field was initiated.
 
 The Swiss Development Corporation established 14 centers for vocational education. The German Agency for International Development (GIZ) offers training courses for managers that are followed by study tours to Germany.
 
@@ -2613,7 +2413,7 @@ Education Sector Plan
 
 - essentials of entrepreneurship and business;
 
-- education  management,  financial  management,  human  resources  management  (for  productionbased masters from 10 regions).
+- education management, financial management, human resources management (for production-based masters from 10 regions).
 
 At the current stage of development, the key goal of the non-formal adult education is to provide vocational education, giving people the qualifications that are necessary for finding jobs rapidly or advancing in the labor market.
 
@@ -2648,66 +2448,49 @@ Structure of out-of-school education institutions by areas of activity
 Barkamol Avlod
 
 - cultural-esthtical
-
 - scientific
-
 - tecnhical
-
 - natioanl crafts
 
 Schools of music and arts
 
 - Piano
-
 - stringed instruments
-
 - wind and percussion instruments
-
 - natioanl musical instruments
-
 - traditional singing
-
 - traditional vokalism
-
 - academic vokalism
-
 - variety instruments
-
 - variety singing
-
 - choreography
-
 - dramatic art
-
 - art
-
 - applied painting
+
+Sports schools
+
+- olympic sports (31)
+- national sports (4)
+- other sports, including martial arts, sports dancing, chess, and counter (22)
 
 Barkamol Avlod centers do not have age requirements for children willing to join. In case of music schools, the departments of piano and stringed instruments admit children at the ages 7 to 10, and teach them for seven years. Other departments admit children at the ages 7 to 12 and provide education during five years. The sports schools also have age limits based on physiological development and age-related characteristics of children.
 
-There  about  24  thousand  teachers  work  at  governmental  out-of-school  education  institutions,  including 12.4 thousand women (52%).
+There about 24 thousand teachers work at governmental out-of-school education institutions, including 12.4 thousand women (52%).
 
-For  the  last  nine  years  a  total  of  1,374  children's  sports  facilities  were  launched,  including  254  newly constructed sports facilities, 861 renovated sports halls in schools, and 259 reconstructed children's sports facilities.
+For the last nine years a total of 1,374 children's sports facilities were launched, including 254 newly constructed sports facilities, 861 renovated sports halls in schools, and 259 reconstructed children's sports facilities.
 
-The  out-of-school  education  is  provided  through  the  interest  circles,  organized  in  general  education schools.
+The out-of-school education is provided through the interest circles, organized in general education schools.
 
-At the same time, the children, living in rural areas have somewhat limited access to Barkamol Avlod , which are  predominantly  located  in  district  centers.  While  the  key  focus  in  the  out-of-school  education  is channeled  to  music,  arts  and  sports,  there's  a  clear  desire  to  strengthen  additional  focal  areas  outside these three priority areas, e.g. by means of, inter alia, school journalism, debate clubs, philosophy clubs.
+At the same time, the children, living in rural areas have somewhat limited access to Barkamol Avlod, which are predominantly located in district centers. While the key focus in the out-of-school education is channeled to music, arts and sports, there's a clear desire to strengthen additional focal areas outside these three priority areas, e.g. by means of, inter alia, school journalism, debate clubs, philosophy clubs.
 
-The  Government  is  particularly  interested  to  utilise  out-of-school  education  outcomes  as  a  platform  for increased international exchange of children and youth, based on their specific talents. This should also be used  as  an  additional  motivational  base  for  attracting  children  and  youth  into  pursuing  such  activities. Further  strengthening  of  the  sector  could  be  achieved  through  an  intensified  linkage  of  Out-of-School Education activities with relevant Civil Society Organisations (CSOs). 32
+The Government is particularly interested to utilise out-of-school education outcomes as a platform for increased international exchange of children and youth, based on their specific talents. This should also be used as an additional motivational base for attracting children and youth into pursuing such activities. Further strengthening of the sector could be achieved through an intensified linkage of Out-of-School Education activities with relevant Civil Society Organisations (CSOs). 32
 
 #### 3.3.8. Education for children with special needs
 
 The social security of population is a priority task within the State policy in the country. The government
 
 > 32 As explicitly stated at the Validation Workshop for the Draft Situation Analysis, held at Tashkent, 22 August 2012.
-
-Sports schools
-
-- olympic sports (31)
-
-- national sports (4)
-
-- other sports, including martial arts, sports dancing, chess,  and counter (22)
 
 [[END OF PAGE 50]]
 
@@ -2727,7 +2510,7 @@ In line with the Law, the trainings in preschools are provided in six languages,
 
 Distribution of children attending preschools by languages used in training (as of September 2012)
 --- | --- | --- | --- | --- | --- | ---
-Uzbek | Karakalpak | Russian | Kazakh | Tajik | Turkmen
+ | Uzbek | Karakalpak | Russian | Kazakh | Tajik | Turkmen
 Number of preschools | 4962 | 324 | 140 | 11 | 34 | 3
 Number of children | 353004 | 18151 | 27920* | 1108 | 2868 | 180
 
@@ -2739,7 +2522,7 @@ There special classes (training groups) that teach in native language of local e
 
 Distribution of general education schools' students by languages used in training (as of September 2012)
 --- | --- | --- | --- | --- | --- | --- | ---
-Uzbek | Karakalpak | Russian | Kazakh | Tajik | Kyrgyz | Turkmen
+ | Uzbek | Karakalpak | Russian | Kazakh | Tajik | Kyrgyz | Turkmen
 Number of schools | 8742 | 377 | 848 | 417 | 256 | 60 | 43
 Student body | 3868277 | 88285 | 372256 | 51757 | 71265 | 8005 | 8306
 
@@ -2749,7 +2532,7 @@ Source: Statistical Yearbook for 2012/2013 Academic Year. Tashkent: MoPE, 2013. 
 
 The academic lyceums, vocational colleges and higher education institutions provide education in Uzbek, Karakalpak,  and  Russian.  The  exception  applies  in  case  of  higher  education  institutions  of  pedagogical profile,  where the training of teachers on Kazakh, Tajik, Kyrgyz, and Turkmen philology is carried out in those languages in addition to the languages mentioned above.
 
-The  choice  of  the  language  of  instruction  and  an  education  institution  belongs  to  students  and/or  their parents.  In  fact,  the  choice  may  not  necessarily  be  based  on  ethnic  background.  For  example,  many children of Uzbek families study at schools where the instructions are provided in one of such languages as Russian,  Tajik  or  Kazakh.    Turkmens,  Kazakhs,  Tajiks,  and  Kyrgyzs  study  not  only  at  school  where education  is  provided  in  their  native  languages,  but  also  at  schools  with  Uzbek  or  Russian  being  the language of instructions.
+The choice of the language of instruction and an education institution belongs to students and/or their parents. In fact, the choice may not necessarily be based on ethnic background. For example, many children of Uzbek families study at schools where the instructions are provided in one of such languages as
 
 > 33 Socially vulnerable children are children in a difficult life situation, and in need for special protection and support provided from the government and society. The category inter alia includes children with physical impediments  and/or mental retardation; orphans; children without parental care; children in institutions; children of low-income families ( Extract from the Law of the Republic of Uzbekistan 'On guarantees of the child's rights' Article 3).
 
@@ -2761,7 +2544,9 @@ Education Sector Plan
 
 52
 
-Children  and  youth,  regardless  the  language  of  instructions,  study  in  line  with  the  single  education standards and curricula in all levels of the continuous education system. Besides, all necessary conditions are  provided  in  all  governmental  education  institutions,  regardless  the  language  of  instruction,  for representatives of various ethnic groups to study the State language in order to secure the equal access to the labor market and equal opportunities for being involved in the life of the society.
+Russian, Tajik or Kazakh. Turkmens, Kazakhs, Tajiks, and Kyrgyzs study not only at school where education is provided in their native languages, but also at schools with Uzbek or Russian being the language of instructions.
+
+Children and youth, regardless the language of instructions, study in line with the single education standards and curricula in all levels of the continuous education system. Besides, all necessary conditions are provided in all governmental education institutions, regardless the language of instruction, for representatives of various ethnic groups to study the State language in order to secure the equal access to the labor market and equal opportunities for being involved in the life of the society.
 
 The graduates of schools, vocational colleges, and academic lyceums, who completed their studies in one of such languages as Tajik, Kazakh, Turkmen, or Kyrgyz and applied to a higher education institution, take exams  in  their  native  languages 34   (not  Uzbek) before  the  standards  tests.  It  gives  them  additional advantages (additional scores) in admission to higher education institutions.
 
@@ -2779,7 +2564,7 @@ In accordance with the Regulation 'On the procedure of paying fees to pre-school
 
 According to the Regulation on paying and using the parental fees, provided for children's education at children's  music  and  arts  schools (Resolution  of  MoPE  and  MoF,  2008), annually  12  thousand  talented children of low-income families are exempted from such fees.
 
-In accordance with the Low of the Republic of Uzbekistan 'On physical culture and sports' (Edition of 2005) children  under  the  age  of  16,  the  disabled  children,  and  orphans  are  provided  with  sports  and  healthimproving services for free.
+In accordance with the Low of the Republic of Uzbekistan 'On physical culture and sports' (Edition of 2005) children under the age of 16, the disabled children, and orphans are provided with sports and health-improving services for free.
 
 > 34 Resolution «Order of admission in bakalavriyat of High educational institutions» approved by The Cabinet of Ministers on  18 June 2010 г. № 118.
 
@@ -2813,7 +2598,7 @@ The 'ensuring pre-school and out-of-school education for children with disabilit
 
 The children with disabilities have rights to education and training in educational institutions on the basis of curricula, specially designed for them, and receive education in line to their physical, mental capacities and wishes. The parents of children with disabilities have rights to choose among regular, specialized education institutions,  or education at home based on the best interests of their child and recommendations of the medical commission.
 
-The pre-school education is provided in preschool education institutions. In case the health conditions of children  do  allow  them  attending  the  preschools,  they  are  trained  in  specialized  educational  institutions. The  general  secondary  education  and  secondary,  specialized  vocational  education  are  provided  by  all educational institutions, as well as by specialized educational institutions in case of necessity. In case of the higher education, the young people with special needs in education are integrated into regular classes of the education institutions.
+The pre-school education is provided in preschool education institutions. In case the health conditions of children do allow them attending the preschools, they are trained in specialized educational institutions. The general secondary education and secondary, specialized vocational education are provided by all educational institutions, as well as by specialized educational institutions in case of necessity. In case of the higher education, the young people with special needs in education are integrated into regular classes
 
 [[END OF PAGE 53]]
 
@@ -2823,7 +2608,9 @@ Education Sector Plan
 
 54
 
-The  education  of  children  at  home  is  conducted  in  case  of  the  attendance  of  educational  institutions, including the special educational institutions, being impossible, and with due consideration of the opinion of parents or persons holding parental responsibility.
+of the education institutions.
+
+The education of children at home is conducted in case of the attendance of educational institutions, including the special educational institutions, being impossible, and with due consideration of the opinion of parents or persons holding parental responsibility.
 
 The provision of education for children with disabilities has being practiced in Uzbekistan for quite a long time. However, the issue of their attending the general education schools together with peers was raised for the first time only few years ago. In that regard, the education system is taking the initial steps. At present, a few projects are being piloted (with assistance provided from UNICEF, UNESCO, Asian Development Bank,  and  the  Fund  for  Support  of  Social  Initiatives)  that  helped  to  include  28  thousand  children  with disabilities into the single educational space of 5,900 general education schools.
 
@@ -2834,7 +2621,7 @@ General education schools that are fully implementing the inclusive education pr
 Special pre-school education institutions | 357* | 31758
 Special schools 36 | 118** | 24084
 Special vocational colleges 37 | 4 | 2500
-Education at home | 9243
+Education at home |  | 9243
 
 * including multi-profile preschools and sanatorium-type preschools.
 
@@ -2850,7 +2637,7 @@ There  are  various  approaches  to  define  the  concept  of  the  inclusive  e
 
 The legislative prerequisites for development of inclusive education in Uzbekistan are de-facto developed. The issue of including the notion of inclusive education into the Law 'On Education' is under discussion. Besides, there pilot projects are being implemented on developing the single space for inclusive education. At the same time, a number of issues were revealed during the piloting of the projects, which require further review.
 
-The normative-legal mechanism for implementing the inclusive education yet to be reviewed and amended. The work on physical accessibility of buildings and territories of educational institutions, establishing the special infrastructure (access roads, ramps, special lifts for wheelchairs, special equipping the restrooms) 39 . There measures shall be taken on developing special literature and methodical support for inclusive education of children.
+The normative-legal mechanism for implementing the inclusive education yet to be reviewed and amended. The work on physical accessibility of buildings and territories of educational institutions, establishing the special infrastructure (access roads, ramps, special lifts for wheelchairs, special equipping the
 
 > 36 Specialized schools consist of five types of educational institutions: for children with vision impairment, hearing impairment, speech impairment, physical impairment and mental impairment
 
@@ -2866,7 +2653,9 @@ Education Sector Plan
 
 55
 
-Although there 40 hours of special sessions on inclusive education are taught at the teachers' in-service training  institutes  (chair  of  methodology),  the  need  for  improving  the  skills  of  teachers  in  the  area  of effective teaching of the children with special needs still remains. The issues of teaching the children with special needs may be successfully solved only if teachers are able to react correctly and competently to those needs, while not neglecting the needs of other students who have no special needs. 40
+restrooms)39. There measures shall be taken on developing special literature and methodical support for inclusive education of children.
+
+Although there 40 hours of special sessions on inclusive education are taught at the teachers' in-service training institutes (chair of methodology), the need for improving the skills of teachers in the area of effective teaching of the children with special needs still remains. The issues of teaching the children with special needs may be successfully solved only if teachers are able to react correctly and competently to those needs, while not neglecting the needs of other students who have no special needs. 40
 
 Besides, in order to expand the process of introducing the inclusivity to schools, parents and the society shall increase their knowledge on potential benefits of joint learning. The stakeholders shall be aware that the system of inclusive education potentially requires providing benefits to all students without limiting itself to  children  with  disabilities.  The  system  requires  for  a  well-formulated  education  policy,  which  efficiently addresses the tasks of inclusive education, and also reviews and solve the issues related to expenditures.
 
@@ -2888,7 +2677,7 @@ This is further elaborated in the table below
 
 Total expenditures for education - as % of total state budget expenditure
 --- | --- | --- | --- | --- | --- | --- | ---
-2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011
+ | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011
 Budget % of total state budget expenditure | 29.0 | 29.6 | 29.6 | 41.5 | 41.7 | 36.7 | 35.0 42
 
 Source: ASIAN Development Bank 2010:44/Appendix 3
@@ -2911,7 +2700,7 @@ Education Sector Plan
 
 Total expenditures for education - absolute figures (UZS billions)
 --- | --- | --- | --- | --- | --- | --- | ---
-2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011
+ | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011
 Overall expenditures except personnel training | 776.5 | 1,031.7 | 1,350.2 | 1,878.1 | 2,464.4 | 3,255.7 | 4,017.5
 Personnel training | 214.9 | 269.4 | 376.5 | 591.0 | 868.3 | 1,208.4 | 1,565.4
 Sub-total | 991.4 | 1,301.1 | 1,726.7 | 2,469.1 | 3,332.7 | 4,464.1 | 5,582.9
@@ -2930,7 +2719,7 @@ The table below presents data on the evolution of the share of each level of edu
 
 Share of each level of education in the education budget (UZS billion), except investments
 --- | --- | --- | --- | --- | --- | --- | ---
-2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011
+ | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011
 Pre-school education | 142.9 | 170.9 | 218.7 | 279.3 | 361.1 | 464.3 | 569.7
 General secondary education | 576.0 | 790.4 | 1,037.7 | 1,460.5 | 1,911.0 | 2,529.6 | 3,129.4
 Education for children with SEN | 13.3 | 17.3 | 27.2 | 35.7 | 49.0 | 66.5 | 84.8
@@ -2961,7 +2750,7 @@ A more precise analysis regarding changes in allocations gives therefore the tab
 
 Percentage share of each level of education against the total budget for the education sector
 --- | --- | --- | --- | --- | --- | --- | ---
-2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011
+ | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011
 Pre-school education | 14.4 | 13.1 | 12.7 | 11.3 | 10.8 | 10.4 | 10.2
 General secondary education | 58.1 | 60.7 | 60.1 | 59.2 | 57.3 | 56.7 | 56.1
 Education for children with SEN | 1.3 | 1.3 | 1.6 | 1.4 | 1.5 | 1.5 | 1.5
@@ -2986,19 +2775,19 @@ Education Sector Plan
 
 Development of salaries for teaching staff as from 2005, in comparison to GNI per capita (PPP) for 2010
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Job Title | Dec 2005, monthly in UZS | Dec 2006, monthly in UZS | Dec 2007, monthly in UZS | Dec 2008, monthly in UZS | Dec 2009, monthly in UZS | Dec 2010, monthly in UZS | Dec 2010, yearly in USD 43 | Rate of yearly salary compared to GNI | per capita (PPP) 44 From Dec 2011,monthly in UZS | Planned from Dec 2012,monthly in ZS | Absolute increase in % from December
+Job Title | Dec 2005, monthly in UZS | Dec 2006, monthly in UZS | Dec 2007, monthly in UZS | Dec 2008, monthly in UZS | Dec 2009, monthly in UZS | Dec 2010, monthly in UZS | Dec 2010, yearly in USD 43 | Rate of yearly salary compared to GNI per capita (PPP) 44 | From Dec 2011,monthly in UZS | Planned from Dec 2012,monthly in ZS | Absolute increase in % from December 2005-December 2012
 Schools
-Elementary classes teacher 45 , category 1 | 62,304 | 89,718 | 134,578 | 202,577 | 283,608 | 374,362 | 2,756 | 0.89 | 473,569 | 544,604 | 774
-including bonuses from DF 46 | 125,605 | 188,409 | 283,608 | 397,051 | 524,107 | 3,858 | 1.24 | 662,997 | 762,446
-Higher classes teacher 47 , category 1 | 55,184 | 79,465 | 119,197 | 179,425 | 251,195 | 331,577 | 2,441 | 0.78 | 419,445 | 482,362 | 774
-including bonuses from DF | 111,251 | 166,876 | 251,195 | 351,673 | 464,208 | 3,417 | 1.10 | 587,223 | 675,306
+Elementary classes teacher 45, category 1 | 62,304 | 89,718 | 134,578 | 202,577 | 283,608 | 374,362 | 2,756 | 0.89 | 473,569 | 544,604 | 774
+including bonuses from DF 46 |  | 125,605 | 188,409 | 283,608 | 397,051 | 524,107 | 3,858 | 1.24 | 662,997 | 762,446 | 
+Higher classes teacher 47, category 1 | 55,184 | 79,465 | 119,197 | 179,425 | 251,195 | 331,577 | 2,441 | 0.78 | 419,445 | 482,362 | 774
+including bonuses from DF |  | 111,251 | 166,876 | 251,195 | 351,673 | 464,208 | 3,417 | 1.10 | 587,223 | 675,306 | 
 Academic lyceums and vocational colleges
 Leading teacher of academic lyceums | 71,158 | 102,469 | 153,702 | 231,367 | 323,914 | 427,566 | 3,148 | 1.01 | 409,752 | 471,215 | 562
-including bonuses from DF | 323,914 | 453,479 | 598,593 | 4,407 | 1.42 | 573,653 | 659,701
+including bonuses from DF |  |  |  | 323,914 | 453,479 | 598,593 | 4,407 | 1.42 | 573,653 | 659,701 | 
 Leading teacher of vocational college | 67,051 | 96,550 | 144,826 | 218,007 | 305,210 | 402,877 | 2,966 | 0.95 | 386,091 | 444,005 | 562
-including bonuses from DF | 305,210 | 427,294 | 564,028 | 4,152 | 1.34 | 540,528 | 621,607
+including bonuses from DF |  |  |  | 305,210 | 427,294 | 564,028 | 4,152 | 1.34 | 540,528 | 621,607 | 
 Specialists of basic vocational education | 52,848 | 76,104 | 114,157 | 171,838 | 240,574 | 317,558 | 2,338 | 0.75 | 401,711 | 461,968 | 774
-including bonuses from DF | 240,573 | 336,804 | 444,581 | 3,273 | 1.05 | 562,395 | 646,755
+including bonuses from DF |  |  |  | 240,573 | 336,804 | 444,581 | 3,273 | 1.05 | 562,395 | 646,755 | 
 Higher educational institutions (universities, etc.)
 Professor, Doctor of Sciences | 97,071 | 139,785 | 209,678 | 391,377 | 547,928 | 723,265 | 5,325 | 1.71 | 693,130 | 797,099 | 721
 including bonuses from FMS 48 | 107,653 | 155,024 | 232,537 | 450,084 | 630,118 | 831,755 | 6,123 | 1.97 | 797,099 | 916,664 | 751
@@ -3023,8 +2812,6 @@ As shown in the table above, teachers' salaries, as those of other public servan
 
 > 49 Columns on USD conversion and GNI comparison not in original data set, specifically calculated and added during the preparatory work for this ESP.
 
-2005-December 2012
-
 [[END OF PAGE 58]]
 
 [[START OF PAGE 59]]
@@ -3044,36 +2831,12 @@ The administrative structure of the education system in the Republic of Uzbekist
 - administrative  bodies  may  manage  only  the  agencies  that  belong  directly  to  their  administrative competency.
 
 General Administrative Structure of Education System
-
-National Administrative
-
-bodies of education in
-
-Uzbekistan (ministries,
-
-center)
-
-Regional education
-
-departments
-
-District  (city) education
-
-departments
-
-Lower educational institutions
-
-Lower educational institutions
-
-Lower educational institutions
-
-Administrative
-
-supervision
-
-Functional
-
-administration
+--- | ---
+National Administrative bodies of education in Uzbekistan (ministries, center) | Lower educational institutions
+Regional education departments | Lower educational institutions
+District (city) education departments | Lower educational institutions
+Administrative supervision
+Functional administration
 
 The education system in Uzbekistan is administered by two ministries and one specialized center. There are regional and district departments for school education, as well as regional departments for secondary specialized vocational education.
 
@@ -3093,137 +2856,31 @@ Education Sector Plan
 
 System of State Administration of Education
 
-Ministry of Higher
-
-Secondary Special
-
-Education
-
-Higher Education
-
-Institutions
-
-Institutes (Centers,
-
-Departments) for re-
-
-training and skills-
-
-improvement
-
 Cabinet of Ministers of the Republic of Uzbekistan
 
-Center for Secondary
+Ministry of Public Education
+Territorial Directorates of Public Education
+District (city) Departments for methodological support and organization of the public education institutions' activities
+Institutes (Centers, Departments) for re-training and skills-improvement
+Pre-school Education Institutions
+General Education Schools
+Out-of-school education institutions
 
-Specialized Vocational
+Ministry of Higher Secondary Special Education
+Higher Education Institutions
+Institutes (Centers, Departments) for re-training and skills-improvement
 
-Education
-
-Territorial Departments
-
-of Secondary
-
-Specialized Vocational
-
-Education
-
+Center for Secondary Specialized Vocational Education
+Territorial Departments of Secondary Specialized Vocational Education
 Academic lyceums
-
 Vocational colleges
 
-Ministry of Public
-
-Education
-
-Territorial Directorates
-
-of Public Education
-
-District (city)
-
-Departments for
-
-methodological
-
-support and
-
-organization of the
-
-public education
-
-institutions' activities
-
-General Education
-
-Schools
-
-Pre-school Education
-
-Institutions
-
-Out-of-school
-
-education institutions
-
-Institutes (Centers,
-
-Departments) for re-
-
-training and skills-
-
-improvement
-
-Ministry of Labor and
-
-Social Protection of
-
-Population
-
-Territorial Directorates
-
-for Labor and Social
-
-Protection of Population
-
-District (city) centers
-
-for employment and
-
-social protection of
-
-population
-
+Ministry of Labor and Social Protection of Population
+National in-service training courses for employees within the system of the Ministry of Labor and Social Protection of Population
+Territorial Directorates for Labor and Social Protection of Population
+District (city) centers for employment and social protection of population
+Training centers for vocational training, re-training, and skills-improvement of the unemployed
 Vocational Colleges
-
-National in-service
-
-training courses for
-
-employees within the
-
-system of the Ministry of
-
-Labor and Social
-
-Protection of Population
-
-курсы повышения
-
-квалификации
-
-работников системы
-
-Минтруда
-
-Training centers for
-
-vocational training, re-
-
-training, and skills-
-
-improvement of the
-
-unemployed
 
 Note: The Scheme is not the organizational structure of the ministries. It reflects only the education-related components of the mentioned ministries and the center.
 
@@ -3273,7 +2930,7 @@ Also,  until  2007  the  budget  financing  of  the  educational  institutions  
 
 MoHSSE is responsible for activities of the higher education institutions, as well as those of secondary, specialized vocational education institutions. In case of the latter, the supervision is carried out through the Center for the Secondary, Specialized Vocational Education (Center for SSVE), which is established within the MoHSSE. Only the Center for SSVE has territorial subdivisions.
 
-The  Ministry  of  Labor  and  Social  Protection  of  Population  holds  responsibility  for  certain  vocational  retraining and skills-improvement programs for personnel.
+The Ministry of Labor and Social Protection of Population holds responsibility for certain vocational re-
 
 [[END OF PAGE 61]]
 
@@ -3283,7 +2940,9 @@ Education Sector Plan
 
 62
 
-The  administration  of  an  educational  institution  is  formed  on  the  combination  of  such  principles  as undivided authority and self-government. Each educational institution has a Council, representing a form of self-government, and the head (director or rector), representing a form of undivided authority.
+training and skills-improvement programs for personnel.
+
+The administration of an educational institution is formed on the combination of such principles as undivided authority and self-government. Each educational institution has a Council, representing a form of self-government, and the head (director or rector), representing a form of undivided authority.
 
 The Council makes decisions on general, usually, the most important issues of the educational institution's operations. The Head makes decisions on the ways of implementing the Council's decisions. Decisions of the Council and those of the Head are obligatory for all participants of the educational process.
 
@@ -3338,8 +2997,8 @@ The internal monitoring is conducted directly by teachers of the school subjects
 Internal monitoring mechanism
 --- | --- | ---
 Level | Methodology | Comments
-Ongoing control | Carried out by the teacher directly in the classroom through a survey during a session (problem solving, completion of exercises, quizzes, etc.).
-Interim control | Carried out by the end of quarter, or after a specific chapter of the curriculum. Held in the form of examinations, tests, trials and other studies related to determining the level of knowledge and skills | the This information is also used to monitor the efficiency of the way teachers teach school subjects.
+Ongoing control | Carried out by the teacher directly in the classroom through a survey during a session (problem solving, completion of exercises, quizzes, etc.). | 
+Interim control | Carried out by the end of the quarter, or after a specific chapter of the curriculum. Held in the form of examinations, tests, trials and other studies related to determining the level of knowledge and skills | This information is also used to monitor the efficiency of the way teachers teach school subjects.
 Grade level monitoring | Carried out in the form of examinations, tests, or tests associated with determining the level of knowledge and skills acquired at this stage of education (grades 4 and 8) | Subjects, the volume, the topics, dates and types of tests for the level control are determined by Republican Centre for Education under MoPE. The Centre prepares the materials (questions, exercises, tests, etc.). Teachers can make adjustments to the assessment material (in
 
 > 53   State  standards  of  General  Secondary  Education  are  reviewed  every  four  years.  At  present,  the  creative  team  at  the Republican Centre of Education (MoPE) revise previously approved standards.
@@ -3360,10 +3019,10 @@ Thus, monitoring tracks the academic achievement level of students achieving the
 
 Monitoring Scheme of learning achievements for the 2011/2012 academic year
 --- | --- | --- | --- | ---
-Monitoring entity | 1 st Quarter | 2 nd Quarter | 3 rd Quarter | 4 th Quarter
+Monitoring entity | 1st Quarter | 2nd Quarter | 3rd Quarter | 4th Quarter
 General education schools | Assessment of all students in all subjects | Assessment of all students in all subjects | Assessment of all students in all subjects | Assessment of all students in all subjects
-District monitoring departments 55 | Assessment of Grades 6 and 7 in nine subjects | Evaluation of Grade 9 in nine subjects | Assessment of Grades 5-8 in nine subjects
-Regional monitoring departments and MoPE 56 | Assessment of Grades 6-8 in nine subjects | Assessment of Grades 5+9 in nine subjects
+District monitoring departments 55 |  | Assessment of Grades 6 and 7 in nine subjects | Evaluation of Grade 9 in nine subjects | Assessment of Grades 5-8 in nine subjects
+Regional monitoring departments and MoPE 56 |  | Assessment of Grades 6-8 in nine subjects |  | Assessment of Grades 5+9 in nine subjects
 
 Source: UNICEF Uzbekistan 2012
 
@@ -3414,8 +3073,8 @@ Structure of professions and specializations in the field 'Science'
 Sub-Field | Profession | Specialization
 Hydrometeorology | Meteorologist | • Technician-meteorologist • Technician-agro meteorologist • Meteorological observer
 Geology | Technician for geological explorative works | • Technician-geologist • Collector • Hydro geological observer
-Technician for explorative drilling in hydrology | • Machinist for drilling devices • Drilling device mechanic • Assistant for drilling device related fluids • Drilling expert in geology
-Geophysics | Technician-geophysicist | • Technician for geophysical works • Blacksmith for the repair of geophysical
+ | Technician for explorative drilling in hydrology | • Machinist for drilling devices • Drilling device mechanic • Assistant for drilling device related fluids • Drilling expert in geology
+Geophysics | Technician-geophysicist | • Logger • Technician for geophysical works • Blacksmith for the repair of geophysical machines
 Hydrology | Hydrologist | • Technician-hydrologist • Hydrological observer
 
 Source: Center for Secondary Specialized Vocational Education
@@ -3426,43 +3085,16 @@ There are 127,400 external partners (companies,  organizations, training institu
 
 External partners associated with vocational colleges
 
-42,800
-
-35,400
-
-23,700
-
-19,100
-
-6,400
-
-0
-
-10
-
-20
-
-30
-
-40
-
-50
-
-Manufacturing, Construction,
-
-Transportation, Utilities, Services
-
-Farmers
-
-Other Institutions and Companies
-
-Health and Educational Institutions
-
-Economic entities
+0 | 10 | 20 | 30 | 40 | 50
+Manufacturing, Construction, Transportation, Utilities, Services | 42,800
+Farmers | 35,400
+Other Institutions and Companies | 23,700
+Health and Educational Institutions | 19,100
+Economic entities | 6,400
 
 Source: Center for Secondary Specialized Vocational Education
 
-In  2011,  there  430,253  students  graduated  from  SSPE  institutions.  91.6%  of  them  found  employment, around one fifth of found jobs in state-owned enterprises.
+In 2011, there 430,253 students graduated from SSPE institutions. 91.6% of them found employment,
 
 [[END OF PAGE 65]]
 
@@ -3471,6 +3103,8 @@ In  2011,  there  430,253  students  graduated  from  SSPE  institutions.  91.6%
 Education Sector Plan
 
 66
+
+around one fifth of found jobs in state-owned enterprises.
 
 Number of graduates employed by the public sector (by industries)
 --- | ---
@@ -3509,6 +3143,18 @@ Education Sector Plan
 
 Applications for admission per 100 available study places at higher educational institutions in 2010
 
+900 | 800 | 700 | 600 | 500 | 400 | 300 | 200 | 100 | 0
+Industry
+Construction
+Agriculture
+Transport
+Communications
+Economy
+Law
+Healthcare
+Sports
+Education
+
 Source: State Statistics Committee of Uzbekistan, 2011.
 
 ### 3.6 EXPERIENCE AND LESSONS LEARNED FROM PREVIOUS PROGRAMS SUPPORTED BY INTERNATIONAL ORGANIZATIONS
@@ -3545,9 +3191,9 @@ Education Sector Plan
 
 The second phase of the project Construction and Equipping of General Education Schools, financed by the Islamic Development Bank (2010-2012), was aimed at expanding the access to education for children, who live in hard-to-access areas, via construction of new general education schools in rural areas.
 
-The informatization of general education schools was carried out within the framework of projects of the Asian Development Bank (2006-2010), Korean Government (2006-2011), and Government of China (20052007).
+The informatization of general education schools was carried out within the framework of projects of the Asian Development Bank (2006-2010), Korean Government (2006-2011), and Government of China (2005-2007).
 
-The project, implemented in partnership with the World Bank (2010-2013), Asian Development Bank (20082011), Islamic Development Bank (2006-2010), and Fund for Cooperation and Economic Development of the Government of the Republic of Korea (2008-2010) assisted in improving the infrastructure of general education schools, equipping them with modern teaching equipment and technical aids for learning.
+The project, implemented in partnership with the World Bank (2010-2013), Asian Development Bank (2008-2011), Islamic Development Bank (2006-2010), and Fund for Cooperation and Economic Development of the Government of the Republic of Korea (2008-2010) assisted in improving the infrastructure of general education schools, equipping them with modern teaching equipment and technical aids for learning.
 
 The followings were achieved in the period of 1998-2011 via implementation of investment projects in the system of secondary specialized vocational education:
 
@@ -3575,7 +3221,7 @@ Implementation of previous projects had a narrow-specialization approach, often 
 
 Some of the projects were rather ambitious, without taking the reality into account; and  not paying close attention to existing capacities. As a result, the goal and expected results were not achieved. The vital role in achieving the success in ESP will be the sense of reality that implies the planning only those activities that can be implemented during a certain period of time by relevant ministries and by the sector as whole, given the existing institutional and human capacities.
 
-The absence of the donor coordination mechanisms has resulted in low efficiency of certain projects and duplications in certain parts of activities. The structure of the ESP Monitoring and Evaluation foresees the establishment of inter-agency working and donor groups that will facilitate the process of coordination and introduction of partners into implementation of activities.
+The absence of the donor coordination mechanisms has resulted in low efficiency of certain projects and duplications in certain parts of activities. The structure of the ESP Monitoring and Evaluation foresees the
 
 [[END OF PAGE 68]]
 
@@ -3585,7 +3231,9 @@ Education Sector Plan
 
 69
 
-The Implementation plans of  the  National  Program  for  Training  Personnel  did  not  have  the  sector-wide approach. There were programs adopted on development of certain types of education and some issues had rather fragmental character. As a result, the continuity of measures aimed at improving the learning and increasing the quality of teaching was not secured. The ESP applies the sector-wide approach, where the implementation of tasks in a certain type of education is related to results in other sector of education.
+establishment of inter-agency working and donor groups that will facilitate the process of coordination and introduction of partners into implementation of activities.
+
+The Implementation plans of the National Program for Training Personnel did not have the sector-wide approach. There were programs adopted on development of certain types of education and some issues had rather fragmental character. As a result, the continuity of measures aimed at improving the learning and increasing the quality of teaching was not secured. The ESP applies the sector-wide approach, where the implementation of tasks in a certain type of education is related to results in other sector of education.
 
 Insufficient  number  of  studies  and  the  lack  of  the  current  situation  assessment  criteria  in  case  of  the previous  projects  resulted  in  their  low  efficiency.  The  special  features  of  the  present  ESP  include  the outcome and output indicators, as well as elaboration on indicators for achieving them.
 
@@ -3607,20 +3255,20 @@ Education Sector Plan
 
 Based on the analysis of the current education system in Section 3 above, the matrix of strategic measures for the ESP was developed on the basis of strategic outputs and outcomes of the respective educational sub-sectors.  The  table  below  shows  all  sub-sectoral  outcomes,  and  also  visualises  how  outcomes  are interrelated  towards  a  common  vision,  i.e.  the  achievement  of  sustainable  and  quality  growth  of  the population, whereby education as an important sector plays a pivotal role:
 
-order objectives
-
 Overall strategic vision
---- | --- | ---
+--- | ---
 Sub-Sector | Outcomes
-ECD/Pre-School | Children's health and personalities developed preparation for learning in school | in Progression порядка»
+ECD/Pre-School | Children's health and personalities developed in preparation for learning in school
 General Secondary Education | Learners' general knowledge, independent thinking skills + organizational skills developed in preparation for successful progression in the education system
-SSVPE | Learners prepared for successful transition to the labour market or the higher education system | towards
-Teacher Training & Re- Training | Teachers prepared for the transmission of knowledge, independent thinking and organizational skills to learners, and for the development of learners' personalities in preparation for their contribution to society | higher order
-Higher Education | Graduates prepared as highly qualified specialists to contribute to scientific progress, socio-economic and cultural development | objectives
+SSVPE | Learners prepared for successful transition to the labour market or the higher education system
+Teacher Training & Re-Training | Teachers prepared for the transmission of knowledge, independent thinking and organizational skills to learners, and for the development of learners' personalities in preparation for their contribution to society
+Higher Education | Graduates prepared as highly qualified specialists to contribute to scientific progress, socio-economic and cultural development
+Progression towards higher order objectives
 Overall Goal: Sustainable and quality growth of the population achieved 58
-Adult Education | Adults empowered to expand their knowledge and skills according to their needs and interests through non- formal adult education | towards higher
+Adult Education | Adults empowered to expand their knowledge and skills according to their needs and interests through non-formal adult education
 Out-of-School Education | Opportunities created for children and youth to pursue their interests during their free time
-Education for SEN | Children and youth with special educational needs supported in accordance with their specific requirements and/or talents, for them to adequately participate in education | Contribution
+Education for SEN | Children and youth with special educational needs supported in accordance with their specific requirements and/or talents, for them to adequately participate in education
+Contribution towards higher order objectives
 
 ### 4.2 OUTCOMES AND OUTPUTS ACROSS SUB-SECTORS
 
@@ -3653,9 +3301,9 @@ Priority program for further development of pre-school education - development a
 OC 2 | Outcome: Learners' general knowledge, independent thinking skills + organisational skills developed in preparation for successful progression in the education system Sub-Sector: General Secondary Education (Grades 1-9) Legal Basis: Law on Education, Article 12; NPPT, 1.2
 --- | --- | ---
 OP 2.1 | Functional and healthy learning environment in place, including the right to choose an education institution and the language of instruction | Policy
-OP 2.2 Schools equipped with modern tools, computers, which allows for technologies | laboratory equipment and utilisation of modern teaching Infrastructure | libraries, effective
-OP 2.3 Professionalism and capacity of teachers and educational managers strengthened for installing + evaluating knowledge, and for fostering independent thinking skills in learners | Staff development
-M+E strategy extended to include monitoring of QBE criteria in the general secondary education teaching process and learning environment. | M+E | OP 2.4
+OP 2.2 | Schools equipped with modern tools, libraries, laboratory equipment and computers, which allows for effective utilisation of modern teaching technologies | Infrastructure
+OP 2.3 | Professionalism and capacity of teachers and educational managers strengthened for installing + evaluating knowledge, and for fostering independent thinking skills in learners | Staff development
+OP 2.4 | M+E strategy extended to include monitoring of QBE criteria in the general secondary education teaching process and learning environment. | M+E
 OP 2.5 | Effective system of professional orientation in general secondary schools ensured. | Professional Orientation
 
 Priority  program  for  further  development  of  general  secondary  education,  development  of favorable  conditions  for  children's  training  at  school,  improving  the  quality  of  teaching  and learning.
@@ -3668,28 +3316,26 @@ Education Sector Plan
 
 72
 
-№ | Outcomes (OC) and Outputs (OP)
---- | ---
-
-OC 3 | Outcome: Learners are prepared for successful transition to the labour market or the higher education system Sub-Sector: Secondary Specialised Vocational Education (Grades 10-12) Legal Basis: Law on Education, Article 13; NPPT, 3.3.3; NPPT, 4.14
+№ | Outcomes (OC) and Outputs (OP) | Strategic Area
 --- | --- | ---
-OP 3.1 Relevance of training to the needs of ensured | Policy | the labour market and the society
-OP 3.2 Modern technical and informational base for the respective profiles is ensured | Infrastructure
-OP 3.3 System for the recruitment of highly qualified teachers and instructors with the skills regarding modern pedagogy and information technology ensured | Staff development
-Functional system of professional development and re-training of teachers and practical skills trainers established
-Strategy of quality monitoring of training and re-training of personnel for SSVE is developed and introduced M+E
-Social partnership mechanisms between vocational colleges and companies for job placement of graduates by specialization are enhanced Partnerships integration approaches | OP 3.6 and of
-OP 3.7 Effective system of professional orientation in SSVE schools ensured Professional Orientation
+OC 3 | Outcome: Learners are prepared for successful transition to the labour market or the higher education system Sub-Sector: Secondary Specialised Vocational Education (Grades 10-12) Legal Basis: Law on Education, Article 13; NPPT, 3.3.3; NPPT, 4.14
+OP 3.1 | Relevance of training to the needs of the labour market and the society ensured | Policy
+OP 3.2 | Modern technical and informational base for the respective profiles is ensured | Infrastructure
+OP 3.3 | System for the recruitment of highly qualified teachers and instructors with the skills regarding modern pedagogy and information technology ensured | Staff development
+OP 3.4 | Functional system of professional development and re-training of teachers and practical skills trainers established | Staff development
+OP 3.5 | Strategy of quality monitoring of training and re-training of personnel for SSVE is developed and introduced | M+E
+OP 3.6 | Social partnership mechanisms between vocational colleges and companies for job placement of graduates by specialization are enhanced | Partnerships and integration of approaches
+OP 3.7 | Effective system of professional orientation in SSVE schools ensured | Professional Orientation
 
-Priority  program  for  further  development  of  Secondary  Specialized  Vocational  Education  improving  coordination  between  the  level  of  education  and  youth  employment,  including  the development of the SSVE in line with the labor market needs.
+Priority program for further development of Secondary Specialized Vocational Education – improving coordination between the level of education and youth employment, including the development of the SSVE in line with the labor market needs.
 
 OC 4 | Outcome: Teachers prepared for the transmission of knowledge, independent thinking and organisational skills to learners, and for the development of learners' personalities in preparation for their contribution to society Sub-Sector: Teacher Training and Re-Training Legal Basis: NPPT, 1.2; NPPT, 4.3; Resolution 25, Annex 1
 --- | --- | ---
 OP 4.1 | Preparation of teachers and Masters of Professional Education according to modern requirements for education and upbringing ensured | Policy
-OP 4.2 | A flexible in-service teacher training system in line with modern requirements, interests and needs of the individual teacher developed
+OP 4.2 | A flexible in-service teacher training system in line with modern requirements, interests and needs of the individual teacher developed | Policy
 OP 4.3 | Material, technical and informational base of in-service institutions strengthened | Infrastructure
-OP 4.4 | Capacities of in-service teacher training staff ensured in terms of modern methodology and technology, teaching and research experience, and ability to pass on knowledge and skills effectively Staff development
-OP 4.5 | Mechanism for monitoring and evaluation of the effectiveness of re- training and skills-improvement of personnel. | M+E
+OP 4.4 | Capacities of in-service teacher training staff ensured in terms of modern methodology and technology, teaching and research experience, and ability to pass on knowledge and skills effectively | Staff development
+OP 4.5 | Mechanism for monitoring and evaluation of the effectiveness of re-training and skills-improvement of personnel. | M+E
 
 Priority program  for  further development  of  pre-  and  in-service  training of  teachers -differentiation of in-service training curricula based on professional challenges and educational needs of teachers.
 
@@ -3703,27 +3349,27 @@ Education Sector Plan
 
 № | Outcomes (OC) and Outputs (OP) | Strategic Area
 --- | --- | ---
-OC 5 Outcome: Graduates prepared as highly qualified specialists scientific progress, socio-economic and cultural development Sub-Sector: Higher Education Legal Basis: Law on Education, Article 3+14; Order of MoHSSE, | to contribute to 2003; NPPT, 1.2
-Continuity of education from General Secondary Education & SSVE to Higher Education ensured | Policy | OP 5.1
-Transition into the Bologna Process intensified in order to contribute to ensuring quality education | OP 5.2
-Higher Education Institutions rehabilitated and laboratories equipped according to President's decree of May 2011 | Infrastructure | OP 5.3
-Faculty members' professionalism in terms of subject knowledge, and knowledge in IT, English and contemporary teaching methodologies strengthened | Staff development | OP 5.4
-Monitoring mechanism for the preparation of highly qualified specialists optimised | M+E | OP 5.5
-Integration of science, higher education and industry deepened | Partnerships and integration of approaches | OP 5.6
-Participation of staff in international research in Education & Science increased | International exchange | OP 5.7
-OP 5.8 Universal access to Higher Education | Access | secured
+OC 5 | Outcome: Graduates prepared as highly qualified specialists to contribute to scientific progress, socio-economic and cultural development Sub-Sector: Higher Education Legal Basis: Law on Education, Article 3+14; Order of MoHSSE, 2003; NPPT, 1.2
+OP 5.1 | Continuity of education from General Secondary Education & SSVE to Higher Education ensured | Policy
+OP 5.2 | Transition into the Bologna Process intensified in order to contribute to ensuring quality education | Policy
+OP 5.3 | Higher Education Institutions rehabilitated and laboratories equipped according to President's decree of May 2011 | Infrastructure
+OP 5.4 | Faculty members' professionalism in terms of subject knowledge, and knowledge in IT, English and contemporary teaching methodologies strengthened | Staff development
+OP 5.5 | Monitoring mechanism for the preparation of highly qualified specialists optimised | M+E
+OP 5.6 | Integration of science, higher education and industry deepened | Partnerships and integration of approaches
+OP 5.7 | Participation of staff in international research in Education & Science increased | International exchange
+OP 5.8 | Universal access to Higher Education secured | Access
 
 Priority program for further development of Higher Education - modernization of infrastructure and improving the provision of technical means of learning to higher education institutions
 
 OC 6 | Outcome: Adults empowered to expand their knowledge and skills according to their needs and interests through non-formal adult education Sub-Sector: Adult Education
 --- | --- | ---
-Changes to the Law on Education to integrate Adult Education designed and approved | OP 6.1 Policy
-OP 6.2 methodology for Adult Education developed and disseminated | Specific
-OP 6.3 material-technical base that meets the needs of Adult Education | Infrastructure | Modern ensured
-Trainers with professional expertise and competence for working with adults prepared | Staff development | OP 6.4
-Feedback mechanisms between participants, trainers and training organisers developed and implemented | M+E | OP 6.5
-Mechanism for the distribution of information about courses ensured | Sensitisation and awareness raising | OP 6.6
-OP 6.7 in terms of affordability and location ensured | Access | Access
+OP 6.1 | Changes to the Law on Education to integrate Adult Education designed and approved | Policy
+OP 6.2 | Specific methodology for Adult Education developed and disseminated | Policy
+OP 6.3 | Modern material-technical base that meets the needs of Adult Education ensured | Infrastructure
+OP 6.4 | Trainers with professional expertise and competence for working with adults prepared | Staff development
+OP 6.5 | Feedback mechanisms between participants, trainers and training organisers developed and implemented | M+E
+OP 6.6 | Mechanism for the distribution of information about courses ensured | Sensitisation and awareness raising
+OP 6.7 | Access in terms of affordability and location ensured | Access
 
 [[END OF PAGE 73]]
 
@@ -3733,9 +3379,8 @@ Education Sector Plan
 
 74
 
-№ Outcomes (OC) and Outputs (OP)
-
-Strategic Area
+№ | Outcomes (OC) and Outputs (OP) | Strategic Area
+--- | --- | ---
 
 Priority program for further development of adult education - forming the legislative basis and expanding the access to non-formal education to adult population.
 
@@ -3753,7 +3398,7 @@ OC 8 | Outcome: Outcome: Children and youth with special educational needs suppo
 --- | --- | ---
 OP 8.1 | Special educational needs policy strengthened regarding an intensified unified (inclusive) education approach 59 | Policy
 OP 8.2 | Physical condition and availability of institutions and/or facilities 60 for learners with special educational needs improved | Infrastructure
-OP 8.3 | Capacities of teachers, administrators, and other educational staff dealing with children with special educational needs, to identify and to respond to diverse needs of learners strengthened Staff development
+OP 8.3 | Capacities of teachers, administrators, and other educational staff dealing with children with special educational needs, to identify and to respond to diverse needs of learners strengthened | Staff development
 OP 8.4 | M+E strategy for special needs education developed and integrated into general M+E strategy | Monitoring + Evaluation
 OP 8.5 | Awareness of parents and the general public regarding the benefits of inclusive education raised 61 | Sensitisation and awareness raising
 
@@ -3784,19 +3429,19 @@ Priority program for further development of education for socially vulnerable ch
 As shown in the tables above, a total of eleven specific Strategic Areas can be identified. Strategic Areas which have relevance for all sub-sectors (i.e. Policy, Infrastructure, Staff Development, M+E) represent key strategic areas. The remaining strategic areas specifically refer to a group of sub-sectors or even to one sector only. This is further shown in the table below:
 
 Specific areas of current strategic planning across educational sub-sectors
+Educational Sub-sector / Strategic Area | ECD/Pre-School | General Secondary (Grades 1-9) | SSVE (Grades 10-12) | Teacher training and re-training | Higher Education | Adult Education | Informal and Extra-Curricular Education | Education for learners with Special Educational Needs
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Educational Sub-sector Strategic Area | ECD/Pre-School | General Secondary (Grades 1-9) | SSVE (Grades 10-12) | Teacher training and re-training | Higher Education | Adult Education | Informal and Extra-Curricular Education | Education for learners with Special Educational Needs
 Policy | X | X | X | X | X | X | X | X
 Infrastructure | X | X | X | X | X | X | X | X
 Staff development | X | X | X | X | X | X | X | X
 Monitoring + Evaluation | X | X | X | X | X | X | X | X
-Sensitisation and awareness raising | X | X | X
-Partnerships and integration of approaches | X | X | X
-Curriculum Development | X
-Professional orientation | X | X | X
-International exchange | X | X
-Access | X | X
-Continuity across sub-sectors | X
+Sensitisation and awareness raising | X |  |  |  |  | X |  | X
+Partnerships and integration of approaches |  |  | X |  | X |  |  | X
+Curriculum Development | X |  |  |  |  |  |  | 
+Professional orientation |  | X | X |  |  |  |  | X
+International exchange |  |  |  |  | X |  | X | 
+Access |  |  |  |  | X | X |  | 
+Continuity across sub-sectors |  |  |  |  |  |  |  | X
 
 > 62  Added following discussions at the Validation Workshop on the Draft Situation Analysis, held at Tashkent on 22 August 2012.
 
@@ -3811,21 +3456,21 @@ Education Sector Plan
 #### 4.3.1 Key Strategic Areas
 ##### 4.3.1.1  Policy
 
-Policies  highlight  the needs for continuity  across sectors, in  order for beneficiaries to progress smoothly through the educational system, a fact which is also reflected in the overall vision for the sector ( cf Section 4.1above).
+Policies highlight the needs for continuity across sectors, in order for beneficiaries to progress smoothly through the educational system, a fact which is also reflected in the overall vision for the sector (cf Section 4.1 above).
 
-For the ECD/Pre-School and Adult Education sub-sectors, current policies are in a rudimentary stage and need  to  be  further  developed  or  even  newly  designed.  This  is  of  particular  relevance  for  the  ECD/PreSchool sub-sector, in order to support the Government's intention to significantly expand provision in this regard. It needs to be noted that an increase in ECCE provision not only implies a linear increase in human resources  per  se,  but  also  an  identification  of  required  competencies  which  then  need  to  be  linked  to specific human resources development plans. Therefore, a change in allocation of funds to the ECD/PreSchool sector will have a direct impact on the need to further elaborate the related policy.
+For the ECD/Pre-School and Adult Education sub-sectors, current policies are in a rudimentary stage and need to be further developed or even newly designed. This is of particular relevance for the ECD/Pre-School sub-sector, in order to support the Government's intention to significantly expand provision in this regard. It needs to be noted that an increase in ECCE provision not only implies a linear increase in human resources per se, but also an identification of required competencies which then need to be linked to specific human resources development plans. Therefore, a change in allocation of funds to the ECD/Pre-School sector will have a direct impact on the need to further elaborate the related policy.
 
-Educational quality issues, as well as education for learners with special educational needs (SEN), have been integrated in a cross-cutting manner into existing policies, for example through the QBE framework or current  state  educational  standards.  It  is  also  commendable  that  SEN  are  explicitly  regarded  by  the respective department as an issue which needs to permeate the whole educational system and all its subsectors.
+Educational quality issues, as well as education for learners with special educational needs (SEN), have been integrated in a cross-cutting manner into existing policies, for example through the QBE framework or current state educational standards. It is also commendable that SEN are explicitly regarded by the respective department as an issue which needs to permeate the whole educational system and all its sub-sectors.
 
 ##### 4.3.1.2  Infrastructure
 
 The Government has made strong progress regarding infrastructure and equipping schools particularly with computers  and  laboratories  (MoPE,  2011).  The  establishment  of  a  'modern  technical  and  informational base' features prominently in the infrastructure-related outputs for nearly all sub-sectors.
 
-It  can  be  expected  that  an  intensified  promotion  of  ECD/Pre-School  in  the  country  will  also  have infrastructural implications for the sub-sector which might require additional investments, not only in terms of  buildings  (for  construction  and/or  renovation),  but  especially  regarding  targeted  equipment  for  early learning  at  pre-school  level.  A  careful  identification  and  selection  of  pre-school  teaching  and  learning materials will  also  greatly  contribute  to  the overall objective  of  preparing  children  for  school  in  a playfuloriented  learning  environment  which  also  focuses  on  developing  children's  personalities  to  their  fullest potential.
+It can be expected that an intensified promotion of ECD/Pre-School in the country will also have infrastructural implications for the sub-sector which might require additional investments, not only in terms of buildings (for construction and/or renovation), but especially regarding targeted equipment for early learning at pre-school level. A careful identification and selection of pre-school teaching and learning materials will also greatly contribute to the overall objective of preparing children for school in a playful-oriented learning environment which also focuses on developing children's personalities to their fullest potential.
 
 ##### 4.3.1.3  Staff development
 
-Staff  development  primarily  refers  to  the  training  of  teachers  (ECD/Pre-School,  General  Secondary Education, SSVE, Out-of-School Education), instructors (SSVE), teacher trainers (for teacher training & retraining), lecturers (Higher Education) and trainers (Adult Education); in addition, all the pedagogical staff needs  to  be  constantly  upgraded  to  identify  and  to  respond  to  special  educational  needs  of  learners wherever required.
+Staff development primarily refers to the training of teachers (ECD/Pre-School, General Secondary Education, SSVE, Out-of-School Education), instructors (SSVE), teacher trainers (for teacher training & re-training), lecturers (Higher Education) and trainers (Adult Education); in addition, all the pedagogical staff needs to be constantly upgraded to identify and to respond to special educational needs of learners wherever required.
 
 The outputs of the Key Strategic Area Staff development therefore relate to a broad variety of target groups for  different  kinds  of  teacher  training,  together  with  related  training  to  other  educational  staff  (such  as educational administrators at various levels of the system, including head teachers at school level).
 
@@ -3875,7 +3520,7 @@ Not surprisingly, sensitisation and awareness raising are prime concerns of thos
 
 ##### 4.3.2.2  Partnerships and integration of approaches
 
-This  is  an  area  of  prime  importance  for  moving  towards  a  successful  cooperation  between  the  labour market and professional training. In Uzbekistan, SSVE institutions train specialists upon requests by the economy.  A  request  for  trained  specialists  is  based  on  economic  forecasts  and  therefore  implies  the availability of jobs. Among the formal procedures for the cooperation between the SSVE system and the economy is a trilateral contract that the student signs with the educational institution and the company. The contract enables the student to do his or her mandatory practical work in the company. It does entail any obligation on the side of the company to hire the student after graduation. However, around 50% of the students  do  find  employment  in  the  same  company.  The  request-based  system  reduces  the  need  for graduates to compete on the labour market while at the same time putting them at risk of unemployment if the job is not available or if the graduate rejects it for whatever reason. The current training model, which focuses exclusively on professional skills, makes it difficult for SSPE graduates to manoeuvre on the job market. During training, little attention is given to the development of transversal competences as laid out in the  European  Qualifications  Framework  (EQF)  for  Lifelong  Learning,  which  distinguishes  between 'knowledge', 'skills' and 'competences'.
+This is an area of prime importance for moving towards a successful cooperation between the labour market and professional training. In Uzbekistan, SSVE institutions train specialists upon requests by the economy. A request for trained specialists is based on economic forecasts and therefore implies the availability of jobs. Among the formal procedures for the cooperation between the SSVE system and the economy is a trilateral contract that the student signs with the educational institution and the company. The contract enables the student to do his or her mandatory practical work in the company. It does entail any obligation on the side of the company to hire the student after graduation. However, around 50% of the students do find employment in the same company. The request-based system reduces the need for graduates to compete on the labour market while at the same time putting them at risk of unemployment if the job is not available or if the graduate rejects it for whatever reason. The current training model, which focuses exclusively on professional skills, makes it difficult for SSPE graduates to manoeuvre on the job market. During training, little attention is given to the development of transversal competences as laid out in
 
 [[END OF PAGE 77]]
 
@@ -3885,11 +3530,13 @@ Education Sector Plan
 
 78
 
+the European Qualifications Framework (EQF) for Lifelong Learning, which distinguishes between “knowledge”, “skills” and “competences”.
+
 ##### 4.3.2.3  Curriculum development
 
 As  stated  in  the  introduction  to  this  section,  for  sub-sectors  not  specifically  listed  here,  Supplementary Strategic Areas (such as, in this case, Curriculum Development) are already integrated into the strategic planning in such a way that they are already covered under the respective Key Strategic Areas, probably as activities leading to the sub-sectoral outputs. This is particularly true to Curriculum Development which of course is an ongoing activity under the overarching policy output.
 
-In  the  case  of  ECD/Pre-School,  Curriculum  Development  is  categorised  as  a  separate Supplementary Strategic Area since there is a specific need to further develop variational educational curricula based on the governing curriculum Bolajon ( cf also Section3.3.1).
+In the case of ECD/Pre-School, Curriculum Development is categorised as a separate Supplementary Strategic Area since there is a specific need to further develop variational educational curricula based on the governing curriculum Bolajon (cf also Section 3.3.1).
 
 ##### 4.3.2.4  Professional orientation
 
@@ -3905,7 +3552,7 @@ It  is  a  strong  indication  about  Uzbekistan  reaching  the  Millennium  Dev
 
 ##### 4.3.2.7  Continuity across sub-sectors
 
-The  issue  of  continuity  across  sub-sectors  is  an  integral  part  of  all  outputs  related  to  Policy ( cf 4.3.1.1 above) .Nevertheless, it has been specifically identified as a separate Supplementary Strategic Area for  the Special Educational Needs sub-sector, in order to highlight the cross-cutting orientation and all-encompassing dimension of the sector which in its magnitude is substantially different from the situation of all other sectors.
+The issue of continuity across sub-sectors is an integral part of all outputs related to Policy (cf 4.3.1.1 above). Nevertheless, it has been specifically identified as a separate Supplementary Strategic Area for the Special Educational Needs sub-sector, in order to highlight the cross-cutting orientation and all-encompassing dimension of the sector which in its magnitude is substantially different from the situation of all other sectors.
 
 Likewise,  this  refers  to  an  extended  understanding  of  SEN  which  also  includes  equity  issues  and  other concerns  related  to  equal  opportunities  for  learners  from  disadvantaged  environments,  which  require special attention despite ongoing efforts by the Government.
 
@@ -3925,7 +3572,7 @@ Key  to  this  Supplementary  Strategic  Area  is  the  comprehensive  understan
 
 ### 4.4 ACTION PLAN: KEY ACTIVITIES PER OUTPUT
 
-Outputs  of  every  outcome  are  achieved  by  five  to  six  focal  tasks,  expressed  as key  activities . These key activities will be further broken down into numerous sub-activities as part of the work related to the annual action programming. The Plan of Actions with further detailed information per activity, including a Gantt Chart covering the period 2013-2017 is provided in the table below.
+Outputs of every outcome are achieved by five to six focal tasks, expressed as key activities. These key activities will be further broken down into numerous sub-activities as part of the work related to the annual action programming. The Plan of Actions with further detailed information per activity, including a Gantt Chart covering the period 2013-2017 is provided in the table below.
 
 [[END OF PAGE 79]]
 
@@ -3933,14 +3580,14 @@ Outputs  of  every  outcome  are  achieved  by  five  to  six  focal  tasks,  ex
 
 #### 4.4.1 PLAN OF ACTIONS: RESULTS AND ACTIVITIES (OUTCOME # 1)
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/ comments | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Outcome 1: Children's health and personalities developed in preparation for learning in school
-OP 1.1 National Reform Programme in Pre-School Education developed | Develop a scheme and structure of pre-school piloting of alternative 1- year groups on school readiness | MoPE, MoF | 10 | stationary, printing
-Pilot one-year school readiness groups in a statistically valid number of pre-school institutions | MoPE | 36 | ECD materials, stationary | 3 PEI x 6 regions x 9 months
-and implemented | Analyse efficiency and cost with recommendations on increasing the quality and quantity of alternative forms of pre- school of pre-school (Early Development Centres, Sunday Schools, half-day groups, private pre- schools.) | MoPE, MoF | 10 | transport
-Prepare the base for legal initiatives on increasing the status of pre-school staff | MoPE | 4
-Disseminate positive experiences of the one- year pre-school on school readiness and other alternative forms | MoPE | 6000 PEI in Uzbekistan
+OP 1.1 National Reform Programme in Pre-School Education developed and implemented | Develop a scheme and structure of pre-school piloting of alternative 1-year groups on school readiness | MoPE, MoF | 10 | stationary, printing |  |  |  |  |  | 
+ | Pilot one-year school readiness groups in a statistically valid number of pre-school institutions | MoPE | 36 | ECD materials, stationary | 3 PEI x 6 regions x 9 months |  |  |  |  | 
+ | Analyse efficiency and cost with recommendations on increasing the quality and quantity of alternative forms of pre-school of pre-school (Early Development Centres, Sunday Schools, half-day groups, private pre-schools.) | MoPE, MoF | 10 | transport |  |  |  |  |  | 
+ | Prepare the base for legal initiatives on increasing the status of pre-school staff | MoPE | 4 |  |  |  |  |  |  | 
+ | Disseminate positive experiences of the one-year pre-school on school readiness and other alternative forms | MoPE |  |  | 6000 PEI in Uzbekistan |  |  |  |  | 
 
 [[END OF PAGE 80]]
 
@@ -3950,14 +3597,14 @@ Education Sector Plan
 
 81
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/ comments | 2013 | 2014 | 2015 | 2017
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-OP 1.2 Physical condition and availability of KGs improved, including their equipment | Analyse the situation on the physical conditions on the basis of the sanitary and hygienic norm (buildings, education, infrastructure) | MoPE, MoF, MoH | 20 | transportation costs, printing , questionnaires, stationery
-Discuss the results of the analysis at regional level | MoPE, MoF, MoH, khokimiyats (local authorities) | 20 | transportation costs, printing , stationery | 5 regional workshops x 2 days x 40 = 50,000
-Plan related activities and reach agreement with all agencies (hokimiyats, MoF, MoH) | See above
-Reconstruct pre-school educational institutions and construct small pre-school educational institutions in the regions | MoPE, MoF, MoH, khokimiyats | 30 | Construction, renovation, reconstruction, furniture, equipment | For reconstruction and equipping 2500 PEI
-Monitor and evaluate physical condition and availability of all necessary equipment at pre-schools | MoPE, MoF, MoH | 30 | Transportation costs | X
-OP 1.3 Quality of pre-school personnel improved according to Resolution 25 Annex 1, §§ 8.1, 8.2, 8.3 | Analyse the quality of training and retraining of teachers for pre- schools, the availability of modern curricula and teaching- methodological materials | MoPE | 20 | Transportation costs, printing , stationary | Printing of questionnaire s, transportation costs
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+OP 1.2 Physical condition and availability of KGs improved, including their equipment | Analyse the situation on the physical conditions on the basis of the sanitary and hygienic norm (buildings, education, infrastructure) | MoPE, MoF, MoH | 20 | transportation costs, printing, questionnaires, stationery |  |  |  |  |  | 
+ | Discuss the results of the analysis at regional level | MoPE, MoF, MoH, khokimiyats (local authorities) | 20 | transportation costs, printing, stationery | 5 regional workshops x 2 days x 40 = 50,000 |  |  |  |  | 
+ | Plan related activities and reach agreement with all agencies (hokimiyats, MoF, MoH) | See above |  |  |  |  |  |  |  | 
+ | Reconstruct pre-school educational institutions and construct small pre-school educational institutions in the regions | MoPE, MoF, MoH, khokimiyats | 30 | Construction, renovation, reconstruction, furniture, equipment | For reconstruction and equipping 2500 PEI |  |  |  |  | 
+ | Monitor and evaluate physical condition and availability of all necessary equipment at pre-schools | MoPE, MoF, MoH | 30 | Transportation costs |  |  |  |  | X | X
+OP 1.3 Quality of pre-school personnel improved according to Resolution 25 Annex 1, §§ 8.1, 8.2, 8.3 | Analyse the quality of training and retraining of teachers for pre-schools, the availability of modern curricula and teaching-methodological materials | MoPE | 20 | Transportation costs, printing, stationary | Printing of questionnaires, transportation costs |  |  |  |  | 
 
 [[END OF PAGE 81]]
 
@@ -3967,12 +3614,12 @@ Education Sector Plan
 
 82
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/ comments | 2013 | 2014 | 2015 | 2016
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Ensure availability of the legal basis to introduce child-centred education for pre- school through a resolution of MoPE | MoPE | 2
-Improve the curriculum by introduction of child- centred education methodology | MoPE, Center for SSVE | 18 | printing 8000 copeis = 25,000 USD + 3 workshops x 3 days = 100,000
-Approve and publish methodological materials to provide sufficient quantities for teachers at pre- schools, institutes, pedagogical colleges, universities | National Educational- Methodological Center on PEI, In- service training Institute (ISTI), Center for SSVE, Pre-service training institutes
-Monitor the level of quality of training and retraining of teachers, also by adapting the "mentor-student" system for the pre- school sub-sector | MoPE, National Educational- Methodological Center on PEI | 32 | 2 x 5-day workshops + transportation costs
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ | Ensure availability of the legal basis to introduce child-centred education for pre-school through a resolution of MoPE | MoPE | 2 |  |  |  |  |  |  | 
+ | Improve the curriculum by introduction of child-centred education methodology | MoPE, Center for SSVE | 18 |  | printing 8000 copeis = 25,000 USD + 3 workshops x 3 days = 100,000 |  |  |  |  | 
+ | Approve and publish methodological materials to provide sufficient quantities for teachers at pre-schools, institutes, pedagogical colleges, universities | National Educational-Methodological Center on PEI, In-service training Institute (ISTI), Center for SSVE, Pre-service training institutes |  |  |  |  |  |  |  | 
+ | Monitor the level of quality of training and retraining of teachers, also by adapting the "mentor-student" system for the pre-school sub-sector | MoPE, National Educational-Methodological Center on PEI | 32 |  | 2 x 5-day workshops + transportation costs |  |  |  |  | 
 
 [[END OF PAGE 82]]
 
@@ -3982,13 +3629,13 @@ Education Sector Plan
 
 83
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/ comments | 2014 | 2015 | 2016 | 2017
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-OP 1.4 M+E strategy for educational processes at Pre-School developed + integrated into general M+E strategy | Develop the tool for M+E on the basis of the ELDS for the process of child development in pre-school education and elementary school, also assessing the coverage | MoPE, Testing Center under CabMin, National Educational- Methodological Center on PEI, State statistical committee | 6 | internet, | Stationeries, 3 laptops Field-testing /approbation, printing
-Develop tools for monitoring the quality of the education process in pre-school education training institutions, pedagogical colleges and universities | MoPE, National Educational- Methodological Center on PEI, Center for SSVE, MoH | 8 | Stationeries, internet, 4 laptops | Field-testing /approbation, printing
-Conduct regular monitoring with assistance of the trained group of specialists at regional and national levels | MoPE, National Educational- Methodological Center on PEI, Center for SSVE | 32 | 2 x 5-day workshops for experts on monitoring, transportation cots, daily allowances
-Provide teachers of pre-school education with materials to prepare for attestation | National Educational- Methodological Center on PEI | 10 | printing 12000 copies = 10000
-Summarise the results of the monitoring in the system of pre-school in all identified directions | MoPE, Testing Center under CabMin, Center for SSVE | 6 | printing, regional workshops
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+OP 1.4 M+E strategy for educational processes at Pre-School developed + integrated into general M+E strategy | Develop the tool for M+E on the basis of the ELDS for the process of child development in pre-school education and elementary school, also assessing the coverage | MoPE, Testing Center under CabMin, National Educational-Methodological Center on PEI, State statistical committee | 6 | Stationeries, internet, 3 laptops | Field-testing /approbation, printing |  |  |  |  | 
+ | Develop tools for monitoring the quality of the education process in pre-school education training institutions, pedagogical colleges and universities | MoPE, National Educational-Methodological Center on PEI, Center for SSVE, MoH | 8 | Stationeries, internet, 4 laptops | Field-testing /approbation, printing |  |  |  |  | 
+ | Conduct regular monitoring with assistance of the trained group of specialists at regional and national levels | MoPE, National Educational-Methodological Center on PEI, Center for SSVE | 32 |  | 2 x 5-day workshops for experts on monitoring, transportation cots, daily allowances |  |  |  |  | 
+ | Provide teachers of pre-school education with materials to prepare for attestation | National Educational-Methodological Center on PEI | 10 |  | printing 12000 copies = 10000 |  |  |  |  | 
+ | Summarise the results of the monitoring in the system of pre-school in all identified directions | MoPE, Testing Center under CabMin, Center for SSVE | 6 |  | printing, regional workshops |  |  |  |  | 
 
 [[END OF PAGE 83]]
 
@@ -3998,14 +3645,14 @@ Education Sector Plan
 
 84
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/ comments | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-OP 1.5 Awareness on early learning importance raised among parents, communities and the general public | Conduct a working meeting with MoPE, Women's committee, Ministry of Health and Makhalla Foundation to develop strategies on increasing awareness on early learning importance, and develop a joint partnership strategy | MoPE | Partnership strategies are developed with WC, MoH, Makhalla
-Improve information packages to work with parents and community | MoPE, WC, MoH, Mahalla | 10 | transportation costs
-Publish and disseminate information packages to work with parents, communities and mass media | MoPE, WC | 10 | printing 12000 copies
-Conduct trainings of partners on use of information packages | MoPE, WC, MoH, Mahalla | 32 | transportation costs, stationeries | 5 regional workshopsх 2 days x 40 =50,000
-Attract mass media to the process of increasing awareness | MoPE, WC, MoH, Mahalla | 32 | transportation costs, stationeries | Round-tables for mass media
-OP 1.6 Curriculum for pre-school education on the basis of Bolajon program further developed and implemented, together with related T/L materials | Improve Bolajon on the basis of the field test | National Educational- Methodological Center on PEI | 6 | salary and printing
+OP 1.5 Awareness on early learning importance raised among parents, communities and the general public | Conduct a working meeting with MoPE, Women's committee, Ministry of Health and Makhalla Foundation to develop strategies on increasing awareness on early learning importance, and develop a joint partnership strategy | MoPE |  |  | Partnership strategies are developed with WC, MoH, Makhalla |  |  |  |  | 
+ | Improve information packages to work with parents and community | MoPE, WC, MoH, Mahalla | 10 | transportation costs |  |  |  |  |  | 
+ | Publish and disseminate information packages to work with parents, communities and mass media | MoPE, WC | 10 |  | printing 12000 copies |  |  |  |  | 
+ | Conduct trainings of partners on use of information packages | MoPE, WC, MoH, Mahalla | 32 | transportation costs, stationeries | 5 regional workshops x 2 days x 40 =50,000 |  |  |  |  | 
+ | Attract mass media to the process of increasing awareness | MoPE, WC, MoH, Mahalla | 32 | transportation costs, stationeries | Round-tables for mass media |  |  |  |  | 
+OP 1.6 Curriculum for pre-school education on the basis of Bolajon program further developed and implemented, together with related T/L materials | Improve Bolajon on the basis of the field test | National Educational-Methodological Center on PEI | 6 | salary and printing |  |  |  |  |  | 
 
 [[END OF PAGE 84]]
 
@@ -4015,12 +3662,12 @@ Education Sector Plan
 
 85
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/ comments | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Develop teaching and methodological materials for each age group from 2-7 to support the Bolajon programme | National Educational- Methodological Center on PEI | 12 | ECD materials all PEIs | for ECD materials 100,000, printing 12,000 copies = 50,000
-Develop and approve a broad variety of programmes for regular and alternative forms of education | ISTI, National Educational- Methodological Center on PEI, MoPE | 30 | equipment | printing 8000 copies = 25,000 USD, equipment 30,000
-Approve and publish methodological materials to provide sufficient quantities for teachers at pre- schools, institutes, pedagogical colleges, universities | National Educational- Methodological Center on PEI, ISTI, Center for SSVE, Pre-service training institutes | See sections 2 & 3
-Introduce the approved broad variety of programmes | National Educational- Methodological Center on PEI, ISTI, MoPE | 6 | stationeries | stationeries 4000, salary 120,000, 2 workshops x 5 days + transportation costs 166,000
+ | Develop teaching and methodological materials for each age group from 2-7 to support the Bolajon programme | National Educational-Methodological Center on PEI | 12 | ECD materials for all PEIs | ECD materials 100,000, printing 12,000 copies = 50,000 |  |  |  |  | 
+ | Develop and approve a broad variety of programmes for regular and alternative forms of education | ISTI, National Educational-Methodological Center on PEI, MoPE | 30 | equipment | printing 8000 copies = 25,000 USD, equipment 30,000 |  |  |  |  | 
+ | Approve and publish methodological materials to provide sufficient quantities for teachers at pre-schools, institutes, pedagogical colleges, universities | National Educational-Methodological Center on PEI, ISTI, Center for SSVE, Pre-service training institutes |  |  | See sections 2 & 3 |  |  |  |  | 
+ | Introduce the approved broad variety of programmes | National Educational-Methodological Center on PEI, ISTI, MoPE | 6 | stationeries | stationeries 4000, salary 120,000, 2 workshops x 5 days + transportation costs 166,000 |  |  |  |  | 
 
 [[END OF PAGE 85]]
 
@@ -4035,9 +3682,9 @@ Education Sector Plan
 Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Outcome 2: Learners' general knowledge, independent thinking skills + organisational skills developed in preparation for successful progression in the education system
-healthy learning environment in place, including the right to choose an education institution and the language of | Reveal necessary number of educational establishments based on requirements of parents and children in languages of instruction | MoPE | 14 | internet, 14 PC , printer , stationeries | X X | X | X | X
-OP 2.1 Functional and instruction | Set up necessary sanitary and hygiene conditions in educational establishments (toilets, medical rooms, water, hygiene rooms for girls, school meals, etc.) | MoPE, local Khokimiyat | 2,328 | Construction, renovation and equipping the restrooms, medical rooms, hygiene rooms and cafeteria | Jointly with MoEc, MoF, MoH | X | X | X | X
-Create effective system of methodological support to educational process in educational establishments (methodological | MoPE | 43,200 | internet, 194 PC , 194 printers
+OP 2.1 Functional and healthy learning environment in place, including the right to choose an education institution and the language of instruction | Reveal necessary number of educational establishments based on requirements of parents and children in languages of instruction | MoPE | 14 | internet, 14 PC, printer, stationeries |  | X | X | X | X | X
+ | Set up necessary sanitary and hygiene conditions in educational establishments (toilets, medical rooms, water, hygiene rooms for girls, school meals, etc.) | MoPE, local Khokimiyat | 2,328 | Construction, renovation and equipping the restrooms, medical rooms, hygiene rooms and cafeteria | Jointly with MoEc, MoF, MoH |  | X | X | X | X
+ | Create effective system of methodological support to educational process in educational establishments (methodological | MoPE | 43,200 | internet, 194 PC, 194 printers |  |  |  |  |  | 
 
 [[END OF PAGE 86]]
 
@@ -4047,12 +3694,12 @@ Education Sector Plan
 
 87
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 manuals, guidelines)
-Include a special course for establishing a healthy learning environment into training programme for teachers and heads of educational establishments | MoPE | 14 | Development and printing methodological manuals and materials
-Integrate a system of students' self- government into the educational process | MoPE | 14 | Methodical manuals: 10000 sets
-OP 2.2 Schools equipped with modern tools, libraries, laboratory equipment and computers, which allows for effective utilisation of modern teaching technologies. | Provide educational establishments with necessary teaching and technical/laboratory equipment (computer classes, laboratories for chemistry, physics and biology) | MoPE, MoEC, MoF | 960 | 1 800 sets of computer classes, labs for chemistry, physics, and biology
+ | Include a special course for establishing a healthy learning environment into training programme for teachers and heads of educational establishments | MoPE | 14 | Development and printing methodological manuals and materials |  |  |  |  |  | 
+ | Integrate a system of students' self-government into the educational process | MoPE | 14 | Methodical manuals: 10000 sets |  |  |  |  |  | 
+OP 2.2 Schools equipped with modern tools, libraries, laboratory equipment and computers, which allows for effective utilisation of modern teaching technologies. | Provide educational establishments with necessary teaching and technical/laboratory equipment (computer classes, laboratories for chemistry, physics and biology) | MoPE, MoEC, MoF | 960 | 1 800 sets of computer classes, labs for chemistry, physics, and biology |  |  |  |  |  | 
 
 [[END OF PAGE 87]]
 
@@ -4064,10 +3711,10 @@ Education Sector Plan
 
 Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Train trainers in effective use of teaching technical components (TTE) | ИПPC MoPE, MOHSSE | 840 | 60 sets of computer classes, labs for chemistry, physics, and biology
-Provide educational establishments with electronic educational materials for teachers on effective use of TTE | MoPE | 60 | 78 104 sets of textbooks, e- learning manuals for teachers
-Train children/students in careful treatment of TTE | MoPE, schools | 1 | 10 000 copies of methodical manuals
-Provide Information Resource Centres with necessary information resources, internet connectivity and a strong material base | MoPE | 480 | 10 000 CDs, 10 000 sets of e-textbooks | X
+ | Train trainers in effective use of teaching technical components (TTE) | ИПPC MoPE, MOHSSE | 840 | 60 sets of computer classes, labs for chemistry, physics, and biology |  |  |  |  |  | 
+ | Provide educational establishments with electronic educational materials for teachers on effective use of TTE | MoPE | 60 | 78 104 sets of textbooks, e-learning manuals for teachers |  |  |  |  |  | 
+ | Train children/students in careful treatment of TTE | MoPE, schools | 1 | 10 000 copies of methodical manuals |  |  |  |  |  | 
+ | Provide Information Resource Centres with necessary information resources, internet connectivity and a strong material base | MoPE | 480 | 10 000 CDs, 10 000 sets of e-textbooks |  |  | X | X | X | X
 
 [[END OF PAGE 88]]
 
@@ -4079,10 +3726,10 @@ Education Sector Plan
 
 Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-OP 2.3 Professionalism and capacity of teachers and educational managers strengthened for installing + evaluating knowledge, and for fostering independent thinking skills in | Modernise system of In-service for teachers and school directors, including renewing of the curriculum and introducing new approaches to teacher training and retraining | MoPE | 360
-Renew and improve methodological services and provide teachers and school directors with modern methodological teaching manuals | MoPE, RCE | 3600
-learners | Develop and introduce system assessment/self- assessment of students and teachers, including feedback from teachers and students | MoPE, CPOPPDS
-Develop and introduce new forms and methods for developing independent thinking and | MoPE, education institutions
+OP 2.3 Professionalism and capacity of teachers and educational managers strengthened for installing + evaluating knowledge, and for fostering independent thinking skills in learners | Modernise system of In-service for teachers and school directors, including renewing of the curriculum and introducing new approaches to teacher training and retraining | MoPE | 360 |  |  |  |  |  |  | 
+ | Renew and improve methodological services and provide teachers and school directors with modern methodological teaching manuals | MoPE, RCE | 3600 |  |  |  |  |  |  | 
+ | Develop and introduce system assessment/self-assessment of students and teachers, including feedback from teachers and students | MoPE, CPOPPDS |  |  |  |  |  |  |  | 
+ | Develop and introduce new forms and methods for developing independent thinking and | MoPE, education institutions |  |  |  |  |  |  |  | 
 
 [[END OF PAGE 89]]
 
@@ -4092,13 +3739,13 @@ Education Sector Plan
 
 90
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2015 | 2016 | 2017
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 organisational abilities of students
-Revise material incentives for teachers (make changes in normative documents on establishing allowances and additional payments to teachers) | MoPE, MoLSSP | 5
-OP 2.4 M+E strategy extended to include monitoring of QBE criteria in the general secondary education teaching process and learning environment | Strengthen effective technology of M+E to the quality of education (particularly regarding the mechanism of conducting M+E for existing complex system indicators) | MoPE, РЦО, Regional education directorates | 70 | 15 PC , laptop, scanner for checking written assignments
-Develop and introduce criteria to assess the level of development of skills for the 21st century | MoPE, CPOPPDS, RCE | X
-Train experts of M+E system in modern technologies and methods of M+E | MoPE, CPOPPDS, RCE, Regional education directorates
+ | Revise material incentives for teachers (make changes in normative documents on establishing allowances and additional payments to teachers) | MoPE, MoLSSP | 5 |  |  |  |  |  |  | 
+OP 2.4 M+E strategy extended to include monitoring of QBE criteria in the general secondary education teaching process and learning environment | Strengthen effective technology of M+E to the quality of education (particularly regarding the mechanism of conducting M+E for existing complex system indicators) | MoPE, РЦО, Regional education directorates | 70 | 15 PC, laptop, scanner for checking written assignments |  |  |  |  |  | 
+ | Develop and introduce criteria to assess the level of development of skills for the 21st century | MoPE, CPOPPDS, RCE |  |  |  | X |  |  |  | 
+ | Train experts of M+E system in modern technologies and methods of M+E | MoPE, CPOPPDS, RCE, Regional education directorates |  |  |  |  |  |  |  | 
 
 [[END OF PAGE 90]]
 
@@ -4110,10 +3757,10 @@ Education Sector Plan
 
 Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Provide M+E service providers in MoPE (especially regional departments) with the necessary modern equipment (ICT, software, etc.) | MoPE, Talim- taminot State logistics company | 5 | 195 PC
-Prepare analytical materials and methodological recommendations on improving the quality of education based on the Results Framework and its related M+E procedures | MoPE | 5
-OP 2.5 Effective system of professional orientation in general secondary schools ensured | Provide departments in charge of professional orientation system with modern teaching technology equipment | MoPE, CPOPPDS | 5 | 15 PC , laptop, scanner for checking written assignments
-Train experts of the system of professional orientation and psychological- pedagogical diagnostics of | MoPE, CPOPPDS | 14
+ | Provide M+E service providers in MoPE (especially regional departments) with the necessary modern equipment (ICT, software, etc.) | MoPE, Talim-taminot State logistics company | 5 | 195 PC |  |  |  |  |  | 
+ | Prepare analytical materials and methodological recommendations on improving the quality of education based on the Results Framework and its related M+E procedures | MoPE | 5 |  |  |  |  |  |  | 
+OP 2.5 Effective system of professional orientation in general secondary schools ensured | Provide departments in charge of professional orientation system with modern teaching technology equipment | MoPE, CPOPPDS | 5 | 15 PC, laptop, scanner for checking written assignments |  |  |  |  |  | 
+ | Train experts of the system of professional orientation and psychological-pedagogical diagnostics of | MoPE, CPOPPDS | 14 |  |  |  |  |  |  | 
 
 [[END OF PAGE 91]]
 
@@ -4123,12 +3770,12 @@ Education Sector Plan
 
 92
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015
---- | --- | --- | --- | --- | --- | --- | --- | ---
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 students
-Develop and introduce into education process a complex programme of professional orientation, starting from early years (first Grade) | MoPE, CPOPPDS | 5
-Provide schools with necessary information on labour market and professions for purposeful, professional orientation of students | MoPE, CPOPPDS | 14
-Develop mechanism of collaboration between school and professional colleges on professional orientation and selection of profession | MoPE, CPOPPDS | 14
+ | Develop and introduce into education process a complex programme of professional orientation, starting from early years (first Grade) | MoPE, CPOPPDS | 5 |  |  |  |  |  |  | 
+ | Provide schools with necessary information on labour market and professions for purposeful, professional orientation of students | MoPE, CPOPPDS | 14 |  |  |  |  |  |  | 
+ | Develop mechanism of collaboration between school and professional colleges on professional orientation and selection of profession | MoPE, CPOPPDS | 14 |  |  |  |  |  |  | 
 
 [[END OF PAGE 92]]
 
@@ -4140,14 +3787,14 @@ Education Sector Plan
 
 #### 4.4.3. PLAN OF ACTIONS: RESULTS AND ACTIVITIES (OUTCOME # 3)
 
-Results | Activities | Responsible parties | Human resources required | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Outcome 3: Learners prepared for successful transition to the labour market or the higher education system
-OP 3.1 Relevance of training to the needs of the labour market and the society ensured | Study the labour market to reveal the need for mid-level specialists with due consideration of development of regions | Employment and job-placement department of the Center for SSVE | 32 | Ministry of Labor and Social Security of Population
-Improve the study- normative documents on the basis of the labour market study results (State educational standards, curricula, textbooks) | Department of State Standards, Center for SSVE | 230 | Publishing services
-Pre-test teaching- methodological materials | Department of State Standards, Center for SSVE | 250
-Further develop and introduce study- normative and methodological materials | Department of State Standards, Center for SSVE | 230 | Publishing services
-Conduct relevance assessment on the basis of the labour market demands | Employment and job-placement department of the Center for SSVE | 80 | Ministry of Labor and Social Security of Population
+OP 3.1 Relevance of training to the needs of the labour market and the society ensured | Study the labour market to reveal the need for mid-level specialists with due consideration of development of regions | Employment and job-placement department of the Center for SSVE | 32 |  | Ministry of Labor and Social Security of Population |  |  |  |  | 
+ | Improve the study-normative documents on the basis of the labour market study results (State educational standards, curricula, textbooks) | Department of State Standards, Center for SSVE | 230 |  | Publishing services |  |  |  |  | 
+ | Pre-test teaching-methodological materials | Department of State Standards, Center for SSVE | 250 |  |  |  |  |  |  | 
+ | Further develop and introduce study-normative and methodological materials | Department of State Standards, Center for SSVE | 230 | textbooks | Publishing services |  |  |  |  | 
+ | Conduct relevance assessment on the basis of the labour market demands | Employment and job-placement department of the Center for SSVE | 80 |  | Ministry of Labor and Social Security of Population |  |  |  |  | 
 
 [[END OF PAGE 93]]
 
@@ -4159,12 +3806,12 @@ Education Sector Plan
 
 Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-OP 3.2 Modern technical and informational base for the respective profiles ensured | Study and analyse the current infrastructure and information database | Metrology service, Center for SSVE | 56
-Improve and approve norms on equipment of classrooms and workshops, as well as provision of information materials and equipment | Metrology service, Center for SSVE | 233 | Ministry of Finance, Ministry of Economy
-Develop and approve cost estimates on equipping classrooms and laboratories, and provision of information materials and components | Financial department of the Center for SSVE | 15
-Procure and install classroom and laboratory equipment | Procurement department Center for SSVE | 15 | Learning-lab equipment | Tender Commission at the CabMin
-Provide raw material, and material for learning and practical sessions | Metrology service | 22
-OP 3.3 System for the recruitment of highly qualified teachers and instructors with the | Analyse the current availability of teachers and masters of vocational training HR of | department the Center for SSVE 18
+OP 3.2 Modern technical and informational base for the respective profiles ensured | Study and analyse the current infrastructure and information database | Metrology service, Center for SSVE | 56 |  |  |  |  |  |  | 
+ | Improve and approve norms on equipment of classrooms and workshops, as well as provision of information materials and equipment | Metrology service, Center for SSVE | 233 |  | Ministry of Finance, Ministry of Economy |  |  |  |  | 
+ | Develop and approve cost estimates on equipping classrooms and laboratories, and provision of information materials and components | Financial department of the Center for SSVE | 15 |  |  |  |  |  |  | 
+ | Procure and install classroom and laboratory equipment | Procurement department Center for SSVE | 15 | Learning-lab equipment | Tender Commission at the CabMin |  |  |  |  | 
+ | Provide raw material, and material for learning and practical sessions | Metrology service | 22 |  |  |  |  |  |  | 
+OP 3.3 System for the recruitment of highly qualified teachers and instructors with the | Analyse the current availability of teachers and masters of vocational training | HR department of the Center for SSVE | 18 |  |  |  |  |  |  | 
 
 [[END OF PAGE 94]]
 
@@ -4174,13 +3821,13 @@ Education Sector Plan
 
 95
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-skills regarding modern pedagogy and information technology ensured | Develop and approve the mechanism for selection of highly qualified teachers and vocational education masters | HR department of the Center for SSVE | 18
-Conduct selection of highly qualified teachers and vocational education masters to fill the vacancies | HR department of the Center for SSVE | 18 | Competencies of the Department
-Conduct attestation in line with the improved procedure of attestation | Attestation Commission | 126 | Competencies of the Department
-Improve and introduce the mechanisms to provide stimuli to teachers and vocational education masters | HR department of the Center for SSVE | 7 | Ministry of Finance, Directors Fund for Stimulation of Teachers
-OP 3.4 Functional system of professional development and re- training of teachers and vocational education masters established | Analyze the current condition of training and retraining of teachers and vocational education masters | HR department of the Center for SSVE | 105 | trip/daily allowances Ministry | of Higher Secondary Special Education
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+skills regarding modern pedagogy and information technology ensured | Develop and approve the mechanism for selection of highly qualified teachers and vocational education masters | HR department of the Center for SSVE | 18 |  |  |  |  |  |  | 
+ | Conduct selection of highly qualified teachers and vocational education masters to fill the vacancies | HR department of the Center for SSVE | 18 |  | Competencies of the Department |  |  |  |  | 
+ | Conduct attestation in line with the improved procedure of attestation | Attestation Commission | 126 |  | Competencies of the Department |  |  |  |  | 
+ | Improve and introduce the mechanisms to provide stimuli to teachers and vocational education masters | HR department of the Center for SSVE | 7 |  | Ministry of Finance, Directors Fund for Stimulation of Teachers |  |  |  |  | 
+OP 3.4 Functional system of professional development and re-training of teachers and vocational education masters established | Analyze the current condition of training and retraining of teachers and vocational education masters | HR department of the Center for SSVE | 105 | trip/daily allowances | Ministry of Higher Secondary Special Education |  |  |  |  | 
 
 [[END OF PAGE 95]]
 
@@ -4190,12 +3837,12 @@ Education Sector Plan
 
 96
 
-Results | Activities | Responsible parties | Human resources required | Material contribution Suggestions/comments | 2013 | 2014 | 2015 | 2016
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Develop and submit recommendations on improving the existing State education plans | Department for improving State Standards | 25 | Competencies of the Ministry of Higher Secondary Special Education
-Improve and approve State education standards, education plans and curricula on providing training and retraining for professional development of vocational education masters | MoHSSE | 5 | Competencies of the Ministry of Higher Secondary Special Education
-Strengthen the infrastructure of departments of the Vocational Education and Centers of Retraining the specialists for SSVE and Higher Education Institutions | MoHSSE | 15 | Tender Commission at the CabMin
-Implement the effective system of training and retraining of teachers and Vocational Education Masters | MoHSSE | 25 | Competencies of the Ministry of Higher Secondary Special Education
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ | Develop and submit recommendations on improving the existing State education plans | Department for improving State Standards | 25 |  | Competencies of the Ministry of Higher Secondary Special Education |  |  |  |  | 
+ | Improve and approve State education standards, education plans and curricula on providing training and retraining for professional development of vocational education masters | MoHSSE | 5 |  | Competencies of the Ministry of Higher Secondary Special Education |  |  |  |  | 
+ | Strengthen the infrastructure of departments of the Vocational Education and Centers of Retraining the specialists for SSVE and Higher Education Institutions | MoHSSE | 15 |  | Tender Commission at the CabMin |  |  |  |  | 
+ | Implement the effective system of training and retraining of teachers and Vocational Education Masters | MoHSSE | 25 |  | Competencies of the Ministry of Higher Secondary Special Education |  |  |  |  | 
 
 [[END OF PAGE 96]]
 
@@ -4205,13 +3852,13 @@ Education Sector Plan
 
 97
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 2015 | 2016 | 2017
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-OP 3.5 Strategy for monitoring the quality of initial and in-service training for SSVE staff developed and implemented | Analyze current condition of the mechanism of monitoring the quality of training and retraining of teachers and vocational education masters | HR Department MoHSSE | 9
-Improve and approve the mechanism of monitoring the training and retraining the teachers and vocational education masters | HR Department MoHSSE | 7 | Competencies of the Ministry of Higher Secondary Special Education
-Establish a monitoring department at MoHSSE | MoHSSE | 5 | Ministry of Finance
-Introduce the system of monitoring of quality of training and retraining of teachers and vocational education masters | MoHSSE Monitoring Department | 5
-Submit recommendations on improving the system of training and re- training of teachers and vocational education masters on the basis of the monitoring results | MoHSSE Monitoring Department | 5 | Competencies of the Ministry of Higher Secondary Special Education
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+OP 3.5 Strategy for monitoring the quality of initial and in-service training for SSVE staff developed and implemented | Analyze current condition of the mechanism of monitoring the quality of training and retraining of teachers and vocational education masters | HR Department MoHSSE | 9 |  |  |  |  |  |  | 
+ | Improve and approve the mechanism of monitoring the training and retraining the teachers and vocational education masters | HR Department MoHSSE | 7 |  | Competencies of the Ministry of Higher Secondary Special Education |  |  |  |  | 
+ | Establish a monitoring department at MoHSSE | MoHSSE | 5 |  | Ministry of Finance |  |  |  |  | 
+ | Introduce the system of monitoring of quality of training and retraining of teachers and vocational education masters | MoHSSE Monitoring Department | 5 |  |  |  |  |  |  | 
+ | Submit recommendations on improving the system of training and re-training of teachers and vocational education masters on the basis of the monitoring results | MoHSSE Monitoring Department | 5 |  | Competencies of the Ministry of Higher Secondary Special Education |  |  |  | X | X
 
 [[END OF PAGE 97]]
 
@@ -4221,13 +3868,13 @@ Education Sector Plan
 
 98
 
-Results | Activities | Responsible parties | Human resources required | Suggestions/comments | 2013 | 2014 2015 | 2016 | 2017
---- | --- | --- | --- | --- | --- | --- | --- | ---
-OP 3.6 Social partnership mechanisms between vocational colleges and companies for job placement of graduates enhanced | Analyze the existing condition of collaboration between the Vocational Education Colleges and businesses | Employment and job-placement department of the Center for SSVE | 47 | Ministry of Labor and Social Security of Population, competencies of the department
-Improve and approve the mechanisms of social partnerships between the vocational education colleges and businesses | Employment and job-placement department of the Center for SSVE | 15 | Ministry of Labor and Social Security of Population, all relevant ministries and agencies
-Improve and introduce three-way agreements among Vocational Colleges, students and businesses to provide workplaces for internship and further employment | Employment and job-placement department of the Center for SSVE | 15 | Ministry of Labor and Social Security of Population, relevant enterprises
-Introduce the improved mechanism of social partnership | Employment and job-placement department of the Center for SSVE | 48 | Competencies
-Conduct M+E of efficiency of the social partnership mechanism | Employment and job-placement department of the Center for SSVE | 20
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+OP 3.6 Social partnership mechanisms between vocational colleges and companies for job placement of graduates enhanced | Analyze the existing condition of collaboration between the Vocational Education Colleges and businesses | Employment and job-placement department of the Center for SSVE | 47 |  | Ministry of Labor and Social Security of Population, competencies of the department |  |  |  |  | 
+ | Improve and approve the mechanisms of social partnerships between the vocational education colleges and businesses | Employment and job-placement department of the Center for SSVE | 15 |  | Ministry of Labor and Social Security of Population, all relevant ministries and agencies |  |  |  |  | 
+ | Improve and introduce three-way agreements among Vocational Colleges, students and businesses to provide workplaces for internship and further employment | Employment and job-placement department of the Center for SSVE | 15 |  | Ministry of Labor and Social Security of Population, relevant enterprises |  |  |  |  | 
+ | Introduce the improved mechanism of social partnership | Employment and job-placement department of the Center for SSVE | 48 |  | Competencies |  |  |  |  | 
+ | Conduct M+E of efficiency of the social partnership mechanism | Employment and job-placement department of the Center for SSVE | 20 |  |  |  |  | X | X | X
 
 [[END OF PAGE 98]]
 
@@ -4237,13 +3884,13 @@ Education Sector Plan
 
 99
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015
---- | --- | --- | --- | --- | --- | --- | --- | ---
-OP 3.7 Effective system of professional orientation in SSVE schools ensured | Conduct analysis of professional orientation | SSPE Centre, department in charge of forming and accepting the students | 38 | Competencies
-Conduct analysis of professional orientation | MoPE, CPOPPDS | 82 | Technical means, software | Center for SSVE
-Improve infrastructure and information base of the Republican Centre for Professional Orientation and Psychological and Pedagogical diagnosis of Students (CPOPPDS) | MoPE, CPOPPDS | 82 | 75 trainings | Center for SSVE
-Improve the qualification of specialists of CPOPPDS | MOPE, CPOPPDS | 82 | Competencies of the Center for SSVE
-Develop, approve and introduce the joint plan of action on ensuring the effective system of professional orientation in general secondary education | MOPE, CPOPPDS | 38 | Center for SSVE
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+OP 3.7 Effective system of professional orientation in SSVE schools ensured | Conduct analysis of professional orientation | SSPE Centre, department in charge of forming and accepting the students | 38 |  | Competencies |  |  |  |  | 
+ | Conduct analysis of professional orientation | MoPE, CPOPPDS | 82 | Technical means, software | Center for SSVE |  |  |  |  | 
+ | Improve infrastructure and information base of the Republican Centre for Professional Orientation and Psychological and Pedagogical diagnosis of Students (CPOPPDS) | MoPE, CPOPPDS | 82 | 75 trainings | Center for SSVE |  |  |  |  | 
+ | Improve the qualification of specialists of CPOPPDS | MOPE, CPOPPDS | 82 |  | Competencies of the Center for SSVE |  |  |  |  | 
+ | Develop, approve and introduce the joint plan of action on ensuring the effective system of professional orientation in general secondary education | MOPE, CPOPPDS | 38 |  | Center for SSVE |  | X | X | X | X
 
 [[END OF PAGE 99]]
 
@@ -4255,14 +3902,14 @@ Education Sector Plan
 
 #### 4.4.4. PLAN OF ACTIONS: RESULTS AND ACTIVITIES (OUTCOME # 4)
 
-Results | Activities | Responsible parties | Human resources required | Material contribu tion | Suggestions/co mments | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Outcome 4: Teachers prepared for the transmission of knowledge, independent thinking and organisational skills to learners, and for the development of learners' personalities in preparation for their contribution to society
-OP 4.1 Preparation of teachers and Masters of Professional Education according to modern requirements for education and upbringing ensured | Develop and introduce the system of professional selection of enrolees to Pedagogical Universities, considering the subject specifics | MoPE Akhmedov, MOHSSE Madjidov | 5 | In partnership with MOHSSE
-Review the State standards on higher education, taking into account modern requirements to the quality training of pedagogical specialists | MoPE Akhmedov, MOHSSE Madjidov | 32
-Modernize educational plans and curricula of pedagogical institutes in line with the reviewed State standards | MoPE Akhmedov, MOHSSE Madjidov | 32
-Improve the system of pedagogical practicums of Pedagogical Institutes' students (observational and practical part) | MoPE Akhmedov, MOHSSE Madjidov | 6
-Develop and publish textbooks in line with the renewed State standards | MoPE Akhmedov, MOHSSE Madjidov | 20
+OP 4.1 Preparation of teachers and Masters of Professional Education according to modern requirements for education and upbringing ensured | Develop and introduce the system of professional selection of enrolees to Pedagogical Universities, considering the subject specifics | MoPE Akhmedov, MOHSSE Madjidov | 5 |  | In partnership with MOHSSE |  |  |  |  | 
+ | Review the State standards on higher education, taking into account modern requirements to the quality training of pedagogical specialists | MoPE Akhmedov, MOHSSE Madjidov | 32 |  |  |  |  |  |  | 
+ | Modernize educational plans and curricula of pedagogical institutes in line with the reviewed State standards | MoPE Akhmedov, MOHSSE Madjidov | 32 |  |  |  |  |  |  | 
+ | Improve the system of pedagogical practicums of Pedagogical Institutes' students (observational and practical part) | MoPE Akhmedov, MOHSSE Madjidov | 6 |  |  |  |  |  |  | 
+ | Develop and publish textbooks in line with the renewed State standards | MoPE Akhmedov, MOHSSE Madjidov | 20 |  |  |  |  |  |  | 
 
 [[END OF PAGE 100]]
 
@@ -4272,14 +3919,14 @@ Education Sector Plan
 
 101
 
-Results | Activities | Responsible parties | Human resources required | Material contribu tion | Suggestions/co mments | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-OP 4.2 Flexible in-service teacher training system in line with modern requirements, interests and needs of the individual teacher developed | Develop and introduce the mechanism of systematic assessment of education needs and professional challenges of the management and teachers of educational institutions | Working group at the CIRI Avloni | 5 | X
-Form and renew the database on educational needs and professional challenges of educational institutions | MoPE - MDC EEI (Akhmedov), CIRI Avloni, regional IRIs , CDPE,RDPE | 30
-Develop state standards for re-training of teachers, and revise State standards on improving teachers skills | 45 | Printing taken into account
-Develop a rich differentiated base of curricula and education plans on teacher retraining and on improving professional skills | Institute of In service qualification enhancement and retraining of SSVE system staff | 20 | Printing taken into account | X
-Train the trainers in the use of a flexible system of teacher retraining and professional skills improvement | 8 | Meal and transportation of the participants taken into account | X
-OP 4.3 Material, technical and informational base of in- service institutions strengthened | Conduct an inventory check of the infrastructure, teaching-methodological and information base of the teacher training institutions (including building and facilities) | MoPE Main Directorate for Constructiona nd Equipping Education Institutions (Muradov) | 8 | X
+OP 4.2 Flexible in-service teacher training system in line with modern requirements, interests and needs of the individual teacher developed | Develop and introduce the mechanism of systematic assessment of education needs and professional challenges of the management and teachers of educational institutions | Working group at the CIRI Avloni | 5 |  |  | X |  |  |  | 
+ | Form and renew the database on educational needs and professional challenges of educational institutions | MoPE - MDC EEI (Akhmedov), CIRI Avloni, regional IRIs , CDPE,RDPE | 30 |  |  |  |  |  |  | 
+ | Develop state standards for re-training of teachers, and revise State standards on improving teachers skills |  | 45 |  | Printing taken into account |  |  |  |  | 
+ | Develop a rich differentiated base of curricula and education plans on teacher retraining and on improving professional skills | Institute of In service qualification enhancement and retraining of SSVE system staff | 20 |  | Printing taken into account |  | X |  |  | 
+ | Train the trainers in the use of a flexible system of teacher retraining and professional skills improvement |  | 8 |  | Meal and transportation of the participants taken into account |  | X |  |  | 
+OP 4.3 Material, technical and informational base of in-service institutions strengthened | Conduct an inventory check of the infrastructure, teaching-methodological and information base of the teacher training institutions (including building and facilities) | MoPE Main Directorate for Constructiona nd Equipping Education Institutions (Muradov) | 8 |  |  | X |  |  |  | 
 
 [[END OF PAGE 101]]
 
@@ -4289,14 +3936,14 @@ Education Sector Plan
 
 102
 
-Results | Activities | Responsible parties | Human resources required | Material contribu tion | Suggestions/co mments | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Develop the norms for equipping the Teacher Retraining Institutions (furniture, teaching and laboratory equipment, IT equipment, sports equipment, teaching- methodological manuals) | 5
-Conduct needs assessments: furniture, teaching laboratories, IT equipment, sports inventory, teaching-methodological manuals) | 3
-Develop and approve of the unified target programme (project appraisal document) | 15
-Implement the programme | Reconstruction and equipping taken into account
-OP 4.4 Capacities of in-service teacher training staff ensured in terms of modern methodology and technology, teaching and research experience, and ability to pass on knowledge and skills effectively | Study the level of qualifications and professional skills of training and retraining specialists at the Institute of Training and Retraining | MOPE MDC EEI (Akhmedov) CIRI , working group | 51 | X
-Improve the Statute on enhancing qualifications and retraining of managerial staff and teachers | 10 | Expertise and printining taken into account
+ | Develop the norms for equipping the Teacher Retraining Institutions (furniture, teaching and laboratory equipment, IT equipment, sports equipment, teaching-methodological manuals) |  | 5 |  |  |  |  |  |  | 
+ | Conduct needs assessments: furniture, teaching laboratories, IT equipment, sports inventory, teaching-methodological manuals) |  | 3 |  |  | X |  |  |  | 
+ | Develop and approve of the unified target programme (project appraisal document) |  | 15 |  |  |  |  |  |  | 
+ | Implement the programme |  |  |  | Reconstruction and equipping taken into account |  |  |  |  | 
+OP 4.4 Capacities of in-service teacher training staff ensured in terms of modern methodology and technology, teaching and research experience, and ability to pass on knowledge and skills effectively | Study the level of qualifications and professional skills of training and retraining specialists at the Institute of Training and Retraining | MOPE MDC EEI (Akhmedov) CIRI , working group | 51 |  |  | X |  |  |  | 
+ | Improve the Statute on enhancing qualifications and retraining of managerial staff and teachers |  | 10 |  | Expertise and printining taken into account |  |  |  |  | 
 
 [[END OF PAGE 102]]
 
@@ -4306,13 +3953,13 @@ Education Sector Plan
 
 103
 
-Results | Activities | Responsible parties | Human resources required | Material contribu tion | Suggestions/co mments | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Revise and approve the criteria and mechanisms of selecting Training and Retraining specialists in the system of increasing skills of Training and Retraining managers and teachers | MoPE and working group | 15
-Study, summaries and disseminate the leading educational experience in the training and retraining system | Central and Regional IRIs | 48 | X
-Develop a training module and conduct a cycle of workshops on new approaches, IT and research activities (including internships abroad) | MoPE, Central and Regional IRIs | 5 | Trainers only. Meal and transportation of participants of business trips abroad
-OP 4.5 Mechanism for monitoring and evaluation of the effectiveness of pre- and in-service training established | Develop the tool and introduce the system of M+E of efficiency of conditions and process of education at the Teacher Training and MoPE - MDC (Akhmedov), Avloni | EEI CIRI | 3 | X
-Develop and approve the procedure on a two-level system of monitoring the efficiency of the process and quality of improving professional skills of administrators and teachers | MoPE - MDC EEI (Akhmedov), CIRI Avloni, Regional IRIs, CDPE, RDPE | 5 | X
+ | Revise and approve the criteria and mechanisms of selecting Training and Retraining specialists in the system of increasing skills of Training and Retraining managers and teachers | MoPE and working group | 15 |  |  | X |  |  |  | 
+ | Study, summaries and disseminate the leading educational experience in the training and retraining system | Central and Regional IRIs | 48 |  |  |  | X |  |  | 
+ | Develop a training module and conduct a cycle of workshops on new approaches, IT and research activities (including internships abroad) | MoPE, Central and Regional IRIs | 5 |  | Trainers only. Meal and transportation of participants of business trips abroad |  |  |  |  | 
+OP 4.5 Mechanism for monitoring and evaluation of the effectiveness of pre- and in-service training established | Develop the tool and introduce the system of M+E of efficiency of conditions and process of education at the Teacher Training and Retraining institutions | MoPE - MDC EEI (Akhmedov), CIRI Avloni | 3 |  |  | X |  |  |  | 
+ | Develop and approve the procedure on a two-level system of monitoring the efficiency of the process and quality of improving professional skills of administrators and teachers | MoPE - MDC EEI (Akhmedov), CIRI Avloni, Regional IRIs, CDPE, RDPE | 5 |  |  | X |  |  |  | 
 
 [[END OF PAGE 103]]
 
@@ -4322,11 +3969,11 @@ Education Sector Plan
 
 104
 
-Results | Activities | Responsible parties | Human resources required | Material contribu tion | Suggestions/co mments | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Develop the mechanisms and tools for M+E of efficiency of improving the qualifications of pedagogical specialists | 45 | subjects | Printing for all taken into account
-Conduct pre-testing and introduce the mechanisms and tools for M+E of efficiency of improving the qualifications of pedagogical specialists | MoPE CIRI , Regional IRIs, working group | 115 | Per diems into account | taken
-Correct the plan of improving the activities of teacher training and retraining institutions on the basis of the M+E results | CIRI Avloni, Regional IRIs | 32
+ | Develop the mechanisms and tools for M+E of efficiency of improving the qualifications of pedagogical specialists |  | 45 |  | Printing for all subjects taken into account |  |  |  |  | 
+ | Conduct pre-testing and introduce the mechanisms and tools for M+E of efficiency of improving the qualifications of pedagogical specialists | MoPE CIRI , Regional IRIs, working group | 115 |  | Per diems taken into account |  |  |  |  | 
+ | Correct the plan of improving the activities of teacher training and retraining institutions on the basis of the M+E results | CIRI Avloni, Regional IRIs | 32 |  |  |  |  |  |  | 
 
 [[END OF PAGE 104]]
 
@@ -4338,12 +3985,12 @@ Education Sector Plan
 
 #### 4.4.5. PLAN OF ACTIONS: RESULTS AND ACTIVITIES (OUTCOME # 5)
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comm ents | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Outcome 5: Graduates prepared as highly qualified specialists to contribute to scientific progress, socio-economic and cultural development of the country
-OP Continuity education General Secondary Education & Higher Education ensured | Conduct system analysis of the existing State educational standards (SES) of General Secondary (GS), SSVE and the Higher Education (HE) Institutions | MoPE, Center for SSVE, MOHSSE | 30
-Conduct work on improving the existing SES of GS and SSVE that ensure a high level of succession and continuity of the education process on general education subjects | MoPE, Center for SSVE | 120 | Pre-testing included
-Improve the existing SES related to SSPE and HEIs to ensure a high level of succession and continuity of the education process between the general vocational and special subjects | Center for SSVE, MoHSSE | 360 | Pre-testing included
+OP 5.1 Continuity of education from General Secondary Education & SSPE to Higher Education ensured | Conduct system analysis of the existing State educational standards (SES) of General Secondary (GS), SSVE and the Higher Education (HE) Institutions | MoPE, Center for SSVE, MOHSSE | 30 |  |  |  |  |  |  | 
+ | Conduct work on improving the existing SES of GS and SSVE that ensure a high level of succession and continuity of the education process on general education subjects | MoPE, Center for SSVE | 120 |  | Pre-testing included |  |  |  |  | 
+ | Improve the existing SES related to SSPE and HEIs to ensure a high level of succession and continuity of the education process between the general vocational and special subjects | Center for SSVE, MoHSSE | 360 |  | Pre-testing included |  |  |  |  | 
 
 [[END OF PAGE 105]]
 
@@ -4353,13 +4000,13 @@ Education Sector Plan
 
 106
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comm ents | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Introduce necessary changes and additions to the existing education programmes, and approve them accordingly | MoPE, Center for SSVE, MoHSSE | 60
-Ensure publication of the improved educational standards and disseminate among the SSVE and HE institutions. | MoPE, Center for SSVE, MoHSSE | 15
-OP 5.2 Transition into the Bologna Process intensified in order to contribute to ensuring quality education | Organise a cycle of workshops for the faculties on studying the key provisions of the Bologna Process | MoHSSE | 60 | Meal and transportation included
-Conduct analysis to assess compatibility of the National Programme on Training the Specialists with the Bologna Process | MoHSSE | 2
-Develop the priority directions for Higher Education, taking into consideration the key provisions of the Bologna Process in the area of ensuring the quality of education | MoHSSE | 27
+ | Introduce necessary changes and additions to the existing education programmes, and approve them accordingly | MoPE, Center for SSVE, MoHSSE | 60 |  |  |  |  |  |  | 
+ | Ensure publication of the improved educational standards and disseminate among the SSVE and HE institutions. | MoPE, Center for SSVE, MoHSSE | 15 |  |  |  |  |  |  | 
+OP 5.2 Transition into the Bologna Process intensified in order to contribute to ensuring quality education | Organise a cycle of workshops for the faculties on studying the key provisions of the Bologna Process | MoHSSE | 60 |  | Meal and transportation included |  |  |  |  | 
+ | Conduct analysis to assess compatibility of the National Programme on Training the Specialists with the Bologna Process | MoHSSE | 2 |  |  |  |  |  |  | 
+ | Develop the priority directions for Higher Education, taking into consideration the key provisions of the Bologna Process in the area of ensuring the quality of education | MoHSSE | 27 |  |  |  |  |  |  | 
 
 [[END OF PAGE 106]]
 
@@ -4369,11 +4016,11 @@ Education Sector Plan
 
 107
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comm ents | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-OP 5.3 Higher Education Institutions rehabilitated and laboratories equipped according to President's decree of May 2011 | Procure teaching lab equipment and furniture in line with the Resolution No. 1533, on the basis of developed technical specifications | MoHSSE | 48
-Provide information/resource centres of universities with modern teaching/methodological materials including electronic textbooks, visual aids, reference publications and other teaching/scientific literature | MoHSSE | 30
-Establish a unified inter- university computer network by modernising the existing network of all universities including their branches and affiliates with fibre connection by VPN technologies (virtual protected speed internet channel) that ensure integration of universities with international educational resources | MoHSSE | 71
+OP 5.3 Higher Education Institutions rehabilitated and laboratories equipped according to President's decree of May 2011 | Procure teaching lab equipment and furniture in line with the Resolution No. 1533, on the basis of developed technical specifications | MoHSSE | 48 |  |  |  |  |  |  | 
+ | Provide information/resource centres of universities with modern teaching/methodological materials including electronic textbooks, visual aids, reference publications and other teaching/scientific literature | MoHSSE | 30 |  |  |  |  |  |  | 
+ | Establish a unified inter-university computer network by modernising the existing network of all universities including their branches and affiliates with fibre connection by VPN technologies (virtual protected speed internet channel) that ensure integration of universities with international educational resources | MoHSSE | 71 |  |  |  |  |  |  | 
 
 [[END OF PAGE 107]]
 
@@ -4383,12 +4030,12 @@ Education Sector Plan
 
 108
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comm ents | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Gradually improve the information resource base of universities, equipping them with modern computer equipment, communication systems, distance education elements | MoHSSE | 71
-Form a general information resource base of universities by establishing electronic libraries at each university, systematically provided with electronic textbooks, methodological manuals and multimedia courses | MoHSSE | 30
-OP 5.4 Faculty members' professionalism in terms of subject knowledge, and knowledge in IT, English and | Improve the context of the practical part of the higher professional- special education and for using the basis of the professional skills of HEI graduates | MoHSSE | 48
-contemporary teaching methodologies strengthened | Develop and introduce interactive technologies of teaching English and ICT | MoHSSE | 96
+ | Gradually improve the information resource base of universities, equipping them with modern computer equipment, communication systems, distance education elements | MoHSSE | 71 |  |  |  |  |  |  | 
+ | Form a general information resource base of universities by establishing electronic libraries at each university, systematically provided with electronic textbooks, methodological manuals and multimedia courses | MoHSSE | 30 |  |  |  |  |  |  | 
+OP 5.4 Faculty members' professionalism in terms of subject knowledge, and knowledge in IT, English and contemporary teaching methodologies strengthened | Improve the context of the practical part of the higher professional-special education and for using the basis of the professional skills of HEI graduates | MoHSSE | 48 |  |  |  |  |  |  | 
+ | Develop and introduce interactive technologies of teaching English and ICT | MoHSSE | 96 |  |  |  |  |  |  | 
 
 [[END OF PAGE 108]]
 
@@ -4398,14 +4045,14 @@ Education Sector Plan
 
 109
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comm ents | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Improve the system and context of the individual work of students (course work, graduate and qualification papers, Master dissertations, etc.) | MoHSSE | 10
-Develop, publish and provide new textbooks and methodological materials to participants of the education process | MoHSSE | 142
-OP 5.5 Monitoring mechanism for the preparation of highly qualified specialists optimised | Develop criteria and a system of evaluation for the quality of educational training of undergraduate and graduate students for universities | MoHSSE | 10
-Monitor quality of educational readiness at Bachelor's and Master's level graduates | MoHSSE | 30 | X | X | X | X
-Develop and introduce into the practice of universities the monitoring mechanism of quality of students' educational readiness | MoHSSE | 10
-Review and revise the education process at universities based on monitoring results | MoHSSE | 71
+ | Improve the system and context of the individual work of students (course work, graduate and qualification papers, Master dissertations, etc.) | MoHSSE | 10 |  |  |  |  |  |  | 
+ | Develop, publish and provide new textbooks and methodological materials to participants of the education process | MoHSSE | 142 |  |  |  |  |  |  | 
+OP 5.5 Monitoring mechanism for the preparation of highly qualified specialists optimised | Develop criteria and a system of evaluation for the quality of educational training of undergraduate and graduate students for universities | MoHSSE | 10 |  |  |  |  |  |  | 
+ | Monitor quality of educational readiness at Bachelor's and Master's level graduates | MoHSSE | 30 |  |  |  | X | X | X | X
+ | Develop and introduce into the practice of universities the monitoring mechanism of quality of students' educational readiness | MoHSSE | 10 |  |  |  |  |  |  | 
+ | Review and revise the education process at universities based on monitoring results | MoHSSE | 71 |  |  |  |  |  |  | 
 
 [[END OF PAGE 109]]
 
@@ -4415,13 +4062,13 @@ Education Sector Plan
 
 110
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comm ents | 2013 | 2014 | 2015
---- | --- | --- | --- | --- | --- | --- | --- | ---
-OP 5.6 Integration of science, higher education and industry deepened | Develop a modern model and mechanism of implementation of innovative collaboration of higher education, science and production | MoHSSE | 30
-Pre-test the model of innovative collaboration on the example of individual universities | MoHSSE | 120 | in 10 HEIs
-Introduce and implement the model of innovative collaboration by knowledge areas | MoHSSE
-Develop and implement the system of monitoring, of employment of graduates and professional development of young specialists | MoHSSE | 15
-OP 5.7 Participation of staff in international research in Education & Science increased | Analyse collaboration of the faculties of universities of Uzbekistan with international educational and scientific research areas, also learning from the experiences of such collaboration abroad | MoHSSE | 24
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+OP 5.6 Integration of science, higher education and industry deepened | Develop a modern model and mechanism of implementation of innovative collaboration of higher education, science and production | MoHSSE | 30 |  |  |  |  |  |  | 
+ | Pre-test the model of innovative collaboration on the example of individual universities | MoHSSE | 120 |  | in 10 HEIs |  |  |  |  | 
+ | Introduce and implement the model of innovative collaboration by knowledge areas | MoHSSE |  |  |  |  |  |  |  | 
+ | Develop and implement the system of monitoring, of employment of graduates and professional development of young specialists | MoHSSE | 15 |  |  |  |  |  |  | 
+OP 5.7 Participation of staff in international research in Education & Science increased | Analyse collaboration of the faculties of universities of Uzbekistan with international educational and scientific research areas, also learning from the experiences of such collaboration abroad | MoHSSE | 24 |  |  |  |  |  |  | 
 
 [[END OF PAGE 110]]
 
@@ -4431,11 +4078,11 @@ Education Sector Plan
 
 111
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comm ents | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Set up partnerships with foreign universities, also organising internships of faculties abroad for subsequent application of lessons learnt in developing and improving the national system of higher education | MoHSSE | Study tour only
-Develop and introduce the area of strengthening internet resources into activities of universities (on the basis of foreign experience), aiming at improving the key professional activities of the universities | MoHSSE | 71
-Develop and introduce a system of international collaboration in the areas of preparing Master's and Doctor's dissertations and scientific research activities | MoHSSE | 10
+ | Set up partnerships with foreign universities, also organising internships of faculties abroad for subsequent application of lessons learnt in developing and improving the national system of higher education | MoHSSE |  |  | Study tour only |  |  |  |  | 
+ | Develop and introduce the area of strengthening internet resources into activities of universities (on the basis of foreign experience), aiming at improving the key professional activities of the universities | MoHSSE | 71 |  |  |  |  |  |  | 
+ | Develop and introduce a system of international collaboration in the areas of preparing Master's and Doctor's dissertations and scientific research activities | MoHSSE | 10 |  |  |  |  |  |  | 
 
 [[END OF PAGE 111]]
 
@@ -4445,13 +4092,13 @@ Education Sector Plan
 
 112
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comm ents | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Organize participation of university faculties in large international scientific and scientific- methodological conferences, workshops and other for a devoted to the issues of developing the system of higher education | MoHSSE | 500 | Transportation per-diems participants | and for
-OP Universal access Higher secured | Raise awareness among the population on advantages of higher education | Mass media, internet resources. | 25
-Increase presence of universities in the internet, e.g. by improving the websites of the universities and updating available information | MoHSSE
-Develop and implement the mechanism of online appeal to admission test results | State Testing Center at the CabMin, MoHSSE | 50
-Increase the coverage of female population by university education (engineering, technical subjects and sports) | HEI | 355
+ | Organize participation of university faculties in large international scientific and scientific-methodological conferences, workshops and other for a devoted to the issues of developing the system of higher education | MoHSSE | 500 |  | Transportation and per-diems for participants |  |  |  |  | 
+OP 5.8 Universal access to Higher Education secured | Raise awareness among the population on advantages of higher education | Mass media, internet resources. | 25 |  |  |  |  |  |  | 
+ | Increase presence of universities in the internet, e.g. by improving the websites of the universities and updating available information | MoHSSE |  |  |  |  |  |  |  | 
+ | Develop and implement the mechanism of online appeal to admission test results | State Testing Center at the CabMin, MoHSSE | 50 |  |  |  |  |  |  | 
+ | Increase the coverage of female population by university education (engineering, technical subjects and sports) | HEI | 355 |  |  |  |  |  |  | 
 
 [[END OF PAGE 112]]
 
@@ -4461,9 +4108,9 @@ Education Sector Plan
 
 113
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comm ents | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Develop and suggest draft resolution and provision to the Cabinet of Ministers on distance education in Higher Educational Institutions. | MoHSSE | 36
+ | Develop and suggest draft resolution and provision to the Cabinet of Ministers on distance education in Higher Educational Institutions. | MoHSSE | 36 |  |  |  |  |  |  | 
 
 [[END OF PAGE 113]]
 
@@ -4475,14 +4122,14 @@ Education Sector Plan
 
 #### 4.4.6. PLAN OF ACTIONS: RESULTS AND ACTIVITIES (OUTCOME # 6)
 
-Results | Activities | Responsible parties | Human resources required | Material contributi on | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Outcome 6: Adults empowered to expand their knowledge and skills according to their needs and interests through non- formal adult education
-OP 6.1 Changes to the Law on Education to integrate Adult Education designed and approved | Establish and coordinate a Council on organising adult education in all sections at the Cabinet of Ministers | Cabinet of Ministers | 6 | Cabinet of Ministers and interested ministries
-Draft resolution of the Cabinet of Ministers on coordinating the activities of Ministries, agencies and non-governmental organisations organising adult education | Cabinet of Ministers | 12 | All interested ministries jointly
-All ministries and agencies develop normative documents on adult education on the basis of the Resolution of the Cabinet of Ministers | Cabinet of Ministers | 42 | All interested ministries jointly
-Establish the legal basis at MoHSSE on providing additional education to pupils and students | MOPE, MOHSSE | 10 | MOHSSE
-Introduce changes into the Out-of-School education Statute in order to bring the relevance of such education to all education sub-sectors | MOPE, MOHSSE | 2 | All interested ministries
+Outcome 6: Adults empowered to expand their knowledge and skills according to their needs and interests through non-formal adult education
+OP 6.1 Changes to the Law on Education to integrate Adult Education designed and approved | Establish and coordinate a Council on organising adult education in all sections at the Cabinet of Ministers | Cabinet of Ministers | 6 |  | Cabinet of Ministers and interested ministries |  |  |  |  | 
+ | Draft resolution of the Cabinet of Ministers on coordinating the activities of Ministries, agencies and non-governmental organisations organising adult education | Cabinet of Ministers | 12 |  | All interested ministries jointly |  |  |  |  | 
+ | All ministries and agencies develop normative documents on adult education on the basis of the Resolution of the Cabinet of Ministers | Cabinet of Ministers | 42 |  | All interested ministries jointly |  |  |  |  | 
+ | Establish the legal basis at MoHSSE on providing additional education to pupils and students | MOPE, MOHSSE | 10 |  | MOHSSE |  |  |  |  | 
+ | Introduce changes into the Out-of-School education Statute in order to bring the relevance of such education to all education sub-sectors | MOPE, MOHSSE | 2 |  | All interested ministries |  |  |  |  | 
 
 [[END OF PAGE 114]]
 
@@ -4492,14 +4139,14 @@ Education Sector Plan
 
 115
 
-Results | Activities | Responsible parties | Human resources required | Material contributi on | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-OP 6.2 Specific methodology for Adult Education developed and disseminated | Establish working groups to study the condition of availability of special methodology for adult education and of | Mininstry of Labor Social Security Population 5 | Coordinated by the Mininstry of Labor and Social Security of Population with interested ministries and agencies
-Develop the system of methodological support (continuous development and dissemination of new methods and approaches on Adult Education) and of | Mininstry of Labor Social Security Population 21 | Coordinated by the Mininstry of Labor and Social Security of Population with interested ministries and agencies
-Develop the methods of needs assessment in the area of Adult Education Mininstry and of | of Labor Social Security Population | 10 | Coordinated by the Mininstry of Labor and Social Security of Population with interested ministries and agencies
-Develop the modules for training trainers-specialists, develop methodological manuals, didactic materials, information resources (web resources) Mininstry of and Social of andagencies | Labor Security Population &interestedministries | 42 | Coordinated by the Mininstry of Labor and Social Security of Population with interested ministries and agencies
-Monitor and evaluate continuously all activities related to Adult Education, in terms of monitoring and evaluating the involvement of all those engaged in the Mininstry of Labor and Social Security of Population | 42 | Coordinated by the Mininstry of Labor and Social Security of Population with interested ministries and agencies
-OP 6.3 Modern material- technical base | Provide necessary modern teaching-technical equipment (TTE), e.g. ICT, laboratories interested ministries and agencies | 42 | Mininstry of Labor and Social Security of Population, interested ministries and agencies
+OP 6.2 Specific methodology for Adult Education developed and disseminated | Establish working groups to study the condition of availability of special methodology for adult education | Mininstry of Labor and Social Security of Population | 5 |  | Coordinated by the Mininstry of Labor and Social Security of Population with interested ministries and agencies |  |  |  |  | 
+ | Develop the system of methodological support (continuous development and dissemination of new methods and approaches on Adult Education) | Mininstry of Labor and Social Security of Population | 21 |  | Coordinated by the Mininstry of Labor and Social Security of Population with interested ministries and agencies |  |  |  |  | 
+ | Develop the methods of needs assessment in the area of Adult Education | Mininstry of Labor and Social Security of Population | 10 |  | Coordinated by the Mininstry of Labor and Social Security of Population with interested ministries and agencies |  |  |  |  | 
+ | Develop the modules for training trainers-specialists, develop methodological manuals, didactic materials, information resources (web resources) | Mininstry of Labor and Social Security of Population &interestedministries andagencies | 42 |  | Coordinated by the Mininstry of Labor and Social Security of Population with interested ministries and agencies |  |  |  |  | 
+ | Monitor and evaluate continuously all activities related to Adult Education, in terms of monitoring and evaluating the involvement of all those engaged in the activities | Mininstry of Labor and Social Security of Population | 42 |  | Coordinated by the Mininstry of Labor and Social Security of Population with interested ministries and agencies |  | X | X | X | X
+OP 6.3 Modern material-technical base | Provide necessary modern teaching-technical equipment (TTE), e.g. ICT, laboratories | interested ministries and agencies | 42 |  | Mininstry of Labor and Social Security of Population, interested ministries and agencies |  |  |  |  | 
 
 [[END OF PAGE 115]]
 
@@ -4509,15 +4156,15 @@ Education Sector Plan
 
 116
 
-Results | Activities | Responsible parties | Human resources required | Material contributi on | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-that meets the needs of Adult Education ensured | Train the trainers on effective usage of TTE | Mininstry of Labor and Social Security of Population | 21 | Mininstry of Labor and Social Security of Population, interested ministries and agencies
-Develop software for TTE (maths labs, didactic materials) | Mininstry of Labor and Social Security of Population | 42 | Mininstry of Labor and Social Security of Population, interested ministries and agencies
-Develop material stimulus for teachers and vocational education masters who use TTE in the education process of Adult Education | Mininstry of Labor and Social Security of Population | 10 | Mininstry of Labor and Social Security of Population, interested ministries and agencies
-Prepare conditions for training the specialist of various professional profiles (organisational patterns, modules for future areas of vocational education | Mininstry of Labor and Social Security of Population &interested ministries and agencies | 21 | Mininstry of Labor and Social Security of Population, interested ministries and agencies
-OP 6.4 Trainers with professional expertise and competence for working with adults prepared | Study and analyse needs of teachers and masters in the sphere of adult education | Ministries and agencies | 21 | Mininstry of Labor and Social Security of Population, interested ministries and agencies
-Establish institutes and centres within ministries and agencies to train specialists in line with the demand | Mininstry of Labor and Social Security of Population | 21 | Mininstry of Labor and Social Security of Population, interested ministries and agencies
-Develop methodological recommendations with due consideration of adults characteristics for each profession | Mininstry of Labor and Social Security of Population, interested ministries and agencies | 21 | Mininstry of Labor and Social Security of Population, interested ministries and agencies
+that meets the needs of Adult Education ensured | Train the trainers on effective usage of TTE | Mininstry of Labor and Social Security of Population | 21 |  | Mininstry of Labor and Social Security of Population, interested ministries and agencies |  |  |  |  | 
+ | Develop software for TTE (maths labs, didactic materials) | Mininstry of Labor and Social Security of Population | 42 |  | Mininstry of Labor and Social Security of Population, interested ministries and agencies |  |  |  |  | 
+ | Develop material stimulus for teachers and vocational education masters who use TTE in the education process of Adult Education | Mininstry of Labor and Social Security of Population | 10 |  | Mininstry of Labor and Social Security of Population, interested ministries and agencies |  |  |  |  | 
+ | Prepare conditions for training the specialist of various professional profiles (organisational patterns, modules for future areas of vocational education | Mininstry of Labor and Social Security of Population &interested ministries and agencies | 21 |  | Mininstry of Labor and Social Security of Population, interested ministries and agencies |  |  |  |  | 
+OP 6.4 Trainers with professional expertise and competence for working with adults prepared | Study and analyse needs of teachers and masters in the sphere of adult education | Ministries and agencies | 21 |  | Mininstry of Labor and Social Security of Population, interested ministries and agencies |  |  |  |  | 
+ | Establish institutes and centres within ministries and agencies to train specialists in line with the demand | Mininstry of Labor and Social Security of Population | 21 |  | Mininstry of Labor and Social Security of Population, interested ministries and agencies |  |  |  |  | 
+ | Develop methodological recommendations with due consideration of adults characteristics for each profession | Mininstry of Labor and Social Security of Population, interested ministries and agencies | 21 |  | Mininstry of Labor and Social Security of Population, interested ministries and agencies |  |  |  |  | 
 
 [[END OF PAGE 116]]
 
@@ -4527,15 +4174,15 @@ Education Sector Plan
 
 117
 
-Results | Activities | Responsible parties | Human resources required | Material contributi on | Suggestions/comments | 2013 | 2014 | 2015 | 2016
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Develop a mechanism to select specialists to work with adults | Mininstry of Labor and Social Security of Population | 5 | Mininstry of Labor and Social Security of Population, interested ministries and agencies
-Monitor and evaluate activities of the participants within the framework of adult education | Mininstry of Labor and Social Security of Population | 21 | Mininstry of Labor and Social Security of Population, interested ministries and agencies | X
-OP 6.5 Feedback mechanisms between participants, trainers and training organisers developed and implemented | Develop the system of M+E regarding the skills developed at trainings (including e.g. surveys, questionnaires) | Mininstry of Labor and Social Security of Population | 21 | Mininstry of Labor and Social Security of Population, interested ministries and agencies
-Establish mechanisms for using ICT for feedback (survey.com or own) | Mininstry of Labor and Social Security of Population | 21 | Mininstry of Labor and Social Security of Population, interested ministries and agencies
-Develop database of students of trainings at regional level (hokimiyats) | Mininstry of Labor and Social Security of Population | 21 | Mininstry of Labor and Social Security of Population, interested ministries and agencies
-Develop websites for supporting the post-training phase of students | Mininstry of Labor and Social Security of Population | 21 | Mininstry of Labor and Social Security of Population, interested ministries and agencies
-Develop methods for evaluating the efficiency of training courses, including an assessment of graduates' accumulated knowledge and how that impacted on their lives | Mininstry of Labor and Social Security of Population | 21 | Mininstry of Labor and Social Security of Population, interested ministries and agencies
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ | Develop a mechanism to select specialists to work with adults | Mininstry of Labor and Social Security of Population | 5 |  | Mininstry of Labor and Social Security of Population, interested ministries and agencies |  |  |  |  | 
+ | Monitor and evaluate activities of the participants within the framework of adult education | Mininstry of Labor and Social Security of Population | 21 |  | Mininstry of Labor and Social Security of Population, interested ministries and agencies |  | X | X | X | X
+OP 6.5 Feedback mechanisms between participants, trainers and training organisers developed and implemented | Develop the system of M+E regarding the skills developed at trainings (including e.g. surveys, questionnaires) | Mininstry of Labor and Social Security of Population | 21 |  | Mininstry of Labor and Social Security of Population, interested ministries and agencies |  |  |  |  | 
+ | Establish mechanisms for using ICT for feedback (survey.com or own) | Mininstry of Labor and Social Security of Population | 21 |  | Mininstry of Labor and Social Security of Population, interested ministries and agencies |  |  |  |  | 
+ | Develop database of students of trainings at regional level (hokimiyats) | Mininstry of Labor and Social Security of Population | 21 |  | Mininstry of Labor and Social Security of Population, interested ministries and agencies |  |  |  |  | 
+ | Develop websites for supporting the post-training phase of students | Mininstry of Labor and Social Security of Population | 21 |  | Mininstry of Labor and Social Security of Population, interested ministries and agencies |  |  |  |  | 
+ | Develop methods for evaluating the efficiency of training courses, including an assessment of graduates' accumulated knowledge and how that impacted on their lives | Mininstry of Labor and Social Security of Population | 21 |  | Mininstry of Labor and Social Security of Population, interested ministries and agencies |  |  |  |  | 
 
 [[END OF PAGE 117]]
 
@@ -4545,15 +4192,15 @@ Education Sector Plan
 
 118
 
-Results | Activities | Responsible parties | Human resources required | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-OP 6.6 Mechanism for the distribution of information about courses ensured | Establish a working group on the coordination of information provision and of | Mininstry of Labor Social Security Population | 21 | Coordinated by the Mininstry of Labor and Social Security of Population with interested ministries and agencies
-Develop information materials on conducted training courses | Mininstry of Labor and Social Security of Population | 21 | Coordinated by the Mininstry of Labor and Social Security of Population with interested ministries and agencies
-Conduct testing of developed materials, including the identification of channels for information dissemination | Mininstry of Labor and Social Security of Population | 21 | Via relevant ministries and agencies
-Conduct wide-scope dissemination of information through the relevant Mininstry of and Social of Population | Labor Security | 21
-Monitor and assess the knowledge of the general population about courses for adult education Mininstry of and Social of Population | Labor Security | 21
-OP 6.7 Access in terms of affordability and location ensured | Establish inter-sectoral group (Ministry of Labour, line ministries) Ministry of Labor and Social Security of Population, Interested ministries | 42 | Ministry of Labor and Social Security of Population, Interested ministries
-Conduct situational analysis of the adult section sector | Ministry of Labor and Social Security of Population | 5 | Ministry of Labor and Social Security of Population, Interested ministries
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+OP 6.6 Mechanism for the distribution of information about courses ensured | Establish a working group on the coordination of information provision | Mininstry of Labor and Social Security of Population | 21 |  | Coordinated by the Mininstry of Labor and Social Security of Population with interested ministries and agencies |  |  |  |  | 
+ | Develop information materials on conducted training courses | Mininstry of Labor and Social Security of Population | 21 |  | Coordinated by the Mininstry of Labor and Social Security of Population with interested ministries and agencies |  |  |  |  | 
+ | Conduct testing of developed materials, including the identification of channels for information dissemination | Mininstry of Labor and Social Security of Population | 21 |  | Via relevant ministries and agencies |  |  |  |  | 
+ | Conduct wide-scope dissemination of information through the relevant channels | Mininstry of Labor and Social Security of Population | 21 |  |  |  |  |  |  | 
+ | Monitor and assess the knowledge of the general population about courses for adult education | Mininstry of Labor and Social Security of Population | 21 |  |  |  |  | X | X | X
+OP 6.7 Access in terms of affordability and location ensured | Establish inter-sectoral group (Ministry of Labour, line ministries) | Ministry of Labor and Social Security of Population, Interested ministries | 42 |  | Ministry of Labor and Social Security of Population, Interested ministries |  |  |  |  | 
+ | Conduct situational analysis of the adult section sector | Ministry of Labor and Social Security of Population | 5 |  | Ministry of Labor and Social Security of Population, Interested ministries |  |  |  |  | 
 
 [[END OF PAGE 118]]
 
@@ -4563,11 +4210,11 @@ Education Sector Plan
 
 119
 
-Results | Activities | Responsible parties | Human resources required | Material contributi on | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Develop a mechanism and norms for partial State co- financing of adult education (hokimiyats, Ministry of Labour, line ministries) | Ministry of Labor and Social Security of Population, Interested ministries | 42 | Ministry of Labor and Social Security of Population, Interested ministries
-Establish a working commission on monitoring (accessibility, being target- oriented, etc.) | Khokymyats, territorial depatrments of Min Labour | 42 | Ministry of Labor and Social Security of Population, Interested ministries, khokimiyats
-Develop a country mapping for adult education with due consideration of regional characteristics | Mininstry of Labor and Social Security of Population | 5 | Ministry of Labor and Social Security of Population, Interested ministries, khokimiyats
+ | Develop a mechanism and norms for partial State co-financing of adult education (hokimiyats, Ministry of Labour, line ministries) | Ministry of Labor and Social Security of Population, Interested ministries | 42 |  | Ministry of Labor and Social Security of Population, Interested ministries |  |  |  |  | 
+ | Establish a working commission on monitoring (accessibility, being target-oriented, etc.) | Khokymyats, territorial depatrments of Min Labour | 42 |  | Ministry of Labor and Social Security of Population, Interested ministries, khokimiyats |  |  |  |  | 
+ | Develop a country mapping for adult education with due consideration of regional characteristics | Mininstry of Labor and Social Security of Population | 5 |  | Ministry of Labor and Social Security of Population, Interested ministries, khokimiyats |  |  |  |  | 
 
 [[END OF PAGE 119]]
 
@@ -4579,15 +4226,15 @@ Education Sector Plan
 
 #### 4.4.7. PLAN OF ACTIONS: RESULTS AND ACTIVITIES (OUTCOME # 7)
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Outcome 7: Opportunities created for children and youth to pursue their interests during their free time
-OP 7.1 Policy for extra- curricular education strengthened with a particular focus on continuity across the whole education sector | Establish working groups and analyse the legal basis of the Out-of- school Education system | Out-of-school education Sector | 10 | PCs, fax-machine, printers | Transportation costs
-Develop curricula for the Out-of-School Education process | MoPE, Out-of- school education Sector | 15 | Transportation costs
-Improve the T/L materials to teach children at the Out-of- School Education institutions | MoPE, Out-of- school education Sector | 20 | PCs, laptop, digital camera | Transportation costs
-Introduce changes into existing Statutes and create supportive conditions for all children to attend Out-of-School education institutions | MoPE, Out-of- school education Sector | 50 | PCs, fax-machine, printers | Transportation costs
-Develop a new generation of textbooks to be used at the Out-of- School education institutions | RCE | 20 | PCs, fax-machine, printers, digital photocamera | Transportation costs
-OP 7.2 Infrastructure for Out-of-School education | Analyse the existing infrastructure of the out- of-school and sports facilities | MoPE, Out-of- school education Sector | 10 | laptop, PC, printer , fax-machine
+OP 7.1 Policy for extra-curricular education strengthened with a particular focus on continuity across the whole education sector | Establish working groups and analyse the legal basis of the Out-of-school Education system | Out-of-school education Sector | 10 | PCs, fax-machine, printers | Transportation costs |  |  |  |  | 
+ | Develop curricula for the Out-of-School Education process | MoPE, Out-of-school education Sector | 15 |  | Transportation costs |  |  |  |  | 
+ | Improve the T/L materials to teach children at the Out-of-School Education institutions | MoPE, Out-of-school education Sector | 20 | PCs, laptop, digital camera | Transportation costs |  |  |  |  | 
+ | Introduce changes into existing Statutes and create supportive conditions for all children to attend Out-of-School education institutions | MoPE, Out-of-school education Sector | 50 | PCs, fax-machine, printers | Transportation costs |  |  |  |  | 
+ | Develop a new generation of textbooks to be used at the Out-of-School education institutions | RCE | 20 | PCs, fax-machine, printers, digital photocamera | Transportation costs |  |  |  |  | 
+OP 7.2 Infrastructure for Out-of-School education | Analyse the existing infrastructure of the out-of-school and sports facilities | MoPE, Out-of-school education Sector | 10 | laptop, PC, printer , fax-machine |  |  |  |  |  | 
 
 [[END OF PAGE 120]]
 
@@ -4599,13 +4246,13 @@ Education Sector Plan
 
 Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-activities improved, particularly regarding sports facilities | Lobby for getting approval through the Ministry of Finance in order to introduce changes into the provision with infrastructure and basic material resources. | MoPE, Out-of- school education Sector | 10
-Establish modern computer classes and IT classes at the Out-of- School institutions | MoPE, Out-of- school education Sector | 20 | Computer labs | In 5 regions of Uzbekistan
-Equip the Out-of-School institutions with state-of- the-art sports equipment | MoPE, Out-of- school education Sector | 10 | Sports inventory | In 10 regions of Uzbekistan
-Equip the Out-of-School institutions to use inclusive education approaches | MoPE, Out-of- school education Sector | 50 | equipment | Transportation costs
-OP 7.3 Quality and availability of teachers for extra-curricular activities improved | Form a commission and analyse the quality of teachers | MoPE, Out-of- school education Sector 10 | salary, printers, laptops | PCs, | Transportation costs
-Develop joint activities with the Institute of Professional Development of teachers to train specialists | Working group | 10 | Transportation costs
-Establish professional development courses at Out-of-School institutions via distance education | MoPE in partnership with IRI | 20 | PCs, internet- training curricula (software)
+activities improved, particularly regarding sports facilities | Lobby for getting approval through the Ministry of Finance in order to introduce changes into the provision with infrastructure and basic material resources. | MoPE, Out-of-school education Sector | 10 |  |  |  |  |  |  | 
+ | Establish modern computer classes and IT classes at the Out-of-School institutions | MoPE, Out-of-school education Sector | 20 | Computer labs | In 5 regions of Uzbekistan |  |  |  |  | 
+ | Equip the Out-of-School institutions with state-of-the-art sports equipment | MoPE, Out-of-school education Sector | 10 | Sports inventory | In 10 regions of Uzbekistan |  |  |  |  | 
+ | Equip the Out-of-School institutions to use inclusive education approaches | MoPE, Out-of-school education Sector | 50 | equipment | Transportation costs |  |  |  |  | 
+OP 7.3 Quality and availability of teachers for extra-curricular activities improved | Form a commission and analyse the quality of teachers | MoPE, Out-of-school education Sector | 10 | salary, PCs, printers, laptops | Transportation costs |  |  |  |  | 
+ | Develop joint activities with the Institute of Professional Development of teachers to train specialists | Working group | 10 |  | Transportation costs |  |  |  |  | 
+ | Establish professional development courses at Out-of-School institutions via distance education | MoPE in partnership with IRI | 20 | PCs, internet-training curricula (software) |  |  |  |  |  | 
 
 [[END OF PAGE 121]]
 
@@ -4615,15 +4262,15 @@ Education Sector Plan
 
 122
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2017
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Organise educational sites at all national organisations for self- education | Out-of-school education Sector | 7 | Software
-Submit recommendations to the Cabinet of Ministers on establishing departments at all Pedagogical Institutions to train specialists for the Out-of- School education system | MoPE, Out-of- school education Sector | 10
-OP 7.4 M+E strategy for linking M+E procedures of formal and non- formal education strengthened in order to support continuity | Study the interrelations between the Out-of- School education institutions and general education schools | MoPE, Out-of- school education Sector | 20 | laptops, machine | fax- | Transportation costs to regions
-Develop a document for joint activities of schools and Out-of-School education institutions | MoPE, Out-of- school education Sector 20 | PC, printer , machine | fax- | Transportation costs
-Develop a curriculum on continuous education at schools and Out-of- School educational institutions | Working group | 30 | PC, printer , fax- machine | Transportation costs
-Develop various qualified programmes for higher grade students | Working group | 15 | Transportation costs
-Develop a single curriculum together with the general education | Working group | 15 | PC, digital photocamera | fax-machine, | Transportation costs
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ | Organise educational sites at all national organisations for self-education | Out-of-school education Sector | 7 | Software |  |  |  |  |  | 
+ | Submit recommendations to the Cabinet of Ministers on establishing departments at all Pedagogical Institutions to train specialists for the Out-of-School education system | MoPE, Out-of-school education Sector | 10 |  |  |  |  |  |  | 
+OP 7.4 M+E strategy for linking M+E procedures of formal and non-formal education strengthened in order to support continuity | Study the interrelations between the Out-of-School education institutions and general education schools | MoPE, Out-of-school education Sector | 20 | laptops, fax-machine | Transportation costs to regions |  |  |  |  | 
+ | Develop a document for joint activities of schools and Out-of-School education institutions | MoPE, Out-of-school education Sector | 20 | PC, printer , fax-machine | Transportation costs |  |  |  |  | 
+ | Develop a curriculum on continuous education at schools and Out-of-School educational institutions | Working group | 30 | PC, printer , fax-machine | Transportation costs |  |  |  |  | 
+ | Develop various qualified programmes for higher grade students | Working group | 15 |  | Transportation costs |  |  |  |  | 
+ | Develop a single curriculum together with the general education | Working group | 15 | PC, fax-machine, digital photocamera | Transportation costs |  |  |  |  | 
 
 [[END OF PAGE 122]]
 
@@ -4635,12 +4282,12 @@ Education Sector Plan
 
 Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-OP 7.5 International exchange for children and youth in extra- curricular activities facilitated | schools
-Establish a working group to analyse the activities at Out-of- School education institutions and normative documents on international exchange | MoPE, Out-of- school education Sector | 20 | Travel to 5 regions
-Study the experience of Out-of-School (or other "additional education") institutions in foreign countries | MoPE, Out-of- school education Sector | 10 | laptops, digital photocamera | Transportation costs
-Develop and submit recommendations to the Cabinet of Ministers on child tourism | MoPE, Out-of- school education Sector | 20 | Transportation costs, Travel to 5 regions
-Establish tourism bases in all regions to welcome children from foreign countries | Working group | 15 | Construction of and equipping buildings | Transportation costs, Travel to 4 regions
-Develop joint document on integration of children, together with families and Makhallas | Working group | 30 | Equipping centers in makhallas | Transportation costs
+ | schools |  |  |  |  |  |  |  |  | 
+OP 7.5 International exchange for children and youth in extra-curricular activities facilitated | Establish a working group to analyse the activities at Out-of-School education institutions and normative documents on international exchange | MoPE, Out-of-school education Sector | 20 |  | Travel to 5 regions |  |  |  |  | 
+ | Study the experience of Out-of-School (or other "additional education") institutions in foreign countries | MoPE, Out-of-school education Sector | 10 | laptops, digital photocamera | Transportation costs |  |  |  |  | 
+ | Develop and submit recommendations to the Cabinet of Ministers on child tourism | MoPE, Out-of-school education Sector | 20 |  | Transportation costs, Travel to 5 regions |  |  |  |  | 
+ | Establish tourism bases in all regions to welcome children from foreign countries | Working group | 15 | Construction of and equipping buildings | Transportation costs, Travel to 4 regions |  |  |  |  | 
+ | Develop joint document on integration of children, together with families and Makhallas | Working group | 30 | Equipping centers in makhallas | Transportation costs |  |  |  |  | 
 
 [[END OF PAGE 123]]
 
@@ -4652,15 +4299,15 @@ Education Sector Plan
 
 #### 4.4.8. PLAN OF ACTIONS: RESULTS AND ACTIVITIES (OUTCOME # 8)
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/co mments | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Outcome 8: Children and youth with special educational needs supported in accordance with their specific requirements and/or talents, for them to adequately participate in education
-OP 8.1 Special educational needs policy strengthened regarding an intensified unified (inclusive) education approach | Establish a working group for the analysis of the legal basis | MoPE, Children's rehabilitation Sector | 30 | In partnership with MoLSSP and MoH
-Analyse the existing legal documents | Working group | 10 | laptop | In partnership with MoLSSP, MoH and MoJ
-Develop statutes "on inclusive education", "on MPPC", "on logopaedic rooms at schools", "Defectologists of the pre-school institutions" | Working group | 30 | laptop, printers, videocamera | 3 groups
-Approve the developed documents | Children's rehabilitation Sector | 5
-Familiarise all participants of the education process and other stakeholders | MoPE, Children's rehabilitation Sector,RCE, CIRI Avloniy | 10 | Fax-machine, 3 in 1 printers, PCs | Mass media, community
-OP 8.2 Physical condition and availability of institutions and/or facilities for | Establish a working group on analysing the infrastructure | MoPE, procurement Sector | 20
+OP 8.1 Special educational needs policy strengthened regarding an intensified unified (inclusive) education approach | Establish a working group for the analysis of the legal basis | MoPE, Children's rehabilitation Sector | 30 |  | In partnership with MoLSSP and MoH |  |  |  |  | 
+ | Analyse the existing legal documents | Working group | 10 | laptop | In partnership with MoLSSP, MoH and MoJ |  |  |  |  | 
+ | Develop statutes "on inclusive education", "on MPPC", "on logopaedic rooms at schools", "Defectologists of the pre-school institutions" | Working group | 30 | laptop, printers, videocamera | 3 groups |  |  |  |  | 
+ | Approve the developed documents | Children's rehabilitation Sector | 5 |  |  |  |  |  |  | 
+ | Familiarise all participants of the education process and other stakeholders | MoPE, Children's rehabilitation Sector,RCE, CIRI Avloniy | 10 | Fax-machine, 3 in 1 printers, PCs | Mass media, community |  |  |  |  | 
+OP 8.2 Physical condition and availability of institutions and/or facilities for | Establish a working group on analysing the infrastructure | MoPE, procurement Sector | 20 |  |  |  |  |  |  | 
 
 [[END OF PAGE 124]]
 
@@ -4670,13 +4317,13 @@ Education Sector Plan
 
 125
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/co mments | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-learners with special educational needs improved | Develop a method of needs assessment in the area of education the children with SEN | Working group | 10 | PCs
-Collect data on the existing infrastructure and material and technical basis | Working group | 50 | laptop, videocamera
-Analyse, develop and implement normative requirements on provision of educational institutions | Working group | 20
-Purchase equipment, improve infrastructure, organize distance education | MoPE, procurement sector | 20 | Visual magnifier, audio- amplifying antennae
-OP 8.3 Capacities of teachers, administrators, and other educational staff dealing with children with special educational needs, to identify | Conduct needs assessment of directors, teachers and others in the area of SEN MoPE, | Children's rehabilitation Sector,RCE, CIRI Avloniy 10 | PCs, laptops
+learners with special educational needs improved | Develop a method of needs assessment in the area of education the children with SEN | Working group | 10 | PCs |  |  |  |  |  | 
+ | Collect data on the existing infrastructure and material and technical basis | Working group | 50 | laptop, videocamera |  |  |  |  |  | 
+ | Analyse, develop and implement normative requirements on provision of educational institutions | Working group | 20 |  |  |  |  |  |  | 
+ | Purchase equipment, improve infrastructure, organize distance education | MoPE, procurement sector | 20 | Visual magnifier, audio-amplifying antennae |  |  |  |  |  | 
+OP 8.3 Capacities of teachers, administrators, and other educational staff dealing with children with special educational needs, to identify | Conduct needs assessment of directors, teachers and others in the area of SEN | MoPE, Children's rehabilitation Sector,RCE, CIRI Avloniy | 10 | PCs, laptops |  |  |  |  |  | 
 
 [[END OF PAGE 125]]
 
@@ -4686,14 +4333,14 @@ Education Sector Plan
 
 126
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/co mments | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-and to respond to diverse needs of learners strengthened | Develop modules to train trainers and specialists, methodological manuals an didactical materials and ICT resources (web resources) | RCE, CIRI Avloniy | 20 | PCs, printers, mini- printing system/devise
-Include inclusive education cycles into the training courses for skills improvement of teachers and directors | CIRI Avloniy | 10 | PCs, printers | MoPE, dept of children rehabilitation
-Establish resource centres on inclusive education, including web-resource centres | MoPE, Children's rehabilitation Sector | 48 | PCs, printers, fax- machine | One resourse center in each of 14 regions of the country
-Conduct final M+E exercise | Working group | 20 | PCs, fax-machine
-OP 8.4 M+E strategy for special needs education developed and integrated into | Establish a working group to develop a method for assessing the specific needs of children with SEN | MoPE, Children's rehabilitation Sector | 10 | PCs, printers
-general M+E strategy | Study the educational needs of Children with SEN | Working group | 10
+and to respond to diverse needs of learners strengthened | Develop modules to train trainers and specialists, methodological manuals an didactical materials and ICT resources (web resources) | RCE, CIRI Avloniy | 20 | PCs, printers, mini-printing system/devise |  |  |  |  |  | 
+ | Include inclusive education cycles into the training courses for skills improvement of teachers and directors | CIRI Avloniy | 10 | PCs, printers | MoPE, dept of children rehabilitation |  |  |  |  | 
+ | Establish resource centres on inclusive education, including web-resource centres | MoPE, Children's rehabilitation Sector | 48 | PCs, printers, fax-machine | One resourse center in each of 14 regions of the country |  |  |  |  | 
+ | Conduct final M+E exercise | Working group | 20 | PCs, fax-machine |  |  |  |  |  | X
+OP 8.4 M+E strategy for special needs education developed and integrated into general M+E strategy | Establish a working group to develop a method for assessing the specific needs of children with SEN | MoPE, Children's rehabilitation Sector | 10 | PCs, printers |  |  |  |  |  | 
+ | Study the educational needs of Children with SEN | Working group | 10 |  |  |  |  |  |  | 
 
 [[END OF PAGE 126]]
 
@@ -4703,13 +4350,13 @@ Education Sector Plan
 
 127
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/co mments | 2013 | 2014 | 2015 | 2016
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Develop the context of educating children with SEN, e.g. education requirements, interactive methods, use of ICT | Working group | 20 | Mini printer
-Develop modules for individual programmes for development of interactive education methods for children with SEN | Working group | 10 | PCs
-Develop instruments to assess educational results in correspondence with existing M+E procedures for general education | Working group | 5 | PCs
-OP 8.5 Awareness of parents and the general public regarding the benefits of inclusive education raised | Establish a working group on monitoring of parents awareness, including the development of related materials (e.g. booklets, posters, programme scenarios and videos) MoPE, | Children's rehabilitation Sector | 20 | PCs, fax-machine, vidocamera, mini printer
-Pre-test and approve the developed materials | Working group | 10 | PCs, printers
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ | Develop the context of educating children with SEN, e.g. education requirements, interactive methods, use of ICT | Working group | 20 | Mini printer |  |  |  |  |  | 
+ | Develop modules for individual programmes for development of interactive education methods for children with SEN | Working group | 10 | PCs |  |  |  |  |  | 
+ | Develop instruments to assess educational results in correspondence with existing M+E procedures for general education | Working group | 5 | PCs |  |  |  |  |  | 
+OP 8.5 Awareness of parents and the general public regarding the benefits of inclusive education raised | Establish a working group on monitoring of parents awareness, including the development of related materials (e.g. booklets, posters, programme scenarios and videos) | MoPE, Children's rehabilitation Sector | 20 | PCs, fax-machine, vidocamera, mini printer |  |  |  |  |  | 
+ | Pre-test and approve the developed materials | Working group | 10 | PCs, printers |  |  |  |  |  | 
 
 [[END OF PAGE 127]]
 
@@ -4719,15 +4366,15 @@ Education Sector Plan
 
 128
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/co mments | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Disseminate developed materials, e.g. by broadcasts through the mass media | Working group | 10 | Publishing, advertisement in newspapers and on TV
-Conduct trainings for parents and children on the benefits of inclusive education | trainers group | 10
-Monitor degree of population awareness on inclusive education | Working group | 10 | X
-OP 8.6 Inter-sectoral and inter-ministerial approach strengthened in the interest of | Establish a working group on coordination of interdepartmental cooperation within the system of education | MoPE Social security Sector, MoLSSP | 10 | PCs, fax-machine | In partnership with MoLSSP and MoH
-Identify the mechanism of coordinating the inter-sector and inter- departmental collaboration in the education sector MoPE, | Children's rehabilitation Sector 10 | Multimedia projector | In partnership with MoLSSP and MoH
-promoting continuity across sub-sectors and ministries | Develop the normative base that ensures the operation of the mechanism of coordinating inter- sectoral collaboration | MoPE Social security Sector | 10 | laptop | In partnership with MoLSSP and MoH
-Introduce the mechanism of inter- sectoral and inter- departmental coordination in the area | MoPE Social security Sector | 10 | In partnership with MoLSSP and MoH
+ | Disseminate developed materials, e.g. by broadcasts through the mass media | Working group | 10 |  | Publishing, advertisement in newspapers and on TV |  |  |  |  | 
+ | Conduct trainings for parents and children on the benefits of inclusive education | trainers group | 10 |  |  |  |  |  |  | 
+ | Monitor degree of population awareness on inclusive education | Working group | 10 |  |  | X |  |  |  | 
+OP 8.6 Inter-sectoral and inter-ministerial approach strengthened in the interest of promoting continuity across sub-sectors and ministries | Establish a working group on coordination of interdepartmental cooperation within the system of education | MoPE Social security Sector, MoLSSP | 10 | PCs, fax-machine | In partnership with MoLSSP and MoH |  |  |  |  | 
+ | Identify the mechanism of coordinating the inter-sector and inter-departmental collaboration in the education sector | MoPE, Children's rehabilitation Sector | 10 | Multimedia projector | In partnership with MoLSSP and MoH |  |  |  |  | 
+ | Develop the normative base that ensures the operation of the mechanism of coordinating inter-sectoral collaboration | MoPE Social security Sector | 10 | laptop | In partnership with MoLSSP and MoH |  |  |  |  | 
+ | Introduce the mechanism of inter-sectoral and inter-departmental coordination in the area | MoPE Social security Sector | 10 |  | In partnership with MoLSSP and MoH |  |  |  |  | 
 
 [[END OF PAGE 128]]
 
@@ -4737,12 +4384,13 @@ Education Sector Plan
 
 129
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/co mments | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-of Special Needs Education Monitor the coordination of inter- sectoral and inter- departmental interaction in the interest of ensuring the | MoPE Social security Sector | 10 | In partnership with MoLSSP and MoH
-OP | Establish a working group and develop a modern classifier of professions for children with SEN | MoPE, CPOPPDS | 10
-8.7 Professional Orientation provided to Children and Youth according to their special needs | Adopt the curricula by directions considering the peculiarity for children with SEN for full-time and distance education | MoPE, CPOPPDS | 20 | PCs, copy machine | Developing and printing
-Study capabilities and potentials of children with SEN to conduct professional orientation, conduct the professional orientation in line with revealed talents | MoPE | 10 | PCs, software
+ | of Special Needs Education |  |  |  |  |  |  |  |  | 
+ | Monitor the coordination of inter-sectoral and inter-departmental interaction in the interest of ensuring the continuity of education of children with special needs | MoPE Social security Sector | 10 |  | In partnership with MoLSSP and MoH |  |  |  |  | 
+OP 8.7 Professional Orientation provided to Children and Youth according to their special needs | Establish a working group and develop a modern classifier of professions for children with SEN | MoPE, CPOPPDS | 10 |  |  |  |  |  |  | 
+ | Adopt the curricula by directions considering the peculiarity for children with SEN for full-time and distance education | MoPE, CPOPPDS | 20 | PCs, copy machine | Developing and printing |  |  |  |  | 
+ | Study capabilities and potentials of children with SEN to conduct professional orientation, conduct the professional orientation in line with revealed talents | MoPE | 10 | PCs, software |  |  |  |  |  | 
 
 [[END OF PAGE 129]]
 
@@ -4752,14 +4400,14 @@ Education Sector Plan
 
 130
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/co mments | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Develop the inter- departmental normative document which ensures admission of children with SEN into Colleges, in line with the classifier | MoPE | 10
-Monitor availability of continuous education for children with SEN | MoPE | 20
-OP 8.8 Continuity of special needs education across all educational sub- sectors ensured | Introduce changes and additions into the Law on Education to develop inclusive education | MoPE Social security Sector | 20 | PC, printer | In partnership with MoHSSE
-Develop the provisions and guidelines for education and training children with SEN at pre-school education institutions | MoPE Social security Sector | 20 | PC, printer
-Develop provisions and guidelines for educating children with SEN at general secondary education institutions | MoPE Social security Sector | 20 | PC, printer
-Develop provisions on vocational education colleges and instructive- methodological guidelines | MoPE и MoHSSE | 20 | PC, printer | In partnership with SSVE
+ | Develop the inter-departmental normative document which ensures admission of children with SEN into Colleges, in line with the classifier | MoPE | 10 |  |  |  |  |  |  | 
+ | Monitor availability of continuous education for children with SEN | MoPE | 20 |  |  |  |  |  |  | 
+OP 8.8 Continuity of special needs education across all educational sub-sectors ensured | Introduce changes and additions into the Law on Education to develop inclusive education | MoPE Social security Sector | 20 | PC, printer | In partnership with MoHSSE |  |  |  |  | 
+ | Develop the provisions and guidelines for education and training children with SEN at pre-school education institutions | MoPE Social security Sector | 20 | PC, printer |  |  |  |  |  | 
+ | Develop provisions and guidelines for educating children with SEN at general secondary education institutions | MoPE Social security Sector | 20 | PC, printer |  |  |  |  |  | 
+ | Develop provisions on vocational education colleges and instructive-methodological guidelines | MoPE и MoHSSE | 20 | PC, printer | In partnership with SSVE |  |  |  |  | 
 
 [[END OF PAGE 130]]
 
@@ -4769,9 +4417,9 @@ Education Sector Plan
 
 131
 
-Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/co mments | 2013 | 2014 | 2015 | 2016 | 2017
+Results | Activities | Responsible parties | Human resources required | Material contribution | Suggestions/comments | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Monitor the availability of continuous education for children with SEN | Working group | 20 | Fax-machine
+ | Monitor the availability of continuous education for children with SEN | Working group | 20 | Fax-machine |  |  |  |  |  | 
 
 [[END OF PAGE 131]]
 
@@ -4801,7 +4449,7 @@ Organizations, included into the monitoring, and that provide information on edu
 
 The education system possesses enough capacity to guarantee the implementation of the drafted plans for developing  and  improving  the  education  sector.  At  the  same  time,  it  recognizes  that  plans  have  more chances to be implemented only if the capacity is built (developed). The activities on improving the national capacity are provided with significant support from international institutions, who implement their projects in Uzbekistan (UNDP, UNESCO, UNICEF, WB, ADB, and others).
 
-Further development of the potential will be secured by the level of project ideologists' and implementers' motivation.  It  also  has  to  do  with  the  selection  of  the  most  effective  technologies  and  dissemination  of those, refusing the incorrect results of the previous projects (lessons learned) and increase in professional capacities  of  project  implementers.  In  order  to  secure  the  successful  implementation  of  the  ESP,  it  is necessary to improve the human resources' capacity belonging to the following six categories:
+Further development of the potential will be secured by the level of project ideologists' and implementers' motivation. It also has to do with the selection of the most effective technologies and dissemination of those, refusing the incorrect results of the previous projects (lessons learned) and increase in professional
 
 [[END OF PAGE 132]]
 
@@ -4809,17 +4457,19 @@ Further development of the potential will be secured by the level of project ide
 
 133
 
-- Government officials, who make decisions and can influence the public opinion;
+capacities of project implementers. In order to secure the successful implementation of the ESP, it is necessary to improve the human resources' capacity belonging to the following six categories:
 
-- Managers and executers of programs and projects on the ESP;
+1) Government officials, who make decisions and can influence the public opinion;
 
-- Teaching methods specialists at regional and district education authorities;
+2) Managers and executers of programs and projects on the ESP;
 
-- Monitoring and evaluation specialists in all levels of the organizational structure within the education sector;
+3) Teaching methods specialists at regional and district education authorities;
 
-- Heads and teachers of educational institutions;
+4) Monitoring and evaluation specialists in all levels of the organizational structure within the education sector;
 
-- Local community, including youth, women, children
+5) Heads and teachers of educational institutions;
+
+6) Local community, including youth, women, children
 
 ### 4.6 COMMUNICATION PLAN
 
@@ -4849,13 +4499,15 @@ The Communication Plan will be elaborated and improved based on the needs of eac
 
 ### 4.7. RISK ASSESSMENT
 
-The Government is eager in its intention to implement the above-presented plan. At the same time, the Government acknowledges that implementation of the ESP may be linked to a series of negative factors that have direct or indirect impact on the results of the activities implemented. Therefore, the working group has conducted the analysis of potential risks along the way of developing the ESP. Further, the working group has identified safeguards for mitigating the risks during implementation of the ESP. The risks were assessed to reflect the possibility of their occurrence, as well as the level of impact on implementation of the Education Sector Plan.
+The Government is eager in its intention to implement the above-presented plan. At the same time, the Government acknowledges that implementation of the ESP may be linked to a series of negative factors that have direct or indirect impact on the results of the activities implemented. Therefore, the working group has conducted the analysis of potential risks along the way of developing the ESP. Further, the working group has identified safeguards for mitigating the risks during implementation of the ESP. The risks were assessed to reflect the possibility of their occurrence, as well as the level of impact on implementation of
 
 [[END OF PAGE 133]]
 
 [[START OF PAGE 134]]
 
 134
+
+the Education Sector Plan.
 
 Although, there's instability in certain countries in the region, Uzbekistan maintains socio-economic stability, and education is identified as a priority area within the domain of social development. It allows not looking at political risks since no changes are expected in the short run on the political course of the Government or in the priority areas of its operations.
 
@@ -4865,7 +4517,7 @@ The risks related to wrongfully selected priorities for the development of the e
 
 The key risks include the possible reduction in the volume of the previously allocated budget or instability of financing in the process of the ESP implementation, as well as ineffective usage of the allocated financial resources.  In  such  a  case,  the  structure  of  the  ESP  can  be  changed,  but  the  stability  of  the  national currency, successful implementation of the Anti-crisis Program in the Banking system allow continuing the initiated changes without revising the tasks and forming new parameters of the budget.
 
-Yet  another  result  of  structural  and  content-based  changes  introduced  to  the  ESP,  will  be  related  to challenges in administration of the ESP. It in turn will have a negative impact on the efficiency of the ESP as whole. The risk of inefficient management may result in failing to implement the key tasks within the education  system.  And  the  failure  to  implement  the  tasks,  along  with  direct  economic  losses,  will significantly  reduce  the  positive  impacts,  provided  by  previous  stages  of  the  reforms  in  the  continuing education  system.  However,  the  risk  will  significantly  mitigated  by  means  of  joint  coordination  and monitoring with international donors, as well as via capacity building of officials following the method 'resultbased management'.
+Yet another result of structural and content-based changes introduced to the ESP, will be related to challenges in administration of the ESP. It in turn will have a negative impact on the efficiency of the ESP as whole. The risk of inefficient management may result in failing to implement the key tasks within the education system. And the failure to implement the tasks, along with direct economic losses, will significantly reduce the positive impacts, provided by previous stages of the reforms in the continuing education system. However, the risk will significantly mitigated by means of joint coordination and monitoring with international donors, as well as via capacity building of officials following the method "result-based management".
 
 Socio-economic results of the ESP implementation shall be made clear not only to teachers' community, but also to the society as whole. Otherwise, the society may become indifferent or, in worse-case scenario, even turn to disapprove or express a negative attitude towards to the Education Sector Plan as whole and to  its  individual  components  (areas)  in  particular.  It  will  result  in  the  outcomes  of  the  ESP  become unclaimed. The key factor for reducing that risk is related to the timely sensitization and awareness raising work, informing population on goals, objectives and implementation process of the ESP. For that purpose, the  Plan  for  communication  and  dissemination  of  information  about  the  process  of  drafting  and implementation of the Education Sector Plan was developed.
 
@@ -4873,13 +4525,15 @@ Also, it is obvious that the failure to solve even a single task within the ESP 
 
 The  reduction  of  the  risk  can  also  be  facilitated  by  joint  reviews  of  the  education  sector,  conducted  in collaboration with the Group for Coordination of Donor Support, Local Working Group and partners on the ESP implementation.
 
-The consequences of natural disasters (earthquake) might have negative impact on implementation of the ESP,  however,  the  decentralization,  namely  the  availability  of  14  regional  and  about  200  district administrative bodies, along with 70 agencies for training personnel, located outside of the capital city of Uzbekistan reduces the risk to implementation of the ESP.
+The consequences of natural disasters (earthquake) might have negative impact on implementation of the ESP, however, the decentralization, namely the availability of 14 regional and about 200 district administrative bodies, along with 70 agencies for training personnel, located outside of the capital city of
 
 [[END OF PAGE 134]]
 
 [[START OF PAGE 135]]
 
 135
+
+Uzbekistan reduces the risk to implementation of the ESP.
 
 ## 5. MONITORING AND EVALUATION OF THE EDUCATION SECTOR DEVELOPMENT PLAN
 
@@ -4913,7 +4567,7 @@ The monitoring and evaluation of the ESP will be based on structures and the met
 
 The monitoring services under the ministries, regional and district (city) departments for education, as well as the local group for planning the development strategy serve as the basis for building a complex system of monitoring and evaluation of the Education Sector Plan for the period of 2013-2017 (see M+E system below).
 
-On the micro level (i.e. on the level of activities), the monitoring reflects whether all types of actions being conducted as described in the plan, and if there is a need for assistance or intervention. Such an analysis will be conducted on a monthly basis.
+On the micro level (i.e. on the level of activities), the monitoring reflects whether all types of actions being
 
 [[END OF PAGE 135]]
 
@@ -4921,97 +4575,21 @@ On the micro level (i.e. on the level of activities), the monitoring reflects wh
 
 136
 
+conducted as described in the plan, and if there is a need for assistance or intervention. Such an analysis will be conducted on a monthly basis.
+
 On a macro level (i.e. across the whole ESP), the monitoring will reveal how the whole strategy is being implemented, if resources and funds are being used in accordance with the plan, and whether the results meet the expectations.
 
 Structure of Monitoring System and Mechanism of Tracing ESP Implementation Process
 
-flow of information                           flow of recommendations
+Aid Coordination Group | Cabinet of Ministers of the Republic of Uzbekistan | Society
 
-LEVEL II
+LEVEL III | Local education group
 
-LEVEL I
+LEVEL II | Monitoring group at the MoPE | Monitoring group at the MoHSSE | Monitoring group at the Center for SSVE | Monitoring group at the MoLSSP | Monitoring group at the MoF
 
-LEVEL III
+LEVEL I | Responsible parties for implementation of the ESP | Responsible parties for implementation of the ESP | Responsible parties for implementation of the ESP | Responsible parties for implementation of the ESP | Responsible parties for implementation of the ESP
 
-Cabinet of Ministers of the
-
-Republic of Uzbekistan
-
-Society
-
-Aid Coordination Group
-
-Local education group
-
-Monitoring
-
-group at the
-
-MoPE
-
-Monitoring
-
-group at the
-
-MoHSSE
-
-Monitoring
-
-group at the
-
-Center for SSVE
-
-Monitoring
-
-group at the
-
-MoLSSP
-
-Monitoring
-
-group at the
-
-MoF
-
-Responsible
-
-parties for
-
-implementation
-
-of the ESP
-
-Responsible
-
-parties for
-
-implementation
-
-of the ESP
-
-Responsible
-
-parties for
-
-implementation
-
-of the ESP
-
-Responsible
-
-parties for
-
-implementation
-
-of the ESP
-
-Responsible
-
-parties for
-
-implementation
-
-of the ESP
+flow of information | flow of recommendations
 
 A three-level monitoring and evaluation system is established for tracking and analyzing the process of the ESP implementation.
 
@@ -5051,7 +4629,7 @@ The system of indicators has two levels i.e. output and outcome (or impact) indi
 
 There  qualitative  and  quantitative  indicators  were  formed  for  both  types  of  indicators.  The  quantitative indicators are defined as quantity measurement units, while the qualitative indicators - ratio, percentage, and level.
 
-In  the  interest  of  easy  measurability,  qualitative  indicators  need  to  be  quantified,  usually  by  means  of  a  scoring system. While still being referred to as qualitative indicators, they are  - strictly speaking  quantified qualitative indicators.
+In the interest of easy measurability, qualitative indicators need to be quantified, usually by means of a scoring system. While still being referred to as qualitative indicators, they are – strictly speaking – quantified qualitative indicators.
 
 The monitoring focuses on a set of indicators of a higher level that reflect the baseline condition and target indicators of a strategic progress in the system of the continuing education as whole, and on each type of education in particular. It is envisaged that the combination of baseline and target indicators will provide the most comprehensive picture of the education sector plan's development dynamics.
 
@@ -5059,9 +4637,9 @@ The  tables  below  provide:  specific  indicators  that  will  be  monitored,  
 
 #### 5.3.1. Indicators related to Outcome 1: Children's health and personalities developed in preparation for learning in school.
 
-Value of indicators | Monitoring arrangements
+№ | Indicator | Value of indicators |  | Monitoring arrangements | 
+ |  | Baseline for 2012/2013 | Target for 2016/2017 | Data source | Level and frequency of monitoring
 --- | --- | --- | --- | --- | ---
-№ | Indicator | Baseline for 2012/2013 | Target for 2016/2017 | Data source | Level and frequency of monitoring
 Outcome indicators
 1 | Gross enrollment ratio of children of ages 3 to67 in preschool education | 23.3% | 32.2% | SSC data | National annual
 2 | School-readiness level of children of ages 6 to 7 | 76% | 85% | MoPE survey report | National annual
@@ -5076,10 +4654,10 @@ Output indicators
 138
 
 5 | Number of teachers applying personality-centered methods and technologies of education | 3700 | 23000 | Analytical report of the RDPE | Regional Annual
---- | --- | --- | --- | --- | ---
 6 | Number of families provided with information materials on ECD | 0 | 375000 | Survey results report of MoPE | National annual
 7 | Number of teaching-methodological materials on Bolajon program | 15 | 20 | Methodical handbook of RTMCTT | National annual
 8 | Number of variation programs developed for short-stay groups | 0 | 3 | Curricula RTMCTT | National annual
+Reporting format :Comprehensive analytical-statistical report by MoPE
 
 #### 5.3.2.  Indicators  related  to  Outcome  2: Learners'  general  knowledge,  independent  thinking  skills  and organisational skills developed in preparation for successful progression into the SSVE system
 
@@ -5105,34 +4683,22 @@ Reporting format: Comprehensive analytical-statistical report of MoPE
 
 139
 
-Value of indicators | Monitoring arrangements
---- | --- | --- | --- | --- | ---
-Indicator | Baseline for 2012/2013 | Target for 2016/2017 | Data source | Level and frequency of monitoring
+#### 5.3.3. Indicators related to Outcome 3: SSVE graduates prepared for successful transition to the labour market or the higher education system
+
+Indicator | Value of indicators |  | Monitoring arrangements | 
+ | Baseline for 2012/2013 | Target for 2016/2017 | Data source | Level and frequency of monitoring
+--- | --- | --- | --- | ---
 Outcome indicators
 1 | Coefficient of general compliance of admission to vocational colleges with demands of the labor market | 0.85 | 1 | Survey results report of Center for SSVE and MoLSSP | Regional and National Annual
 2 | Ratio of employed to actual number of graduates | 93.5% | 98% | Employment report of Regional SSVE Center for SSVE | Regional and National Annual
 Output indicators
-3 | Coefficient of compliance of college admission with needs of the labor market by domains: | 0.2 | 1 1 | report by MoLSSP Center for SSVE State Statistics | Regional and National Annual
--education | 0.5 | 1
--humanities and arts -social sciences, business and law | 0.6 | Consolidated
--science | 0.5 | 1
--engineering, processing industries and | 0.87 | 1 | Committee
-construction | 1.5 | 1
--agriculture and water management -healthcare and social security | 0.4 | 1
--services | 2.5 | 1
-4 | Equipment availability level of: - classrooms | 85% | 100% | Inspection report of Regional SSVE Analytical report of the Center for | Regional and National Annual
--computer labs | 65% | 100%
-- training workshops | 60% | 90% | SSVE
+3 | Coefficient of compliance of college admission with needs of the labor market by domains: -education -humanities and arts -social sciences, business and law -science -engineering, processing industries and construction -agriculture and water management -healthcare and social security -services | 0.5 0.2 0.6 0.5 0.87 1.5 0.4 2.5 | 1 1 1 1 1 1 1 1 | Consolidated report by MoLSSP Center for SSVE State Statistics Committee | Regional and National Annual
+4 | Equipment availability level of: - classrooms -computer labs - training workshops | 85% 65% 60% | 100% 100% 90% | Inspection report of Regional SSVE Analytical report of the Center for SSVE | Regional and National Annual
 5 | Level of vocational colleges' provision with raw materials and components for vocational training | 65% | 100% | Inspection report of Regional SSVE Analytical report of the Center for SSVE | Regional and National Annual
-6 | Staffing level of educational institutions by: | 85% | 98% | Statistical report of the Center for SSVE | National Annual
-- general subjects teachers -special subjects teachers | 75% | 95%
-- vocational education masters | 45% | 90%
-7 | Share of employed graduates by: - by core specialization - by relevant specialties | 40% | 60% | Consolidated report by MoLSSP Center for SSVE State Statistics Committee | Regional and National Annual
-48.3% | 15%
+6 | Staffing level of educational institutions by: - general subjects teachers -special subjects teachers - vocational education masters | 85% 75% 45% | 98% 95% 90% | Statistical report of the Center for SSVE | National Annual
+7 | Share of employed graduates by: - by core specialization - by relevant specialties | 40% 48.3% | 60% 15% | Consolidated report by MoLSSP Center for SSVE State Statistics Committee | Regional and National Annual
 8 | Share of graduates continued education at the higher education system | 11.7% | 25% | Job-placement report of Regional SSVE, Center for SSVE | National Annual
 Reporting format : Comprehensive analytical-statistical report of the Center for SSVE
-
-#### 5.3.3. Indicators related to Outcome 3: SSVE graduates prepared for successful transition to the labour market or the higher education system
 
 [[END OF PAGE 139]]
 
@@ -5140,21 +4706,22 @@ Reporting format : Comprehensive analytical-statistical report of the Center for
 
 140
 
-Value of indicators | Monitoring arrangements
---- | --- | --- | --- | --- | ---
-Indicator | Baseline for 2012/2013 | Target for 2016/2017 | Data source | Level and frequency of monitoring
+#### 5.3.4. Indicators related to Outcome 4: Teachers prepared for the transmission of knowledge, independent thinking and organisational skills to learners, and for the development of learners' personalities in preparation for their contribution to society
+
+Indicator | Value of indicators |  | Monitoring arrangements | 
+ | Baseline for 2012/2013 | Target for 2016/2017 | Data source | Level and frequency of monitoring
+--- | --- | --- | --- | ---
 Outcome indicator
 1 | Growth of educational achievements indicators among the students of teachers who underwent in-service training | 0% | 60% | MoPE survey results report | National Annual
 Output indicators
 2 | Number of developed variation and differentiated basic curricula and programs for in-service training of teachers | 4 | 36 | Curricula of CIRI Avloni | National Annual
 3 | Level of teachers' coverage by distance education in in-service training | 2.5% | 15% | Annual report of regional TISTI Analytical report of MoPE | Regional and National Annual
 4 | Share of school teachers trained on practical application of innovative technologies, forms and methods of teaching | 38% | 100% | Analytical report of RDPE, MoPE | Regional and National Annual
-5 teaching | Level of equipment availability at teacher training and re-training institutions: - learning-lab equipment - classroom equipment - computer technologies -interactive means of | 80% 40% 52% | 100% 100% 100% | Inspection report of MoPE | Regional and National Annual
+5 | Level of equipment availability at teacher training and re-training institutions: - learning-lab equipment - classroom equipment - computer technologies -interactive means of teaching - distance education equipment | 80% 40% 52% 22% 2% | 100% 100% 100% 100% 90% | Inspection report of MoPE | Regional and National Annual
 6 | Share of TISTI teachers using innovative technologies in teaching | 45.8% | 75% | MoPE lessons' analyses | National Quarterly
 7 | Share of teachers involved in research activities | 27% | 50% | Annual report on scientific projects implementation TISTI MoPE | Regional and National Annual
-8 Reporting format : Comprehensive analytical-statistical report | Level of students' satisfaction by organizational-pedagogical conditions of education process | 60% | 100% MoPE | Final exams of TISTI students Analytical report of MoPE | Regional and National Quarterly
-
-#### 5.3.4.  Indicators  related  to  Outcome  4: Teachers  prepared  for  the  transmission  of  knowledge, independent thinking  and organisational skills to learners,  and for the development  of learners' personalities in preparation for their contribution to society
+8 | Level of students' satisfaction by organizational-pedagogical conditions of education process | 60% | 100% | Final exams of TISTI students Analytical report of MoPE | Regional and National Quarterly
+Reporting format : Comprehensive analytical-statistical report of MoPE
 
 [[END OF PAGE 140]]
 
@@ -5164,11 +4731,9 @@ Output indicators
 
 #### 5.3.5 Indicators related to Outcome 5: Graduates prepared as highly qualified specialists to contribute to scientific progress, socio-economic and cultural development of the country
 
-#### 5.3.6.  Indicators  related  to  Outcome  6: Adults  empowered  to  expand  their  knowledge  and  skills according to their needs and interests through non-formal adult education
-
-Value of indicators | Monitoring arrangements
---- | --- | --- | --- | --- | ---
-Indicator | Baseline for 2012/2013 | Target for 2016/2017 | Data source | Level and frequency of monitoring
+Indicator | Value of indicators |  | Monitoring arrangements | 
+ | Baseline for 2012/2013 | Target for 2016/2017 | Data source | Level and frequency of monitoring
+--- | --- | --- | --- | ---
 Outcome indicator
 1 | Share of employed graduates | 85.3% | 92.7% | Job-placement report of MoHSSE | National Annual
 Output indicators
@@ -5176,23 +4741,24 @@ Output indicators
 3 | Succession level of educational programs of bakalavriyat and secondary special vocational education | 16.6% | 72.1% | Consolidated report of MoHSSE, Center for SSVE | National Annual
 4 | Number of learning labs provided with modern equipment | 0 | 296 | Inspection report of MoHSSE | National Annual
 5 | Number of renovated scientific labs | 0 | 15 | Inspection report of MoHSSE | National Annual
-6 | Number of multimedia teaching- methodical sets developed for distance education | 3500 | 6000 | Methodical sets of MoHSSE | National Annual
+6 | Number of multimedia teaching-methodical sets developed for distance education | 3500 | 6000 | Methodical sets of MoHSSE | National Annual
 7 | Share of teachers who speak foreign languages | 31.6% | 56% | Test results MoHSSE | National Annual
 8 | Share of teachers using innovative technologies in teaching | 61.3% | 90% | Survey results report MoHSSE | National Annual
-9 | Number of teachers underwent in- service training and internship abroad | 400 | 500 | Annual report of the MoHSSE | National Annual
+9 | Number of teachers underwent in-service training and internship abroad | 400 | 500 | Annual report of the MoHSSE | National Annual
 10 | Female/male ratio among students | 38/62 | 45/55 | Statistical report of MoHSSE | National Annual
 Reporting format : Comprehensive analytical-statistical report of MoHSSE
 
+#### 5.3.6. Indicators related to Outcome 6: Adults empowered to expand their knowledge and skills according to their needs and interests through non-formal adult education
+
 (a number of indicators are being developed, the final set is expected by the end of 2013)
 
-Value of indicators | Monitoring arrangements
---- | --- | --- | --- | --- | ---
-Indicator | Baseline for 2012/2013 | Target for 2016/2017 | Data source | Level and frequency of monitoring
+Indicator | Value of indicators |  | Monitoring arrangements | 
+ | Baseline for 2012/2013 | Target for 2016/2017 | Data source | Level and frequency of monitoring
+--- | --- | --- | --- | ---
 Outcome indicators
 1 | Level of adults' motivation in the development of professional skills, educational levels and personal interests | Additional study is required | In process of drafting | Survey results report MoLSSP | National
 2 | Level of competitiveness of adult education graduates | Additional study is required | In process of drafting | Survey results report MoLSSP | National
-3 | Number of the temporarily unemployed turned to a job- placement center for re-training | Additional study is required | In process of drafting | Statistical report MoLSSP | National
-
+3 | Number of the temporarily unemployed turned to a job-placement center for re-training | Additional study is required | In process of drafting | Statistical report MoLSSP | National
 Reporting format : Comprehensive analytical-statistical report of MoLSSP
 
 An additional study will be conducted on the issue by the end of 2013.
@@ -5203,22 +4769,23 @@ An additional study will be conducted on the issue by the end of 2013.
 
 142
 
-Value of indicators | Monitoring arrangements
---- | --- | --- | --- | --- | ---
-Indicator | Baseline for 2012/2013 | Target for 2016/2017 | Data source | Level and frequency of monitoring
+#### 5.3.7. Indicators related to Outcome 7: Opportunities created for children and youth to pursue their interests during their free time
+
+Indicator | Value of indicators |  | Monitoring arrangements | 
+ | Baseline for 2012/2013 | Target for 2016/2017 | Data source | Level and frequency of monitoring
+--- | --- | --- | --- | ---
 Outcome indicators
 1 | Gross enrollment ratio of children in out-of-school education Share of students in the network of sports schools Share of students in the network of music and arts schools Share of students in the network of Center Barkamol Avlod | 8,9% 6,1% 1,0% 1,8% | 11,2% 7,2% 1,5% 2,5% | Academic Year Statistical Yearbook MoPE | National Annual
 Output indicators
 2 | Level of provision with textbooks and teaching-methodical manuals at: - sports schools - music and arts schools - Barkamol Avlod centers | 80% 3% 33% | 100% 50% 100% | MoPE Analytical report | National Annual
 3 | Equipment availability level of: - sports schools - music and arts schools - Barkamol Avlod centers | 15,0 63,0 38,0 | 80,0 100,0 100,0 | MoPE Analytical report | National Annual
-
-#### 5.3.7.  Indicators  related  to  Outcome  7: Opportunities  created  for  children  and  youth  to  pursue  their interests during their free time
+Reporting format : Comprehensive analytical-statistical report of MoPE
 
 #### 5.3.8. Indicators related to Outcome 8: Children and youth with special educational needs supported in accordance with their specific requirements and/or talents, for them to adequately participate in education
 
-Value of indicators | Monitoring arrangements
---- | --- | --- | --- | --- | ---
-Indicator | Baseline for 2012/2013 | Target for 2016/2017 | Data source | Level and frequency of monitoring
+Indicator | Value of indicators |  | Monitoring arrangements | 
+ | Baseline for 2012/2013 | Target for 2016/2017 | Data source | Level and frequency of monitoring
+--- | --- | --- | --- | ---
 Outcome indicators
 1 | Level of accessibility of educational institutions for children with disabilities: - development level of special infrastructure in preschools - development level of special infrastructure in schools | 0% 25,0% | 10% 43,0% | Inspection report of MoPE | National Annual
 2 | Involving children with disabilities to inclusive education: - enrollment ratio in preschool education - enrollment ratio in secondary education | 0% 2% | 8% 10% | Academic year annual report of RDPE MoPE Analytical report | Regional and National Annual
@@ -5238,6 +4805,7 @@ children with special education needs
 6 | Percentage of families provided with information materials on inclusive education | 0% | 30% | Dissemination registrar of MoPE | National Annual
 7 | Share of teaching hours on inclusive education included into the curriculum of pre-school teachers' in-service training | 0% | 7% | Programs of the R RTMCTT | National Annual
 8 | Share of teaching hours on inclusive education included into the curriculum of in-service training for school heads and teachers | 0% | 7% | Programs of CIRI Avloni | National Annual
+Reporting format : Comprehensive analytical-statistical report of MoPE
 
 [[END OF PAGE 143]]
 
@@ -5249,87 +4817,29 @@ children with special education needs
 
 This section presents the data, process and results of the financial simulation (modelling) conducted based on the baseline data and the policy targets set by the ESP.
 
-A set of scenarios have been designed to test the realism, coherence and credibility of different education development  options  and  policies  using  a  computer-operated  mode.  It  serves  as  tool  for  exploring  the education development options in a dynamic, interdependent and evolving context. This model EPSSim (Education Policy and Strategy Simulation) was adjusted to fit the specificities of the education system in Uzbekistan.  The  figure  below  presents  the  simplified  flow  diagram  of  the  structure  of  the  simulation model. 66
+A set of scenarios have been designed to test the realism, coherence and credibility of different education development options and policies using a computer-operated mode. It serves as tool for exploring the education development options in a dynamic, interdependent and evolving context. This model - EPSSim (Education Policy and Strategy Simulation) was adjusted to fit the specificities of the education system in Uzbekistan. The figure below presents the simplified flow diagram of the structure of the simulation model.⁶⁶
 
 Diagram of the structure of the simulation model
 
-Population
+Population eligible for Grade 1
 
-eligible for
+Gross intake rate
 
-Grade 1
+Flow rates (promotion, repetition, and dropout)
 
-Projected
+Enrolment projections
 
-domestic
+Resource utilization targets/indicators
 
-resources
-
-(recurrent and
-
-capital) by
-
-year
-
-Yearly funding
-
-gaps
-
-(recurrent and
-
-capital)
-
-Gross intake
-
-rate
-
-Resource
-
-utilization
-
-targets/indic
-
-ators
-
-Flow rates
-
-(promotion,
-
-repetition,
-
-and dropout)
+Projections of teachers, textbooks, classrooms and other inputs
 
 Unit costs
 
-Enrolment
+Cost estimates for teachers, textbooks, classrooms and other inputs
 
-projections
+Projected domestic resources (recurrent and capital) by year
 
-Projections of
-
-teachers,
-
-textbooks,
-
-classrooms
-
-and other
-
-inputs
-
-Cost
-
-estimates for
-
-teachers,
-
-textbooks,
-
-classrooms
-
-and other
-
-inputs
+Yearly funding gaps (recurrent and capital)
 
 The results presented in this section are sector-wide to cover the scope of the ESP, meaning that they address not only all the sub-sectors under the jurisdiction of the Ministry of Public Education, but also the educational  systems  under  the  Ministry  of  Higher  Secondary  Special  Education,  and  the  Center  for Secondary  Specialized  Vocational  Education.  The  main  timeline  is  set  for  2017  (unless  otherwise specified), to show the possible development patterns of the education system in Uzbekistan over the plan period.
 
@@ -5337,7 +4847,7 @@ The data and information used to set the baseline, as well as the sources used, 
 
 All costs in the following tables are presented in billion UZS in 2012 price, unless otherwise specified.
 
-> 66 For  a  detailed  description  of  the  simulation  model  (EPSSim),  see Educational  planning  through computer simulation ,  2001, UNESCO; Education Policy & Strategy Simulation Model -EPSSim Version 2.1: User's Guide ,  2005, UNESCO; EPSSim User Guide: Education Policy & Strategy Simulation Model Versions 2.9b and 2.9c, UNESCO, 2013.
+66 For a detailed description of the simulation model (EPSSim), see Educational planning through computer simulation, 2001, UNESCO; Education Policy & Strategy Simulation Model – EPSSim Version 2.1: User’s Guide, 2005, UNESCO; EPSSim User Guide: Education Policy & Strategy Simulation Model Versions 2.9b and 2.9c, UNESCO, 2013.
 
 [[END OF PAGE 144]]
 
@@ -5448,7 +4958,7 @@ Gross enrolment ratio | 10% | 10%
 Number of students | 289,208 | 308,295
 Student-faculty ratio | 12 | 12
 % of HEIs rehabilitated and upgraded | 7% | 7%
-% of faculty members received in- service training | 30% | 30%
+% of faculty members received in-service training | 30% | 30%
 
 > 67 Public  enrolment  only.  It  is  estimated  that  12%  of  the  target  population  is  enrolled  in  private  institutions  or  institutions outside Uzbekistan.
 
@@ -5550,7 +5060,7 @@ SSVE (16-18 yrs) | 1,922 | 1,885 | 1,843 | 1,728 | 1,642 | 1,568
 Higher education (19-23 yrs) | 3,222 | 3,235 | 3,237 | 3,235 | 3,166 | 3,083
 Total | 9,727 | 9,696 | 9,672 | 9,640 | 9,656 | 9,710
 
-Target  population  for  ECCE  (3-6  years  old)  will  increase  steadily  over  the  period  of  2012/2013  to 2017/2018.  On  the  other  hand,  general  secondary  (7-15  years  old)  and  SSVE  (16-18  years  old)  will experience  slight  decline  in  the  target  population  as  the  smaller  cohort  moves  through  the  education system. Similarly, higher education will also see slight reduction in the target population toward the end of the plan period. These demographic trends are fully reflected in the following simulation.
+Target population for ECCE (3-6 years old) will increase steadily over the period of 2012/2013 to 2017/2018. On the other hand, general secondary (7-15 years old) and SSVE (16-18 years old) will experience slight decline in the target population as the smaller cohort moves through the education system. Similarly, higher education will also see slight reduction in the target population toward the end of
 
 [[END OF PAGE 149]]
 
@@ -5558,12 +5068,14 @@ Target  population  for  ECCE  (3-6  years  old)  will  increase  steadily  over
 
 150
 
+the plan period. These demographic trends are fully reflected in the following simulation.
+
 #### 6.3.1  Preschool education
 
 2012 | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | ---
 Number of pupils | 539,527 | 566,213 | 610,601 | 676,077 | 743,129 | 806,445
-Of which in short- term preschool program | 15,008 | 15,720 | 33,000 | 55,000 | 65,000 | 70,000
+Of which in short-term preschool program | 15,008 | 15,720 | 33,000 | 55,000 | 65,000 | 70,000
 Gross enrolment ratio | 23,3% | 23,3% | 24,3% | 26,8% | 29,6% | 32,2%
 Number of teachers | 43,117 | 43,846 | 46,005 | 46,571 | 53,748 | 57,975
 New teacher requirement | 0 | 670 | 2,159 | 3,566 | 4,177 | 4,227
@@ -5633,7 +5145,7 @@ One of the main features of the ESP is its focus on teacher training. In-service
 --- | --- | --- | --- | --- | --- | ---
 Number of teacher retraining centers | 16 | 16 | 16 | 16 | 16 | 16
 Number of teachers trained (all levels) | 118,835 | 128,782 | 138,933 | 150,460 | 163,218 | 176,881
-% of teacher retraining centers rehabilitated and upgraded | 1 | 3 | 4 | 4 | 4
+% of teacher retraining centers rehabilitated and upgraded |  | 1 | 3 | 4 | 4 | 4
 
 > 68 Cost of pre-service teacher training is integrated in SSPE and higher education sectors.
 
@@ -5667,7 +5179,7 @@ Of which: recurrent | 966,6 | 1,215 | 1,473 | 1,761 | 2,083 | 2,453
 2012 | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | ---
 Number of participants | 928,991 | 952,875 | 975,410 | 998,857 | 1,020,386 | 1,040,252
-Number of adult education centers | 150 | 150 | 150 | 150 | 150 | 150
+Number of adult education centers (public only) | 150 | 150 | 150 | 150 | 150 | 150
 Of which: upgraded | 8 | 8 | 8 | 8 | 8 | 8
 Resources required (billion UZS) | 4,5 | 6,6 | 7,6 | 8,8 | 10,2 | 11,9
 Of which: recurrent | 4,5 | 6,6 | 7,6 | 8,8 | 10,2 | 11,9
@@ -5692,6 +5204,8 @@ Of which: recurrent | 247,1 | 309,9 | 388,7 | 466,6 | 555,3 | 655,2
 
 153
 
+#### 6.3.8 Special education needs (SEN)
+
 2012 | 2013 | 2014 | 2015 | 2016 | 2017
 --- | --- | --- | --- | --- | --- | ---
 Share of SEN student
@@ -5710,8 +5224,6 @@ Of which: upgraded | 6 | 6 | 6 | 6 | 6 | 6
 Resources required (billion UZS) | 291,8 | 361,5 | 434,3 | 517,9 | 600,2 | 689,9
 Of which: recurrent | 280,8 | 349,4 | 430,7 | 501,9 | 581,2 | 665,9
 
-#### 6.3.8 Special education needs (SEN)
-
 #### 6.3.9 Financial framework and funding gap (in billion UZS, 2012 price)
 
 The table below presents summary of the simulation results of the macroeconomic perspectives and the funding  gap  for  the  ESP.  While  the  GDP  is  expected  to  continuingly  grow  more  than  8%  annually,  the resource required for education will exceed the increase in available resources. This is more evident in the earlier  years  of  the  plan  implementation  where  the  biggest  deficit  can  be  found  in  2014/2015,  before  it stabilizes around 2016/2017.The total deficit between 2013/2014 to 2017/2018 is estimated to be USD 450 million,  or  USD  80  million  annually  (USD:UZS  exchange  rate  at  2000  sum  in  2012  and  3185,2  sum  in 2017).  Considering  that  the  Government  of  Uzbekistan  already  has  a  large  education  budget  and substantial contributions from private sources (i.e., families), external funding will be needed to materialize the visions of the ESP.
@@ -5723,10 +5235,10 @@ Public expenditure on education | 7,800 | 9,471 | 11,494 | 13,807 | 16,460 | 19,
 Donors' contribution to education | 19 | 46 | 49 | 55 | 61 | 67
 Private contribution to education | 1,028 | 1,374 | 1,609 | 1,919 | 2,320 | 2,772
 Resources required | 8,847 | 10,892 | 13,391 | 16,012 | 19,014 | 22,479
-Funding gap | 238 | 229 | 174 | 173
+Funding gap |  |  | 238 | 229 | 174 | 173
 USD against Uzbek sums | 2,000 | 2,093 | 2,329 | 2,585 | 2,867 | 3,185
-In million USD (2012 price) | 102 | 89 | 61 | 54
-% of GDP | 0.2% | 0.1% | 0.1% | 0.1%
+In million USD (2012 price) |  |  | 102 | 89 | 61 | 54
+% of GDP |  |  | 0.2% | 0.1% | 0.1% | 0.1%
 
 [[END OF PAGE 153]]
 
@@ -6052,7 +5564,7 @@ TURDIEV Narzikul, Deputy Director, Republican Center for Education. Tashkent.
 
 -UN Women, Tashkent
 
--PROMANS.A Consulting Company, Luxemburg
+-PROMAN S.A. Consulting Company, Luxemburg
 
 ### State agencies:
 
@@ -6110,17 +5622,17 @@ TURDIEV Narzikul, Deputy Director, Republican Center for Education. Tashkent.
 
 ## LIST  OF  WORKSHOPS  CONDUCTED  IN  THE  PROCESS  OF  EDUCAOTIN  SECTOR  PLAN DEVELOPMENT
 
-- Meeting of working groups on 8 sub-sectors of education (August 9-13, 2012)
+1. Meeting of working groups on 8 sub-sectors of education (August 9-13, 2012)
 
-- Validation workshop (August 22, 2012)
+2. Validation workshop (August 22, 2012)
 
-- Meeting of working groups on 8 sub-sectors of education (September 10-14, 2012)
+3. Meeting of working groups on 8 sub-sectors of education (September 10-14, 2012)
 
-- Workshop on developing the Education Sector Plan (September 17 - 19, 2012)
+4. Workshop on developing the Education Sector Plan (September 17 - 19, 2012)
 
-- Technical workshop on analysis and planning the education sector (March 25-29, 2013)
+5. Technical workshop on analysis and planning the education sector (March 25-29, 2013)
 
-- Meeting of working groups on 8 sub-sectors of education (May 1 -14, 2013)
+6. Meeting of working groups on 8 sub-sectors of education (May 1 -14, 2013)
 
 [[END OF PAGE 162]]
 
@@ -6130,49 +5642,49 @@ TURDIEV Narzikul, Deputy Director, Republican Center for Education. Tashkent.
 
 ## LIST OF LITERATURE USED IN DEVELOPING THE EDUCATION SECTOR PLAN
 
-ASIAN Development Bank (2009): ADB LOAN UZB-1961 Education Sector Development Project (ESDP). Final Report of the Senior Distance Education Advisor on Implementation of Component B of the ESDP from Март 2008 until Июнь 2009.Ташкент, 30 Июнь 2009.
+ASIAN Development Bank (2009): ADB LOAN UZB-1961 Education Sector Development Project (ESDP). Final Report of the Senior Distance Education Advisor on Implementation of Component B of the ESDP from March 2008 until June 2009. Tashkent, 30 June 2009.
 
-ASIAN Development Bank (2010): Evaluation Study. Uzbekistan: Education. Reference Number: SAP:UZB 2010-29.  Sector Assistance Program  Evaluation:  26194. Сентябрь  2010.  Independent  Evaluation Управление: ADB.
+ASIAN Development Bank (2010): Evaluation Study. Uzbekistan: Education. Reference Number: SAP:UZB 2010-29. Sector Assistance Program Evaluation: 26194. September 2010. Independent Evaluation Department: ADB.
 
-CENTRE  for  Economic  Research  (2011):  Narrowing  the  Gap  between  Vocational  Education  and  the Labour Market. In: Development Focus, Issue #2 (Сентябрь 2009).
+CENTRE for Economic Research (2011): Narrowing the Gap between Vocational Education and the Labour Market. In: Development Focus, Issue #2 (September 2009).
 
-CENTRE  for  Economic  Research  (2011):  Improving  the  Quality  of  General  Secondary  Education  in Uzbekistan: Focus on the Teaching Staff. In: Development Focus, Issue #7 (Март 2011).
+CENTRE for Economic Research (2011): Improving the Quality of General Secondary Education in Uzbekistan: Focus on the Teaching Staff. In: Development Focus, Issue #7 (March 2011).
 
-CENTRE  for  Economic  Research  (2011b):  Improving  the  Quality  of  General  Secondary  Education  in Uzbekistan: Focus on the Teachers. In: Development Focus, Issue #11 (Май 2011).
+CENTRE for Economic Research (2011b): Improving the Quality of General Secondary Education in Uzbekistan: Focus on the Teachers. In: Development Focus, Issue #11 (May 2011).
 
-CENTRE for Economic Research (2012): Uzbekistan 2030. Defining the Pattern of Growth and Policies for Accelerated Transformation.Ташкент: Май 17, 2012.
+CENTRE for Economic Research (2012): Uzbekistan 2030. Defining the Pattern of Growth and Policies for Accelerated Transformation. Tashkent: May 17, 2012.
 
-CLAIR, Nancy; MISKE, Shirley; PATEL, Deepa (2010): Developing Standards for Quality Basic Education in  Central  and  Eastern  Europe  and  the  Commonwealth  of  Independent  States.  Prepared  for  ЮНИСЕФ CEE/CIS Regional Office.Октябрь 15,2010.
+CLAIR, Nancy; MISKE, Shirley; PATEL, Deepa (2010): Developing Standards for Quality Basic Education in Central and Eastern Europe and the Commonwealth of Independent States. Prepared for UNICEF CEE/CIS Regional Office. October 15, 2010.
 
-CONVENTION on the Rights of the Child, adopted and opened for signature, ratification and accession by General Assembly resolution 44/25 of 20 Ноябрь 1989, entry into force 2 Сентябрь 1990, in accordance with article 49.
+CONVENTION on the Rights of the Child, adopted and opened for signature, ratification and accession by General Assembly resolution 44/25 of 20 November 1989, entry into force 2 September 1990, in accordance with article 49.
 
-DVVInterРеспубликанский  (2011):  Итоговой  отчет по  проекту  «Создание  и  развитие  центров обучения взрослых в профессиональных колледжах Узбекистана».
+DVVInternational (2011): Итоговой отчет по проекту «Создание и развитие центров обучения взрослых в профессиональных колледжах Узбекистана».
 
 EUROPEAN Association for the Education of Adults (2006): Adult Education Trends and Issues in Europe.
 
-EUROPEAN  Commission  (2004):  Key  Competences  for  Lifelong  Learning  -  A  European  Reference Framework.
+EUROPEAN Commission (2004): Key Competences for Lifelong Learning - A European Reference Framework.
 
-EUROPEAN  Commission  (2007):  Communication  to  the  Council  and  the  European  Parliament  on Improving the Quality of Teacher Education.
+EUROPEAN Commission (2007): Communication to the Council and the European Parliament on Improving the Quality of Teacher Education.
 
 EUROPEAN Training Foundation (2008): The European Qualifications Framework for Lifelong Learning.
 
 EUROPEAN Training Foundation (2010): Uzbekistan ETF Country Information Note 2010.
 
-EUROPEAN Training Foundation (2011): Torino Process Uzbekistan. Январь 2011.
+EUROPEAN Training Foundation (2011): Torino Process Uzbekistan. January 2011.
 
-FAZYLOV,  Djamoliddin;  SMIRNVA,  Galina  (2008):  The  Development  of  Education.  Республиканский Report of Uzbekistan.
+FAZYLOV, Djamoliddin; SMIRNVA, Galina (2008): The Development of Education. National Report of Uzbekistan.
 
-GLOBAL  Partnership  for  Education  (2012):  Global  Partnership  For  Education  Program  Implementation Grant Guidelines.
+GLOBAL Partnership for Education (2012): Global Partnership For Education Program Implementation Grant Guidelines.
 
-GOVERNMENT  of  the  Republic  of  Uzbekistan  (2005):  Welfare  Improvement  Strategy  Paper  of  the Republic of Uzbekistan for 2005-2010. Interim PRSP Document.(I-WISP).Ташкент, Март 2005.
+GOVERNMENT of the Republic of Uzbekistan (2005): Welfare Improvement Strategy Paper of the Republic of Uzbekistan for 2005-2010. Interim PRSP Document. (I-WISP). Tashkent, March 2005.
 
-INTERРЕСПУБЛИКАНСКИЙ Covenant on Economic, Social and Cultural Rights (1976).
+INTERNATIONAL Covenant on Economic, Social and Cultural Rights (1976).
 
 ISMAILOV, Jahongir (undated): Status and Prospects of Development of Secondary Specialised Vocational Education. PowerPoint presentation.
 
-KARIMOV,  Abdug'aniyevich  (1997):  Harmoniously  Developed  Generation  in  the  Basis  of  Progress  of Uzbekistan. Ташкент: Sharq.
+KARIMOV, Abdug'aniyevich (1997): Harmoniously Developed Generation in the Basis of Progress of Uzbekistan. Tashkent: Sharq.
 
-KHODIEV,  B.  (2011):  Report  on  the  Status  of  the  Activities  for  Improving  Employment  of  Vocational ColМГОe Graduates according to their Educational Profiles. PowerPoint presentation.
+KHODIEV, B. (2011): Report on the Status of the Activities for Improving Employment of Vocational College Graduates according to their Educational Profiles. PowerPoint presentation.
 
 [[END OF PAGE 163]]
 
@@ -6180,41 +5692,41 @@ KHODIEV,  B.  (2011):  Report  on  the  Status  of  the  Activities  for  Improv
 
 164
 
-MAROPE,  Mmantsetsa  (2011):  Concept  Note.  General  Education  Quality  Diagnostic  /  Analysis  and Monitoring Framework.Февраль 2011: UNESCO, Division for Basic to Higher Education and Learning.
+MAROPE, Mmantsetsa (2011): Concept Note. General Education Quality Diagnostic / Analysis and Monitoring Framework. February 2011: UNESCO, Division for Basic to Higher Education and Learning.
 
-MAROPE,  Mmantsetsa  (2011a):  A  Systemic  General  Education  Quality  Diagnosis  and  Monitoring Framework. PowerPoint presentation. Paris, 08 Июнь 2011: UNESCO.
+MAROPE, Mmantsetsa (2011a): A Systemic General Education Quality Diagnosis and Monitoring Framework. PowerPoint presentation. Paris, 08 June 2011: UNESCO.
 
-MINISTRY  of  Higher and Secondary  Specialised Education (undated): Booklet about Secondary Specialised Education.
+MINISTRY of Higher and Secondary Specialised Education (undated): Booklet about Secondary Specialised Education.
 
-MINISTRY of Public Education in the Republic of Uzbekistan; REPRESENTATIVE Offices of UNESCO and ЮНИСЕФ to Uzbekistan (2007): The Республиканский EFA Mid-Decade Assessment Report. Ташкент.
+MINISTRY of Public Education in the Republic of Uzbekistan; REPRESENTATIVE Offices of UNESCO and UNICEF to Uzbekistan (2007): The National EFA Mid-Decade Assessment Report. Tashkent.
 
-MINISTRY of Public  Education  in  the  Republic  of  Uzbekistan  (2008):  Interim  Report  'Education  Quality Monitoring and ManВозраст:ment  System  Design'  project. Uzbek  Scientific-Research Institute of Pedagogical Sciences named after Kary-Niyazy. MoPE and ЮНИСЕФ: Август, 2008.
+MINISTRY of Public Education in the Republic of Uzbekistan (2008): Interim Report 'Education Quality Monitoring and Management System Design' project. Uzbek Scientific-Research Institute of Pedagogical Sciences named after Kary-Niyazy. MoPE and UNICEF: August, 2008.
 
-MINISTRY of Public Education in the Republic of Uzbekistan (2011): Decree on the implementation of the programme 'Bolajon', dated 05 Август 2011.
+MINISTRY of Public Education in the Republic of Uzbekistan (2011): Decree on the implementation of the programme 'Bolajon', dated 05 August 2011.
 
-MINISTRY  of  Public  Education  in  the  Republic  of  Uzbekistan;  MINISTRY  of  Higher  and  Secondary Specialised Education in the Republic of Uzbekistan (2002): Республиканский Action Plan on Education for All in the Republic of Uzbekistan. Ташкент, 2002.
+MINISTRY of Public Education in the Republic of Uzbekistan; MINISTRY of Higher and Secondary Specialised Education in the Republic of Uzbekistan (2002): National Action Plan on Education for All in the Republic of Uzbekistan. Tashkent, 2002.
 
-MINISTRY  of  Public  Education  in  the  Republic  of  Uzbekistan;  MINISTRY  of  Higher  and  Secondary Specialised Education in the Republic of Uzbekistan; UNESCO (2010): The Республиканский EFA MidDecade Assessment Report.
+MINISTRY of Public Education in the Republic of Uzbekistan; MINISTRY of Higher and Secondary Specialised Education in the Republic of Uzbekistan; UNESCO (2010): The National EFA Mid-Decade Assessment Report.
 
-MINISTRY of Public Education in the Republic of Uzbekistan; UNESCO; ЮНИСЕФ (2006): Monitoring of Learning Achievements (MLA I) 2006 in Mathematics and Sciences with Life Skills. The Grade 4th. Itafact Возраст:ncy.
+MINISTRY of Public Education in the Republic of Uzbekistan; UNESCO; UNICEF (2006): Monitoring of Learning Achievements (MLA I) 2006 in Mathematics and Sciences with Life Skills. The Grade 4th. Itafact Agency.
 
-MINISTRY of Public Education in the Republic of Uzbekistan; UNESCO; ЮНИСЕФ (2006a): Monitoring of Learning Achievements (MLA II) 2006 in Mathematics and Sciences with Life Skills. The Grade 8th. Itafact Возраст:ncy.
+MINISTRY of Public Education in the Republic of Uzbekistan; UNESCO; UNICEF (2006a): Monitoring of Learning Achievements (MLA II) 2006 in Mathematics and Sciences with Life Skills. The Grade 8th. Itafact Agency.
 
-MINISTRY of Public Education in the Republic of Uzbekistan; ЮНИСЕФ (2007): Report on Survey Results. Study of the pupils' school non-attendance problem and the cases of temporary children drop-out from the education system (5th to 9th grades of secondary schools).Ташкент.
+MINISTRY of Public Education in the Republic of Uzbekistan; UNICEF (2007): Report on Survey Results. Study of the pupils' school non-attendance problem and the cases of temporary children drop-out from the education system (5th to 9th grades of secondary schools). Tashkent.
 
 MISKE, Shirley (2012): Recommendations to develop key principles, parameters and indicators of quality of secondary education. Translated version of a seminar.
 
-NAQVI,  Naveed  Hassan  (2012):  Early  Childhood  Care  and  Education  in  Uzbekistan.  PowerPoint presentation.Июнь, 2012.
+NAQVI, Naveed Hassan (2012): Early Childhood Care and Education in Uzbekistan. PowerPoint presentation. June, 2012.
 
-NAROLSKAYA, Yulia; ISLAMOVA, Umida; COOPER, Dan; WEEKS-EARP, Erin (2010): Teacher Quality and Teacher Working Conditions in Uzbekistan. Technical Report.Сентябрь 30, 2010. ЮНИСЕФТашкент.
+NAROLSKAYA, Yulia; ISLAMOVA, Umida; COOPER, Dan; WEEKS-EARP, Erin (2010): Teacher Quality and Teacher Working Conditions in Uzbekistan. Technical Report. September 30, 2010. UNICEF Tashkent.
 
-ORGANISATION  for  Economic  Co-operation  and  Development  (2005):  Attracting,  Developing  and Retaining Effective Teachers - Final Report: Teachers Matter.
+ORGANISATION for Economic Co-operation and Development (2005): Attracting, Developing and Retaining Effective Teachers - Final Report: Teachers Matter.
 
 ORGANISATION for Economic Co-operation and Development (2011): Education at a Glance 2011: OECD Indicators. OECD Publishing.
 
-PFAFFE, Joachim Friedrich  (2009):  Summative  Evaluation  of  the  Child-Friendly  Schools  Project  (20062008) Uzbekistan. Final Evaluation Report.12 Июнь 2009. Luxembourg: PROMAN S.A.
+PFAFFE, Joachim Friedrich (2009): Summative Evaluation of the Child-Friendly Schools Project (2006-2008) Uzbekistan. Final Evaluation Report. 12 June 2009. Luxembourg: PROMAN S.A.
 
-PFAFFE, Joachim Friedrich; CORNELISSEN, Hilde; CASPARI, Alexandra; CHRISTENSEN; Peter; KADRI, Elizabeth;  SILVESTRINI,  Stefan;  TOWERS,  David; VALENTINI, Andrea  (2011):  Education  for  All  -  Fast Track Initiative (EFA-FTI) Monitoring & Evaluation Strategy. Final Report.09 Сентябрь 2011. Luxembourg:
+PFAFFE, Joachim Friedrich; CORNELISSEN, Hilde; CASPARI, Alexandra; CHRISTENSEN; Peter; KADRI, Elizabeth; SILVESTRINI, Stefan; TOWERS, David; VALENTINI, Andrea (2011): Education for All - Fast Track Initiative (EFA-FTI) Monitoring & Evaluation Strategy. Final Report. 09 September 2011. Luxembourg:
 
 [[END OF PAGE 164]]
 
@@ -6224,47 +5736,47 @@ PFAFFE, Joachim Friedrich; CORNELISSEN, Hilde; CASPARI, Alexandra; CHRISTENSEN; 
 
 PROMAN S.A. and Particip.
 
-PFAFFE, Joachim Friedrich; ORIVEL, François (2009): Review and Assistance in Strategic Development of the  Education  Programme  in  Preparation  for  the  Next  Government  of  Uzbekistan-ЮНИСЕФ  Country Programme of Cooperation 2010-2015. Final Mission Report.11 Сентябрь 2009. Luxembourg: PROMAN S.A.
+PFAFFE, Joachim Friedrich; ORIVEL, François (2009): Review and Assistance in Strategic Development of the Education Programme in Preparation for the Next Government of Uzbekistan-UNICEF Country Programme of Cooperation 2010-2015. Final Mission Report. 11 September 2009. Luxembourg: PROMAN S.A.
 
-PFAFFE, Joachim Friedrich; SCHUSTEREDER, Johann (2012): Development of an Education Sector Plan within  the  GPE  Initiative  in  Uzbekistan.  Situation  Analysis  of  the  Education  Sector  in  Uzbekistan.Final Report.24 Август 2012. Luxembourg: PROMAN S.A.
+PFAFFE, Joachim Friedrich; SCHUSTEREDER, Johann (2012): Development of an Education Sector Plan within the GPE Initiative in Uzbekistan. Situation Analysis of the Education Sector in Uzbekistan. Final Report. 24 August 2012. Luxembourg: PROMAN S.A.
 
-REPUBLIC of Uzbekistan  (2007):  Welfare  Improvement  Strategy  of  Uzbekistan.  Full  Strategy  Paper  for 2008-2010. Ташкент, 2007.
+REPUBLIC of Uzbekistan (2007): Welfare Improvement Strategy of Uzbekistan. Full Strategy Paper for 2008-2010. Tashkent, 2007.
 
-RESOLUTION of the Cabinet of Ministers of the Republic of Uzbekistan on 'Меры on Implementation of the State Nationwide School Education Development Programme for 2004-2009'.
+RESOLUTION of the Cabinet of Ministers of the Republic of Uzbekistan on 'Measures on Implementation of the State Nationwide School Education Development Programme for 2004-2009'.
 
-RIDGE, Natasha (2007): Formative Evaluation of the ECD and Quality Basic Education Project.  Январь 2005 To Июнь 2007. ЮНИСЕФ Uzbekistan: Октябрь 2007.
+RIDGE, Natasha (2007): Formative Evaluation of the ECD and Quality Basic Education Project. January 2005 To June 2007. UNICEF Uzbekistan: October 2007.
 
-SHIRINOV,  Temir  Sh.  (2011):  Performance  Analysis  of  General  Education  Schools,  Teacher-training Institutions,  and  Institutions  for  Re-training  and  Professional  Development  of  Teachers.  PowerPoint presentation.
+SHIRINOV, Temir Sh. (2011): Performance Analysis of General Education Schools, Teacher-training Institutions, and Institutions for Re-training and Professional Development of Teachers. PowerPoint presentation.
 
-SHIRINOV,  Temir  Sh.  (2011a):  Public  Education  in  the  Development  of  Continuing  Education  of  the Republic of Uzbekistan. PowerPoint presentation.
+SHIRINOV, Temir Sh. (2011a): Public Education in the Development of Continuing Education of the Republic of Uzbekistan. PowerPoint presentation.
 
-SHIRINOV, Temir Sh. (2011b): Objectives of strengthening the reИсточник base of educational institutions and increasing the efficiency of their usВозраст:.PowerPoint presentation.
+SHIRINOV, Temir Sh. (2011b): Objectives of strengthening the resource base of educational institutions and increasing the efficiency of their usage. PowerPoint presentation.
 
-STATE Committee of the Republic of Uzbekistan on Statistics (2001): Uzbekistan, 2001. Население  and Housing Census. IHSN Ref. No. 860-2001-001.
+STATE Committee of the Republic of Uzbekistan on Statistics (2001): Uzbekistan, 2001. Population and Housing Census. IHSN Ref. No. 860-2001-001.
 
-TEMPUS (2010): State of Play of the Bologna Process in the Tempus Countries (2009/2010). A Tempus Study. Issue 02 - Март 2010. Brussels: European Commission.
+TEMPUS (2010): State of Play of the Bologna Process in the Tempus Countries (2009/2010). A Tempus Study. Issue 02 - March 2010. Brussels: European Commission.
 
-TEMPUS  (2012):  Human  ReИсточник  ManВозраст:ment  in  Public  Higher  Education  in  the  Tempus Partner Countries. Issue 10 - Июнь 2012.
+TEMPUS (2012): Human Resource Management in Public Higher Education in the Tempus Partner Countries. Issue 10 - June 2012.
 
 UNDP (2006): Official Statistics in Uzbekistan: Institutional Basis, Quality and Access. In: Policy Brief. The Executive Series, No. 1, 2006.
 
-UNDP (2007): System of Indicators for Monitoring and Evaluation of MDG's Achievement in Uzbekistan. Ташкент: UNDP Uzbekistan.
+UNDP (2007): System of Indicators for Monitoring and Evaluation of MDG's Achievement in Uzbekistan. Tashkent: UNDP Uzbekistan.
 
-UNDP (2008): Education in Uzbekistan: Matching Supply and Demand. Ташкент: UNDP Uzbekistan.
+UNDP (2008): Education in Uzbekistan: Matching Supply and Demand. Tashkent: UNDP Uzbekistan.
 
-UNDP (2009):  Higher  Education  in  Uzbekistan:  Structure  Developments  and  Reform  Trends.  In:  Policy Brief. The Executive Series, No. 1 (12), 2009.
+UNDP (2009): Higher Education in Uzbekistan: Structure Developments and Reform Trends. In: Policy Brief. The Executive Series, No. 1 (12), 2009.
 
-UNDP (2012): Uzbekistan in Figures. Население :Возраст:-Based 2001-2007. Availablefromhttp://statistics.design.uz/data_finder/2344/ .
+UNDP (2012): Uzbekistan in Figures. Population: Age-Based 2001-2007. Available from http://statistics.design.uz/data_finder/2344/ .
 
-UNESCO  (2007):  Uzbekistan.  Inclusive  Education:  The  way  of  the  future.  Third  Workshop  of  the  IBE Community of Practice, Commonwealth of Independent States (CIS). Minsk, Belarus, 29-31 Октябрь 2007. UNESCO: InterРеспубликанский Bureau of Education.
+UNESCO (2007): Uzbekistan. Inclusive Education: The way of the future. Third Workshop of the IBE Community of Practice, Commonwealth of Independent States (CIS). Minsk, Belarus, 29-31 October 2007. UNESCO: International Bureau of Education.
 
 UNESCO (2008): Central Asia Sub-Region EFA Mid-Decade Assessment. Synthesis Report.
 
 UNESCO (2011): World Data on Education. VII Ed. 2010/11.
 
-ЮНИСЕФ (2002): Child Friendly Schools in Central Asia.
+UNICEF (2002): Child Friendly Schools in Central Asia.
 
-ЮНИСЕФ (2004): ЮНИСЕФ Evaluation Report Standards. Сентябрь 2004. Evaluation Office.
+UNICEF (2004): UNICEF Evaluation Report Standards. September 2004. Evaluation Office.
 
 [[END OF PAGE 165]]
 
@@ -6272,49 +5784,49 @@ UNESCO (2011): World Data on Education. VII Ed. 2010/11.
 
 166
 
-ЮНИСЕФ (2004a): Revised Country Programme Document. Uzbekistan. United Nations Children's Fund Executive E/ICEF/2004/P/L.20, 01 Апрель 2004 Board, Annual session 2004, 7-11 Июнь 2004, Item 4 of the provisional Возраст:nda.
+UNICEF (2004a): Revised Country Programme Document. Uzbekistan. United Nations Children's Fund Executive E/ICEF/2004/P/L.20, 01 April 2004 Board, Annual session 2004, 7-11 June 2004, Item 4 of the provisional agenda.
 
-ЮНИСЕФ  (2005):  The  ЮНИСЕФ  medium-term  strategic  plan,  2006-2009.  Investing  in  children:  the ЮНИСЕФ contribution to poverty reduction and the Millennium Summit Возраст:nda. E/ICEF/2005/11, 11 Июль 2005.
+UNICEF (2005): The UNICEF medium-term strategic plan, 2006-2009. Investing in children: the UNICEF contribution to poverty reduction and the Millennium Summit agenda. E/ICEF/2005/11, 11 July 2005.
 
-ЮНИСЕФ  (2005a):  ЮНИСЕФ  water,  sanitation  and  hygiene  strategies  for  2006-2015.  United  Nations E/ICEF/2006/6, Economic and Social Council, 15 Ноябрь 2005.
+UNICEF (2005a): UNICEF water, sanitation and hygiene strategies for 2006-2015. United Nations E/ICEF/2006/6, Economic and Social Council, 15 November 2005.
 
-ЮНИСЕФ  (2007):  Annual  report  of  the  Executive  Director:  progress  and  achievements  against  the medium-term strategic plan. United Nations E/ICEF/2007/9, Economic and Social Council, 02 Май 2007.
+UNICEF (2007): Annual report of the Executive Director: progress and achievements against the medium-term strategic plan. United Nations E/ICEF/2007/9, Economic and Social Council, 02 May 2007.
 
-ЮНИСЕФ (2007a): ЮНИСЕФ Education Strategy. United Nations E/ICEF/2007/10, Economic and Social Council, 04 Май 2007.
+UNICEF (2007a): UNICEF Education Strategy. United Nations E/ICEF/2007/10, Economic and Social Council, 04 May 2007.
 
-ЮНИСЕФ (2008): Extension of the medium-term strategic plan (MTSP) 2006-2009 until the end of 2011: background  note.  E/ICEF/2008/25,  17  Июль  2008.  United  Nations  Children's  Fund  Executive  Board, Second regular session 2008, 15-18 Сентябрь 2008. Item 4 of the provisional Возраст:nda.
+UNICEF (2008): Extension of the medium-term strategic plan (MTSP) 2006-2009 until the end of 2011: background note. E/ICEF/2008/25, 17 July 2008. United Nations Children's Fund Executive Board, Second regular session 2008, 15-18 September 2008. Item 4 of the provisional agenda.
 
-ЮНИСЕФ (2008a): Revised annexes to the medium term strategic plan. Annex I: Results framework by focus areas. Annex II: Part 1: Integrated monitoring and evaluation framework. Part 2: Key performance indicators. E/ICEF/2008/19, Economic and Social Council, 21 Июль 2008. United Nations Children's Fund Executive  Board,  Second  regular  session  2008,  15-18  Сентябрь  2008,  .Item  4  of  the  provisional Возраст:nda.
+UNICEF (2008a): Revised annexes to the medium term strategic plan. Annex I: Results framework by focus areas. Annex II: Part 1: Integrated monitoring and evaluation framework. Part 2: Key performance indicators. E/ICEF/2008/19, Economic and Social Council, 21 July 2008. United Nations Children's Fund Executive Board, Second regular session 2008, 15-18 September 2008, .Item 4 of the provisional agenda.
 
-ЮНИСЕФ (2009): Manual Child Friendly Schools.
+UNICEF (2009): Manual Child Friendly Schools.
 
-ЮНИСЕФ (2009a): Draft Country Programme Document. Uzbekistan. E/ICEF/2009/P/L.14, 10 Март 09. [To be presented at] United Nations Children's Fund Executive Board, Annual session, 8-12 Июнь 2009.
+UNICEF (2009a): Draft Country Programme Document. Uzbekistan. E/ICEF/2009/P/L.14, 10 March 09. [To be presented at] United Nations Children's Fund Executive Board, Annual session, 8-12 June 2009.
 
-ЮНИСЕФ (2009b): Social Budgeting for Child Well-Being in Uzbekistan.Ташкент.
+UNICEF (2009b): Social Budgeting for Child Well-Being in Uzbekistan. Tashkent.
 
-ЮНИСЕФ (2009c): Global Study on Child Poverty and Disparities Uzbekistan.Survey Report.Март 2009.
+UNICEF (2009c): Global Study on Child Poverty and Disparities Uzbekistan. Survey Report. March 2009.
 
-ЮНИСЕФ (2009d):  Draft  Country  Programme  Document.  Uzbekistan.  E/ICEF/2009/P/L.14,  13  Апрель 2009. United Nations Children's Fund Executive Board, Annual session, 8-10 Июнь 2009.
+UNICEF (2009d): Draft Country Programme Document. Uzbekistan. E/ICEF/2009/P/L.14, 13 April 2009. United Nations Children's Fund Executive Board, Annual session, 8-10 June 2009.
 
-ЮНИСЕФ (undated, pres. 2009): Country profile.Education in Uzbekistan.
+UNICEF (undated, pres. 2009): Country profile. Education in Uzbekistan.
 
-ЮНИСЕФ Regional Office for CEE/CIS (2007): Education For Some More Than Others? A Regional Study on Education in Central and Eastern Europe and the Commonwealth of Independent States (CEE/CIS).
+UNICEF Regional Office for CEE/CIS (2007): Education For Some More Than Others? A Regional Study on Education in Central and Eastern Europe and the Commonwealth of Independent States (CEE/CIS).
 
-ЮНИСЕФ Regional Office for CEE/CIS (2011): Teachers: A Regional Study on Recruitment, Development and Salaries of Teachers in the CEECIS Region. Geneva: ЮНИСЕФ Regional Office for CEECIS.
+UNICEF Regional Office for CEE/CIS (2011): Teachers: A Regional Study on Recruitment, Development and Salaries of Teachers in the CEECIS Region. Geneva: UNICEF Regional Office for CEECIS.
 
-ЮНИСЕФ Uzbekistan (undated, pres. 2005): Country Programme of Cooperation 2005-2009.
+UNICEF Uzbekistan (undated, pres. 2005): Country Programme of Cooperation 2005-2009.
 
-ЮНИСЕФ  Uzbekistan  (2007):  Report  on  Survey  Results.  Study  of  the  pupils'  school  non-attendance problem and the cases of temporary children drop-out  from  the education  system  (5th  to  9th  grades  of secondary schools).
+UNICEF Uzbekistan (2007): Report on Survey Results. Study of the pupils' school non-attendance problem and the cases of temporary children drop-out from the education system (5th to 9th grades of secondary schools).
 
-ЮНИСЕФ Uzbekistan (2012): Policies and Practices in Learning Measurement. Uzbekistan Country Office Survey.Апрель 5, 2012.
+UNICEF Uzbekistan (2012): Policies and Practices in Learning Measurement. Uzbekistan Country Office Survey. April 5, 2012.
 
 UNITED Nations (2012): Millennium Development Goals Report 2012. New York: UN.
 
-UNITED Nations Development Assistance Framework (undated, pres. 2004): Uzbekistan.2005-2009.
+UNITED Nations Development Assistance Framework (undated, pres. 2004): Uzbekistan. 2005-2009.
 
-UNITED Nations Development Assistance Framework (UNDAF) for the Republic of Uzbekistan 2010-2015. United Nations in Uzbekistan and Government of Uzbekistan: Апрель 2009.
+UNITED Nations Development Assistance Framework (UNDAF) for the Republic of Uzbekistan 2010-2015. United Nations in Uzbekistan and Government of Uzbekistan: April 2009.
 
-UNITED  Nations  Development  Programme  (2009):  Республиканский  Human  Development  Report, Education in Uzbekistan: matching supply and demand, Ташкент, 2007-2008.
+UNITED Nations Development Programme (2009): National Human Development Report, Education in Uzbekistan: matching supply and demand, Tashkent, 2007-2008.
 
 [[END OF PAGE 166]]
 
@@ -6322,43 +5834,43 @@ UNITED  Nations  Development  Programme  (2009):  Республиканский
 
 167
 
-UNITED  Nations  Economic  Commission  for  Europe  (2007):  Uzbekistan  Employment.  Retrieved  at http://www.unece.org/fileadmin/DAM/stats/profiles2009/uzbekistan.pdf .
+UNITED Nations Economic Commission for Europe (2007): Uzbekistan Employment. Retrieved at http://www.unece.org/fileadmin/DAM/stats/profiles2009/uzbekistan.pdf .
 
-UNITED Nations ESCAP (2012): Economic and Social Survey of Asia and the Pacific 2012. Uzbekistan. Briefing Notes for the Launch in Ташкент, 10 Май 2012.
+UNITED Nations ESCAP (2012): Economic and Social Survey of Asia and the Pacific 2012. Uzbekistan. Briefing Notes for the Launch in Tashkent, 10 May 2012.
 
 USAID (2009): Fact Sheet. USAID Programmes in 2009.
 
-UZBEKISTAN in Figures. http://www.statistics.uz/data_finder. Various reИсточникs.
+UZBEKISTAN in Figures. http://www.statistics.uz/data_finder. Various resources.
 
-UZBEKISTAN  to  create  Barkamol  Avlod  Children  Centers.  In:  UzDaily,  14  Март  2011.  Retrieved  at http://www.uzdaily.com/articles-id-13482.htm .
+UZBEKISTAN to create Barkamol Avlod Children Centers. In: UzDaily, 14 March 2011. Retrieved at http://www.uzdaily.com/articles-id-13482.htm .
 
-WORLD  Bank  (2005):  Addressing  the  Crisis  in  Central  Asia  Education:  A  Proposed  Approach  for Partnership. Report No. 32517-ECA. Human Development Sector Unit, Europe and Central Asia Region, Июнь 30, 2005.
+WORLD Bank (2005): Addressing the Crisis in Central Asia Education: A Proposed Approach for Partnership. Report No. 32517-ECA. Human Development Sector Unit, Europe and Central Asia Region, June 30, 2005.
 
-WORLD Bank (2005a): Republic of  Uzbekistan. Public  Expenditure  Review.Март  1,  2005.  Poverty  and Economic ManВозраст:ment Unit, Europe and Central Asia Region.
+WORLD Bank (2005a): Republic of Uzbekistan. Public Expenditure Review. March 1, 2005. Poverty and Economic Management Unit, Europe and Central Asia Region.
 
-WORLD Bank (2008): InterРеспубликанский Bank for Reconstruction and Development, InterРеспубликанский Development Association and InterРеспубликанский Finance Corporation. Country Assistance Strategy for the Republic of Uzbekistan for the period FY08-FY11. Report No. 43385-UZ..Май 14, 2008. Central Asia Country Unit, Europe and Central Asia Region. The InterРеспубликанский Finance Corporation, IFC Управление for Southern Europe and Central Asia.
+WORLD Bank (2008): International Bank for Reconstruction and Development, International Development Association and International Finance Corporation. Country Assistance Strategy for the Republic of Uzbekistan for the period FY08-FY11. Report No. 43385-UZ.. May 14, 2008. Central Asia Country Unit, Europe and Central Asia Region. The International Finance Corporation, IFC Department for Southern Europe and Central Asia.
 
-WORLD Bank (2009): Project Appraisal Document on a Proposed Credit in the Amount of SDR 18.9 million (US$28 million equivalent) to the Republic of Uzbekistan for the Basic Education Project Second Phase of an Adaptable Programme Loan in Support of the Education Reform Programme. Июнь 3, 2009. Human Development Sector Unit (ECSHD), Europe and Central Asia Region, Central Asia Country Unit.
+WORLD Bank (2009): Project Appraisal Document on a Proposed Credit in the Amount of SDR 18.9 million (US$28 million equivalent) to the Republic of Uzbekistan for the Basic Education Project Second Phase of an Adaptable Programme Loan in Support of the Education Reform Programme. June 3, 2009. Human Development Sector Unit (ECSHD), Europe and Central Asia Region, Central Asia Country Unit.
 
-WORLD Bank (2012): World Bank - Uzbekistan Partnership Program Snapshot. Апрель 2012.
+WORLD Bank (2012): World Bank - Uzbekistan Partnership Program Snapshot. April 2012.
 
-YULDASHEV, Maksud (2012): About the development of teacher training system and improving the quality of  teaching  in  secondary  schools.  PowerPoint  presentation.Ташкент:  Central  In-Service  and  Retraining Institute of Public Education Staff named after A. Avloni.
+YULDASHEV, Maksud (2012): About the development of teacher training system and improving the quality of teaching in secondary schools. PowerPoint presentation. Tashkent: Central In-Service and Retraining Institute of Public Education Staff named after A. Avloni.
 
-АНАЛИТИЧЕСКАЯ справка по привлеченным иностранным инвестициям, кредитам и грантам для развития системы среднего специального, профессионапльного образования в 1998-2011 годах (без даты и автора).
+АНАЛИТИЧЕСКАЯ справка по привлеченным иностранным инвестициям, кредитам и грантам для развития системы среднего специального, профессионального образования в 1998-2011 годах (без даты и автора).
 
-ГОСУДАРСТВЕННЫЙ комитет по статистике (2011): Образование в Узбекистане  - статистический сборник.
+ГОСУДАРСТВЕННЫЙ комитет по статистике (2011): Образование в Узбекистане - статистический сборник.
 
-ГОСУДАРСТВЕННЫЙ  комитет  по  статистике  (2011а):  Население  Узбекистана  -  статистический сборник.
+ГОСУДАРСТВЕННЫЙ комитет по статистике (2011а): Население Узбекистана - статистический сборник.
 
 КАБИНЕТ Министров Республики Узбекистан (1991): Закон «О социальной защищенности инвалидов в Республике Узбекистан».
 
 КАБИНЕТ Министров Республики Узбекистан (1997): Закон «Об образовании».
 
-КАБИНЕТ  Министров  Республики  Узбекистан  (1997a):  «Национальная  программа  по  подготовке кадров».
+КАБИНЕТ Министров Республики Узбекистан (1997a): «Национальная программа по подготовке кадров».
 
-КАБИНЕТ  Министров  Республики  Узбекистан  (1998):  Постановление  «О  разработке  и  введении государственных образовательных стандартов для системы непрерывного образования».
+КАБИНЕТ Министров Республики Узбекистан (1998): Постановление «О разработке и введении государственных образовательных стандартов для системы непрерывного образования».
 
-КАБИНЕТ  Министров  Республики  Узбекистан  (2001):  Программа  подготовки,  переподготовки  и повышения  квалификации  педагогических  и  инженерно-педагогических  кадров  системы  среднего специального, профессионального образования на период до 2010 года.
+КАБИНЕТ Министров Республики Узбекистан (2001): Программа подготовки, переподготовки и повышения квалификации педагогических и инженерно-педагогических кадров системы среднего специального, профессионального образования на период до 2010 года.
 
 [[END OF PAGE 167]]
 
@@ -6374,11 +5886,11 @@ YULDASHEV, Maksud (2012): About the development of teacher training system and i
 
 КАБИНЕТ Министров Республики Узбекистан (2010a): «О ходе реализации Национальной программы по подготовке кадров в системе среднего специального, профессионального образования».
 
-КАБИНЕТ Министров Республики Узбекистан (2011): Постановление «Об утверждении нормативноправовых актов о государственных специализированных образовательных учреждениях для детей с ограниченными возможностями».
+КАБИНЕТ Министров Республики Узбекистан (2011): Постановление «Об утверждении нормативно-правовых актов о государственных специализированных образовательных учреждениях для детей с ограниченными возможностями».
 
-КАБИНЕТ  Министров  Республики  Узбекистан  (2011a):  Постановление  «О  совершенствовании деятельности государственного центра тестирования при Кабинете Министров Республики Узбекистан».
+КАБИНЕТ Министров Республики Узбекистан (2011a): Постановление «О совершенствовании деятельности государственного центра тестирования при Кабинете Министров Республики Узбекистан».
 
-КАБИНЕТ  Министров  Республики  Узбекистан  (2011b):  Постановление  «О  мерах  по  дальнейшему совершенствованию системы внешкольного образования».
+КАБИНЕТ Министров Республики Узбекистан (2011b): Постановление «О мерах по дальнейшему совершенствованию системы внешкольного образования».
 
 КОНСТИТУЦИЯ Республики Узбекистан (1994).
 
@@ -6388,15 +5900,15 @@ YULDASHEV, Maksud (2012): About the development of teacher training system and i
 
 МИНИСТЕРСТВО высшего и среднего специального образования (2012): Статистические данные.
 
-МИНИСТЕРСТВО народного  образования  Республики  Узбекистан  (2007):  Положение  «О  порядке ведения деятельности комиссии по приему детей в дошкольные образовательные учреждения».
+МИНИСТЕРСТВО народного образования Республики Узбекистан (2007): Положение «О порядке ведения деятельности комиссии по приему детей в дошкольные образовательные учреждения».
 
-ПРЕЗИДЕНТ Республики Узбекистан (2011): Постановление «О мерах по укреплению материальнотехнической  базы  высших  образовательных  учреждений  и  кардинальному  улучшению  качества подготовки высококвалифицированных специалистов»
+ПРЕЗИДЕНТ Республики Узбекистан (2011): Постановление «О мерах по укреплению материально-технической базы высших образовательных учреждений и кардинальному улучшению качества подготовки высококвалифицированных специалистов»
 
 ПРЕЗИДЕНТ Республики Узбекистан (2012): Постановление «О мерах по дальнейшему совершенствованию системы подготовки и укомплектования квалифицированными педагогическими кадрами средних специальных, профессиональных образовательных учреждений».
 
-ЦЕНТР  экономического  исследования/ЮНИСЕФ  (2010):  Повышение  качества  общего  среднего образования в Узбекистане: приоритет - педагогические кадры.
+ЦЕНТР экономического исследования/ЮНИСЕФ (2010): Повышение качества общего среднего образования в Узбекистане: приоритет - педагогические кадры.
 
-ЎЗБЕКИСТОН  Республикаси  Хал қ ТаълимиВазирлиги  2011-2012  Ў қ увЙилиАсосийКўрсаткичлари. ТОШКЕНТ-2012.
+ЎЗБЕКИСТОН Республикаси Халқ Таълими Вазирлиги 2011-2012 Ўқув Йили Асосий Кўрсаткичлари. ТОШКЕНТ-2012.
 
 [[END OF PAGE 168]]
 
@@ -6404,235 +5916,112 @@ YULDASHEV, Maksud (2012): About the development of teacher training system and i
 
 169
 
+## Annex 1
+
 ### STRUCTURE of Central Apparatus of the Ministry of Public Education of the Republic of Uzbekistan
 
-Ministry
+Ministerial Board
 
-of
+Minister
 
-Public
+Main Directorate for development and organizing education process in IEs
+1 person
 
-Education
+Department for Improving the Educational Standards and Introduction of Progressive Pedagogical Technologies
+4 p.
 
-of
+Department for Development of New Generation Textbooks and Teaching-Methodological Aids
+4 p.
 
-the
+Department of training and in-service training of personnel, and coordination of research activities
+5 p.
 
-Republic
+First Deputy Minister
 
-of
+Main Directorate for organizing the EIs' operations
+1 person
 
-Karakalpakstan,
+Directorate for General-education and Specialized Schools
+5 p.
 
-public
+Department for Pre-school Educational Institutions
+3 p.
 
-education departments of the regions and
+Deputy Minister
 
-Main  Department  of  Public  Education  of
+Directorate for spiritual and moral education
+1 person
 
-Tashkent city.
+Department for Spiritual and Moral Education
+3 p.
 
+Unit to facilitate operations of Barkamol Avlod children's centers
+2 p.
+
+Unit for Social Support and Rehabilitation of Children
+2 p.
+
+Deputy Minister
+
+Directorate for monitoring the implementation of NP for development of school education
+1 person
+
+Department for Coordination and Control over Construction and Reconstruction of Educational Institutions
+3 p.
+
+Department for Organizing the Material Support of Educational Institutions
+3 p.
+
+Department for Attraction of Investments and International Cooperation
+3 p.
+
+Directorate for educational institutions of music and arts
+7 p.
+
+Deputy Minister – Executive Director of the Children's Sports Development Fund*
+
+Children's Sports Development Fund at the Ministry of Public Education of the Republic of Uzbekistan
+
+State unitary enterprise "Ukuv talim-ta'minot"
+
+Human Resources Department
+3 p.
+
+Office Management
+3 p.
+
+Department for Financing and Accountancy
+5 p.
+
+Legal Advisor
+1 p.
+
+Directorate for development of children's sports
+5 p.
+
+Subordinate Organizations
+
+Ministry of Public Education of the Republic of Karakalpakstan, public education departments of the regions and Main Department of Public Education of Tashkent city.
 Republican Center for Education.
-
-Republican
-
-Scientific
-
-Research
-
-Center
-
-after K.Niyazov.
-
-Pedagogical institutes of Nukus, Tashkent
-
-region,
-
-Jizzakh,
-
-Kokand,
-
-and
-
-Navoi.
-
-Republican
-
-center
-
-for
-
-professional
-
-orientation  and  psychological-pedagogical
-
-diagnosis  of  students.  Republican  Center
-
-for
-
-Education.  Central  Institute  for  Re-
-
-training  and  Professional Development  of
-
-Public  Education  Specialists  named  after
-
-Avloniy,
-
-Republican
-
-Teaching-
-
-Methodological Center for Re-training and
-
-Professional  Development  of  Preschool
-
-Education Institutions' Personnel.
-
-General education institutions under direct
-
-supervision
-
-of
-
-the
-
-Ministry.
-
-Center  for
-
-multimedia-based
-
-general
-
-education
-
-programs' development. Editorial Board of
-
-Republican
-
-Journals:
-
-'Marifat
-
-(Enlightment)',
-
-'Uchitel
-
-Uzbekistana
-
-(Uzbekistan's
-
-teacher)',
-
-"Khalk
-
-Talimi
-
-(Public
-
-Education)",
-
-"Boshlangich
-
-Talim
-
-(Elementary  Education)',  'Til  va  Adabiyot
-
-Talimi
-
-(Language
-
-and
-
-Literature
-
-Education)',
-
-'Prepodovanie
-
-Yazika
-
-i
-
-Literaturi  (rus.  Teaching  Language  and
-
-Literature)',
-
-'Soglom
-
-Avlod
-
-(Healthy
-
-Generation)',
-
-"Maktabgacha
-
-Talim
-
-(Preschool Education)", "Talim Tarakkiyoti
-
-(Education
-
-Development)',
-
-"Uzluksiz
-
-Talim
-
-(Continuous
-
-Education)',
-
-"Fizika,
-
-Mathematika
-
-va
-
-Informatika
-
-(Physics,
-
-Mathematics  and  Information)',  'Maktab
-
-va Hayot (School and Life)".
-
-The 'Yoshlik'  Republican Children's
-
-Sports Society.
-
-Republican specialized sports schools: on
-
-water sports, youthful sportsmanship.
-
-Republican children's center 'Barkamol
-
-Avlod' on artistic creativity.
-
-Republican children's center 'Barkamol
-
-Avlod' on technical creativity
-
-Republican children's center 'Barkamol
-
-Avlod' on local history and ecology.
-
+Republican Scientific Research Center after K.Niyazov.
+Pedagogical institutes of Nukus, Tashkent region, Jizzakh, Kokand, and Navoi.
+Republican center for professional orientation and psychological-pedagogical diagnosis of students. Republican Center for Education. Central Institute for Re-training and Professional Development of Public Education Specialists named after Avloniy, Republican Teaching-Methodological Center for Re-training and Professional Development of Preschool Education Institutions' Personnel.
+
+General education institutions under direct supervision of the Ministry. Center for multimedia-based general education programs' development. Editorial Board of Republican Journals: "Marifat (Enlightment)", "Uchitel Uzbekistana (Uzbekistan's teacher)", "Khalk Talimi (Public Education)", "Boshlangich Talim (Elementary Education)", "Til va Adabiyot Talimi (Language and Literature Education)", "Prepodovanie Yazika i Literaturi (rus. Teaching Language and Literature)", "Soglom Avlod (Healthy Generation)", "Maktabgacha Talim (Preschool Education)", "Talim Tarakkiyoti (Education Development)", "Uzluksiz Talim (Continuous Education)", "Fizika, Mathematika va Informatika (Physics, Mathematics and Information)", "Maktab va Hayot (School and Life)".
+
+The "Yoshlik" Republican Children's Sports Society.
+Republican specialized sports schools: on water sports, youthful sportsmanship.
+Republican children's center "Barkamol Avlod" on artistic creativity.
+Republican children's center "Barkamol Avlod" on technical creativity
+Republican children's center "Barkamol Avlod" on local history and ecology.
 Republican Pedagogical Library,
-
 Republican Children's Library
-
-The «Mekhribonlik Uyi» # 22 named after
-
-A.P. Khlebushkina.
+The «Mekhribonlik Uyi» # 22 named after A.P. Khlebushkina.
 
 Maximum number of total staff - 89 people.
-
-including administration  - 69 people.
+including administration - 69 people.
 
 * ) the position of Deputy minister - Executive Director of the Children's Sports Development Fund is not included into the staff count of the Ministry
-
-## Annex 1
 
 [[END OF PAGE 169]]
 
@@ -6644,7 +6033,7 @@ including administration  - 69 people.
 
 ### Organizational Structure of the System under the Ministry of Higher and Secondary Special Education of the Republic of Uzbekistan
 
-Ministry of Higher and Secondary Special Education the Republic of Uzbekistan
+Ministry of Higher and Secondary Special Education of the Republic of Uzbekistan
 --- | --- | ---
 Higher Educational Institutions
 1. National University of Uzbekistan 2. Tashkent State Technical University 3. Uzbekistan State University of World Languages 4. Tashkent State University of Economics 5. Tashkent Institute of Architecture and Construction 6. Tashkent Automobile and Road Construction Institute 7. Tashkent Financial Institute 8. Tashkent Light Industry and Textile Institute 9. Tashkent State Institute of Oriental Studies 10. Tashkent Chemistry and Technology Institute 11. Tashkent State Pedagogical University 12. Andijan machinery building Institute Bukhara State University 13. Bukhara Engineering and Technological Institute | 14. Gulistan State University 15. Jizzakh Polytechnic Institute 16. Karakalpak State University 17. Karshi State University 18. Karshi Institute of Engineering and Economics 19. Namangan State University 20. Namangan Institute of Engineering and Pedagogy 21. Namangan Institute of Engineering and Economics 22. Samarkand State University 23. Samarkand State Institute of Foreign Languages 24. Samarkand State Institute of Architecture and Construction 25. Samarkand Institute of Economics and Service 26. Termez State University 27. Ferghana State University 28. Ferghana Polytechnic Institute 29. Urgench State University | Center for Secondary Specialized Vocational Education (CSSVE) Center for Development of Higher and Secondary Specialized Vocational Education
@@ -6658,9 +6047,76 @@ Higher Educational Institutions
 ## Annex 3
 ### STRUCTURE of Central Apparatus of the Center for Secondary Specialized, Vocational Education
 
-Maximum number of total staff - 68 people.
+Ministerial Board
 
-including administration  - 53 people.
+First Deputy Minister of Higher and Secondary Special Education – Director of the Center
+
+Scientific-methodological council
+
+First Deputy Director – Head of Main Directorate
+
+Main Directorate for Coordination of Vocational Colleges and Academic Lyceums
+
+Directorate for developing admission plans to vocational colleges and academic lyceums
+6 p.
+
+Directorate for ensuring job-placement of SSVE institutions' graduates
+6 p.
+
+Department of spiritual and moral education and sports
+3 p.
+
+Deputy Director - Head of Directorate
+
+Directorate for Improving the State Educational Standards and Unification of Fields of Study
+5 p.
+
+Directorate for improving the educational process and introduction of modern pedagogical technologies
+4 p.
+
+Department for Development of New Generation Textbooks and Teaching-Methodological Aids
+3 p.
+
+Department for Introduction of Information Technologies into Educational Process
+4 p.
+
+Directorate for selection and work with administrative pedagogical personnel
+5 p.
+
+Directorate for reconstruction, complete overhaul and equipping SSVE institutions
+1 p.
+
+Department for Attraction of Investments and International Cooperation
+3 p.
+
+Department for Financing and Accountancy
+3 p.
+
+Chief Legal Advisor -
+1 p.
+
+Chief specialist on mobilization issues -
+1 p.
+
+Office management
+- 2 p.
+
+Maximum number of total staff - 68 people.
+including administration - 53 people.
+
+Territorial Directorates of the SSVE
+
+Vocational Colleges
+
+Academic Lyceums
+
+Subordinate organizations
+
+Service for Information and Methodological Provision of SSVE Institutions
+
+Institute for In-service Training of Personnel of SSVE System
+
+Agency-level Service for Metrological Control
 
 [[END OF PAGE 171]]
 
@@ -6674,27 +6130,27 @@ including administration  - 53 people.
 
 #### Support to the education sector by international development partners in Uzbekistan
 
+Table 1 below presents a summary of assistance by Education sub-sectors.
+
 Education sub-sector | Donor Agency | Type of assistance
 --- | --- | ---
 Preschool education | UNICEF, USAID | Technical assistance
 Primary education | UNICEF, USAID,UNESCO | Technical assistance
-ADB, WB, | Technical assistance and loans
+ | ADB, WB, | Technical assistance and loans
 Secondary education | ADB, WB, IDB, USAID Governments of China, Japan, Republic of Korea, UNESCO | Technical assistance and loans
 Secondary specialized (professional) education | ADB, KFW, Governments of China, Japan, Germany, Republic of Korea, | Technical assistance and loans
-GIZ, UNESCO, KOICA, JICA, EU, Swiss CA | Technical assistance
+ | GIZ, UNESCO, KOICA, JICA, EU, Swiss CA | Technical assistance
 Higher education | EU, Governments of USA, Russian Federation, India, Germany, France, UK | Technical assistance, fellowship grants
 Non-formal education and training for children | British Council, Alliance Frances, Goethe Institute, JICA | Technical assistance
 Non-formal education for adults | Dvv-International, UNESCO, JICA | Technical assistance
 Scientific research and scholar development | EU, Governments of USA, Germany, France, GB, Japan, Republic of Korea | Technical assistance, fellowship
 
-Table 1 below presents a summary of assistance by Education sub-sectors.
+Table 2 below presents detailed information on each sub-sector.
 
 ##### PRESCHOOL EDUCATION
---- | --- | ---
 Donor Agency | Program Name | Main program activities
-UNICEF | ECD Program Improving quality a access to Early Childhood Education (500 000 USD anually starting from 2010) | Partnership with MoPE and the National Teacher Training Institution (RUMZ) has resulted in adoption of Early Learning Development Standards and an 18 hour course in Child Centred Teaching Methods in Pre-Service and In-Service Institutions. Increased capacity of 3 771 teachers (from 2010-2012) in child -centered education through In-service teacher training Institutes and regional initiatives. Collaboration with MoPE, MHSSE and Woman's Commitee resulted in succesful regional projects. Child-centered education materials and ELDS included into curriculum of
-
-Table 2 below presents detailed information on each sub-sector.
+--- | --- | ---
+UNICEF | ECD Program Improving quality a access to Early Childhood Education (500 000 USD anually starting from 2010) | Partnership with MoPE and the National Teacher Training Institution (RUMZ) has resulted in adoption of Early Learning Development Standards and an 18 hour course in Child Centred Teaching Methods in Pre-Service and In-Service Institutions. Increased capacity of 3 771 teachers (from 2010-2012) in child –centered education through In-service teacher training Institutes and regional initiatives. Collaboration with MoPE, MHSSE and Woman's Commitee resulted in succesful regional projects. Child-centered education materials and ELDS included into curriculum of
 
 [[END OF PAGE 172]]
 
@@ -6703,15 +6159,15 @@ Table 2 below presents detailed information on each sub-sector.
 173
 
 Pedagogical colleges, RUMZ and In-service Institutes curriculum nationwide. Advocacy for alternative ECE program including half-day groups and community centers.
---- | --- | ---
-WB | Basic Education Project II (2009- 2013): 28 million USD
+WB | Basic Education Project II (2009-2013): 28 million USD |
 ##### GENERAL SECONDARY EDUCATION (GRADES 1-9)
 Donor Agency | Program Name | Main program activities
-ADB | Basic Education Textbook Development Project (Loan, 1998- 2004), 40 million USD Second Textbook Development Project (Loan 2005-2009), 25 million USD | A project, implemented with financial assistance from the Asian Development Bank has played a key role in improving the procedure of developing and publishing of textbooks, introduction of an automotive system of registering and ordering the textbooks, as well as in establishing of school libraries on the basis of information- resources centers. The Program for development of education sector (ADB loan, 2003-2009) contributed to the development of the distance education system, establishment of resource centers for distance education at general education schools and in-service training institutions The project contributed to improving access to quality basic education for the rural poor, a key strategic priority for promoting pro- poor growth through provision of (i) modern science laboratory equipment, laboratory furniture, and teaching aids for biology, chemistry, and physics; (ii) classroom furniture; (iii) general teaching aids, and (iv) reading materials and basic furniture for libraries. The expected outcome was improved equitable access to,
-Education Sector Development Project (ESDP) to improve the relevance and quality of education (Loan 2003-2009), 38.5 million USD Education Sector Development Program (ESDP) to improve the relevance and quality of education (Loan 2003-2009), 70 million USD
-Rural basic education project (loan 2008-2011) 30 million USD with associated TA Effective Management of Investments and Reforms in Basic Education; Rural Basic Education, 1.5 million USD
-ICT in Basic Education (loan 2006- 2011) 30 million USD
-Basic Education for children with spoecial needs (Grant), 1.5 million USD | and greater relevance of, basic education in three rural regions: Tashkent,
+--- | --- | ---
+ADB | Basic Education Textbook Development Project (Loan, 1998-2004), 40 million USD; Second Textbook Development Project (Loan 2005-2009), 25 million USD | A project, implemented with financial assistance from the Asian Development Bank has played a key role in improving the procedure of developing and publishing of textbooks, introduction of an automotive system of registering and ordering the textbooks, as well as in establishing of school libraries on the basis of information-resources centers.
+ | Education Sector Development Project (ESDP) to improve the relevance and quality of education (Loan 2003-2009), 38.5 million USD; Education Sector Development Program (ESDP) to improve the relevance and quality of education (Loan 2003-2009), 70 million USD | The Program for development of education sector (ADB loan, 2003-2009) contributed to the development of the distance education system, establishment of resource centers for distance education at general education schools and in-service training institutions
+ | Rural basic education project (loan 2008-2011) 30 million USD with associated TA Effective Management of Investments and Reforms in Basic Education; Rural Basic Education, 1.5 million USD | The project contributed to improving access to quality basic education for the rural poor, a key strategic priority for promoting pro-poor growth through provision of (i) modern science laboratory equipment, laboratory furniture, and teaching aids for biology, chemistry, and physics; (ii) classroom furniture; (iii) general teaching aids, and (iv) reading materials and basic furniture for libraries. The expected outcome was improved equitable access to, and greater relevance of, basic education in three rural regions: Tashkent, Surkhandarya, and Kashkadarya
+ | ICT in Basic Education (loan 2006-2011) 30 million USD | The project's intended impact was improved quality and relevance of, and equitable access to, basic education for all students including students from poor and remote areas. The expected project outcome was improved learning outcomes through information and communication technology
+ | Basic Education for children with special needs (Grant), 1.5 million USD |
 
 [[END OF PAGE 173]]
 
@@ -6779,7 +6235,7 @@ devoted to Central Asia of which 3,000,000 are earmarked for Uzbekistan.)
 --- | --- | ---
 Central Asian Education Platform 2013 (2,000,000 €) | Improvement of the capacity of public servants and organisations in the education sector. Aim: modernisation of education systems in Central Asia.
 Central Asia Research and Education Network 2 (CAREN2) (2,880,778 €) | Maintenance and further development of a high-capacity Internet network for research and education communities in CA, providing the region with a gateway to global research and education collaboration.
-Financial Education Program for Low- Income Households in Uzbekistan part II (FEP II) (191,979 €) | The FEP-2 financial education is aimed to improve financial behaviors of low-income households in the areas of debt management.
+Financial Education Program for Low-Income Households in Uzbekistan part II (FEP II) (191,979 €) | The FEP-2 financial education is aimed to improve financial behaviors of low-income households in the areas of debt management.
 GIZ | Cooperation with Tashkent State University: 6 Modules on professional didactics for agricultural professions (as integral part of degree training for engineers)
 JICA | Grants to government employees to pursue Master's studies in Japan (15 students per annum) | Currently JICA's assistance in education in the country only comprises dispatching Japan Overseas Cooperation Volunteers (JOCV) and Senior Volunteers to schools and providing scholarships to 15 young government employees every year to do a MA in Japan. JICA also sends Uzbek government officials for training in Japan
 WB | Assistance in implementation of state program for development of higher education. Indicative loan amount USD 40 mil. | Expected start in mid-2013
@@ -6797,7 +6253,7 @@ community and young people 347 people trained in the field of human development,
 British Council | In addition to assisting the country to strengthen teaching of the English language by supporting English teacher training programs, curriculum reforms, etc., the British Council works in the following areas related to education in Uzbekistan: vocational education with a focus on upper secondary education, science education, and art. The size of the budget is usually around £50,000 - 55,000 for a country-based project and around £800,000 pounds for a regional project. The British Council was the contractor of the ADB-funded Basic Education Textbook Development project from 2001 to 2003 (USD 40 millions) and established the national Textbook Rental Scheme | The British Council Uzbekistan especially targets upper secondary and higher education. Its recent projects include support to five pilot vocational colleges to help build partnerships with industries and to design and deliver competence-based training and assessment. It is also currently supporting such activities as entrepreneurship training and environmental education (focus in Uzbekistan: water) as part of the British Council's regional projects in Central and South Asia.
 ##### CROSS-CUTTING ISSUES
 Donor Agency | Main program activities
-EC | Inclusive Education, 3.7 million € over 5 years, focus on regulatory/ legal
+EC | Inclusive Education, 3.7 million € over 5 years, focus on regulatory/ legal framework. Program start was expected in 2011
 Embassy of France | French language promotion, teacher exchange (overall volume 100,000 EUR per year)
 Goethe Institute | German language promotion, teacher exchange
 
