@@ -1,8 +1,15 @@
 [[START OF PAGE 1]]
+ASAMBLEA NACIONAL
+NICARAGUA
+
+REPÚBLICA DE NICARAGUA
+AMÉRICA CENTRAL
 
 # Constitución Política de la República de Nicaragua
 
 ## Texto íntegro con reformas incorporadas a 2014
+
+30 aniversario
 
 [[END OF PAGE 1]]
 
@@ -28,7 +35,7 @@
 
 # Presentación
 
-En La Gaceta, Diario Oficial N.° 4 del 5 de enero de 1985, el Consejo Supremo Electoral convocó a los representantes electos el 4 de noviembre de 1984 para que a las nueve de la mañana del 9 de enero se hicieran presentes en el edificio 'Mártires del 22 de enero de 1967' para verificar la instalación de la Asamblea Nacional.
+En La Gaceta, Diario Oficial N.° 4 del 5 de enero de 1985, el Consejo Supremo Electoral convocó a los representantes electos el 4 de noviembre de 1984 para que a las nueve de la mañana del 9 de enero se hicieran presentes en el edificio “Mártires del 22 de enero de 1967” para verificar la instalación de la Asamblea Nacional.
 
 En cumplimiento de dicha convocatoria, a la diez de la mañana del día señalado y bajo la presidencia del recordado Dr. Mariano Fiallos Oyanguren y con la asistencia de miembros de la Corte Suprema de Justicia, se hicieron presentes 96 representantes de 7 partidos distintos, de los que 90 fueron electos directamente por el Pueblo nicaragüense y seis se designaron por disposición legal.
 
@@ -40,7 +47,8 @@ En el año 2014 se aprobó una reforma constitucional y adecuamos la normativa d
 
 Hoy presentamos a los Diputados y Diputadas de la Asamblea Nacional, así como a los funcionarios y funcionarias de la Asamblea Nacional una nueva herramienta de trabajo legislativo, que contiene en un solo volumen, el texto íntegro con reformas incorporadas de la Constitución Política de la República de Nicaragua y de la Ley No. 606, Ley Orgánica del Poder Legislativo.
 
-Ing. René Núñez Téllez Presidente
+Ing. René Núñez Téllez
+Presidente
 
 Asamblea Nacional, 30 años legislando para vos
 
@@ -53,6 +61,9 @@ Asamblea Nacional, 30 años legislando para vos
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+ASAMBLEA NACIONAL
+NICARAGUA
 
 # Junta Directiva
 
@@ -86,25 +97,104 @@ Wilfredo Navarro Moreira Tercer Secretario
 
 [[START OF PAGE 9]]
 
+9
+
 # Contenido
 
 ## I. CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE NICARAGUA
 
-9
+Título I
+Principios fundamentales
+Capítulo Único 13
+
+Título II
+Sobre el Estado
+Capítulo Único 18
+
+Título III
+La Nacionalidad Nicaragüense
+Capítulo Único 20
+
+Título IV
+Derechos, Deberes y Garantías del Pueblo Nicaragüense
+Capítulo I
+Derechos Individuales 21
+Capítulo II
+Derechos Políticos 28
+Capítulo III
+Derechos Sociales 30
+Capítulo IV
+Derechos de la Familia 33
+Capítulo V
+Derechos laborales 34
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-(this page came through the extractor with no text)
+10
+
+Capítulo VI
+Derechos de las comunidades de la Costa Caribe 36
+
+Título V
+Defensa y Seguridad Nacional. Seguridad Ciudadana
+Capítulo Único 37
+
+Título VI
+Economía Nacional, Reforma Agraria y Finanzas Públicas
+Capítulo I
+Economía Nacional 40
+Capítulo II
+Reforma Agraria 44
+Capítulo III
+De las Finanzas Públicas 45
+
+Título VII
+Educación y Cultura
+Capítulo Único 46
+
+Título VIII
+De la Organización del Estado
+Capítulo I
+Principios Generales 49
+Capítulo II
+Poder Legislativo 52
+Capítulo III
+Poder Ejecutivo 62
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-87
-
 11
+
+Capítulo IV
+De la Contraloría General de la República 69
+Capítulo V
+Poder Judicial 71
+Capítulo VI
+Poder Electoral 77
+
+Título IX
+División Político Administrativa
+Capítulo I
+De los Municipios 80
+Capítulo II
+Comunidades de la Costa Caribe 83
+
+Título X
+Supremacía de la Constitución, su Reforma y de las leyes constitucionales
+Capítulo I
+De la Constitución Política 84
+Capítulo II
+Control Constitucional 85
+Capítulo III
+Reforma Constitucional 86
+
+Título XI
+Disposiciones Finales
+Capítulo Único 87
 
 [[END OF PAGE 11]]
 
@@ -144,7 +234,7 @@ Al  General de Hombres Libres, AUGUSTO C. SANDINO, Padre de la Revolución Popul
 
 La acción heroica de RIGOBERTO LOPEZ PEREZ, iniciador del principio del fin de la dictadura.
 
-1 3
+13
 
 [[END OF PAGE 13]]
 
@@ -170,19 +260,11 @@ La institucionalización de las conquistas de la Revolución y la construcción 
 
 POR LA PATRIA, POR LA REVOLUCIÓN, POR LA UNIDAD DE LA NACIÓN Y POR LA PAZ
 
-1 4
+14
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
-
-#### Artículo 1
-
-#### Artículo 2
-
-#### Artículo 3
-
-#### Artículo 4
 
 Promulgamos la siguiente
 
@@ -192,27 +274,35 @@ Promulgamos la siguiente
 
 ### CAPÍTULO ÚNICO
 
-La independencia, la soberanía y la autodeterminación nacional, son derechos irrenunciables del pueblo y fundamentos de la nación nicaragüense. Toda injerencia extranjera en los asuntos internos de Nicaragua o cualquier intento de menoscabar esos derechos, atenta contra  la  vida  del  pueblo.  Es  deber  de  todos  los  nicaragüenses preservar y defender estos derechos.
+#### Artículo 1
 
-La soberanía nacional reside en el pueblo y la ejerce a través de instrumentos democráticos decidiendo y participando libremente en la construcción y perfeccionamiento del sistema económico, político, cultural y social de la nación. El poder soberano lo ejerce el pueblo por medio de sus representantes libremente elegidos por sufragio universal, igual, directo y secreto, sin que ninguna otra persona o reunión de personas pueda arrogarse esta representación. También lo  puede  ejercer  de  forma  directa  a  través  del  referéndum  y  el plebiscito. Asimismo, podrá ejercerlo a través de otros mecanismos directos, como  los  presupuestos  participativos,  las iniciativas ciudadanas, los Consejos territoriales, las asambleas territoriales y  comunales  de  los  pueblos  originarios  y  afrodescendientes,  los Consejos sectoriales, y otros procedimientos que se establezcan en la presente Constitución y las leyes.
+La independencia, la soberanía y la autodeterminación nacional, son derechos irrenunciables del pueblo y fundamentos de la nación nicaragüense. Toda injerencia extranjera en los asuntos internos de Nicaragua o cualquier intento de menoscabar esos derechos, atenta contra la vida del pueblo. Es deber de todos los nicaragüenses preservar y defender estos derechos.
 
-La lucha por la paz y por el establecimiento de un orden internacional justo, son compromisos irrenunciables de la nación nicaragüense. Por  ello  nos  oponemos  a  todas  las  formas  de  dominación  y explotación colonialista e imperialista y somos solidarios con todos los pueblos que luchan contra la opresión y la discriminación.
+#### Artículo 2
 
-El  Estado  nicaragüense  reconoce  a  la  persona,  la  familia  y  la comunidad como el origen y el fin de su actividad, y está organizado
+La soberanía nacional reside en el pueblo y la ejerce a través de instrumentos democráticos decidiendo y participando libremente en la construcción y perfeccionamiento del sistema económico, político, cultural y social de la nación. El poder soberano lo ejerce el pueblo por medio de sus representantes libremente elegidos por sufragio universal, igual, directo y secreto, sin que ninguna otra persona o reunión de personas pueda arrogarse esta representación. También lo puede ejercer de forma directa a través del referéndum y el plebiscito. Asimismo, podrá ejercerlo a través de otros mecanismos directos, como los presupuestos participativos, las iniciativas ciudadanas, los Consejos territoriales, las asambleas territoriales y comunales de los pueblos originarios y afrodescendientes, los Consejos sectoriales, y otros procedimientos que se establezcan en la presente Constitución y las leyes.
+
+#### Artículo 3
+
+La lucha por la paz y por el establecimiento de un orden internacional justo, son compromisos irrenunciables de la nación nicaragüense. Por ello nos oponemos a todas las formas de dominación y explotación colonialista e imperialista y somos solidarios con todos los pueblos que luchan contra la opresión y la discriminación.
+
+#### Artículo 4
+
+El Estado nicaragüense reconoce a la persona, la familia y la comunidad como el origen y el fin de su actividad, y está organizado
 
 Título I Principios Fundamentales
 
-1 5
+15
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
+para asegurar el bien común, asumiendo la tarea de promover el desarrollo humano de todos y cada uno de los nicaragüenses, bajo la inspiración de valores cristianos, ideales socialistas, prácticas solidarias, democráticas y humanísticas, como valores universales y generales, así como los valores e ideales de la cultura e identidad nicaragüense.
+
 #### Artículo 5
 
-para asegurar el bien común, asumiendo la tarea de promover el desarrollo humano de todos y cada uno de los nicaragüenses, bajo la  inspiración  de  valores  cristianos,  ideales  socialistas,  prácticas solidarias, democráticas y humanísticas, como valores universales y generales, así como los valores e ideales de la cultura e identidad nicaragüense.
-
-Son principios  de  la  nación  nicaragüense,  la  libertad,  la  justicia, el  respeto  a  la  dignidad  de  la  persona  humana,  el  pluralismo político  y  social,  el  reconocimiento  a  los  pueblos  originarios  y afrodescendientes  de  su  propia  identidad  dentro  de  un  Estado unitario  e  indivisible,  el  reconocimiento  a  las  distintas  formas  de propiedad, la libre cooperación internacional, el respeto a la libre autodeterminación de los pueblos, los valores cristianos, los ideales socialistas,  las  prácticas  solidarias,  y  los  valores  e  ideales  de  la cultura e identidad nicaragüense.
+Son principios de la nación nicaragüense, la libertad, la justicia, el respeto a la dignidad de la persona humana, el pluralismo político y social, el reconocimiento a los pueblos originarios y afrodescendientes de su propia identidad dentro de un Estado unitario e indivisible, el reconocimiento a las distintas formas de propiedad, la libre cooperación internacional, el respeto a la libre autodeterminación de los pueblos, los valores cristianos, los ideales socialistas, las prácticas solidarias, y los valores e ideales de la cultura e identidad nicaragüense.
 
 El pluralismo político asegura la libre organización y participación de todos los partidos políticos en los procesos electorales establecidos en la  Constitución  y  las  leyes;  y  su  participación  en  los  asuntos económicos, políticos y sociales del país.
 
@@ -220,7 +310,7 @@ Los valores cristianos aseguran el amor al prójimo, la reconciliación entre he
 
 Los ideales socialistas promueven el bien común por encima del egoísmo individual, buscando la construcción de una sociedad cada vez  más  inclusiva,  justa  y  equitativa,  impulsando  la  democracia económica  que  redistribuya  la  riqueza  nacional  y  erradique  la explotación entre los seres humanos.
 
-La solidaridad entre las y los nicaragüenses, debe ser un accionar común que conlleve a abolir prácticas excluyentes, y que favorezca a  los  más  empobrecidos,  desfavorecidos  y  marginados;  como sentimiento de unidad basado en metas e intereses comunes de nación,  siendo  que  la  colaboración  y  ayuda  mutua  promueve  y alienta relaciones de entendimiento, respeto y dignificación, como fundamento para la paz y la reconciliación entre las personas.
+La solidaridad entre las y los nicaragüenses, debe ser un accionar común que conlleve a abolir prácticas excluyentes, y que favorezca a los más empobrecidos, desfavorecidos y marginados; como sentimiento de unidad basado en metas e intereses comunes de nación, siendo que la colaboración y ayuda mutua promueve y
 
 16
 
@@ -228,7 +318,9 @@ La solidaridad entre las y los nicaragüenses, debe ser un accionar común que c
 
 [[START OF PAGE 17]]
 
-El  Estado  reconoce  la  existencia  de  los  pueblos  originarios y  afrodescendientes,  que  gozan  de  los  derechos,  deberes  y garantías  consignados  en  la  Constitución  y  en  especial,  los  de mantener  y  desarrollar  su  identidad  y  cultura,  tener  sus  propias formas de organización social y administrar sus asuntos locales; así  como  mantener  las  formas  comunales  de  propiedad  de  sus tierras y el goce, uso y disfrute, todo de conformidad con la Ley. Para las comunidades de la Costa Caribe se establece el régimen de autonomía en la presente Constitución.
+alienta relaciones de entendimiento, respeto y dignificación, como fundamento para la paz y la reconciliación entre las personas.
+
+El Estado reconoce la existencia de los pueblos originarios y afrodescendientes, que gozan de los derechos, deberes y garantías consignados en la Constitución y en especial, los de mantener y desarrollar su identidad y cultura, tener sus propias formas de organización social y administrar sus asuntos locales; así como mantener las formas comunales de propiedad de sus tierras y el goce, uso y disfrute, todo de conformidad con la Ley. Para las comunidades de la Costa Caribe se establece el régimen de autonomía en la presente Constitución.
 
 Las diferentes formas de propiedad: pública, privada, asociativa, cooperativa,  comunitaria,  comunal,  familiar  y  mixta  deberán  ser garantizadas y estimuladas sin discriminación para producir riquezas y todas ellas dentro de su libre funcionamiento deberán cumplir una función social.
 
@@ -240,29 +332,29 @@ Nicaragua  privilegia  la  integración  regional  y  propugna  por  la reconstr
 
 Título I Principios Fundamentales
 
-1 7
+17
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-#### Artículo 6
-
-#### Artículo 7
-
-#### Artículo 8
-
 ## TÍTULO II Sobre el Estado
 
 ### CAPÍTULO ÚNICO
 
-Nicaragua es un Estado independiente, libre, soberano, unitario e indivisible.  Se  constituye  en  un  Estado  Democrático  y  Social  de Derecho, que promueve como valores superiores la dignificación del  pueblo  a  través  de  su  ordenamiento  jurídico,  la  libertad,  la justicia,  la  igualdad,  la  solidaridad,  la  responsabilidad  social  y, en  general,  la  preeminencia  de  los  Derechos  Humanos,  la  ética y  el  bien  común.  Las  ciudadanas  y  ciudadanos  y  la  familia  son elementos protagónicos en la toma de decisiones, planificación y gestión de los asuntos públicos del Estado.
+#### Artículo 6
 
-Nicaragua es una República democrática. La democracia se ejerce de  forma  directa,  participativa,  y  representativa.  Las  funciones delegadas del Poder Soberano se manifiestan a través del Poder Legislativo,  Poder  Ejecutivo,  Poder  Judicial  y  Poder  Electoral. Tienen funciones especializadas y separadas, colaborando armónicamente entre sí para la realización de sus fines.
+Nicaragua es un Estado independiente, libre, soberano, unitario e indivisible. Se constituye en un Estado Democrático y Social de Derecho, que promueve como valores superiores la dignificación del pueblo a través de su ordenamiento jurídico, la libertad, la justicia, la igualdad, la solidaridad, la responsabilidad social y, en general, la preeminencia de los Derechos Humanos, la ética y el bien común. Las ciudadanas y ciudadanos y la familia son elementos protagónicos en la toma de decisiones, planificación y gestión de los asuntos públicos del Estado.
+
+#### Artículo 7
+
+Nicaragua es una República democrática. La democracia se ejerce de forma directa, participativa, y representativa. Las funciones delegadas del Poder Soberano se manifiestan a través del Poder Legislativo, Poder Ejecutivo, Poder Judicial y Poder Electoral. Tienen funciones especializadas y separadas, colaborando armónicamente entre sí para la realización de sus fines.
 
 Existen otras instituciones y entes autónomos para el cumplimiento de funciones específicas del Estado.
 
-El  pueblo  de  Nicaragua  es  de  naturaleza  multiétnica  y  parte integrante de la nación centroamericana.
+#### Artículo 8
+
+El pueblo de Nicaragua es de naturaleza multiétnica y parte integrante de la nación centroamericana.
 
 #### Artículo 9
 Nicaragua defiende firmemente la unidad centroamericana, apoya y promueve todos los esfuerzos para lograr la integración política y  económica y la cooperación en América Central, así como los
@@ -283,35 +375,37 @@ Este principio se regulará por la legislación y los tratados respectivos.
 
 #### Artículo 10
 
+El territorio nacional es el comprendido entre el Mar Caribe y el Océano Pacífico y las Repúblicas de Honduras y Costa Rica. De conformidad con las sentencias de la Corte Internacional de Justicia del ocho de octubre del año dos mil siete y del diecinueve de noviembre del año dos mil doce, Nicaragua limita en el Mar Caribe con Honduras, Jamaica, Colombia, Panamá y Costa Rica.
+
+La soberanía, jurisdicción y derechos de Nicaragua se extienden a las islas, cayos, bancos y rocas, situados en el Mar Caribe, Océano Pacífico y Golfo de Fonseca; así como a las aguas interiores, el mar territorial, la zona contigua, la zona económica exclusiva, la plataforma continental y el espacio aéreo correspondiente, de conformidad con la ley y las normas de Derecho Internacional, y las sentencias emitidas por la Corte Internacional de Justicia.
+
+La República de Nicaragua únicamente reconoce obligaciones internacionales sobre su territorio que hayan sido libremente consentidas y de conformidad con la Constitución Política de la República y con las normas de Derecho Internacional. Asimismo, no acepta los tratados suscritos por otros países en los cuales Nicaragua no sea Parte Contratante.
+
 #### Artículo 11
+
+El español es el idioma oficial del Estado. Las lenguas de las Comunidades de la Costa Caribe de Nicaragua también tendrán uso oficial en los casos que establezca la ley.
 
 #### Artículo 12
 
+La ciudad de Managua es la capital de la República y sede de los Poderes del Estado. En circunstancias extraordinarias, éstos se podrán establecer en otras partes del territorio nacional.
+
 #### Artículo 13
+
+Los símbolos patrios son: el Himno Nacional, la Bandera y el Escudo establecidos por la ley que determina sus características y usos.
 
 #### Artículo 14
 
-El  territorio  nacional  es  el  comprendido  entre  el  Mar  Caribe  y  el Océano  Pacífico  y  las  Repúblicas  de  Honduras  y  Costa  Rica. De conformidad con las sentencias de la  Corte  Internacional  de Justicia del ocho de octubre del año dos mil siete y del diecinueve de  noviembre  del  año  dos  mil  doce,  Nicaragua  limita  en  el  Mar Caribe con Honduras, Jamaica, Colombia, Panamá y Costa Rica.
-
-La soberanía, jurisdicción y derechos de Nicaragua se extienden a las islas, cayos, bancos y rocas, situados en el Mar Caribe, Océano Pacífico y Golfo de Fonseca; así como a las aguas interiores, el mar territorial,  la  zona  contigua,  la  zona  económica  exclusiva,  la plataforma  continental  y  el  espacio  aéreo  correspondiente,  de conformidad con la ley y las normas de Derecho Internacional, y las sentencias emitidas por la Corte Internacional de Justicia.
-
-La  República  de  Nicaragua  únicamente  reconoce  obligaciones internacionales  sobre  su  territorio  que  hayan  sido  libremente consentidas  y  de  conformidad  con  la  Constitución  Política  de  la República y con las normas de Derecho Internacional. Asimismo, no  acepta  los  tratados  suscritos  por  otros  países  en  los  cuales Nicaragua no sea Parte Contratante.
-
-El  español  es  el  idioma  oficial  del  Estado.  Las  lenguas  de  las Comunidades de la Costa Caribe de Nicaragua también tendrán uso oficial en los casos que establezca la ley.
-
-La ciudad de Managua es la capital de la República y sede de los Poderes  del  Estado.  En  circunstancias  extraordinarias,  éstos  se podrán establecer en otras partes del territorio nacional.
-
-Los  símbolos  patrios  son:  el  Himno  Nacional,  la  Bandera  y  el Escudo establecidos por la ley que determina sus características y usos.
-
 El Estado no tiene religión oficial.
 
-Título II Sobre el Estado Título III La nacionalidad nicaragüense Artículo 16
+Título II Sobre el Estado
 
 19
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+
+Título III La nacionalidad nicaragüense
 
 ## TÍTULO III La nacionalidad nicaragüense
 
@@ -321,17 +415,19 @@ Título II Sobre el Estado Título III La nacionalidad nicaragüense Artículo 1
 
 Los nicaragüenses son nacionales o nacionalizados.
 
+#### Artículo 16
+
 Son nacionales:
 
-- Los  nacidos  en  el  territorio  nacional.  Se  exceptúan  los  hijos de  extranjeros  en  servicio  diplomático,  los  de  funcionarios extranjeros  al  servicio  de  organizaciones  internacionales  o los  de  enviados  por  sus  gobiernos  a  desempeñar  trabajos en  Nicaragua,  a  menos  que  optaren  por  la  nacionalidad nicaragüense.
+1. Los nacidos en el territorio nacional. Se exceptúan los hijos de extranjeros en servicio diplomático, los de funcionarios extranjeros al servicio de organizaciones internacionales o los de enviados por sus gobiernos a desempeñar trabajos en Nicaragua, a menos que optaren por la nacionalidad nicaragüense.
 
-- Los hijos de padre o madre nicaragüense.
+2. Los hijos de padre o madre nicaragüense.
 
-- Los nacidos en el extranjero de padre o madre que originalmente fueron nicaragüenses, siempre y cuando lo solicitaren después de alcanzar la mayoría de edad o emancipación.
+3. Los nacidos en el extranjero de padre o madre que originalmente fueron nicaragüenses, siempre y cuando lo solicitaren después de alcanzar la mayoría de edad o emancipación.
 
-- Los infantes de padres desconocidos encontrados en territorio nicaragüense, sin perjuicio de que, conocida su filiación, surtan los efectos que proceden.
+4. Los infantes de padres desconocidos encontrados en territorio nicaragüense, sin perjuicio de que, conocida su filiación, surtan los efectos que proceden.
 
-- Los hijos de padres extranjeros nacidos a bordo de aeronaves y embarcaciones nicaragüenses, siempre que ellos lo solicitaren.
+5. Los hijos de padres extranjeros nacidos a bordo de aeronaves y embarcaciones nicaragüenses, siempre que ellos lo solicitaren.
 
 #### Artículo 17
 Los  centroamericanos  de  origen  tienen  derecho  de  optar  a  la nacionalidad  nicaragüense,  sin  necesidad  de  renunciar  a  su nacionalidad  y  pueden  solicitarla  ante  la  autoridad  competente cuando residan en Nicaragua.
@@ -342,7 +438,7 @@ La  Asamblea  Nacional  podrá  declarar  nacionales  a  extranjeros que se haya
 #### Artículo 19
 Los  extranjeros  pueden  ser  nacionalizados,  previa  renuncia  a su  nacionalidad  y  mediante  solicitud  ante  autoridad  competente,
 
-2 0
+20
 
 [[END OF PAGE 20]]
 
@@ -378,69 +474,69 @@ Los derechos de cada persona están limitados por los derechos de los demás, po
 
 #### Artículo 25
 
+Toda persona tiene derecho:
+
+1. A la libertad individual.
+
+2. A su seguridad.
+
+3. Al reconocimiento de su personalidad y capacidad jurídica.
+
 #### Artículo 26
 
 Toda persona tiene derecho:
 
-- A la libertad individual.
+1. A su vida privada y a la de su familia.
 
-- A su seguridad.
-
-- Al reconocimiento de su personalidad y capacidad jurídica.
-
-Toda persona tiene derecho:
-
-- A su vida privada y a la de su familia.
-
-- Al respeto de su honra y reputación.
+2. Al respeto de su honra y reputación.
 
 Título IV Derechos, deberes y garantías del pueblo nicaragüense
 
-2 1
+21
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
-#### Artículo 27
+3. A conocer toda información que sobre ella se haya registrado en las entidades de naturaleza privada y pública, así como el derecho de saber por qué y con qué finalidad se tiene esa información.
 
-- A conocer toda información que sobre ella se haya registrado en  las  entidades  de  naturaleza  privada  y  pública,  así  como el derecho de saber por qué y con qué finalidad se tiene esa información.
+4. A la inviolabilidad de su domicilio, su correspondencia y sus comunicaciones de todo tipo.
 
-- A  la  inviolabilidad  de  su  domicilio,  su  correspondencia  y  sus comunicaciones de todo tipo.
+El domicilio sólo puede ser allanado por orden escrita del juez competente, excepto:
 
-El  domicilio  sólo  puede  ser  allanado  por  orden  escrita  del  juez competente, excepto:
+a) Si los que habitaren en una casa manifestaren que allí se está cometiendo un delito o de ella se pidiere auxilio.
 
-- Si los que habitaren en una casa manifestaren que allí se está cometiendo un delito o de ella se pidiere auxilio.
+b) Si por incendio, inundación, catástrofe u otra causa semejante, se hallare amenazada la vida de los habitantes o de la propiedad.
 
-- Si  por  incendio, inundación, catástrofe u otra causa semejante, se hallare amenazada la vida de los habitantes o de la propiedad.
+c) Cuando se denunciare que personas extrañas han sido vistas en una morada, con indicios manifiestos de ir a cometer un delito.
 
-- Cuando se denunciare que personas extrañas han sido vistas en  una  morada,  con  indicios  manifiestos  de  ir  a  cometer  un delito.
+d) En caso de persecución actual o inmediata de un delincuente.
 
-- En caso de persecución actual o inmediata de un delincuente.
-
-- Para rescatar a la persona que sufra secuestros.
+e) Para rescatar a la persona que sufra secuestros.
 
 En todos los casos se procederá de acuerdo a la ley.
 
 La ley fija los casos y procedimientos para el examen de documentos privados, libros contables y anexos, cuando sea indispensable para esclarecer asuntos sometidos al conocimiento de los tribunales de justicia o por motivos fiscales.
 
-Las  cartas,  documentos  y  demás  papeles  privados  substraídos ilegalmente, no producen efecto alguno en juicio o fuera de él.
+Las cartas, documentos y demás papeles privados substraídos ilegalmente, no producen efecto alguno en juicio o fuera de él.
 
-Todas las personas son iguales ante la ley y tienen derecho a igual protección.  No  habrá  discriminación  por  motivos  de  nacimiento, nacionalidad, credo político, raza, sexo, idioma, religión, opinión, origen, posición económica o condición social.
+#### Artículo 27
+
+Todas las personas son iguales ante la ley y tienen derecho a igual protección. No habrá discriminación por motivos de nacimiento, nacionalidad, credo político, raza, sexo, idioma, religión, opinión, origen, posición económica o condición social.
 
 Los  extranjeros  tienen  los  mismos  deberes  y  derechos  que  los nicaragüenses, con la excepción de los derechos políticos y los que establezcan las leyes; no pueden intervenir en los asuntos políticos del país.
 
-2 2
+22
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
+El Estado respeta y garantiza los derechos reconocidos en la presente Constitución a todas las personas que se encuentren en su territorio y estén sujetas a su jurisdicción.
+
 #### Artículo 28
 
-El  Estado  respeta  y  garantiza  los  derechos  reconocidos  en  la presente Constitución a todas las personas que se encuentren en su territorio y estén sujetas a su jurisdicción.
-
-Los nicaragüenses que se encuentren en el extranjero gozan del amparo y  protección  del  Estado  los  que  se  hacen  efectivos  por medio de sus representaciones diplomáticas y consulares.
+Los nicaragüenses que se encuentren en el extranjero gozan del amparo y protección del Estado los que se hacen efectivos por medio de sus representaciones diplomáticas y consulares.
 
 #### Artículo 29
 Toda  persona  tiene  derecho  a  la  libertad  de  conciencia,  de pensamiento y de profesar o no una religión. Nadie puede ser objeto de medidas coercitivas que puedan menoscabar estos derechos ni
@@ -461,42 +557,45 @@ Ninguna persona está obligada a hacer lo que la ley no mande, ni impedida de ha
 
 Nadie puede ser sometido a detención o prisión arbitraria, ni ser privado de su libertad, salvo por causas fijadas por la ley con arreglo a un procedimiento legal. En consecuencia:
 
-- La detención sólo podrá efectuarse en virtud de mandamiento escrito de juez competente o de las autoridades expresamente facultadas por la ley, salvo el caso de flagrante delito.
+1. La detención sólo podrá efectuarse en virtud de mandamiento escrito de juez competente o de las autoridades expresamente facultadas por la ley, salvo el caso de flagrante delito.
 
-- Todo detenido tiene derecho:
+2. Todo detenido tiene derecho:
 
-- A  ser  informado  sin  demora,  en  idioma  o  lengua  que comprenda  y  en  forma  detallada,  de  las  causas  de  su detención y de la acusación formulada en su contra; a que se informe de su detención por parte de la policía y él mismo a informar a su familia o a quien estime conveniente; y también 2.1
+2.1 A ser informado sin demora, en idioma o lengua que comprenda y en forma detallada, de las causas de su detención y de la acusación formulada en su contra; a que se informe de su detención por parte de la policía y él mismo a informar a su familia o a quien estime conveniente; y también
 
-Título IV Derechos, deberes y garantías del pueblo nicaragüense a ser tratado con el respeto debido a la dignidad inherente al ser humano.
+Título IV Derechos, deberes y garantías del pueblo nicaragüense
 
-2 3
+23
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
-- A ser puesto en libertad o a la orden de autoridad competente dentro del plazo de las cuarenta y ocho horas posteriores a su detención. 2.2
+a ser tratado con el respeto debido a la dignidad inherente al ser humano.
 
-- Una vez cumplida la pena impuesta, nadie deberá continuar detenido después de dictarse la orden de excarcelación por la autoridad competente.
+2.2 A ser puesto en libertad o a la orden de autoridad competente dentro del plazo de las cuarenta y ocho horas posteriores a su detención.
 
-- Toda detención ilegal causa responsabilidad civil y penal en la autoridad que la ordene o ejecute.
+3. Una vez cumplida la pena impuesta, nadie deberá continuar detenido después de dictarse la orden de excarcelación por la autoridad competente.
 
-- Los organismos correspondientes procurarán que los procesados  y  los  condenados  guarden  prisión  en  centros diferentes.
+4. Toda detención ilegal causa responsabilidad civil y penal en la autoridad que la ordene o ejecute.
+
+5. Los organismos correspondientes procurarán que los procesados y los condenados guarden prisión en centros diferentes.
 
 #### Artículo 34
-Toda  persona  en  un  proceso  tiene  derecho,  en  igualdad  de condiciones al debido proceso y a la tutela judicial efectiva y, como parte de ellas, a las siguientes garantías mínimas:
 
-- A  que  se  presuma  su  inocencia  mientras  no  se  pruebe  su culpabilidad conforme la ley.
+Toda persona en un proceso tiene derecho, en igualdad de condiciones al debido proceso y a la tutela judicial efectiva y, como parte de ellas, a las siguientes garantías mínimas:
 
-- A  que  sus  asuntos  sean  juzgados  sin  dilaciones  por  tribunal competente  establecido  por  la  ley.  No  hay  fuero  atractivo. Nadie puede ser sustraído de su juez competente ni llevado a jurisdicción de excepción.
+1. A que se presuma su inocencia mientras no se pruebe su culpabilidad conforme la ley.
 
-- A ser sometido al juicio por jurados en los casos determinados por la ley. Se establece la acción de revisión.
+2. A que sus asuntos sean juzgados sin dilaciones por tribunal competente establecido por la ley. No hay fuero atractivo. Nadie puede ser sustraído de su juez competente ni llevado a jurisdicción de excepción.
 
-- A que se garantice su intervención y debida defensa desde el inicio  del  proceso  o  procedimiento  y  a  disponer  de  tiempo  y medios adecuados para su defensa.
+3. A ser sometido al juicio por jurados en los casos determinados por la ley. Se establece la acción de revisión.
 
-- A que se le nombre defensor de oficio cuando en la primera intervención no hubiera designado defensor; o cuando no fuere habido, previo llamamiento por edicto.
+4. A que se garantice su intervención y debida defensa desde el inicio del proceso o procedimiento y a disponer de tiempo y medios adecuados para su defensa.
 
-2 4
+5. A que se le nombre defensor de oficio cuando en la primera intervención no hubiera designado defensor; o cuando no fuere habido, previo llamamiento por edicto.
+
+24
 
 [[END OF PAGE 24]]
 
@@ -504,17 +603,17 @@ Toda  persona  en  un  proceso  tiene  derecho,  en  igualdad  de condiciones al
 
 El procesado tiene derecho a comunicarse libre y privadamente con su defensor.
 
-- A ser asistido gratuitamente por un intérprete si no comprende o no habla el idioma empleado por el tribunal.
+6. A ser asistido gratuitamente por un intérprete si no comprende o no habla el idioma empleado por el tribunal.
 
-- A no ser obligado a declarar contra sí mismo ni contra su cónyuge o compañero en unión de hecho estable, o sus parientes dentro del cuarto grado de consanguinidad o segundo de afinidad, ni a confesarse culpable.
+7. A no ser obligado a declarar contra sí mismo ni contra su cónyuge o compañero en unión de hecho estable, o sus parientes dentro del cuarto grado de consanguinidad o segundo de afinidad, ni a confesarse culpable.
 
-- A  que  se  le  dicte  sentencia  motivada,  razonada  y  fundada en  Derecho  dentro  de  los  términos  legales,  en  cada  una  de las instancias del recurso, proceso o procedimiento y que se ejecuten sin excepción, conforme a Derecho.
+8. A que se le dicte sentencia motivada, razonada y fundada en Derecho dentro de los términos legales, en cada una de las instancias del recurso, proceso o procedimiento y que se ejecuten sin excepción, conforme a Derecho.
 
-- A recurrir ante un tribunal superior, a fin de que su caso sea revisado cuando hubiese sido condenado por cualquier delito o falta.
+9. A recurrir ante un tribunal superior, a fin de que su caso sea revisado cuando hubiese sido condenado por cualquier delito o falta.
 
-- A no ser procesado nuevamente por el delito por el cual fue condenando o absuelto mediante sentencia firme.
+10. A no ser procesado nuevamente por el delito por el cual fue condenando o absuelto mediante sentencia firme.
 
-- A no ser procesado ni condenado por acto u omisión que, al tiempo de cometerse, no esté previamente calificado en la ley de manera expresa e inequívoca como punible, ni sancionado con pena no prevista en la ley. Se prohíbe dictar leyes proscriptivas o aplicar al reo penas o tratos infamantes.
+11. A no ser procesado ni condenado por acto u omisión que, al tiempo de cometerse, no esté previamente calificado en la ley de manera expresa e inequívoca como punible, ni sancionado con pena no prevista en la ley. Se prohíbe dictar leyes proscriptivas o aplicar al reo penas o tratos infamantes.
 
 El proceso judicial deberá ser oral y público. El acceso de la prensa y el público en general podrá ser limitado por consideraciones de moral y orden público.
 
@@ -522,13 +621,14 @@ El ofendido será tenido como parte en los juicios desde el inicio de los mismos
 
 El  Estado  protegerá  a  las  víctimas  de  delito  y  procurará  que  se reparen los daños causados. Las víctimas tienen derecho a que se les proteja su seguridad, bienestar físico y psicológico, dignidad y vida privada, de conformidad a la ley.
 
-Título IV Derechos, deberes y garantías del pueblo nicaragüense Las garantías mínimas establecidas en el debido proceso y en la tutela judicial efectiva en este artículo son aplicables a los procesos administrativos y judiciales.
+Título IV Derechos, deberes y garantías del pueblo nicaragüense
 
-2 5
+25
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+Las garantías mínimas establecidas en el debido proceso y en la tutela judicial efectiva en este artículo son aplicables a los procesos administrativos y judiciales.
 
 #### Artículo 35
 Los  menores  no  pueden  ser  sujeto  ni  objeto  de  juzgamiento ni sometidos a procedimiento judicial alguno. Los  menores transgresores no pueden  ser conducidos a los centros de readaptación penal y serán atendidos en centros bajo la responsabilidad  del  organismo  especializado.  Una  ley  regulará esta materia.
@@ -559,32 +659,28 @@ Nadie  será  detenido  por  deudas.  Este  principio  no  limita  los mandatos 
 
 [[START OF PAGE 27]]
 
-#### Artículo 42
-
-#### Artículo 43
-
-#### Artículo 44
-
 deberes alimentarios. Es deber de cualquier ciudadano nacional o extranjero pagar lo que adeuda.
 
+#### Artículo 42
 En Nicaragua se reconoce y garantiza el derecho de refugio y de asilo. El refugio y el asilo amparan únicamente a los perseguidos por luchar en pro de la democracia, la paz, la justicia y los derechos humanos.
 
-La  ley  determinará  la  condición  de  asilado  o  refugiado  político, de  acuerdo  con  los  convenios  internacionales  ratificados  por Nicaragua. En caso se resolviera la expulsión de un asilado, nunca podrá enviársele al país donde fuese perseguido.
+La ley determinará la condición de asilado o refugiado político, de acuerdo con los convenios internacionales ratificados por Nicaragua. En caso se resolviera la expulsión de un asilado, nunca podrá enviársele al país donde fuese perseguido.
 
-En Nicaragua no existe extradición por delitos políticos o comunes conexos con ellos, según calificación nicaragüense. La extradición por  delitos  comunes  está  regulada  por  la  ley  y  los  tratados internacionales.
+#### Artículo 43
+En Nicaragua no existe extradición por delitos políticos o comunes conexos con ellos, según calificación nicaragüense. La extradición por delitos comunes está regulada por la ley y los tratados internacionales.
 
 Los nicaragüenses no podrán ser objeto de extradición del territorio nacional.
 
+#### Artículo 44
 Se garantiza el derecho de propiedad privada de los bienes muebles e inmuebles y de los instrumentos y medios de producción.
 
-En virtud de la función social de la propiedad, este derecho está sujeto,  por  causa  de  utilidad  pública  o  de  interés  social,  a  las limitaciones y obligaciones que en cuanto a su ejercicio le impongan las leyes. Los bienes inmuebles mencionados en el párrafo primero pueden ser objeto de expropiación de acuerdo a la Ley, previo pago en efectivo de justa indemnización.
+En virtud de la función social de la propiedad, este derecho está sujeto, por causa de utilidad pública o de interés social, a las limitaciones y obligaciones que en cuanto a su ejercicio le impongan las leyes. Los bienes inmuebles mencionados en el párrafo primero pueden ser objeto de expropiación de acuerdo a la Ley, previo pago en efectivo de justa indemnización.
 
-Tratándose  de  la  expropiación  de  latifundios  incultivados  para fines de reforma agraria la ley determinará la forma, cuantificación, plazos de pagos e intereses que se reconozcan en concepto de indemnización.
+Tratándose de la expropiación de latifundios incultivados para fines de reforma agraria la ley determinará la forma, cuantificación, plazos de pagos e intereses que se reconozcan en concepto de indemnización.
 
 Se prohíbe la confiscación de bienes. Los funcionarios que infrinjan esta disposición, responderán con sus bienes en todo tiempo por los daños inferidos.
 
 Título IV Derechos, deberes y garantías del pueblo nicaragüense
-#### Artículo 45
 
 27
 
@@ -592,30 +688,25 @@ Título IV Derechos, deberes y garantías del pueblo nicaragüense
 
 [[START OF PAGE 28]]
 
+#### Artículo 45
+Las personas cuyos derechos constitucionales hayan sido violados o estén en peligro de serlo, pueden interponer el recurso de exhibición personal, de amparo, o de hábeas data, según el caso y de acuerdo con la Ley de Justicia Constitucional.
+
 #### Artículo 46
-
-#### Artículo 48
-
-Las personas cuyos derechos constitucionales hayan sido violados o estén  en  peligro  de  serlo,  pueden  interponer  el  recurso  de exhibición personal, de amparo, o de hábeas data, según el caso y
-
-de acuerdo con la Ley de Justicia Constitucional.
-
-En el territorio nacional toda persona goza de la protección estatal y del reconocimiento de los derechos inherentes a la persona humana, del  irrestricto  respeto,  promoción  y  protección  de  los  derechos humanos,  y  de  la  plena  vigencia  de  los  derechos  consignados en  la  Declaración  Universal  de  los  Derechos  Humanos;  en  la Declaración Americana de Derechos y Deberes del Hombre; en el Pacto Internacional de Derechos Económicos, Sociales y Culturales y en el Pacto Internacional de Derechos Civiles y Políticos de la Organización de las Naciones Unidas y en la Convención  Americana de Derechos Humanos de la Organización de Estados Americanos.
+En el territorio nacional toda persona goza de la protección estatal y del reconocimiento de los derechos inherentes a la persona humana, del irrestricto respeto, promoción y protección de los derechos humanos, y de la plena vigencia de los derechos consignados en la Declaración Universal de los Derechos Humanos; en la Declaración Americana de Derechos y Deberes del Hombre; en el Pacto Internacional de Derechos Económicos, Sociales y Culturales y en el Pacto Internacional de Derechos Civiles y Políticos de la Organización de las Naciones Unidas y en la Convención Americana de Derechos Humanos de la Organización de Estados Americanos.
 
 ### CAPÍTULO II Derechos políticos
 
 #### Artículo 47
-Son ciudadanos los nicaragüenses que hubieran cumplido dieciséis
-
-años de edad.
+Son ciudadanos los nicaragüenses que hubieran cumplido dieciséis años de edad.
 
 Sólo los ciudadanos gozan de los derechos políticos consignados en la Constitución y las leyes, sin más limitaciones que las que se establezcan por razones de edad.
 
-Los derechos ciudadanos se suspenden por imposición de pena corporal  grave  o  penas  accesorias  específicas,  y  por  sentencia ejecutoriada de interdicción civil.
+Los derechos ciudadanos se suspenden por imposición de pena corporal grave o penas accesorias específicas, y por sentencia ejecutoriada de interdicción civil.
 
+#### Artículo 48
 Se establece la igualdad incondicional de todos los nicaragüenses en el goce de sus derechos políticos; en el ejercicio de los mismos y en el cumplimiento de sus deberes y responsabilidades, existe igualdad absoluta entre el hombre y la mujer.
 
-Es  obligación  del  Estado  eliminar  los  obstáculos  que  impidan de  hecho  la  igualdad  entre  los  nicaragüenses  y  su  participación efectiva en la vida política, económica y social del país.
+Es obligación del Estado eliminar los obstáculos que impidan de hecho la igualdad entre los nicaragüenses y su participación efectiva en la vida política, económica y social del país.
 
 2 8
 
@@ -624,29 +715,24 @@ Es  obligación  del  Estado  eliminar  los  obstáculos  que  impidan de  hecho
 [[START OF PAGE 29]]
 
 #### Artículo 49
+En Nicaragua tienen derecho de constituir organizaciones los trabajadores de la ciudad y del campo, las mujeres, los jóvenes, los productores agropecuarios, los artesanos, los profesionales, los técnicos, los intelectuales, los artistas, los religiosos, las comunidades de la Costa Caribe y los pobladores en general, sin discriminación alguna, con el fin de lograr la realización de sus aspiraciones según sus propios intereses y participar en la construcción de una nueva sociedad.
+
+Estas organizaciones se formarán de acuerdo a la voluntad participativa y electiva de los ciudadanos, tendrán una función social y podrán o no tener carácter partidario, según su naturaleza y fines.
 
 #### Artículo 50
-
-#### Artículo 51
-
-#### Artículo 52
-
-#### Artículo 53
-
-En  Nicaragua  tienen  derecho  de  constituir  organizaciones  los trabajadores de la ciudad y del campo, las mujeres, los jóvenes, los  productores  agropecuarios,  los  artesanos,  los  profesionales, los  técnicos,  los  intelectuales,  los  artistas,  los  religiosos,  las comunidades  de  la  Costa  Caribe  y  los  pobladores  en  general, sin  discriminación  alguna,  con  el  fin  de  lograr  la  realización  de sus  aspiraciones  según  sus  propios  intereses  y  participar  en  la construcción de una nueva sociedad.
-
-Estas  organizaciones  se  formarán  de  acuerdo  a  la  voluntad participativa  y  electiva  de  los  ciudadanos,  tendrán  una  función social y podrán o no tener carácter partidario, según su naturaleza y fines.
-
-Los  ciudadanos  tienen  derecho  de  participar  en  igualdad  de condiciones en los asuntos públicos y en la gestión estatal.
+Los ciudadanos tienen derecho de participar en igualdad de condiciones en los asuntos públicos y en la gestión estatal.
 
 En la formulación, ejecución, evaluación, control y seguimiento de las políticas públicas y sociales, así como los servicios públicos, se garantizará la participación de la persona, la familia y la comunidad, la Ley garantizará su participación efectiva, nacional y localmente.
 
-Los ciudadanos tienen derecho a elegir y ser elegidos en elecciones periódicas y optar a cargos  públicos, salvo las limitaciones contempladas en esta Constitución Política.
+#### Artículo 51
+Los ciudadanos tienen derecho a elegir y ser elegidos en elecciones periódicas y optar a cargos públicos, salvo las limitaciones contempladas en esta Constitución Política.
 
 Es deber del ciudadano desempeñar los cargos de jurado y otros de carácter concejil, salvo excusa calificada por la ley.
 
-Los  ciudadanos  tienen  derecho  de  hacer  peticiones,  denunciar anomalías  y  hacer  críticas  constructivas,  en  forma  individual  o colectiva, a los Poderes del Estado o cualquier autoridad; de obtener una pronta resolución o respuesta y de que se les comunique lo resuelto en los plazos que la ley establezca.
+#### Artículo 52
+Los ciudadanos tienen derecho de hacer peticiones, denunciar anomalías y hacer críticas constructivas, en forma individual o colectiva, a los Poderes del Estado o cualquier autoridad; de obtener una pronta resolución o respuesta y de que se les comunique lo resuelto en los plazos que la ley establezca.
 
+#### Artículo 53
 Se reconoce el derecho de reunión pacífica; el ejercicio de este derecho no requiere permiso previo.
 
 Título IV Derechos, deberes y garantías del pueblo nicaragüense
@@ -689,6 +775,7 @@ Los  nicaragüenses  tienen  derecho  de  habitar  en  un  ambiente saludable, a
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
+Título IV Derechos, deberes y garantías del pueblo nicaragüense
 
 La Tierra forma con la humanidad una única identidad compleja; es viva y se comporta como un único sistema autorregulado formado por componentes físicos, químicos, biológicos y humanos, que la hacen propicia a la producción y reproducción de la vida y que, por eso, es nuestra madre tierra y nuestro hogar común.
 
@@ -712,13 +799,14 @@ Los nicaragüenses tienen derecho a una vivienda digna, cómoda y segura que gar
 
 #### Artículo 65
 
-Los  nicaragüenses  tienen  derecho  al  deporte,  a  la  educación física,  a  la  recreación  y  al  esparcimiento.  El  Estado impulsará la Título IV Derechos, deberes y garantías del pueblo nicaragüense práctica del deporte y la educación física, mediante la participación organizada  y  masiva  del  pueblo,  para  la  formación  integral  de los  nicaragüenses. Esto se realizará con programas y proyectos especiales.
+Los nicaragüenses tienen derecho al deporte, a la educación física, a la recreación y al esparcimiento. El Estado impulsará la
 
 3 1
 
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
+práctica del deporte y la educación física, mediante la participación organizada y masiva del pueblo, para la formación integral de los nicaragüenses. Esto se realizará con programas y proyectos especiales.
 
 #### Artículo 66
 Los  nicaragüenses  tienen  derecho  a  la  información  veraz.  Este derecho  comprende  la  libertad de buscar, recibir y difundir informaciones  e  ideas,  ya  sea  de  manera  oral,  por  escrito, gráficamente o por cualquier otro procedimiento de su elección.
@@ -726,10 +814,8 @@ Los  nicaragüenses  tienen  derecho  a  la  información  veraz.  Este derecho 
 #### Artículo 67
 El derecho de informar es una responsabilidad social y se ejerce con estricto respeto a los principios establecidos en la Constitución. Este derecho no puede estar sujeto a censura, sino a responsabilidades ulteriores establecidas en la ley.
 
-Los medios de comunicación, dentro de su función social, deberán
-
 #### Artículo 68
-contribuir al desarrollo de la nación.
+Los medios de comunicación, dentro de su función social, deberán contribuir al desarrollo de la nación.
 
 Los  nicaragüenses  tienen  derecho  de  acceso  a  los  medios  de comunicación  social  y  al  ejercicio  de  aclaración  cuando  sean afectados en sus derechos y garantías.
 
@@ -753,28 +839,23 @@ Nadie puede eludir la observancia de las leyes, ni impedir a otros el  ejercicio
 
 ### CAPÍTULO IV Derechos de la familia
 
-La familia es el núcleo fundamental de la sociedad y tiene derecho a  la  protección  de  ésta  y  del  Estado.  La  persona,  la  familia  y  la comunidad  son  elementos  protagónicos  del  plan  de  desarrollo
-
 #### Artículo 70
-humano de la nación.
+La familia es el núcleo fundamental de la sociedad y tiene derecho a la protección de ésta y del Estado. La persona, la familia y la comunidad son elementos protagónicos del plan de desarrollo humano de la nación.
 
 #### Artículo 71
+Es derecho de los nicaragüenses constituir una familia. Se garantiza el patrimonio familiar, que es inembargable y exento de toda carga pública. La ley regulará y protegerá estos derechos.
+
+La niñez goza de protección especial y de todos los derechos que su condición requiere, por lo cual tiene plena vigencia la Convención internacional de los derechos del niño y la niña.
 
 Segundo párrafo agregado por art. 6 de la Ley No. 192
 
 #### Artículo 72
-
-#### Artículo 73
-
-Es derecho de los nicaragüenses constituir una familia. Se garantiza el patrimonio familiar, que es inembargable y exento de toda carga pública.  La ley regulará y protegerá estos derechos.
-
-La niñez goza de protección especial y de todos los derechos que su condición requiere, por lo cual tiene plena vigencia la Convención internacional de los derechos del niño y la niña.
-
 El matrimonio y la unión de hecho estable están protegidos por el Estado; descansan en el acuerdo voluntario del hombre y la mujer y podrán disolverse por el mutuo consentimiento o por la voluntad de una de las partes. La ley regulará esta materia.
 
+#### Artículo 73
 Las relaciones familiares descansan en el respeto, solidaridad e igualdad absoluta de derechos y responsabilidades entre el hombre y la mujer.
 
-Los padres deben atender el mantenimiento del hogar y la formación integral  de  los  hijos  mediante  el  esfuerzo  común,  con  iguales derechos y responsabilidades. Los hijos a su vez, están obligados a respetar y ayudar a sus padres. Estos deberes y derechos se cumplirán de acuerdo con la legislación de la materia.
+Los padres deben atender el mantenimiento del hogar y la formación integral de los hijos mediante el esfuerzo común, con iguales derechos y responsabilidades. Los hijos a su vez, están obligados a respetar y ayudar a sus padres. Estos deberes y derechos se cumplirán de acuerdo con la legislación de la materia.
 
 Título IV Derechos, deberes y garantías del pueblo nicaragüense
 
@@ -825,27 +906,25 @@ la ley.
 #### Artículo 82
 Los trabajadores tienen derecho a condiciones de trabajo que les aseguren en especial:
 
-- Salario igual por trabajo igual en idénticas condiciones, adecuado a su responsabilidad social, sin discriminaciones por razones políticas, religiosas, sociales, de sexo o de cualquier otra  clase,  que  les  asegure  un  bienestar  compatible  con  la dignidad humana.
+1. Salario igual por trabajo igual en idénticas condiciones, adecuado a su responsabilidad social, sin discriminaciones por razones políticas, religiosas, sociales, de sexo o de cualquier otra clase, que les asegure un bienestar compatible con la dignidad humana.
 
-- Ser  remunerado  en  moneda  de  curso  legal  en  su  centro  de trabajo.
+2. Ser remunerado en moneda de curso legal en su centro de trabajo.
 
-- La  inembargabilidad  del  salario  mínimo  y  las  prestaciones sociales, excepto para protección de su familia y en los términos que establezca la ley.
+3. La inembargabilidad del salario mínimo y las prestaciones sociales, excepto para protección de su familia y en los términos que establezca la ley.
 
-- Condiciones de trabajo que les garanticen la integridad física, la salud, la higiene y la disminución de los riesgos profesionales para hacer efectiva la seguridad ocupacional del trabajador.
+4. Condiciones de trabajo que les garanticen la integridad física, la salud, la higiene y la disminución de los riesgos profesionales para hacer efectiva la seguridad ocupacional del trabajador.
 
-- Jornada laboral de ocho horas, descanso semanal, vacaciones, remuneración  por  los  días  feriados  nacionales  y  salario  por décimo tercer mes de conformidad con la ley.
+5. Jornada laboral de ocho horas, descanso semanal, vacaciones, remuneración por los días feriados nacionales y salario por décimo tercer mes de conformidad con la ley.
 
-- Estabilidad en el trabajo conforme a la ley e igual oportunidad de  ser  promovido,  sin  más  limitaciones  que  los  factores  de tiempo, servicio, capacidad, eficiencia y responsabilidad.
+6. Estabilidad en el trabajo conforme a la ley e igual oportunidad de ser promovido, sin más limitaciones que los factores de tiempo, servicio, capacidad, eficiencia y responsabilidad.
 
-- Seguridad social para protección integral y medios de subsistencia en casos de invalidez, vejez, riesgos profesionales, enfermedad  y  maternidad;  y  a  sus  familiares  en  casos  de muerte, en la forma y condiciones que determine la ley.
-
-Se reconoce el derecho a la huelga.
-
-Se  prohíbe  el  trabajo  de  los  menores,  en  labores  que  puedan afectar su desarrollo normal o su ciclo de instrucción obligatoria. Se protegerá a los niños y adolescentes contra cualquier clase de explotación económica y social.
+7. Seguridad social para protección integral y medios de subsistencia en casos de invalidez, vejez, riesgos profesionales, enfermedad y maternidad; y a sus familiares en casos de muerte, en la forma y condiciones que determine la ley.
 
 #### Artículo 83
+Se reconoce el derecho a la huelga.
 
 #### Artículo 84
+Se prohíbe el trabajo de los menores, en labores que puedan afectar su desarrollo normal o su ciclo de instrucción obligatoria. Se protegerá a los niños y adolescentes contra cualquier clase de explotación económica y social.
 
 Título IV Derechos, deberes y garantías del pueblo nicaragüense
 
@@ -866,24 +945,21 @@ En  Nicaragua  existe  plena  libertad  sindical.  Los  trabajadores se  organiz
 
 Ningún  trabajador  está  obligado  a  pertenecer  a  determinado sindicato,  ni  renunciar  al  que  pertenezca.  Se  reconoce  la  plena autonomía sindical y se respeta el fuero sindical.
 
-Se garantiza el derecho inalienable de los trabajadores para que, en defensa de sus intereses particulares o gremiales, celebren con
-
 #### Artículo 88
-los empleadores:
+Se garantiza el derecho inalienable de los trabajadores para que, en defensa de sus intereses particulares o gremiales, celebren con los empleadores:
 
-- Contratos individuales.
+1. Contratos individuales.
 
-- Convenios colectivos. Ambos de conformidad con la ley.
+2. Convenios colectivos. Ambos de conformidad con la ley.
 
 ### CAPÍTULO VI Derechos de las comunidades de la Costa Caribe
 
-Las  comunidades  de  la  Costa  Caribe  son  parte  indisoluble  del pueblo nicaragüense y como tal gozan de los mismos derechos y tienen las mismas obligaciones.
-
-Las comunidades de la Costa Caribe tienen el derecho de preservar y  desarrollar  su  identidad  cultural  en  la  unidad  nacional;  dotarse de  sus  propias  formas  de  organización  social  y  administrar  sus asuntos locales conforme a sus tradiciones.
-
-El Estado reconoce las formas comunales de propiedad de la tierra de  las  comunidades  de  la  Costa  Caribe.  Igualmente  reconoce el  goce,  uso  y  disfrute  de  las  aguas  y  bosques  de  sus  tierras comunales.
-
 #### Artículo 89
+Las comunidades de la Costa Caribe son parte indisoluble del pueblo nicaragüense y como tal gozan de los mismos derechos y tienen las mismas obligaciones.
+
+Las comunidades de la Costa Caribe tienen el derecho de preservar y desarrollar su identidad cultural en la unidad nacional; dotarse de sus propias formas de organización social y administrar sus asuntos locales conforme a sus tradiciones.
+
+El Estado reconoce las formas comunales de propiedad de la tierra de las comunidades de la Costa Caribe. Igualmente reconoce el goce, uso y disfrute de las aguas y bosques de sus tierras comunales.
 
 36
 
@@ -892,26 +968,23 @@ El Estado reconoce las formas comunales de propiedad de la tierra de  las  comun
 [[START OF PAGE 37]]
 
 #### Artículo 90
+Las comunidades de la Costa Caribe tienen derecho a la libre expresión y preservación de sus lenguas, arte y cultura. El desarrollo de su cultura y sus valores enriquece la cultura nacional. El Estado creará programas especiales para el ejercicio de estos derechos.
 
 #### Artículo 91
-
-#### Artículo 92
-
-Las  comunidades  de  la  Costa  Caribe  tienen  derecho  a  la  libre expresión y preservación de sus lenguas, arte y cultura. El desarrollo de su cultura y sus valores enriquece la cultura nacional. El Estado creará programas especiales para el ejercicio de estos derechos.
-
-El Estado tiene la obligación de dictar leyes destinadas a promover acciones  que  aseguren  que  ningún  nicaragüense  sea  objeto  de discriminación por razón de su lengua, cultura y origen.
+El Estado tiene la obligación de dictar leyes destinadas a promover acciones que aseguren que ningún nicaragüense sea objeto de discriminación por razón de su lengua, cultura y origen.
 
 ## TÍTULO V Defensa y seguridad nacional. Seguridad ciudadana
 
 ### CAPÍTULO ÚNICO
 
+#### Artículo 92
 El Ejército de Nicaragua es la institución armada para la defensa de la soberanía, de la independencia y la integridad territorial.
 
-Sólo  en  casos  excepcionales,  el  Presidente  de  la  República,  en Consejo de Ministros, podrá en apoyo a la Policía Nacional ordenar la intervención del Ejército de Nicaragua cuando la estabilidad de la República estuviere amenazada por grandes desórdenes internos, calamidades o desastres naturales.
+Sólo en casos excepcionales, el Presidente de la República, en Consejo de Ministros, podrá en apoyo a la Policía Nacional ordenar la intervención del Ejército de Nicaragua cuando la estabilidad de la República estuviere amenazada por grandes desórdenes internos, calamidades o desastres naturales.
 
-Se prohíbe el establecimiento de bases militares extranjeras en el territorio nacional. Podrá autorizarse el tránsito o estacionamiento de  naves,  aeronaves,  maquinarias  y  personal  militar  extranjero para fines humanitarios, adiestramiento, instrucción e intercambio, siempre que sean solicitadas por el Presidente de la República y ratificados por la Asamblea Nacional.
+Se prohíbe el establecimiento de bases militares extranjeras en el territorio nacional. Podrá autorizarse el tránsito o estacionamiento de naves, aeronaves, maquinarias y personal militar extranjero para fines humanitarios, adiestramiento, instrucción e intercambio, siempre que sean solicitadas por el Presidente de la República y ratificados por la Asamblea Nacional.
 
-Es  responsabilidad  del  Comandante  en  Jefe  del  Ejército  de Nicaragua, bajo la conducción del Presidente de la República como Jefe Supremo del Ejército de Nicaragua, participar en la formulación de los planes y políticas de la defensa y seguridad nacional, y en la coordinación de su ejecución.
+Es responsabilidad del Comandante en Jefe del Ejército de Nicaragua, bajo la conducción del Presidente de la República como Jefe Supremo del Ejército de Nicaragua, participar en la formulación de los planes y políticas de la defensa y seguridad nacional, y en la coordinación de su ejecución.
 
 Título V Defensa y seguridad nacional. Seguridad
 
@@ -923,29 +996,27 @@ ciudadana
 
 [[START OF PAGE 38]]
 
-#### Artículo 93
-
-#### Artículo 94
-
 Para los efectos de la seguridad nacional:
 
-- En ningún caso es permisible el establecimiento de sistemas que alteren o afecten los sistemas de comunicación nacional.
+a) En ningún caso es permisible el establecimiento de sistemas que alteren o afecten los sistemas de comunicación nacional.
 
-- Los puntos de comunicación para fines de la defensa nacional en el territorio nacional deberán ser propiedad del Estado.
+b) Los puntos de comunicación para fines de la defensa nacional en el territorio nacional deberán ser propiedad del Estado.
 
-- El  espectro radioeléctrico y satelital es propiedad del Estado nicaragüense y debe ser regulado por el ente regulador, la ley regulará la materia.
+c) El espectro radioeléctrico y satelital es propiedad del Estado nicaragüense y debe ser regulado por el ente regulador, la ley regulará la materia.
 
-El  Ejército  de  Nicaragua  es  una  institución  nacional,  de  carácter profesional, apartidista, apolítica, obediente y no deliberante. Los miembros del Ejército deberán permanentemente recibir educación patriótica, cívica, en materia de derechos humanos y en derecho internacional humanitario.
+#### Artículo 93
+El Ejército de Nicaragua es una institución nacional, de carácter profesional, apartidista, apolítica, obediente y no deliberante. Los miembros del Ejército deberán permanentemente recibir educación patriótica, cívica, en materia de derechos humanos y en derecho internacional humanitario.
 
 Los delitos y faltas estrictamente militares, cometidos por miembros del Ejército, serán conocidos por los Tribunales Militares establecidos por la Ley.
 
-Los  delitos  y  faltas  comunes  cometidos  por  los  militares  serán conocidos por los tribunales comunes.
+Los delitos y faltas comunes cometidos por los militares serán conocidos por los tribunales comunes.
 
-En  ningún  caso,  los  civiles  podrán  ser  juzgados  por  Tribunales Militares.
+En ningún caso, los civiles podrán ser juzgados por Tribunales Militares.
 
-Los miembros del Ejército de Nicaragua y de la Policía Nacional, no podrán desarrollar actividades político-partidistas, ni desempeñar cargo alguno en organizaciones políticas. Tampoco podrán optar a cargos públicos de elección popular si no hubieren renunciado de su calidad de militar o de policía en servicio activo, por lo menos un año antes de las elecciones en las que pretendan participar.
+#### Artículo 94
+Los miembros del Ejército de Nicaragua y de la Policía Nacional, no podrán desarrollar actividades político–partidistas, ni desempeñar cargo alguno en organizaciones políticas. Tampoco podrán optar a cargos públicos de elección popular si no hubieren renunciado de su calidad de militar o de policía en servicio activo, por lo menos un año antes de las elecciones en las que pretendan participar.
 
-La  organización,  estructuras,  actividades,  escalafón,  ascensos, jubilaciones  y  todo  lo  relativo  al  desarrollo  operacional  de  estos organismos, se regirán por la ley de la materia.
+La organización, estructuras, actividades, escalafón, ascensos, jubilaciones y todo lo relativo al desarrollo operacional de estos organismos, se regirán por la ley de la materia.
 
 38
 
@@ -954,22 +1025,19 @@ La  organización,  estructuras,  actividades,  escalafón,  ascensos, jubilacio
 [[START OF PAGE 39]]
 
 #### Artículo 95
-
-#### Artículo 96
-
-#### Artículo 97
-
 El Ejército de Nicaragua se regirá en estricto apego a la Constitución Política, a la que guardará respeto y obediencia. Estará sometido a la autoridad civil que será ejercida directamente por el Presidente de la República en su carácter de Jefe Supremo del Ejército de Nicaragua.
 
 No pueden existir más cuerpos armados en el territorio nacional que los establecidos en la Constitución, ni grados militares que los establecidos por la ley.
 
-Los miembros del Ejército de Nicaragua y de la Policía Nacional podrán  ocupar  cargos  temporalmente  en  el  ámbito  de  Poder Ejecutivo  por  razones  de  seguridad  nacional  cuando  el  interés supremo de la nación así lo demande. En este caso el militar o policía  estarán  en  comisión  de  servicio  externo  para  todos  los efectos legales.
+Los miembros del Ejército de Nicaragua y de la Policía Nacional podrán ocupar cargos temporalmente en el ámbito de Poder Ejecutivo por razones de seguridad nacional cuando el interés supremo de la nación así lo demande. En este caso el militar o policía estarán en comisión de servicio externo para todos los efectos legales.
 
-No habrá servicio militar obligatorio,  y  se  prohíbe  toda  forma  de reclutamiento forzoso para integrar el Ejército  de  Nicaragua  y  la Policía Nacional.
+#### Artículo 96
+No habrá servicio militar obligatorio, y se prohíbe toda forma de reclutamiento forzoso para integrar el Ejército de Nicaragua y la Policía Nacional.
 
 Se prohíbe a los organismos del Ejército y la Policía, y a cualquier otra institución del Estado, ejercer actividades de espionaje político.
 
-La Policía Nacional es un cuerpo armado de naturaleza civil, tiene a su cargo la totalidad de la actividad policial y se organiza en un modelo  preventivo,  proactivo  y  comunitario,  con  la  participación protagónica de los habitantes, la familia y la comunidad.
+#### Artículo 97
+La Policía Nacional es un cuerpo armado de naturaleza civil, tiene a su cargo la totalidad de la actividad policial y se organiza en un modelo preventivo, proactivo y comunitario, con la participación protagónica de los habitantes, la familia y la comunidad.
 
 Tiene por misión garantizar el orden interno, la seguridad de las personas y sus bienes, la prevención, persecución e investigación del delito y lo demás que le señale la ley. La Policía Nacional es profesional, apolítica, apartidista, obediente y no deliberante.
 
@@ -985,14 +1053,13 @@ ciudadana
 
 [[START OF PAGE 40]]
 
-#### Artículo 98
-
-Dentro  de  sus  funciones,  la  Policía  Nacional  auxiliará  a  las autoridades judiciales y a otras que lo requieran conforme a la ley para  el  cumplimiento  de  sus  funciones.  La  organización  interna de la Policía Nacional se fundamenta en la jerarquía única y en la disciplina de sus mandos y personal.
+Dentro de sus funciones, la Policía Nacional auxiliará a las autoridades judiciales y a otras que lo requieran conforme a la ley para el cumplimiento de sus funciones. La organización interna de la Policía Nacional se fundamenta en la jerarquía única y en la disciplina de sus mandos y personal.
 
 ## TÍTULO VI Economía nacional, Reforma agraria y Finanzas públicas
 
 ### CAPÍTULO I Economía nacional
 
+#### Artículo 98
 La función principal del Estado en la economía es lograr el desarrollo humano sostenible en el país; mejorar las condiciones de vida del pueblo y realizar una distribución cada vez más justa de la riqueza en la búsqueda del buen vivir.
 
 El Estado debe jugar un rol facilitador de la actividad productiva, creando las condiciones para que el sector privado y los trabajadores realicen su actividad económica, productiva y laboral en un marco de gobernabilidad democrática y seguridad jurídica plena, que les permita contribuir con el desarrollo económico y social del país.
@@ -1029,22 +1096,18 @@ Título VI Economía nacional, Reforma agraria y Finanzas públicas
 [[START OF PAGE 42]]
 
 #### Artículo 100
+El Estado garantiza las inversiones nacionales y extranjeras, a fin de que contribuyan al desarrollo económico-social del país, sin detrimento de la soberanía nacional y de los derechos laborales de los trabajadores, así como, el marco jurídico para impulsar proyectos público-privados, que facilite, regule y estimule las inversiones de mediano y largo plazo necesarias para el mejoramiento y desarrollo de la infraestructura, en especial, energética, vial y portuaria.
 
 #### Artículo 101
+Los trabajadores y demás sectores productivos, tanto públicos como privados, tienen el derecho de participar en la elaboración, ejecución y control de los planes económicos, conforme el modelo de diálogo, alianza y consenso impulsado por el Estado, con el objetivo de elevar la productividad a través de una mejor educación y capacitación, mejores formas de organización de la producción, adopción de tecnologías modernas, inversión en capital productivo renovado, mejor infraestructura y servicios públicos.
 
 #### Artículo 102
+Los recursos naturales son patrimonio nacional. La preservación del ambiente y la conservación, desarrollo y explotación racional de los recursos naturales corresponden al Estado; éste podrá celebrar contratos de explotación racional de estos recursos, cuando el interés nacional lo requiera, bajo procesos transparentes y públicos.
+
+Dada la ventajosa posición geográfica del país, a través de Ley, el Estado podrá celebrar contrato u otorgar concesión para la construcción y explotación racional de un canal interoceánico, las cuales deberán considerar cuando se trate de inversión con empresas extranjeras, la conformación de consorcios con empresas nacionales para promover el empleo. Las leyes de la materia para su aprobación, reforma, o derogación, requerirán el voto del sesenta por ciento del total de Diputados de la Asamblea Nacional de Nicaragua.
 
 #### Artículo 103
-
-El Estado garantiza las inversiones nacionales y extranjeras, a fin de  que  contribuyan  al  desarrollo  económico-social  del  país,  sin detrimento de la soberanía nacional y de los derechos laborales de los trabajadores, así como, el marco jurídico para impulsar proyectos público-privados, que facilite, regule y estimule las inversiones de mediano y largo plazo necesarias para el mejoramiento y desarrollo de la infraestructura, en especial, energética, vial y portuaria.
-
-Los  trabajadores  y  demás  sectores  productivos,  tanto  públicos como privados, tienen el derecho de participar en la elaboración, ejecución y control de los planes económicos, conforme el modelo de  diálogo,  alianza  y  consenso  impulsado  por  el  Estado,  con  el objetivo de elevar la productividad a través de una mejor educación y capacitación, mejores formas de organización de la producción, adopción de tecnologías modernas, inversión en capital productivo renovado, mejor infraestructura y servicios públicos.
-
-Los recursos naturales son patrimonio nacional. La preservación del ambiente y la conservación, desarrollo y explotación racional de los recursos naturales corresponden al Estado; éste podrá celebrar contratos  de  explotación  racional  de  estos  recursos,  cuando  el interés nacional lo requiera, bajo procesos transparentes y públicos.
-
-Dada la ventajosa posición geográfica del país, a través de Ley, el  Estado  podrá  celebrar  contrato  u  otorgar  concesión  para  la construcción  y  explotación  racional  de  un  canal  interoceánico, las  cuales  deberán  considerar  cuando  se  trate  de  inversión con  empresas  extranjeras,  la  conformación  de  consorcios  con empresas nacionales  para  promover  el  empleo.  Las  leyes  de  la materia para su aprobación, reforma, o derogación, requerirán el voto del sesenta por ciento del total de Diputados de la Asamblea Nacional de Nicaragua.
-
-El  Estado  garantiza  las  formas  de  propiedad  pública,  privada, cooperativa,  asociativa,  comunitaria,  comunal,  familiar  y  mixta; todas ellas forman parte de la economía mixta, están supeditadas a  los  intereses  sociales  superiores  de  la  nación  y  cumplen  una función social, todas tendrán los mismos derechos y prerrogativas de conformidad a las normas jurídicas y no se perturbará el dominio
+El Estado garantiza las formas de propiedad pública, privada, cooperativa, asociativa, comunitaria, comunal, familiar y mixta; todas ellas forman parte de la economía mixta, están supeditadas a los intereses sociales superiores de la nación y cumplen una función social, todas tendrán los mismos derechos y prerrogativas de conformidad a las normas jurídicas y no se perturbará el dominio
 
 4 2
 
@@ -1052,45 +1115,48 @@ El  Estado  garantiza  las  formas  de  propiedad  pública,  privada, cooperati
 
 [[START OF PAGE 43]]
 
+y posesión legal de cualquiera de estas formas de propiedad. Excepto los casos en que las leyes de la materia así lo dispongan.
+
 #### Artículo 104
-
-#### Artículo 105
-
-y  posesión  legal  de  cualquiera  de  estas  formas  de  propiedad. Excepto los casos en que las leyes de la materia así lo dispongan.
-
-Las empresas que se organicen bajo cualesquiera de las formas de propiedad establecidas en esta Constitución, gozan de igualdad ante  la  ley  y  las  políticas  económicas  del  Estado.  La  iniciativa económica es libre.
+Las empresas que se organicen bajo cualesquiera de las formas de propiedad establecidas en esta Constitución, gozan de igualdad ante la ley y las políticas económicas del Estado. La iniciativa económica es libre.
 
 Se garantiza el pleno ejercicio de las actividades económicas sin más limitaciones que, por motivos sociales o de interés nacional, impongan las leyes.
 
-Es obligación del Estado promover, facilitar y regular la prestación de  los  servicios  públicos  básicos  de  energía,  comunicación, agua, transportes, infraestructura vial, puertos y aeropuertos a la población,  y  derecho  inalienable  de  la  misma  el  acceso  a  ellos. Las inversiones privadas y sus modalidades y las concesiones de explotación a sujetos privados en estas áreas, serán reguladas por la ley en cada caso.
+#### Artículo 105
+Es obligación del Estado promover, facilitar y regular la prestación de los servicios públicos básicos de energía, comunicación, agua, transportes, infraestructura vial, puertos y aeropuertos a la población, y derecho inalienable de la misma el acceso a ellos. Las inversiones privadas y sus modalidades y las concesiones de explotación a sujetos privados en estas áreas, serán reguladas por la ley en cada caso.
 
-Los servicios de educación, salud y seguridad social, son deberes indeclinables del Estado, que está obligado a prestarlos sin  exclusiones,  a  mejorarlos  y  ampliarlos.  Las  instalaciones  e infraestructura de dichos servicios propiedad del Estado, no pueden ser  enajenadas  bajo  ninguna  modalidad.  Los  trabajadores  de  la educación  y  la  salud  participarán  en  la  elaboración,  ejecución  y seguimiento a los planes, programas y proyectos dirigidos al sector, y se regirán por las leyes correspondientes.
+Los servicios de educación, salud y seguridad social, son deberes indeclinables del Estado, que está obligado a prestarlos sin exclusiones, a mejorarlos y ampliarlos. Las instalaciones e infraestructura de dichos servicios propiedad del Estado, no pueden ser enajenadas bajo ninguna modalidad. Los trabajadores de la educación y la salud participarán en la elaboración, ejecución y seguimiento a los planes, programas y proyectos dirigidos al sector, y se regirán por las leyes correspondientes.
 
-Se garantiza la gratuidad de la salud para los sectores vulnerables de  la  población,  priorizando  el  cumplimiento  de  los  programas materno  infantil.  Se  desarrollará  el  modelo  de  salud  familiar  y comunitaria.Los servicios estatales de la salud y educación deberán ser ampliados y fortalecidos. Se garantiza el derecho de establecer servicios privados en las áreas de salud y educación.
+Se garantiza la gratuidad de la salud para los sectores vulnerables de la población, priorizando el cumplimiento de los programas materno infantil. Se desarrollará el modelo de salud familiar y comunitaria.Los servicios estatales de la salud y educación deberán ser ampliados y fortalecidos. Se garantiza el derecho de establecer servicios privados en las áreas de salud y educación.
 
-Es  deber  del  Estado  garantizar  el  control  de  calidad  de  bienes y  servicios  y  evitar  la  especulación  y  el  acaparamiento  de  los bienes básicos de consumo. El Estado garantizará la promoción y protección de los derechos de los consumidores y usuarios a través de la Ley de la materia.
+Es deber del Estado garantizar el control de calidad de bienes y servicios y evitar la especulación y el acaparamiento de los bienes básicos de consumo. El Estado garantizará la promoción y protección de los derechos de los consumidores y usuarios a través de la Ley de la materia.
 
 Título VI Economía nacional,
 
-Reforma agraria y Finanzas públicas Las concesiones de explotación de servicios públicos otorgadas a sujetos privados deberán realizarse bajo procesos transparentes y públicos, conforme la ley de la materia, debiendo observarse para su operación criterios de eficiencia y competitividad, satisfacción de la población y cumplimiento de las leyes laborales del país.
+Reforma agraria y Finanzas públicas
 
 4 3
 
 [[END OF PAGE 43]]
 
 [[START OF PAGE 44]]
+Las concesiones de explotación de servicios públicos otorgadas a sujetos privados deberán realizarse bajo procesos transparentes y públicos, conforme la ley de la materia, debiendo observarse para su operación criterios de eficiencia y competitividad, satisfacción de la población y cumplimiento de las leyes laborales del país.
 
 ### CAPÍTULO II Reforma agraria
 
 #### Artículo 106
-| La Reforma agraria es instrumento fundamental para la democratización de la propiedad y la justa distribución de la tierra y es un medio que constituye parte esencial para la promoción y estrategia global de la reconstrucción ecológica y el desarrollo económico sostenible del país. La Reforma agraria tendrá en cuenta la relación tierra hombre socialmente necesaria; también se garantiza las propiedades a los campesinos beneficiarios de la misma de acuerdo con la ley.
---- | ---
+La Reforma agraria es instrumento fundamental para la democratización de la propiedad y la justa distribución de la tierra y es un medio que constituye parte esencial para la promoción y estrategia global de la reconstrucción ecológica y el desarrollo económico sostenible del país. La Reforma agraria tendrá en cuenta la relación tierra hombre socialmente necesaria; también se garantiza las propiedades a los campesinos beneficiarios de la misma de acuerdo con la ley.
+
 #### Artículo 107
-| La Reforma agraria eliminará el latifundio ocioso y se hará prioritariamente con tierras del Estado. Cuando la expropiación de latifundios ociosos afecte a propietarios privados se hará cumpliendo con lo estipulado en el artículo 44 de esta Constitución. La Reforma agraria eliminará cualquier forma de explotación a los campesinos, a las comunidades indígenas del país y promoverá las formas de propiedad compatibles con los objetivos económicos y sociales de la nación, establecidos en esta Constitución. El régimen de propiedad de las tierras de las comunidades indígenas se regulará de acuerdo a la ley de la materia.
+La Reforma agraria eliminará el latifundio ocioso y se hará prioritariamente con tierras del Estado. Cuando la expropiación de latifundios ociosos afecte a propietarios privados se hará cumpliendo con lo estipulado en el artículo 44 de esta Constitución.
+
+La Reforma agraria eliminará cualquier forma de explotación a los campesinos, a las comunidades indígenas del país y promoverá las formas de propiedad compatibles con los objetivos económicos y sociales de la nación, establecidos en esta Constitución. El régimen de propiedad de las tierras de las comunidades indígenas se regulará de acuerdo a la ley de la materia.
+
 #### Artículo 108
-| Se garantiza la propiedad de la tierra a todos los propietarios que la trabajen productiva y eficientemente. La ley establecerá regulaciones particulares y excepciones, de conformidad con los fines y objetivos de la reforma agraria.
+Se garantiza la propiedad de la tierra a todos los propietarios que la trabajen productiva y eficientemente. La ley establecerá regulaciones particulares y excepciones, de conformidad con los fines y objetivos de la reforma agraria.
+
 #### Artículo 109
-| El Estado promoverá la asociación voluntaria de los campesinos en cooperativas agrícolas, sin discriminación de sexo y de acuerdo con sus recursos facilitará los medios materiales necesarios para elevar su capacidad técnica y productiva, a fin de mejorar las condiciones de vida de los campesinos.
+El Estado promoverá la asociación voluntaria de los campesinos en cooperativas agrícolas, sin discriminación de sexo y de acuerdo con sus recursos facilitará los medios materiales necesarios para elevar su capacidad técnica y productiva, a fin de mejorar las condiciones de vida de los campesinos.
 
 4 4
 
@@ -1099,30 +1165,24 @@ Reforma agraria y Finanzas públicas Las concesiones de explotación de servicio
 [[START OF PAGE 45]]
 
 #### Artículo 110
-
-El  Estado  promoverá  la  incorporación  voluntaria  de  pequeños  y medianos  productores  agropecuarios  a  los  planes  de  desarrollo económico y social del país, bajo formas asociativas e individuales.
+El Estado promoverá la incorporación voluntaria de pequeños y medianos productores agropecuarios a los planes de desarrollo económico y social del país, bajo formas asociativas e individuales.
 
 #### Artículo 111
-Los campesinos y demás sectores productivos tienen derecho de participar en la definición de las políticas de transformación agraria,
-
-por medio de sus propias organizaciones.
+Los campesinos y demás sectores productivos tienen derecho de participar en la definición de las políticas de transformación agraria, por medio de sus propias organizaciones.
 
 ### CAPÍTULO III De las Finanzas públicas
 
-La  Ley  de  Presupuesto  General  de  la  República  tiene  vigencia anual y su objeto es regular los ingresos y egresos ordinarios y extraordinarios de la administración pública. La ley determinará los límites de gastos de los órganos del Estado y deberá mostrar las distintas fuentes y destinos de todos los ingresos y egresos, los que serán concordantes entre sí.
+#### Artículo 112
+La Ley de Presupuesto General de la República tiene vigencia anual y su objeto es regular los ingresos y egresos ordinarios y extraordinarios de la administración pública. La ley determinará los límites de gastos de los órganos del Estado y deberá mostrar las distintas fuentes y destinos de todos los ingresos y egresos, los que serán concordantes entre sí.
 
-La Asamblea Nacional podrá modificar el Proyecto de Presupuesto enviado por el Presidente de la República pero no se puede crear ningún  gasto  extraordinario  sino  por  ley  y  mediante  creación  y fijación al mismo tiempo, de los recursos para financiarlos. La Ley de Régimen Presupuestario regulará esta materia.
+La Asamblea Nacional podrá modificar el Proyecto de Presupuesto enviado por el Presidente de la República pero no se puede crear ningún gasto extraordinario sino por ley y mediante creación y fijación al mismo tiempo, de los recursos para financiarlos. La Ley de Régimen Presupuestario regulará esta materia.
 
-Toda  modificación  al  Presupuesto  General  de  la  República  que suponga aumento o disminución de los créditos, disminución de los ingresos o transferencias entre distintas instituciones requerirá de la aprobación de la Asamblea Nacional. La Ley Anual de Presupuesto no puede crear tributos.
+Toda modificación al Presupuesto General de la República que suponga aumento o disminución de los créditos, disminución de los ingresos o transferencias entre distintas instituciones requerirá de la aprobación de la Asamblea Nacional. La Ley Anual de Presupuesto no puede crear tributos.
 
 #### Artículo 113
-Corresponde  al  Presidente  de  la  República,  la  formulación  del Proyecto  de  Ley Anual  del  Presupuesto,  el  que  deberá  someter para su discusión y aprobación a la Asamblea Nacional de acuerdo
+Corresponde al Presidente de la República, la formulación del Proyecto de Ley Anual del Presupuesto, el que deberá someter para su discusión y aprobación a la Asamblea Nacional de acuerdo con la ley de la materia.
 
-con la ley de la materia.
-
-El Proyecto de Ley Anual de Presupuesto deberá contener, para información de la  Asamblea Nacional, los Presupuestos de los entes autónomos y gubernamentales, y de las empresas del Estado.
-
-#### Artículo 112
+El Proyecto de Ley Anual de Presupuesto deberá contener, para información de la Asamblea Nacional, los Presupuestos de los entes autónomos y gubernamentales, y de las empresas del Estado.
 
 Título VI Economía nacional,
 
@@ -1135,16 +1195,11 @@ Reforma agraria y Finanzas públicas
 [[START OF PAGE 46]]
 
 #### Artículo 114
-
-#### Artículo 116
-
-#### Artículo 117
-
-Corresponde exclusivamente y de forma indelegable a la Asamblea Nacional  la  potestad  para  crear,  aprobar,  modificar  o  suprimir tributos.  El  Sistema  Tributario  debe  tomar  en  consideración  la distribución de la riqueza y de las rentas.
+Corresponde exclusivamente y de forma indelegable a la Asamblea Nacional la potestad para crear, aprobar, modificar o suprimir tributos. El Sistema Tributario debe tomar en consideración la distribución de la riqueza y de las rentas.
 
 Se prohíben los tributos o impuestos de carácter confiscatorio.
 
-Estarán exentas del pago de toda clase de impuesto los medicamentos,  vacunas  y  sueros de  consumo humano,  órtesis y prótesis, lo  mismo  que  los  insumos  y materia  prima necesarios para la elaboración  de  esos productos de  conformidad  con  la clasificación y procedimientos que se establezcan.
+Estarán exentas del pago de toda clase de impuesto los medicamentos, vacunas y sueros de consumo humano, órtesis y prótesis, lo mismo que los insumos y materia prima necesarios para la elaboración de esos productos de conformidad con la clasificación y procedimientos que se establezcan.
 
 #### Artículo 115
 Los impuestos deben ser creados por ley que establezca su incidencia, tipo impositivo y las garantías a los contribuyentes. El Estado no obligará a pagar impuestos que previamente no estén establecidos en una ley.
@@ -1153,11 +1208,11 @@ Los impuestos deben ser creados por ley que establezca su incidencia, tipo impos
 
 ### CAPÍTULO ÚNICO
 
-La  educación  tiene  como  objetivo  la  formación  plena  e  integral del  nicaragüense;  dotarlo  de  una  conciencia  crítica,  científica  y humanista; desarrollar su personalidad y el sentido de su dignidad y capacitarlo para asumir las tareas de interés común que demanda el progreso de la nación; por consiguiente, la educación es factor fundamental para la transformación y el desarrollo del individuo y la
+#### Artículo 116
+La educación tiene como objetivo la formación plena e integral del nicaragüense; dotarlo de una conciencia crítica, científica y humanista; desarrollar su personalidad y el sentido de su dignidad y capacitarlo para asumir las tareas de interés común que demanda el progreso de la nación; por consiguiente, la educación es factor fundamental para la transformación y el desarrollo del individuo y la sociedad.
 
-sociedad.
-
-La  educación  es  un  proceso  único,  democrático,  creativo  y participativo que vincula la teoría con la práctica, el trabajo manual con  el intelectual y promueve  la  investigación  científica.  Se fundamenta en nuestros valores nacionales, en el conocimiento de nuestra historia, de la realidad, de la cultura nacional y universal y en el desarrollo constante de la ciencia y de la técnica; cultiva los  valores  propios  del  nuevo  nicaragüense,  de  acuerdo  con  los principios establecidos en la presente Constitución, cuyo estudio deberá ser promovido.
+#### Artículo 117
+La educación es un proceso único, democrático, creativo y participativo que vincula la teoría con la práctica, el trabajo manual con el intelectual y promueve la investigación científica. Se fundamenta en nuestros valores nacionales, en el conocimiento de nuestra historia, de la realidad, de la cultura nacional y universal y en el desarrollo constante de la ciencia y de la técnica; cultiva los valores propios del nuevo nicaragüense, de acuerdo con los principios establecidos en la presente Constitución, cuyo estudio deberá ser promovido.
 
 46
 
@@ -1166,31 +1221,26 @@ La  educación  es  un  proceso  único,  democrático,  creativo  y participati
 [[START OF PAGE 47]]
 
 #### Artículo 118
-
-#### Artículo 119
-
 El Estado promueve la participación de la familia, de la comunidad y del pueblo en la educación y garantiza el apoyo de los medios de comunicación social a la misma.
 
-La  educación  es  función  indeclinable  del  Estado.  Corresponde a  éste  planificarla,  dirigirla  y  organizarla.  El  sistema  nacional  de educación funciona de manera integrada y de acuerdo con planes nacionales.  Su  organización  y  funcionamiento  son  determinados por la ley.
+#### Artículo 119
+La educación es función indeclinable del Estado. Corresponde a éste planificarla, dirigirla y organizarla. El sistema nacional de educación funciona de manera integrada y de acuerdo con planes nacionales. Su organización y funcionamiento son determinados por la ley.
 
-Es  deber  del  Estado  formar  y  capacitar  en  todos  los  niveles  y especialidades al personal técnico y profesional necesario para el desarrollo y transformación del país.
+Es deber del Estado formar y capacitar en todos los niveles y especialidades al personal técnico y profesional necesario para el desarrollo y transformación del país.
 
 #### Artículo 120
 Es papel fundamental del magisterio nacional la aplicación creadora de los planes y políticas educativas. Los maestros tienen derecho a condiciones de vida y trabajo acordes con su dignidad y con la importante  función  social  que  desempeñan;  serán  promovidos  y estimulados de acuerdo con la ley.
 
 #### Artículo 121
+El acceso a la educación es libre e igual para todos los nicaragüenses. La enseñanza primaria es gratuita y obligatoria en los centros del Estado. La enseñanza secundaria es gratuita en los centros del Estado, sin perjuicio de las contribuciones voluntarias que puedan hacer los padres de familia.
+
+Nadie podrá ser excluido en ninguna forma de un centro estatal por razones económicas. Los pueblos indígenas y las comunidades étnicas de la Costa Caribe tienen derecho en su región a la educación intercultural en su lengua materna, de acuerdo a la ley.
 
 #### Artículo 122
+Los adultos gozarán de oportunidades para educarse y desarrollar habilidades por medio de programas de capacitación y formación. El Estado continuará sus programas educativos para suprimir el analfabetismo.
 
 #### Artículo 123
-
-El  acceso  a  la  educación  es  libre  e  igual  para  todos  los  nicaragüenses. La enseñanza primaria es gratuita y obligatoria en los centros del Estado.  La  enseñanza  secundaria  es  gratuita  en  los  centros  del Estado, sin perjuicio de las contribuciones voluntarias que puedan hacer los padres de familia.
-
-Nadie podrá ser excluido en ninguna forma de un centro estatal por razones  económicas.  Los  pueblos  indígenas  y  las  comunidades étnicas  de  la  Costa  Caribe  tienen  derecho  en  su  región  a  la educación intercultural en su lengua materna, de acuerdo a la ley.
-
-Los adultos gozarán de oportunidades para educarse y desarrollar habilidades por medio de programas de capacitación y formación. El  Estado  continuará  sus  programas  educativos  para  suprimir  el analfabetismo.
-
-Los centros privados dedicados a la enseñanza pueden funcionar en  todos  los  niveles,  sujetos  a  los  preceptos  establecidos  en  la presente Constitución.
+Los centros privados dedicados a la enseñanza pueden funcionar en todos los niveles, sujetos a los preceptos establecidos en la presente Constitución.
 
 Título VII Educación y Cultura
 
@@ -1230,26 +1280,23 @@ La creación artística y cultural es libre e irrestricta. Los trabajadores de  
 [[START OF PAGE 49]]
 
 #### Artículo 128
-
-#### Artículo 129
-
-#### Artículo 130
-
 El Estado protege el patrimonio arqueológico, histórico, lingüístico, cultural y artístico de la nación.
 
 ## TÍTULO VIII De la Organización del Estado
 
 ### CAPÍTULO I Principios generales
 
-Los Poderes  Legislativo, Ejecutivo, Judicial y Electoral, son independientes entre sí y se coordinan armónicamente, subordinados únicamente a los intereses supremos de la nación y a lo establecido en la presente Constitución.
+#### Artículo 129
+Los Poderes Legislativo, Ejecutivo, Judicial y Electoral, son independientes entre sí y se coordinan armónicamente, subordinados únicamente a los intereses supremos de la nación y a lo establecido en la presente Constitución.
 
+#### Artículo 130
 Ningún cargo concede a quien lo ejerce más funciones que aquéllas atribuidas por la Constitución y las leyes. Todo funcionario público actuará en estricto respeto a los principios de constitucionalidad y legalidad.
 
 Los funcionarios electos por la Asamblea Nacional continuarán en el ejercicio de su cargo, después del vencimiento de su mandato para el que fueron electos, hasta que sean elegidos y tomen posesión quienes deban sustituirlos de conformidad a la Constitución Política.
 
-Todo  funcionario  del  Estado  debe  rendir  cuenta  de  sus  bienes antes de asumir su cargo y después de entregarlo. La ley regula esta materia.
+Todo funcionario del Estado debe rendir cuenta de sus bienes antes de asumir su cargo y después de entregarlo. La ley regula esta materia.
 
-Los funcionarios públicos de cualquier Poder del Estado, elegidos  directa  e  indirectamente,  los  Ministros  y  Viceministros de  Estado,  los  Presidentes  o  Directores  de  entes  autónomos  y gubernamentales, y los Embajadores de Nicaragua en el exterior no pueden obtener concesión alguna del Estado. Tampoco podrán actuar  como  apoderados  o  gestores  de  empresas  públicas  o privadas, nacionales o extranjeras, en contrataciones de éstas con el  Estado. La violación de esta disposición anula las concesiones o ventajas obtenidas y causa pérdida de la representación y el cargo.
+Los funcionarios públicos de cualquier Poder del Estado, elegidos directa e indirectamente, los Ministros y Viceministros de Estado, los Presidentes o Directores de entes autónomos y gubernamentales, y los Embajadores de Nicaragua en el exterior no pueden obtener concesión alguna del Estado. Tampoco podrán actuar como apoderados o gestores de empresas públicas o privadas, nacionales o extranjeras, en contrataciones de éstas con el Estado. La violación de esta disposición anula las concesiones o ventajas obtenidas y causa pérdida de la representación y el cargo.
 
 Título VIII De la Organización del Estado
 
@@ -1259,16 +1306,15 @@ Título VIII De la Organización del Estado
 
 [[START OF PAGE 50]]
 
+La Asamblea Nacional mediante resolución aprobada por dos tercios de los votos de sus miembros podrá declarar la privación de inmunidad del Presidente o del Vicepresidente de la República. Respecto a otros funcionarios, la resolución será aprobada con el voto favorable de la mayoría de sus miembros. Sin este procedimiento los funcionarios públicos que conforme la presente Constitución gozan de inmunidad, no podrán ser detenidos, ni procesados, excepto en causas relativas a los derechos de familia y laborales. La inmunidad es renunciable. La ley regulará esta materia.
+
+En los casos de privación de la inmunidad por causas penales contra el Presidente o el Vicepresidente de la República, una vez privados de ella, es competente para procesarlos la Corte Suprema de Justicia en pleno.
+
+En todas las funciones del Poder Soberano establecidas en esta Constitución, no se podrán hacer recaer nombramientos en personas que tengan parentesco cercano con la autoridad que hace el nombramiento y, en su caso, con la persona de donde hubiere emanado esta autoridad. Para los nombramientos de los funcionarios principales, regirá la prohibición del cuarto grado de consanguinidad y segundo de afinidad. La ley regulará esta materia.
+
+Esta prohibición no comprende el caso de los nombramientos que correspondan al cumplimiento de la Ley del Servicio Civil y de la Carrera Administrativa, Ley de Carrera Docente, de Carrera Judicial, de Carrera del Servicio Exterior, Ley de Carrera Sanitaria, Ley de Carrera Municipal y demás leyes similares que se dictaren.
+
 #### Artículo 131
-
-La  Asamblea  Nacional  mediante  resolución  aprobada  por  dos tercios de los votos de sus miembros podrá declarar la privación de inmunidad del Presidente o del Vicepresidente de la República. Respecto  a otros funcionarios, la resolución será  aprobada con  el  voto  favorable  de  la  mayoría  de  sus  miembros.  Sin  este procedimiento los funcionarios públicos que conforme la presente Constitución  gozan  de  inmunidad,  no  podrán  ser  detenidos,  ni procesados, excepto en causas relativas a los derechos de familia y  laborales.  La  inmunidad  es  renunciable.  La  ley  regulará  esta materia.
-
-En  los  casos  de  privación  de  la  inmunidad  por  causas  penales contra el Presidente o el Vicepresidente de la República, una vez privados de ella, es competente para procesarlos la Corte Suprema de Justicia en pleno.
-
-En  todas  las  funciones  del  Poder  Soberano  establecidas  en esta Constitución, no se podrán hacer recaer nombramientos en personas  que  tengan  parentesco  cercano  con  la  autoridad  que hace  el  nombramiento  y,  en  su  caso,  con  la  persona  de  donde hubiere emanado esta autoridad. Para los nombramientos de los funcionarios principales, regirá la prohibición del cuarto grado de consanguinidad y segundo de afinidad. La ley regulará esta materia.
-
-Esta  prohibición  no  comprende  el  caso  de  los  nombramientos que correspondan al cumplimiento de la Ley del Servicio Civil  y de la Carrera Administrativa, Ley de Carrera Docente, de Carrera Judicial, de Carrera del Servicio Exterior, Ley de Carrera Sanitaria, Ley de Carrera Municipal y demás leyes similares que se dictaren.
-
 Los funcionarios públicos, responden ante el pueblo por el correcto desempeño de sus funciones y deben informarle de su trabajo y actividades oficiales. Deben atender y escuchar sus problemas y procurar resolverlos. La función pública se debe ejercer a favor de los intereses del pueblo.
 
 Los  funcionarios  electos  mediante  sufragio  universal  por  listas cerradas  propuestas  por  partidos  políticos,  que  se  cambien  de opción  electoral  en  el  ejercicio  de  su  cargo,  contraviniendo  el mandato del pueblo elector expresado en las urnas, perderán su condición de electo debiendo asumir el escaño su suplente.
@@ -1297,29 +1343,29 @@ Título VIII De la Organización del Estado
 
 [[START OF PAGE 52]]
 
-#### Artículo 132
-
-#### Artículo 133
-
-#### Artículo 134
-
 ### CAPÍTULO II Poder Legislativo
 
-El Poder Legislativo lo ejerce la Asamblea Nacional por delegación y mandato del pueblo. La Asamblea Nacional está integrada por noventa  Diputados  con  sus  respectivos  suplentes,  elegidos  por voto universal, igual, directo, libre y secreto, mediante el sistema de representación proporcional. En carácter nacional de acuerdo con lo que se establezca en la ley electoral se elegirán veinte Diputados y en las circunscripciones departamentales y Regiones Autónomas setenta Diputados.
+#### Artículo 132
+
+El Poder Legislativo lo ejerce la Asamblea Nacional por delegación y mandato del pueblo. La Asamblea Nacional está integrada por noventa Diputados con sus respectivos suplentes, elegidos por voto universal, igual, directo, libre y secreto, mediante el sistema de representación proporcional. En carácter nacional de acuerdo con lo que se establezca en la ley electoral se elegirán veinte Diputados y en las circunscripciones departamentales y Regiones Autónomas setenta Diputados.
 
 Se establece la obligatoriedad de destinar un porcentaje suficiente del Presupuesto General de la República a la Asamblea Nacional.
 
-También forman parte de la Asamblea Nacional como Diputados, propietario  y  suplente  respectivamente,  el  Expresidente  de  la República y Exvicepresidente electos por el voto popular directo en  el  período  inmediato  anterior;  y,  como  Diputados,  propietario y  suplente  los  candidatos  a  Presidente  y  Vicepresidente  de  la República  que  participaron  en  la  elección  correspondiente,  y hubiesen obtenido el segundo lugar.
+#### Artículo 133
+
+También forman parte de la Asamblea Nacional como Diputados, propietario y suplente respectivamente, el Expresidente de la República y Exvicepresidente electos por el voto popular directo en el período inmediato anterior; y, como Diputados, propietario y suplente los candidatos a Presidente y Vicepresidente de la República que participaron en la elección correspondiente, y hubiesen obtenido el segundo lugar.
+
+#### Artículo 134
 
 Para ser Diputado se requieren las siguientes calidades:
 
-- Ser  nacional  de  Nicaragua.  Quienes  hayan  adquirido  otra nacionalidad deberán haber renunciado a ella al menos cuatro años antes de verificarse la elección.
+- Ser nacional de Nicaragua. Quienes hayan adquirido otra nacionalidad deberán haber renunciado a ella al menos cuatro años antes de verificarse la elección.
 
 - Estar en pleno goce de sus derechos civiles y políticos.
 
 - Haber cumplido veintiún años de edad.
 
-- Haber residido en forma continuada en el país los cuatro años anteriores  a  la  elección,  salvo  que  durante  dicho  período cumpliere  misiones  diplomáticas,  o  trabajare  en  organismos internacionales o realizare estudios en el extranjero. Además, haber nacido o haber residido durante los últimos dos años en el Departamento o Región Autónoma por el cual se pretende salir electo.
+- Haber residido en forma continuada en el país los cuatro años anteriores a la elección, salvo que durante dicho período cumpliere misiones diplomáticas, o trabajare en organismos internacionales o realizare estudios en el extranjero. Además, haber nacido o haber residido durante los últimos dos años en el Departamento o Región Autónoma por el cual se pretende salir electo.
 
 5 2
 
@@ -1394,15 +1440,15 @@ Asimismo,  se elegirán  ocho  Conjueces  con  los  mismos requisitos  y  proced
 
 - Al Superintendente y Vicesuperintendente General de Bancos y de Otras Instituciones Financieras.
 
-- Al  Fiscal  General  de  la  República,  quien  estará  a  cargo del Ministerio  Público  y  al  Fiscal  General  Adjunto  de  la República, quienes  deberán  tener  las  mismas  calidades que  se  requieren para ser Magistrados  de  la Corte Suprema de Justicia.
+- Al Fiscal General de la República, quien estará a cargo del Ministerio Público y al Fiscal General Adjunto de la República, quienes deberán tener las mismas calidades que se requieren para ser Magistrados de la Corte Suprema de Justicia.
 
-Título VIII De la Organización del Estado
-
-El Ministerio Público es una institución independiente, con autonomía orgánica, funcional y administrativa, que tiene a su cargo la función acusadora y la representación de los intereses  de  la  sociedad  y  de  la  víctima  del  delito  en  el proceso penal, a través del Fiscal General de la República.  Sólo  estará  subordinado  a  la  Constitución Política de la República y a las leyes.
+El Ministerio Público es una institución independiente, con autonomía orgánica, funcional y administrativa, que tiene a su cargo la función acusadora y la representación de los intereses de la sociedad y de la víctima del delito en el proceso penal, a través del Fiscal General de la República. Sólo estará subordinado a la Constitución Política de la República y a las leyes.
 
 - A los miembros del Consejo Superior de la Contraloría General de la República.
 
-- Al Procurador y Subprocurador para  la Defensa de  los Derechos Humanos.
+- Al Procurador y Subprocurador para la Defensa de los Derechos Humanos.
+
+Título VIII De la Organización del Estado
 
 5 5
 
@@ -1420,15 +1466,15 @@ La  Asamblea  Nacional  a  través  de  comisiones  especiales, podrá convocar 
 
 - Conocer,  admitir  y  decidir  sobre  las  faltas  definitivas  de  los Diputados  ante  la  Asamblea  Nacional.  Son  causa  de  falta definitiva,  y  en  consecuencia,  acarrean  la  pérdida  de  la condición de Diputado, las siguientes:
 
-- Renuncia al cargo. i.
+- i. Renuncia al cargo.
 
-- Fallecimiento. ii.
+- ii. Fallecimiento.
 
-- Condena mediante sentencia firme a pena de privación de libertad o de inhabilitación para ejercer el cargo, por delito que merezca pena grave, por un término igual o mayor al resto de su período. iii.
+- iii. Condena mediante sentencia firme a pena de privación de libertad o de inhabilitación para ejercer el cargo, por delito que merezca pena grave, por un término igual o mayor al resto de su período.
 
-- Abandono  de sus funciones parlamentarias durante sesenta días continuos dentro de una misma legislatura, sin causa justificada ante la Junta Directiva de la Asamblea Nacional. iv.
+- iv. Abandono de sus funciones parlamentarias durante sesenta días continuos dentro de una misma legislatura, sin causa justificada ante la Junta Directiva de la Asamblea Nacional.
 
-- Contravención  a  lo  dispuesto  en  el  cuarto  párrafo  del artículo 130 de la Constitución Política. v.
+- v. Contravención a lo dispuesto en el cuarto párrafo del artículo 130 de la Constitución Política.
 
 5 6
 
@@ -1436,9 +1482,9 @@ La  Asamblea  Nacional  a  través  de  comisiones  especiales, podrá convocar 
 
 [[START OF PAGE 57]]
 
-- Recibir  retribución  de  fondos  estatales,  regionales  o municipales,  por  cargo  o  empleo  en  otros  Poderes  del Estado  o  Empresas  Estatales,  salvo  caso  de  docencia o del  ejercicio  de  la  medicina.  Si  un  diputado  aceptare desempeñar  cargo  en  otros  poderes  del  Estado,  sólo podrá  reincorporarse  a  la  Asamblea  Nacional  cuando hubiese cesado en el otro cargo. vi.
+- vi. Recibir retribución de fondos estatales, regionales o municipales, por cargo o empleo en otros Poderes del Estado o Empresas Estatales, salvo caso de docencia o del ejercicio de la medicina. Si un diputado aceptare desempeñar cargo en otros poderes del Estado, sólo podrá reincorporarse a la Asamblea Nacional cuando hubiese cesado en el otro cargo.
 
-- Incumplimiento  de  la  obligación  de  declarar  sus  bienes ante la Contraloría General de la República al momento de la toma de posesión del cargo. vii.
+- vii. Incumplimiento de la obligación de declarar sus bienes ante la Contraloría General de la República al momento de la toma de posesión del cargo.
 
 - Conocer y admitir las renuncias y resolver sobre destituciones de  los  funcionarios  mencionados  en  los  numerales  7),  8)  y 9),  por  las  causas  y  procedimientos  establecidos  en  la  ley, pudiendo ser separados de sus cargos con al menos, el sesenta por ciento de votos del total de los Diputados de la Asamblea Nacional.
 
@@ -1494,29 +1540,29 @@ Título VIII De la Organización del Estado
 
 [[START OF PAGE 59]]
 
-#### Artículo 139
+del Superintendente de Bancos y de Otras Instituciones Financieras y del Presidente del Banco Central, sin perjuicio de otras informaciones que les sean requeridas.
 
-#### Artículo 140
-
-- del  Superintendente  de  Bancos  y  de  Otras  Instituciones Financieras y del Presidente del Banco Central, sin perjuicio de otras informaciones que les sean requeridas.
-
-- Ratificar en un plazo no mayor de quince días hábiles, con el voto  favorable  de  la  mayoría  simple  del  total  de  Diputados, el  nombramiento  hecho  por  el  Presidente  de  la  República a  los  Ministros  y  Viceministros  de  Estado,  Procurador  y Subprocurador  General  de  la  República,  Jefes  de  Misiones Diplomáticas, y Presidentes o Directores de Entes Autónomos y gubernamentales. El nombramiento sólo se considerará firme hasta que la Asamblea Nacional lo ratifique. De no producirse la ratificación, el Presidente de la República deberá proceder a un nuevo nombramiento dentro del plazo de treinta días hábiles, debiendo someterse el nuevo nombramiento al procedimiento de ratificación ya establecido.
+- Ratificar en un plazo no mayor de quince días hábiles, con el voto favorable de la mayoría simple del total de Diputados, el nombramiento hecho por el Presidente de la República a los Ministros y Viceministros de Estado, Procurador y Subprocurador General de la República, Jefes de Misiones Diplomáticas, y Presidentes o Directores de Entes Autónomos y gubernamentales. El nombramiento sólo se considerará firme hasta que la Asamblea Nacional lo ratifique. De no producirse la ratificación, el Presidente de la República deberá proceder a un nuevo nombramiento dentro del plazo de treinta días hábiles, debiendo someterse el nuevo nombramiento al procedimiento de ratificación ya establecido.
 
 - Celebrar sesiones ordinarias y extraordinarias.
 
 - Las demás que le confieren la Constitución Política y las leyes.
 
+#### Artículo 139
+
 Los Diputados estarán exentos de responsabilidad por sus opiniones y votos emitidos en la Asamblea Nacional y gozan de inmunidad conforme la ley.
+
+#### Artículo 140
 
 Tienen iniciativa de ley:
 
-- Cada  uno de los Diputados de la  Asamblea  Nacional, quienes además gozan del derecho de iniciativa de decretos, resoluciones y declaraciones legislativas.
+- Cada uno de los Diputados de la Asamblea Nacional, quienes además gozan del derecho de iniciativa de decretos, resoluciones y declaraciones legislativas.
 
 - El Presidente de la República.
 
 - La Corte Suprema de Justicia, el Consejo Supremo Electoral, los Consejos Regionales Autónomos y los Concejos Municipales, en materias propias de su competencia.
 
-- Los  Diputados  ante  el  Parlamento  Centroamericano  por  el Estado de Nicaragua. En este caso solo tienen iniciativa de Ley y Decretos Legislativos en materia de Integración Regional.
+- Los Diputados ante el Parlamento Centroamericano por el Estado de Nicaragua. En este caso solo tienen iniciativa de Ley y Decretos Legislativos en materia de Integración Regional.
 
 Título VIII De la Organización del Estado
 
@@ -1551,17 +1597,17 @@ Una vez aprobado el  proyecto  de  ley  por  la Asamblea  Nacional será  enviad
 
 [[START OF PAGE 61]]
 
+de las reformas a la Constitución o a las leyes constitucionales y cuando no sancionare, promulgare ni publicare las demás leyes en un plazo de quince días, el Presidente de la Asamblea Nacional mandará a publicarlas por cualquier medio de comunicación social escrito, entrando en vigencia desde dicha fecha, sin perjuicio de su posterior publicación en La Gaceta, Diario Oficial, la que deberá hacer mención de la fecha de su publicación en los medios de comunicación social.
+
+Las leyes serán reglamentadas cuando ellas expresamente así lo determinen. La Junta Directiva de la Asamblea Nacional encomendará la reglamentación de las leyes a la Comisión respectiva para su aprobación en el Plenario, cuando el Presidente de la República no lo hiciere en el plazo establecido.
+
+Las leyes sólo se derogan o se reforman por otras leyes y entrarán en vigencia a partir del día de su publicación en “La Gaceta”, Diario Oficial, excepto cuando ellas mismas establezcan otra modalidad.
+
+Cuando la Asamblea Nacional apruebe reformas sustanciales a las Leyes, podrá ordenar que su texto íntegro con las reformas incorporadas sea publicado en “La Gaceta”, Diario Oficial, salvo las reformas a los Códigos.
+
+Las iniciativas de Ley presentadas en una legislatura y no sometidas a debate, serán consideradas en la siguiente legislatura. Las que fueren rechazadas, no podrán ser consideradas en la misma legislatura.
+
 #### Artículo 142
-
-de las reformas a la Constitución o a las leyes constitucionales y cuando no sancionare, promulgare ni publicare las demás leyes en un plazo de quince días, el Presidente de la Asamblea Nacional mandará a publicarlas por cualquier  medio de comunicación social escrito, entrando en vigencia desde dicha fecha, sin perjuicio de su posterior publicación en La Gaceta, Diario Oficial, la que deberá hacer  mención  de  la  fecha  de  su  publicación  en  los  medios  de comunicación social.
-
-Las leyes serán reglamentadas cuando ellas expresamente así  lo  determinen.  La  Junta  Directiva  de  la  Asamblea  Nacional encomendará  la  reglamentación  de  las  leyes  a  la  Comisión respectiva para su aprobación en el Plenario, cuando el Presidente de la República no lo hiciere en el plazo establecido.
-
-Las leyes sólo se derogan o se reforman por otras leyes y entrarán en vigencia a partir del día de su publicación en 'La Gaceta', Diario Oficial, excepto cuando ellas mismas establezcan otra modalidad.
-
-Cuando  la Asamblea  Nacional  apruebe  reformas  sustanciales  a las  Leyes,  podrá  ordenar  que  su  texto  íntegro  con  las  reformas incorporadas sea publicado en 'La Gaceta', Diario Oficial, salvo las reformas a los Códigos.
-
-Las iniciativas de Ley presentadas en una legislatura y no sometidas a debate, serán consideradas en la siguiente legislatura. Las que fueren  rechazadas,  no  podrán  ser  consideradas  en  la  misma legislatura.
 
 El Presidente de la República podrá vetar total o parcialmente un proyecto de ley dentro de los quince días siguientes a aquél en que lo haya recibido. Si no ejerciere esta facultad ni sancionara, promulgara y publicara el proyecto, el Presidente de la Asamblea Nacional mandará a publicar la ley en cualquier medio de difusión nacional escrito.
 
@@ -1575,29 +1621,29 @@ Título VIII De la Organización del Estado
 
 [[START OF PAGE 62]]
 
-#### Artículo 144
-
 #### Artículo 143
-de los motivos del veto.
 
-Un proyecto de ley vetado total o parcialmente por el Presidente de la República deberá regresar a la Asamblea Nacional con expresión
+Un proyecto de ley vetado total o parcialmente por el Presidente de la República deberá regresar a la Asamblea Nacional con expresión de los motivos del veto.
 
 La Asamblea Nacional podrá rechazar el veto total con un número de votos que exceda la mitad del total de Diputados, en cuyo caso el Presidente de la Asamblea Nacional mandará a publicar la ley.
 
-Cuando  el  veto  sea  parcial,  este  deberá  contener  expresión  de los  motivos  de  cada  uno  de  los  artículos  vetados.  La  Comisión correspondiente deberá dictaminar sobre cada uno de los artículos vetados.  La  Asamblea  Nacional,  con  un  número  de  votos  que exceda la mitad de sus Miembros podrá rechazar el veto de cada artículo  en  cuyo  caso  el  Presidente  de  la  Asamblea  Nacional mandará a publicar la Ley.
+Cuando el veto sea parcial, este deberá contener expresión de los motivos de cada uno de los artículos vetados. La Comisión correspondiente deberá dictaminar sobre cada uno de los artículos vetados. La Asamblea Nacional, con un número de votos que exceda la mitad de sus Miembros podrá rechazar el veto de cada artículo en cuyo caso el Presidente de la Asamblea Nacional mandará a publicar la Ley.
 
 ### CAPÍTULO III Poder Ejecutivo
+
+#### Artículo 144
 
 El Poder Ejecutivo lo ejerce el Presidente de la República, quien es Jefe de Estado, Jefe de Gobierno y Jefe Supremo del Ejército de Nicaragua.
 
 #### Artículo 145
-El  Vicepresidente de la República desempeña las funciones que le señale la presente Constitución Política, y las que le delegue el Presidente de la República directamente o a través de la ley.
+
+El Vicepresidente de la República desempeña las funciones que le señale la presente Constitución Política, y las que le delegue el Presidente de la República directamente o a través de la ley.
 
 Asimismo sustituirá en el cargo al Presidente, en casos de falta temporal o definitiva.
 
 #### Artículo 146
 
-La  elección  del  Presidente  y  Vicepresidente  de  la  República  se realiza mediante el sufragio universal, igual, directo, libre y secreto. Serán elegidos quienes obtengan la mayoría relativa de votos.
+La elección del Presidente y Vicepresidente de la República se realiza mediante el sufragio universal, igual, directo, libre y secreto. Serán elegidos quienes obtengan la mayoría relativa de votos.
 
 En caso de renuncia, falta definitiva o incapacidad permanente de cualquiera de los candidatos a Presidente o del Vicepresidente de la República, durante el proceso electoral, el partido político al que pertenecieren designará a quien o quienes deban sustituirlos.
 
@@ -1639,27 +1685,29 @@ Título VIII De la Organización del Estado
 
 #### Artículo 148
 
+El Presidente y el Vicepresidente de la República electos tomarán posesión de sus cargos ante la Asamblea Nacional, en sesión solemne y prestarán la promesa de ley ante el Presidente de la Asamblea Nacional.
+
+El Presidente y Vicepresidente ejercerán sus funciones por un período de cinco años, que se contará a partir de su toma de posesión el día diez de enero del año siguiente de la elección. Dentro de este período gozarán de inmunidad de conformidad con la ley.
+
 #### Artículo 149
 
-El Presidente y el Vicepresidente de la República electos tomarán posesión  de  sus  cargos  ante  la  Asamblea  Nacional,  en  sesión solemne y prestarán la promesa de ley ante el Presidente de la Asamblea Nacional.
+El Presidente de la República podrá salir del país en ejercicio de su cargo, por un período menor de quince días sin ninguna autorización. Para un período mayor de quince días y menor de treinta días requerirá previa autorización de la Asamblea Nacional. En este último caso corresponderá al Vicepresidente de la República el ejercicio de la función de Gobierno de la Presidencia.
 
-El  Presidente  y  Vicepresidente  ejercerán  sus  funciones  por  un período  de  cinco  años,  que  se  contará  a  partir  de  su  toma  de posesión  el  día  diez  de  enero  del  año  siguiente  de  la  elección. Dentro de este período gozarán de inmunidad de conformidad con la ley.
-
-El  Presidente  de  la  República  podrá  salir  del  país  en  ejercicio de  su  cargo,  por  un  período  menor  de  quince  días  sin  ninguna autorización. Para un período mayor de quince días y menor de treinta días requerirá previa autorización de la Asamblea Nacional. En este último caso corresponderá al Vicepresidente de la República el ejercicio de la función de Gobierno de la Presidencia.
-
-También  podrá  salir  del  país  el  Presidente  de  la  República  por un tiempo no mayor de tres meses con permiso de la Asamblea Nacional,  siempre  que  deposite  el  ejercicio  de  la  Presidencia en el  Vicepresidente;  pero  si  la  ausencia  pasare  de  tres  meses, cualquiera que fuera la causa, perderá el cargo por ese solo hecho, salvo que la Asamblea Nacional considere el caso de fuerza mayor y prorrogue el permiso por un tiempo prudencial.
+También podrá salir del país el Presidente de la República por un tiempo no mayor de tres meses con permiso de la Asamblea Nacional, siempre que deposite el ejercicio de la Presidencia en el Vicepresidente; pero si la ausencia pasare de tres meses, cualquiera que fuera la causa, perderá el cargo por ese solo hecho, salvo que la Asamblea Nacional considere el caso de fuerza mayor y prorrogue el permiso por un tiempo prudencial.
 
 La salida del país del Presidente de la República sin autorización de la Asamblea Nacional por un período en que esta autorización fuera necesaria o por un período mayor que el autorizado se entenderá como abandono de su cargo.
 
-En  caso  de  falta  temporal  del  Presidente  de  la  República,  el Vicepresidente no podrá salir sin previa autorización de la Asamblea Nacional.  Su  salida  sin  dicha  autorización  se  entenderá  como abandono del cargo.
+En caso de falta temporal del Presidente de la República, el Vicepresidente no podrá salir sin previa autorización de la Asamblea Nacional. Su salida sin dicha autorización se entenderá como abandono del cargo.
 
-Si el Vicepresidente de la República estuviera ausente del país, y el Presidente de la República también tuviera que salir del territorio nacional en ejercicio de su cargo, las funciones administrativas las asumirá el Ministro correspondiente, según el orden de precedencia legal.
+Si el Vicepresidente de la República estuviera ausente del país, y el Presidente de la República también tuviera que salir del territorio nacional en ejercicio de su cargo, las funciones administrativas las
 
 6 4
 
 [[END OF PAGE 64]]
 
 [[START OF PAGE 65]]
+
+asumirá el Ministro correspondiente, según el orden de precedencia legal.
 
 En ningún caso podrá salir del país el Presidente de la República que tuviere causa criminal pendiente que mereciere pena más que correccional.
 
@@ -1685,13 +1733,15 @@ Por falta definitiva del Presidente de la República asumirá el cargo, por el r
 
 En caso de falta definitiva del Vicepresidente de la República, la Asamblea Nacional nombrará a quien deba sustituirlo en el cargo.
 
-Título VIII De la Organización del Estado Si faltaren definitivamente el Presidente y el Vicepresidente de la República, asumirá las funciones del primero el Presidente de la Asamblea Nacional o quien haga sus veces. La Asamblea Nacional deberá nombrar a quienes deban sustituirlo dentro de las primeras setenta y dos horas de haberse producido las vacantes. Los así nombrados ejercerán sus funciones por el resto del período.
+Título VIII De la Organización del Estado
 
 6 5
 
 [[END OF PAGE 65]]
 
 [[START OF PAGE 66]]
+
+Si faltaren definitivamente el Presidente y el Vicepresidente de la República, asumirá las funciones del primero el Presidente de la Asamblea Nacional o quien haga sus veces. La Asamblea Nacional deberá nombrar a quienes deban sustituirlo dentro de las primeras setenta y dos horas de haberse producido las vacantes. Los así nombrados ejercerán sus funciones por el resto del período.
 
 En todos los casos mencionados, la Asamblea Nacional elegirá a los sustitutos de entre sus miembros.
 
@@ -1742,23 +1792,23 @@ Título VIII De la Organización del Estado
 
 [[START OF PAGE 68]]
 
-#### Artículo 151
+- Presentar a la Asamblea Nacional el informe anual y otros informes y mensajes especiales.
 
-- Presentar  a  la  Asamblea  Nacional  el  informe  anual  y  otros informes y mensajes especiales.
-
-- Proporcionar  a  los  funcionarios  del  Poder  Judicial  el  apoyo necesario  para  hacer  efectivas  sus  providencias  sin  demora alguna.
+- Proporcionar a los funcionarios del Poder Judicial el apoyo necesario para hacer efectivas sus providencias sin demora alguna.
 
 - Las demás que le confieran esta Constitución y las leyes.
 
-El  número,  organización  y  competencia  de  los  ministerios  de Estado,  de  los  entes  autónomos  y  gubernamentales  y  de  los bancos  estatales  y  demás  instituciones  financieras  del  Estado, serán determinados por la ley. Los Ministros y Viceministros gozan de inmunidad.
+#### Artículo 151
 
-Los decretos y providencias del Presidente de la República deben ser  refrendados  por  los  Ministros  de  Estado  de  las  respectivas ramas, salvo aquellos acuerdos que se refieran a nombramiento o remoción de sus Ministros o Viceministros de Estado.
+El número, organización y competencia de los ministerios de Estado, de los entes autónomos y gubernamentales y de los bancos estatales y demás instituciones financieras del Estado, serán determinados por la ley. Los Ministros y Viceministros gozan de inmunidad.
 
-El  Consejo  de  Ministros,  será  presidido  por  el  Presidente  de  la República, y, en su defecto, por el Vicepresidente. El Consejo de Ministros  estará  integrado  por  el  Vicepresidente  de  la  República y los Ministros de Estado. Sus funciones son determinadas por la Constitución.
+Los decretos y providencias del Presidente de la República deben ser refrendados por los Ministros de Estado de las respectivas ramas, salvo aquellos acuerdos que se refieran a nombramiento o remoción de sus Ministros o Viceministros de Estado.
 
-Los  Ministros  y  Viceministros  de  Estado  y  los  Presidentes  o Directores de Entes  Autónomos o Gubernamentales, serán personalmente responsables de los actos que firmaren o autorizaren, y solidariamente de los que suscribieren o acordaren con el Presidente de la República o con los otros Ministerios de Estado.
+El Consejo de Ministros, será presidido por el Presidente de la República, y, en su defecto, por el Vicepresidente. El Consejo de Ministros estará integrado por el Vicepresidente de la República y los Ministros de Estado. Sus funciones son determinadas por la Constitución.
 
-Los  Ministros  y  Viceministros  de  Estado  y  los  Presidentes  o Directores de Entes  Autónomos o Gubernamentales proporcionarán a la Asamblea Nacional las informaciones que se les pidan relativas a los negocios de sus respectivas ramas, ya sea en forma escrita o verbal.  También pueden ser interpelados por resolución de la Asamblea Nacional.
+Los Ministros y Viceministros de Estado y los Presidentes o Directores de Entes Autónomos o Gubernamentales, serán personalmente responsables de los actos que firmaren o autorizaren, y solidariamente de los que suscribieren o acordaren con el Presidente de la República o con los otros Ministerios de Estado.
+
+Los Ministros y Viceministros de Estado y los Presidentes o Directores de Entes Autónomos o Gubernamentales proporcionarán a la Asamblea Nacional las informaciones que se les pidan relativas a los negocios de sus respectivas ramas, ya sea en forma escrita o verbal. También pueden ser interpelados por resolución de la Asamblea Nacional.
 
 68
 
@@ -1804,25 +1854,25 @@ Título VIII De la Organización del Estado
 
 [[START OF PAGE 70]]
 
-#### Artículo 156
-
-los bienes y recursos del Estado.  Para dirigirla créase el Consejo Superior  de  la  Contraloría  General  de  la  República,  que  estará integrado por cinco miembros propietarios y tres suplentes, electos por la Asamblea Nacional para un período de cinco años, dentro del cual gozarán de inmunidad.  Las funciones de los miembros suplentes  son  para  suplir  única  y  exclusivamente  las  ausencias temporales de los miembros propietarios, quienes la ejercerán por previa escogencia del miembro propietario a quien sustituyan.
+los bienes y recursos del Estado. Para dirigirla créase el Consejo Superior de la Contraloría General de la República, que estará integrado por cinco miembros propietarios y tres suplentes, electos por la Asamblea Nacional para un período de cinco años, dentro del cual gozarán de inmunidad. Las funciones de los miembros suplentes son para suplir única y exclusivamente las ausencias temporales de los miembros propietarios, quienes la ejercerán por previa escogencia del miembro propietario a quien sustituyan.
 
 #### Artículo 155
+
 Corresponde a la Contraloría General de la República:
 
-- Establecer  el  sistema  de  control  que  de  manera  preventiva asegure el uso debido de los fondos gubernamentales.
+- Establecer el sistema de control que de manera preventiva asegure el uso debido de los fondos gubernamentales.
 
 - El control sucesivo sobre la gestión del Presupuesto General de la República.
 
-- El  control,  examen  y  evaluación  de  la  gestión  administrativa y financiera de los entes públicos, los subvencionados por el Estado y las empresas públicas o privadas con participación de capital público.
+- El control, examen y evaluación de la gestión administrativa y financiera de los entes públicos, los subvencionados por el Estado y las empresas públicas o privadas con participación de capital público.
+
+#### Artículo 156
 
 La Contraloría General de la República es un organismo independiente, sometido solamente al cumplimiento de la Constitución y las leyes; gozará de autonomía funcional y administrativa. La Asamblea Nacional autorizará auditorías sobre su gestión.
 
-La  Contraloría  deberá  hacer  públicos  los  resultados  de  sus investigaciones y cuando de los mismos se presumieran responsabilidades  penales  deberá  enviar  su  investigación  a  los tribunales  de  Justicia,  bajo  el  apercibimiento  de  encubridor  si no  lo  hiciera,  de  los  delitos  que  posteriormente  se  determinara cometieron los investigados.
+La Contraloría deberá hacer públicos los resultados de sus investigaciones y cuando de los mismos se presumieran responsabilidades penales deberá enviar su investigación a los tribunales de Justicia, bajo el apercibimiento de encubridor si no lo hiciera, de los delitos que posteriormente se determinara cometieron los investigados.
 
-El Presidente y Vicepresidente del Consejo  Superior de la Contraloría  General  de  la  República  serán  elegidos  por  los miembros del Consejo Superior de entre ellos mismos, por mayoría de votos y por el período de un año, pudiendo ser reelectos.  El Presidente del Consejo Superior de la Contraloría General de la República o quien éste designe de entre los Miembros del Consejo,
-#### Artículo 157
+El Presidente y Vicepresidente del Consejo Superior de la Contraloría General de la República serán elegidos por los miembros del Consejo Superior de entre ellos mismos, por mayoría de votos y por el período de un año, pudiendo ser reelectos. El Presidente del Consejo Superior de la Contraloría General de la República o quien éste designe de entre los Miembros del Consejo,
 
 7 0
 
@@ -1830,29 +1880,33 @@ El Presidente y Vicepresidente del Consejo  Superior de la Contraloría  General
 
 [[START OF PAGE 71]]
 
-#### Artículo 158
-
-#### Artículo 159
-
-#### Artículo 160
-
 informará de la gestión del organismo a la Asamblea Nacional cada año o cuando ésta lo solicite; este acto lo realizará personalmente el Presidente o el designado.
+
+#### Artículo 157
 
 La ley determinará la organización y funcionamiento de la Contraloría General de la República.
 
 ### CAPÍTULO V Poder Judicial
 
-La  justicia  emana  del  pueblo  y  será  impartida  en  su  nombre  y delegación por el Poder Judicial, integrado por los Tribunales de Justicia que establezca la ley.
+#### Artículo 158
 
-Los Tribunales de Justicia forman un sistema unitario cuyo órgano superior es la Corte Suprema de Justicia. El Poder Judicial recibirá no menos del 4% del Presupuesto General de la República. Habrá Tribunales de Apelación, jueces de Distrito, jueces Locales, cuya organización  y  funcionamiento  será  determinado  por  la  ley.  Se establece la carrera judicial que será regulada por la ley.
+La justicia emana del pueblo y será impartida en su nombre y delegación por el Poder Judicial, integrado por los Tribunales de Justicia que establezca la ley.
 
-Las  facultades  jurisdiccionales  de  juzgar  y  ejecutar  lo  juzgado corresponden  exclusivamente  al  Poder  Judicial.  Los  Tribunales militares sólo conocerán las faltas y delitos estrictamente militares, sin perjuicio de las instancias y recursos ante la Corte Suprema de Justicia.
+#### Artículo 159
+
+Los Tribunales de Justicia forman un sistema unitario cuyo órgano superior es la Corte Suprema de Justicia. El Poder Judicial recibirá no menos del 4% del Presupuesto General de la República. Habrá Tribunales de Apelación, jueces de Distrito, jueces Locales, cuya organización y funcionamiento será determinado por la ley. Se establece la carrera judicial que será regulada por la ley.
+
+Las facultades jurisdiccionales de juzgar y ejecutar lo juzgado corresponden exclusivamente al Poder Judicial. Los Tribunales militares sólo conocerán las faltas y delitos estrictamente militares, sin perjuicio de las instancias y recursos ante la Corte Suprema de Justicia.
+
+#### Artículo 160
 
 La administración de la justicia garantiza el principio de la legalidad; protege y tutela los derechos humanos, y garantiza el acceso a la justicia mediante la aplicación de la ley en los asuntos o procesos de su competencia.
 
 La administración de justicia reconoce la participación ciudadana a través de los líderes tradicionales de los pueblos originarios de la Costa Caribe y los Facilitadores Judiciales en todo el país, como métodos alternos de acceso a la justicia y resolución alterna de conflictos, todo de conformidad con la ley.
 
-Título VIII De la Organización del Estado Se  crea  la  Jurisdicción  de  lo  Contencioso-Administrativa  para examinar la legalidad ordinaria en las demandas de tipo general o de tipo particular que presenten los administrados en contra de todos los actos, resoluciones, disposiciones generales, omisiones o simples vías de hecho de la Administración Pública.
+Se crea la Jurisdicción de lo Contencioso-Administrativa para examinar la legalidad ordinaria en las demandas de tipo general o de tipo particular que presenten los administrados en contra de todos los actos, resoluciones, disposiciones generales, omisiones o simples vías de hecho de la Administración Pública.
+
+Título VIII De la Organización del Estado
 
 7 1
 
@@ -1887,15 +1941,15 @@ Para ser Magistrado de los Tribunales de Justicia se requiere:
 
 #### Artículo 162
 
-#### Artículo 163
-
 El período de los Magistrados de la Corte Suprema de Justicia será de cinco años. Únicamente podrán ser separados de sus cargos por las causas previstas en la Constitución y la ley. Los Magistrados de la Corte Suprema de Justicia gozan de inmunidad.
 
-La  Corte  Suprema  de  Justicia  estará  integrada  por  dieciséis Magistrados electos por la Asamblea Nacional, por un período de cinco años.
+#### Artículo 163
 
-La Corte Suprema de Justicia se integrará en Salas, que estarán conformadas con un número no menor de tres Magistrados cada una, por períodos de dos años y medio, siendo éstas: Constitucional, Civil,  Penal  y  de  lo  Contencioso-  Administrativa  y  las  otras  que determine la Ley, cuya organización e integración se acordará entre los mismos Magistrados, conforme lo estipula la Ley de la materia, los Magistrados que integren cada Sala elegirán, por mayoría de votos de entre ellos, a su Presidente por un período de dos años y medio.
+La Corte Suprema de Justicia estará integrada por dieciséis Magistrados electos por la Asamblea Nacional, por un período de cinco años.
 
-La Corte Plena conocerá y resolverá los recursos por inconstitucionalidad, los conflictos de competencias y constitucionalidad  entre  Poderes  del  Estado  y  los  conflictos  de constitucionalidad, entre el gobierno central y los  gobiernos municipales y de las Regiones Autónomas de la Costa Caribe.
+La Corte Suprema de Justicia se integrará en Salas, que estarán conformadas con un número no menor de tres Magistrados cada una, por períodos de dos años y medio, siendo éstas: Constitucional, Civil, Penal y de lo Contencioso- Administrativa y las otras que determine la Ley, cuya organización e integración se acordará entre los mismos Magistrados, conforme lo estipula la Ley de la materia, los Magistrados que integren cada Sala elegirán, por mayoría de votos de entre ellos, a su Presidente por un período de dos años y medio.
+
+La Corte Plena conocerá y resolverá los recursos por inconstitucionalidad, los conflictos de competencias y constitucionalidad entre Poderes del Estado y los conflictos de constitucionalidad, entre el gobierno central y los gobiernos municipales y de las Regiones Autónomas de la Costa Caribe.
 
 La Asamblea Nacional nombrará ocho Conjueces. Estos Conjueces serán llamados a integrar Corte Plena, cualquiera de las Salas o el Consejo Nacional de Administración y Carrera Judicial, cuando se produjera ausencia, excusa, implicancia o recusación de cualquiera de los Magistrados.
 
@@ -1992,35 +2046,35 @@ Título VIII De la Organización del Estado
 
 #### Artículo 166
 
-#### Artículo 167
-
-#### Artículo 168
-
-#### Artículo 169
-
-#### Artículo 170
-
-#### Artículo 171
-
 Los Magistrados y Jueces en su actividad judicial, son independientes y sólo deben obediencia a la Constitución y a la ley; se regirán entre otros, por los principios de igualdad, celeridad y derecho a la defensa. La justicia en Nicaragua es gratuita y pública.
 
-La  administración  de  justicia  se  organizará  y  funcionará  con participación popular que será determinada por las leyes.
+La administración de justicia se organizará y funcionará con participación popular que será determinada por las leyes.
+
+#### Artículo 167
 
 Los fallos y resoluciones de los Tribunales y Jueces son de ineludible cumplimiento para las autoridades del Estado, las organizaciones y las personas naturales y jurídicas afectadas.
 
 ### CAPÍTULO VI Poder Electoral
 
+#### Artículo 168
+
 Al Poder Electoral corresponde en forma exclusiva la organización, dirección y vigilancia de las elecciones, plebiscitos y referendos.
+
+#### Artículo 169
 
 El Poder Electoral está integrado por el Consejo Supremo Electoral y demás organismos electorales subordinados.
 
-El  Consejo  Supremo Electoral  estará  integrado  por  siete  Magistrados propietarios y tres suplentes, elegidos por la Asamblea Nacional, de conformidad con las disposiciones contenidas en el numeral 8) del artículo 138.
+#### Artículo 170
 
-Los  miembros  del  Consejo  Supremo  Electoral  elegirán  de  entre ellos al Presidente y Vicepresidente del mismo. Su período será de un año, pudiendo ser reelegido.
+El Consejo Supremo Electoral estará integrado por siete Magistrados propietarios y tres suplentes, elegidos por la Asamblea Nacional, de conformidad con las disposiciones contenidas en el numeral 8) del artículo 138.
+
+Los miembros del Consejo Supremo Electoral elegirán de entre ellos al Presidente y Vicepresidente del mismo. Su período será de un año, pudiendo ser reelegido.
+
+#### Artículo 171
 
 Para ser Magistrado del Consejo Supremo Electoral se requiere:
 
-- Ser  nacional  de  Nicaragua.  En  el  caso  de  quien  hubiere adquirido otra nacionalidad deberá haber renunciado a ella al menos cuatro años antes de ser electo para el cargo.
+- Ser nacional de Nicaragua. En el caso de quien hubiere adquirido otra nacionalidad deberá haber renunciado a ella al menos cuatro años antes de ser electo para el cargo.
 
 - Estar en pleno goce de sus derechos civiles y políticos.
 
@@ -2096,22 +2150,21 @@ Título VIII De la Organización del Estado
 
 [[START OF PAGE 80]]
 
-#### Artículo 175
-
 14. Las demás que le confieran la Constitución y las leyes.
 
 De las resoluciones del Consejo Supremo en materia electoral no habrá recurso alguno, ordinario ni extraordinario.
 
 #### Artículo 174
-Los  Magistrados  del  Consejo  Supremo  Electoral,  propietarios  y suplentes, tomarán posesión de sus cargos ante el Presidente de
 
-la Asamblea Nacional, previa promesa de ley.
+Los Magistrados del Consejo Supremo Electoral, propietarios y suplentes, tomarán posesión de sus cargos ante el Presidente de la Asamblea Nacional, previa promesa de ley.
 
 ## TÍTULO IX División político administrativa
 
 ### CAPÍTULO I De los municipios
 
-El territorio nacional se dividirá para su administración, en Departamentos,  Regiones  Autónomas  de  la  Costa  Caribe  y Municipios.  Las  leyes  de  la  materia  determinarán  su  creación, extensión,  número, organización, estructura y funcionamiento de las diversas circunscripciones territoriales.
+#### Artículo 175
+
+El territorio nacional se dividirá para su administración, en Departamentos, Regiones Autónomas de la Costa Caribe y Municipios. Las leyes de la materia determinarán su creación, extensión, número, organización, estructura y funcionamiento de las diversas circunscripciones territoriales.
 
 #### Artículo 176
 El Municipio es la unidad base de la división política administrativa del país.
@@ -2150,13 +2203,15 @@ Para ser Alcalde, se requerirá de las siguientes cualidades:
 
 - Haber  residido  o  trabajado  de  forma  continuada  en  el  país los cuatro años anteriores a la elección, salvo que cumpliere misiones  diplomáticas  o  estudios  en  el  extranjero;  además, haber residido de forma continuada los dos últimos años en el municipio por el cual se pretende salir electo.
 
-Título IX División político administrativa El  Alcalde,  el  Vicealcalde  y  los  Concejales,  podrán  perder  su condición por las siguientes causas:
+Título IX División político administrativa
 
 8 1
 
 [[END OF PAGE 81]]
 
 [[START OF PAGE 82]]
+
+El Alcalde, el Vicealcalde y los Concejales, podrán perder su condición por las siguientes causas:
 
 - Renuncia del cargo.
 
@@ -2193,7 +2248,7 @@ El  Estado  promoverá  el  desarrollo  integral  y  armónico  de  las diversas
 
 #### Artículo 180
 
-Las comunidades de la Costa Caribe tienen el derecho inalienable de  vivir  y  desarrollarse  bajo  la  forma  de  organización  políticoadministrativa, social y cultural que corresponde a sus tradiciones históricas y culturales.
+Las comunidades de la Costa Caribe tienen el derecho inalienable de vivir y desarrollarse bajo la forma de organización político-administrativa, social y cultural que corresponde a sus tradiciones históricas y culturales.
 
 Los  miembros  de  los  Consejos  Regionales  Autónomos  serán elegidos por el pueblo mediante el sufragio universal, igual, directo, libre y secreto por un período de cinco años, de conformidad con la ley.
 
@@ -2365,11 +2420,11 @@ Derogado
 
 #### Artículo 202
 
-Los  autógrafos  de  esta  Constitución  serán  firmados  en  cuatro ejemplares por el Presidente y los Representantes ante la Asamblea Nacional  y  por  el  Presidente  de  la  República.  Se  guardarán  en la  Presidencia de la Asamblea Nacional, en la Presidencia de la República,  en  la  Presidencia  de  la  Corte  Suprema  de  Justicia  y en la Presidencia del Consejo Supremo Electoral, y cada uno de ellos se tendrá como texto auténtico de la Constitución Política de Nicaragua. El Presidente de la República la hará publicar en La Gaceta, Diario Oficial.'
+Los autógrafos de esta Constitución serán firmados en cuatro ejemplares por el Presidente y los Representantes ante la Asamblea Nacional y por el Presidente de la República. Se guardarán en la Presidencia de la Asamblea Nacional, en la Presidencia de la República, en la Presidencia de la Corte Suprema de Justicia y en la Presidencia del Consejo Supremo Electoral, y cada uno de ellos se tendrá como texto auténtico de la Constitución Política de Nicaragua. El Presidente de la República la hará publicar en La Gaceta, Diario Oficial.”
 
-Dado en la Sala de Sesiones de la Asamblea Nacional, en la ciudad de Managua, a los diez y nueve días del mes de noviembre de mil novecientos ochenta y seis en lo referente a los artículos que no han sido modificados del texto aprobado por la Asamblea Nacional con funciones Constituyentes y que entró en vigencia el nueve de enero del año mil novecientos ochenta y siete al publicarse en La Gaceta, Diario Oficial No. 5 de la misma fecha, y por haberse ordenado la incorporación de las reformas en el artículo Quincuagésimo de la Ley No. 854, 'Ley de Reforma Parcial a la Constitución Política de la República de Nicaragua', aprobada el veintinueve de enero del año dos mil catorce, publicada en La Gaceta, Diario Oficial No. 26 del  diez  de  febrero  del  mismo  año,  se  incorporan  las  siguientes reformas a la Constitución Política:
+Dado en la Sala de Sesiones de la Asamblea Nacional, en la ciudad de Managua, a los diez y nueve días del mes de noviembre de mil novecientos ochenta y seis en lo referente a los artículos que no han sido modificados del texto aprobado por la Asamblea Nacional con funciones Constituyentes y que entró en vigencia el nueve de enero del año mil novecientos ochenta y siete al publicarse en La Gaceta, Diario Oficial No. 5 de la misma fecha, y por haberse ordenado la incorporación de las reformas en el artículo Quincuagésimo de la Ley No. 854, “Ley de Reforma Parcial a la Constitución Política de la República de Nicaragua”, aprobada el veintinueve de enero del año dos mil catorce, publicada en La Gaceta, Diario Oficial No. 26 del diez de febrero del mismo año, se incorporan las siguientes reformas a la Constitución Política:
 
-- Modificación a los artículos 1, 28, 33, 42, 44, 51, 56, 68, 71, 94, 96, 99, 104, 106, 107, 112, 113, 114, 121, 125, 132, 136, 140, 141, 142, 144, 145, 148, 149, 151, 155, 156, 159, 171, 172, 175, 176, 177, 181, 185 y el cambio de denominación de los  integrantes  de  la Asamblea  Nacional,  de  Representantes a Diputados contenidos en la Ley No. 192, 'Ley de Reforma Parcial a la Constitución Política de la República de Nicaragua', aprobada el primero de febrero del año mil novecientos noventa y  cinco,  publicada  en  La  Gaceta,  Diario  Oficial  No.  124  del cuatro de julio del mismo año;
+- Modificación a los artículos 1, 28, 33, 42, 44, 51, 56, 68, 71, 94, 96, 99, 104, 106, 107, 112, 113, 114, 121, 125, 132, 136, 140, 141, 142, 144, 145, 148, 149, 151, 155, 156, 159, 171, 172, 175, 176, 177, 181, 185 y el cambio de denominación de los integrantes de la Asamblea Nacional, de Representantes a Diputados contenidos en la Ley No. 192, “Ley de Reforma Parcial a la Constitución Política de la República de Nicaragua”, aprobada el primero de febrero del año mil novecientos noventa y cinco, publicada en La Gaceta, Diario Oficial No. 124 del cuatro de julio del mismo año;
 
 88
 
@@ -2377,7 +2432,7 @@ Dado en la Sala de Sesiones de la Asamblea Nacional, en la ciudad de Managua, a 
 
 [[START OF PAGE 89]]
 
-- Modificaciones a los artículos 20, 133, 134, 154, 156, 170 y 171, contenidas en la Ley No. 330, 'Ley de Reforma Parcial a la Constitución Política de la República de Nicaragua', aprobada el dieciocho de enero del año dos mil y publicada en La Gaceta, Diario Oficial No. 13 del diecinueve de enero del mismo año;
+- Modificaciones a los artículos 20, 133, 134, 154, 156, 170 y 171, contenidas en la Ley No. 330, “Ley de Reforma Parcial a la Constitución Política de la República de Nicaragua”, aprobada el dieciocho de enero del año dos mil y publicada en La Gaceta, Diario Oficial No. 13 del diecinueve de enero del mismo año;
 
 - Modificación al artículo 143 contenida en la Ley No. 520, Ley de Reforma Parcial a la Constitución Política de la República de Nicaragua, aprobada el trece de enero del año dos mil cinco, publicada  en  La  Gaceta,  Diario  Oficial  No.  35  del  dieciocho de febrero del mismo año, con la corrección publicada en La Gaceta, Diario Oficial No. 97 del 23 de mayo del año dos mil ocho;
 
@@ -2385,7 +2440,7 @@ Dado en la Sala de Sesiones de la Asamblea Nacional, en la ciudad de Managua, a 
 
 - Modificación al artículo 68, contenida en la Ley No. 527, Ley de Reformas Parcial de la Constitución Política, aprobada el quince de enero del año dos mil cinco, publicada en La Gaceta, Diario Oficial No. 68 del ocho de abril del mismo año;
 
-- Modificaciones a los artículos 2, 4, 5, 6, 7, 10, 26, 34, 45, 50, 60, 70, 92, 93, 95, 97, 98, 99, 100, 101, 102, 103, 105, 130, 131, 138, 146, 147, 150, 152, 160, 161, 162, 163, 164, 165, 166, 173, 178, 196; en el preámbulo, en las evocaciones se adicionan  las  referencias:  'Al  Prócer  de  la  Independencia Cultural de la Nación, Poeta Universal Rubén Darío', 'Al Mártir de  la  Libertades  Públicas,  Doctor  Pedro  Joaquín  Chamorro Cardenal' y 'Al Cardenal de la Paz y la Reconciliación, Cardenal Miguel Obando y Bravo', el cambio de denominación de 'Costa Atlántica'  a  'Costa  Caribe',  cambio  de  nombre  al  Título  XI, contenidas en la Ley No. 854, 'Ley de Reforma Parcial a la Constitución Política de la República de Nicaragua', aprobada el veintinueve de enero del año dos mil catorce, publicada en La Gaceta, Diario Oficial No. 26 del diez de febrero del mismo año.
+- Modificaciones a los artículos 2, 4, 5, 6, 7, 10, 26, 34, 45, 50, 60, 70, 92, 93, 95, 97, 98, 99, 100, 101, 102, 103, 105, 130, 131, 138, 146, 147, 150, 152, 160, 161, 162, 163, 164, 165, 166, 173, 178, 196; en el preámbulo, en las evocaciones se adicionan las referencias: “Al Prócer de la Independencia Cultural de la Nación, Poeta Universal Rubén Darío”, “Al Mártir de la Libertades Públicas, Doctor Pedro Joaquín Chamorro Cardenal” y “Al Cardenal de la Paz y la Reconciliación, Cardenal Miguel Obando y Bravo”, el cambio de denominación de “Costa Atlántica” a “Costa Caribe”, cambio de nombre al Título XI, contenidas en la Ley No. 854, “Ley de Reforma Parcial a la Constitución Política de la República de Nicaragua”, aprobada el veintinueve de enero del año dos mil catorce, publicada en La Gaceta, Diario Oficial No. 26 del diez de febrero del mismo año.
 
 Título XI Disposiciones finales
 
@@ -2399,7 +2454,7 @@ De conformidad con lo dispuesto en el párrafo octavo del artículo 141 de la Co
 
 Dado en la ciudad de Managua, Sede del Poder Legislativo, a los diez días del mes de febrero del año dos mil catorce. Ing. René Núñez  Téllez.-  Presidente  de  la  Asamblea  Nacional.-  Lic.  Alba Palacios Benavidez.- Secretaria de la Asamblea Nacional.
 
-El  texto  anterior  es  conforme  con  el  de  los  autógrafos  y  la publicación de los mismos en La Gaceta, Diario Oficial N o . 32 del 18 de febrero de 2014.
+El texto anterior es conforme con el de los autógrafos y la publicación de los mismos en La Gaceta, Diario Oficial No. 32 del 18 de febrero de 2014.
 
 9 0
 
