@@ -181,7 +181,8 @@ WAEC | West African Examinations Council
 WASSCE | West Africa Senior School Certificate Examination
 WATSAN | Water and Sanitation
 WB | World Bank
-WFP WHO | World Food Programme World Health Organisation
+WFP | World Food Programme
+WHO | World Health Organisation
 
 iv
 
@@ -191,21 +192,62 @@ iv
 
 # TABLE OF CONTENTS
 
-i
+Vision and Mission ........................................................................................................ i
+List of Abbreviations .................................................................................................... ii
+Table of Contents .......................................................................................................... v
+Foreword ...................................................................................................................... vii
+Acknowledgements ....................................................................................................... viii
+Executive Summary ...................................................................................................... x
 
-ii
+Section I – Preliminaries
+Section Introduction ..................................................................................................... 2
+Chapter 1. Background and Context ............................................................................ 3
+Chapter 2. Key Legislations, Policies and Players in Education ................................. 10
 
-v
+Section II – The Plan Details
+Section Introduction ..................................................................................................... 16
+Chapter 3. Coverage, Framework, Areas of Focus and Baseline Statistics ................. 17
+Chapter 4. Achieving UPE and UPC of Quality ........................................................... 22
+Chapter 5. Expanding and Improving Post-Primary Schooling ................................... 39
+Chapter 6.Providing More and Improved Literacy and Skills Training ....................... 61
+Chapter 7. Meeting the Teacher Needs of an Expanding Schooling System ............... 69
+Chapter 8. Meeting our Human Resources Needs through Higher Education ............ 77
+Chapter 9. Providing Early Childhood Care and Pre-school Opportunities for More Children ....................................................................................................................... 85
+Chapter 10. Providing Improved Governance, Planning, Management and Leadership ................................................................................................................... 93
+Chapter 11. Monitoring for Quality Improvement and Accountability ....................... 100
+Chapter 12. Cost of Choices, their Financing and Fiscal Sustainability ..................... 105
 
-2
-
-3
+Section III – Looking Forward
+Chapter 13. Monitoring and Tracking the ESP ............................................................ 115
+Chapter 14. Beyond the Education Sector Plan – A Vision for the Education System .......................................................................................................................... 120
 
 v
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+Annexes
+Annex 1 Names and Areas of Coverage of Writers ...................................................... 127
+Annex 2a Consultative Meetings (excluding those at district level) Dates and Venues .......................................................................................................................... 129
+Annex 2b List of Ministries Consulted in the Formulation of the ESP ........................ 131
+Annex 2c List of other Government and Quasi-Government Committees/ Organisations Consulted .............................................................................................. 131
+Annex 2d Contact List of Main Local Organisations Consulted .................................. 131
+Annex 2e List of Districts Consulted ............................................................................ 132
+Annex 2f Contact List of Main Agencies Consulted ..................................................... 132
+Annex 2g List of Main Entities Supporting Education in Sierra Leone as of March 2007 .............................................................................................................................. 133
+Annex 3. District Consultative Meetings – Summary Report ....................................... 134
+Annex 4 Actions Already Taken by MEST to Address Gender Disparity Issues ......... 137
+Annex 5 Actions Already taken by MEST to Mitigate the Impact of HIV/AIDS on Education ...................................................................................................................... 138
+Annex 6 Some Key Primary Level Statistics / Numbers .............................................. 139
+    Table 1 2004 School Attendance Profile of 6 to 11 year Olds by Sex ....................... 139
+    Table 2 Year 2004 National NIR and GIR for Class (Grade) 1 ................................ 139
+    Table 3 Primary Level NER and GER by Sex, Region and LGA – 2003/04 ............ 139
+    Table 4 Primary Level Gross Completion Rates by Region, LGA and Sex ............... 140
+    Figure 1 Primary School Enrolment Trends 1987/88 – 2004/05 .............................. 140
+Annex 7 Commitments for Education and General Budget Support to Sierra Leone 2000-04 ......................................................................................................................... 141
+
+References .................................................................................................................... 142
 
 vi
 
@@ -251,7 +293,7 @@ Given below are the names of just a fraction of those to whom we should give our
 
 We start  by  acknowledging  the  significant  role  played  by  Dr.  Alpha  T.  Wurie,  Minister  of  Education, Science and Technology and the Government of Sierra Leone. The support provided by UNICEF, under the capable leadership of Geert Cappelaere, together with other in-country donors such as DFID, EC, Irish  Aid,  JICA,  UNESCO,  WFP,  and  the  World  Bank  also  deserve  a  worthy  mention.  In  fact  the financial and technical support provided by UNICEF in order to augment that provided by the GOSL made possible the completion of this Sector Plan in such a relatively short period of time. The support provided  by  the  World  Bank  through  the  EPDF  and  in  the  person  of  Eunice  Dapaah,  Task  Team Manager for the Rehabilitation of Basic Education Project also warrants a special mention.
 
-Being supporting partners to government  in  the implementation of policy on education,  nongovernmental organisations such as Action Aid, Catholic Relief Services (CRS), CONCERN, International Rescue  Committee  (IRC),  Plan  -  Sierra  Leone,  Save  the  Children  -  UK  (SCUK),  and  Sight  Savers International, also made valuable comments on the initial draft of this document.
+Being supporting partners to government  in  the implementation of policy on education,  non-governmental organisations such as Action Aid, Catholic Relief Services (CRS), CONCERN, International Rescue  Committee  (IRC),  Plan  -  Sierra  Leone,  Save  the  Children  -  UK  (SCUK),  and  Sight  Savers International, also made valuable comments on the initial draft of this document.
 
 Successful  implementation  of  this  Plan  requires  the  support  and  co-operation  of  many  different Ministries. It is for this reason that individual and/or group consultations were held with the Ministries of Agriculture, Development and Economic Planning, Finance, Health, Information, Labour and Employment,  Local  Government,  Social  Welfare,  Gender  and  Children's  Affairs,  Transport  and Communications,  Works,  Housing  and  Technical  Maintenance  and  Youths  and  Sports.  The  level  of participation  and  willingness  to  partner  shown  by  many  of  these  ministries  during  consultations  bodes well for the future.
 
@@ -269,7 +311,7 @@ viii
 
 [[START OF PAGE 10]]
 
-Dr.Dele Sannoh, Prof. S. P.T. Gbamanja, Prof. Amy E. Joof, Mr. Henry B. Fyfe, Mr. Samuel E. Johnson, Dr.  Dalton  F.  Faulkner,  Mr.  John  A.  Swarray,  Mr.  Mohamed  B.  Lamin,  Ms.  Agnes  J.  S.  Pessima,  Mr. Raymond Bob Katta, Mrs. Ophelia Morrison, Dr. T. B. R. Yormah, Dr. Sullay Kamara, Mr. Michael A. Renner, Mrs. Blanche Macauley, Dr. Raymond G. Johnson, Dr. Reynold G. Johnson, Mrs. Shirley RogersWright, Mr. Gabriel Sellu, Mr. Abdulai Konjoh, Mr. Umaru A. Bah, Mrs. Margaret Manley, Mrs. Dolly Martyn,  Ms.  Daphne  Thompson-Clewry,  Mr.  Nathaniel  A.  Pearce,  Mr.  Simeon  B.  Labor,  Mrs.  Elfrida Scott, Dr. Victor E. A. Kabia, Mrs. Magaret Nelson-Williams, Mrs. Grace Fullah, Mr. Mohamed A. Jalloh, Dr.  Jeanne  B.  Harding,  Dr.  Josie  Beckley,  Mr.  Jonathan  Kpakiwa,  Mr.  Alhassan  Mansaray,  Mr.  Sonnia Magba  Jabbie,  Dr.  Beresford  M.  Davies,  Mr.  Claudius  Wilson,  Rev.  Llewellyn  Rogers-Wright,  Prof. (Assoc.) Jonas A. S. Redwoode-Sawyerr and Prof. Alghali.
+Dr.Dele Sannoh, Prof. S. P.T. Gbamanja, Prof. Amy E. Joof, Mr. Henry B. Fyfe, Mr. Samuel E. Johnson, Dr.  Dalton  F.  Faulkner,  Mr.  John  A.  Swarray,  Mr.  Mohamed  B.  Lamin,  Ms.  Agnes  J.  S.  Pessima,  Mr. Raymond Bob Katta, Mrs. Ophelia Morrison, Dr. T. B. R. Yormah, Dr. Sullay Kamara, Mr. Michael A. Renner, Mrs. Blanche Macauley, Dr. Raymond G. Johnson, Dr. Reynold G. Johnson, Mrs. Shirley Rogers-Wright, Mr. Gabriel Sellu, Mr. Abdulai Konjoh, Mr. Umaru A. Bah, Mrs. Margaret Manley, Mrs. Dolly Martyn,  Ms.  Daphne  Thompson-Clewry,  Mr.  Nathaniel  A.  Pearce,  Mr.  Simeon  B.  Labor,  Mrs.  Elfrida Scott, Dr. Victor E. A. Kabia, Mrs. Magaret Nelson-Williams, Mrs. Grace Fullah, Mr. Mohamed A. Jalloh, Dr.  Jeanne  B.  Harding,  Dr.  Josie  Beckley,  Mr.  Jonathan  Kpakiwa,  Mr.  Alhassan  Mansaray,  Mr.  Sonnia Magba  Jabbie,  Dr.  Beresford  M.  Davies,  Mr.  Claudius  Wilson,  Rev.  Llewellyn  Rogers-Wright,  Prof. (Assoc.) Jonas A. S. Redwoode-Sawyerr and Prof. Alghali.
 
 The areas handled by the above are given in Annex 1.
 
@@ -309,7 +351,7 @@ The major strategies which address the above challenges and form the backbone of
 
 - directly tackling the problem of out-of-school children with targeted responses which break down the  barriers  preventing  children  from  going  to  school  and  thereby  reach  those  disadvantaged children who have special needs, come from underserved rural areas or live in extreme poverty
 
-- supporting post-primary education as a linchpin for the education sector and society as a whole since post-primary education produces skilled personnel and technicians such as administrators, qualified teachers and female role models essential for the healthy development of the nation
+- supporting post-primary education as a linchpin for the education sector and society as a whole – since post-primary education produces skilled personnel and technicians such as administrators, qualified teachers and female role models essential for the healthy development of the nation
 
 - making increased provisions for literacy and skills training, including the establishment of a book policy
 
@@ -319,7 +361,7 @@ The major strategies which address the above challenges and form the backbone of
 
 - improving on quality, mobilizing and making effective use of resources, including the promotion of public-private partnerships and cost recovery, at the tertiary level
 
-In order to achieve UPE by 2015 the GOSL intends expanding facilities to cater not only for the out-ofschool  children  being  attracted  into  school  but  also  for  anticipated  changes  in  enrolment  due  to  an increasingly positive attitude towards schooling. As the GOSL intends achieving UPE of quality it  will upgrade existing facilities, provide textbooks and teaching/learning materials and increase the number of teachers.
+In order to achieve UPE by 2015 the GOSL intends expanding facilities to cater not only for the out-of-school  children  being  attracted  into  school  but  also  for  anticipated  changes  in  enrolment  due  to  an increasingly positive attitude towards schooling. As the GOSL intends achieving UPE of quality it  will upgrade existing facilities, provide textbooks and teaching/learning materials and increase the number of teachers.
 
 x
 
@@ -331,23 +373,25 @@ Ongoing consultations will continue with stakeholders during ESP implementation 
 
 During  ESP  implementation  much  attention  will  be  given  to  capacity  building,  this  will  include  in particular capacity building of the District Education Offices and divisions and units such as the Gender Unit of MEST. All divisions and units will be suitably strengthened to allow them to carry out their work well and properly.
 
-In order to ensure achievement of UPE, MEST will take all actions to get the many children still not going to school in-spite of the government's policy of free primary education to do so. More data is needed on vulnerable children, disadvantaged groups and household expenditures especially in remote and hard-toreach rural areas. Amongst other things, MEST will, in collaboration with its partners, develop specific and relevant indicators to protect and monitor the rights of all vulnerable children who have special needs, come  from  underserved  rural  areas  or  live  in  extreme  poverty.  The  Plan  proposes  child  protection through eradication of those activities that result in the exploitation of children and which at the same time prevents them from enjoying their right to education.
+In order to ensure achievement of UPE, MEST will take all actions to get the many children still not going to school in-spite of the government's policy of free primary education to do so. More data is needed on vulnerable children, disadvantaged groups and household expenditures especially in remote and hard-to-reach rural areas. Amongst other things, MEST will, in collaboration with its partners, develop specific and relevant indicators to protect and monitor the rights of all vulnerable children who have special needs, come  from  underserved  rural  areas  or  live  in  extreme  poverty.  The  Plan  proposes  child  protection through eradication of those activities that result in the exploitation of children and which at the same time prevents them from enjoying their right to education.
 
 The  level  of  support  proposed  for  post-primary  education  in  the  ESP  is  because  of  its  importance  in providing the skills and human capital required for building up the education sector and developing the country as a whole. Post-primary education is especially needed in the aftermath of the war since many qualified Sierra Leoneans have been killed or left the country as a result of the conflict. The existence of post-primary education is a strong motivating factor for children to complete primary school and climb the  education  ladder.  The  ESP  prioritizes  the  rehabilitation  and  building  of  secondary  classrooms, improvement in the quality JSS education and support for girls to enter and complete secondary school.
 
-Committees  chaired  by  the  appropriate  head  will  be  established  for  each  of  the  sub-sectors  in  postprimary  education  (JSS,  SSS,  TVET  and  higher)  and  these  committees  will  work  with  the  ESP  Coordinator and be responsible for overseeing the development, implementation and monitoring of action plans within the sub-sector and for proposing new policies and policy changes.
+Committees  chaired  by  the  appropriate  head  will  be  established  for  each  of  the  sub-sectors  in  post-primary  education  (JSS,  SSS,  TVET  and  higher)  and  these  committees  will  work  with  the  ESP  Co-ordinator and be responsible for overseeing the development, implementation and monitoring of action plans within the sub-sector and for proposing new policies and policy changes.
 
 As  indicated  earlier,  the  ESP  prioritizes  both  institutional  and  individual  capacity  building  since  the capacity needs of the education sector are great at each and every level. Without adequate capacity, the various stakeholders cannot provide an education system of good quality and inputs will be ineffective. Capacity  is  needed  at  the  central  level  so  that  appropriate  policies  are  established  and  education programmes can be planned and properly budgeted for. Capacity is needed at the district level so that funds  can  be  effectively  channelled  and  distributed  and  the  use  of  these  funds  can  be  monitored  and evaluated. Capacity is needed at school level to ensure that schools are well managed, learning takes place and resources are used efficiently.
 
 The MEST decentralisation focal point will continue to liaise with the Decentralization Secretariat so that decentralised roles are clarified while responsibilities are being devolved. MEST and the Ministry of Local Government  will  agree  on  a  strategy  and  ensure  training  for  the  Education  Committee  of  each  local council. Training organised for School Management Committees concerning their roles and responsibilities in governance and support of schools will continue. At the central level, MEST officials will receive appropriate training in the management of education programmes. Capacity of MEST officials will  be  further  enhanced  through  provision  of  necessary  office  facilities,  logistics  and  communication support.
 
-Good quality data is essential for all the planned ESP activities mentioned above. Although data exists from a variety of sources they are often inconsistent and of variable quality. Since reliable data is key to MEST's planning, monitoring and accounting functions, the ESP prioritises the ongoing establishment of an Education Management Information System (EMIS) Unit which will organise the collection of credible and reliable data on all aspects of education and be responsible for its analysis and dissemination. In this regard, a school census will be conducted and data on education outcomes and quality will be collected every year in collaboration with SSL. The training of Inspectors and supervisors who in turn will pass on their knowledge to school heads and teachers has already started. MEST sees monitoring, accounting and data  collection  as  a  responsibility  of  all  stakeholders.  The  community  can  play  an  important  role  in monitoring  school  attendance,  identifying  out-of-school  children  and  raising  the  alarm  bell  when necessary. In a decentralized system the districts will be expected to provide timely accurate information on the core education indicators -   essential information for MEST and the in-country donors to track progress towards the ESP's intended goals. Monitoring of the Education Sector Plan is a vital component of the ESP and MEST will ensure that this function is performed rigorously and transparently.
+Good quality data is essential for all the planned ESP activities mentioned above. Although data exists from a variety of sources they are often inconsistent and of variable quality. Since reliable data is key to MEST's planning, monitoring and accounting functions, the ESP prioritises the ongoing establishment of an Education Management Information System (EMIS) Unit which will organise the collection of credible
 
 xi
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+and reliable data on all aspects of education and be responsible for its analysis and dissemination. In this regard, a school census will be conducted and data on education outcomes and quality will be collected every year in collaboration with SSL. The training of Inspectors and supervisors who in turn will pass on their knowledge to school heads and teachers has already started. MEST sees monitoring, accounting and data collection as a responsibility of all stakeholders. The community can play an important role in monitoring school attendance, identifying out-of-school children and raising the alarm bell when necessary. In a decentralized system the districts will be expected to provide timely accurate information on the core education indicators – essential information for MEST and the in-country donors to track progress towards the ESP's intended goals. Monitoring of the Education Sector Plan is a vital component of the ESP and MEST will ensure that this function is performed rigorously and transparently.
 
 Sierra Leone's education system is in transition from post-conflict recovery to sustainable development. Expansion and upgrading of the education sector will require additional funding and more effective use of resources, given the enormous challenges which the nation faces. The government will increase the overall envelope  for  education  through  further  donor  support  -  and  through  its  own  funds  as  the  economy improves year by year. MEST will align allocations of public spending to the various sub-sectors according to the stated policies and priorities as indicated in the ESP. The GOSL will also seek alternative ways of financing  education  such  as  by  promoting  private  schools  and  universities  and  by  engaging  in  cost recovery  at  the  tertiary  level.  A  'think-tank'  in  support  of  the  Board  of  Education  and  the  Basic Education Secretariat will be established in MEST that will meet on a regular basis to look into alternative financing mechanisms, promote public-private partnerships, monitor the efficiency of MEST's operations and recommend ways of using resources more effectively.
 
@@ -359,12 +403,13 @@ The key parameters and targets of the model found to be the most realistic and s
 
 For achievement of UPE by 2015, the financing gap up to 2010 would be as shown in Figure 1.
 
-Primary Total gap (millions of current US$) | 2007 | 2008 | 2009 | 2010 | Total
---- | --- | --- | --- | --- | --- | ---
-US $ depreciation per year Total in current millions of $US | 3.0% | 18.4 | 19.1 | 20.4 | 21.3 | 79.2
-Gap for other levels on recurrent | 12.3 | 12.9 | 13.5 | 14.1 | 52.9
+Figure 1: Medium-Term (2007-10) Financing Gap for Universal Primary Education (Recurrent and Capital Costs) (millions of current US$)
 
-Figure 1:  Medium-Term (2007-10) Financing Gap for Universal Primary Education (Recurrent and Capital Costs) (millions of current US$)
+Primary Total gap (millions of current US$) |  | 2007 | 2008 | 2009 | 2010 | Total
+--- | --- | --- | --- | --- | --- | ---
+US $ depreciation per year | 3.0% |  |  |  |  |
+Total in current millions of $US |  | 18.4 | 19.1 | 20.4 | 21.3 | 79.2
+Gap for other levels on recurrent |  | 12.3 | 12.9 | 13.5 | 14.1 | 52.9
 
 In terms of recurrent costs only, the amounts involved are as shown below:
 
@@ -374,26 +419,27 @@ xii
 
 [[START OF PAGE 14]]
 
-2007 | 2008 | 2009 | 2010
+Figure 2: Medium-Term (2007-10) Financing Gap for Universal Primary Education (Recurrent Costs) (millions of constant US$ base year)
+
+ | 2007 | 2008 | 2009 | 2010 |
 --- | --- | --- | --- | --- | ---
 Primary | -10.0 | -10.4 | -10.8 | -11.0 | -42
 Other | -11.3 | -11.9 | -12.4 | -12.9 | -48
 Total | -21 | -22 | -23 | -24 | -91
 
-Figure 2: Medium-Term (2007-10) Financing Gap for Universal Primary Education (Recurrent Costs) (millions of constant US$ base year)
-
 With regard to the EFA-FTI benchmarks, the chosen scenario compares as shown below
 
 ## The Chosen Scenario and FTI Benchmarks
 
-Base Yr | YEAR
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2004 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Bench
+¹Figure 3: Recurrent Cost of Service Delivery (millions of constant Le base year)
+
+ | Base Yr | YEAR
+ | 2004 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Bench
 Recurrent cost of service delivery (millions of Le constant base year)
 Overall | 113,964 | 148,389 | 159,174 | 170,420 | 181,816 | 197,839 | 215,109 | 233,770 | 252,687 | 274,599
 Indicative framework
-Domestically-generated revenues as % of GDP | 12.3% | 12.8% | 12.9% | 13.1% | 13.2% | 13.4% | 13.5% | 13.7% | 13.8% | 14.0% | 14- 18%
-Recurrent spending on education as % of GDP | 3.9% | 4.4% | 4.5% | 4.6% | 4.7% | 4.9% | 5.0% | 5.2% | 5.4% | 5.5% | 2.8- 3.6%
+Domestically-generated revenues as % of GDP | 12.3% | 12.8% | 12.9% | 13.1% | 13.2% | 13.4% | 13.5% | 13.7% | 13.8% | 14.0% | 14-18%
+Recurrent spending on education as % of GDP | 3.9% | 4.4% | 4.5% | 4.6% | 4.7% | 4.9% | 5.0% | 5.2% | 5.4% | 5.5% | 2.8-3.6%
 % domestically-generated resources allocated to education | 18.4% | 18.8% | 19.0% | 19.1% | 19.3% | 19.4% | 19.6% | 19.7% | 19.9% | 20.0% | approx 20%
 Share of Primary Education in Overall Spending (%) | 51.0 | 47.4 | 46.7 | 46.1 | 45.4 | 45.8 | 46.3 | 46.8 | 47.1 | 47.7 | approx 50%
 Grade 1 (GIR) | 159% | 129% | 120% | 110% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
@@ -409,8 +455,6 @@ Prim Pupil teacher ratio (public)
 Repetition Rate | 12% | 10% | 9% | 9% | 8% | 8% | 7% | 6% | 6% | 5% | 10% or less
 Annual Hours of Instruction (ave - single and double shift) | 886 | 892 | 898 | 904 | 910 | 915 | 921 | 927 | 933 | 933 | 850 or more
 % of pupils in private schools | 5% | 6.4% | 6.8% | 7.3% | 7.7% | 8.2% | 8.6% | 9.1% | 9.5% | 10.0% | 10% or less
-
-1 Figure 3: Recurrent Cost of Service Delivery (millions of constant Le base year)
 
 > 1 Please note that apart from the base year, the numbers are estimates based on assumptions of population and GDP growth rates etc.
 
@@ -442,7 +486,7 @@ xiv
 
 ## Section Introduction
 
-This Section provides the general background and context of Sierra Leone 2 . Education is an all-embracing sector which cuts across all other sectors. The background and context is intended to indicate, in a few pages,  where  Sierra  Leone  is  'coming  from'  and  give  an  indication  of  the  challenges  that  it  faces  in education many of which would be addressed by successful implementation of this Plan.
+This Section provides the general background and context of Sierra Leone². Education is an all-embracing sector which cuts across all other sectors. The background and context is intended to indicate, in a few pages,  where  Sierra  Leone  is  'coming  from'  and  give  an  indication  of  the  challenges  that  it  faces  in education many of which would be addressed by successful implementation of this Plan.
 
 Also  presented  in  this  Section  is  information  on  the  key  legislation  and  partner  organisations  that  the Government of Sierra Leone works with in education. This information indicates the legal documents and organisations  that  have  informed  the  ESP.  A  series  of  consultations  with  many  stakeholders  has  taken place during the formulation of the Plan. (See Annex for more details on the consultations and the contact addresses of the organisations involved).
 
@@ -455,6 +499,8 @@ Also  presented  in  this  Section  is  information  on  the  key  legislation  
 [[START OF PAGE 18]]
 
 ## Chapter 1
+
+## The Background and Context
 
 ### Historical Context of Sierra Leone
 
@@ -470,10 +516,15 @@ On January 18 2002 a symbolic burning of arms  occurred  at  Lungi,  the  intern
 
 ### Demographic, Socio-Economic, Geographic and Health Context
 
-Total Population • Males • Females • Household Population • Sex Ratio • Total Number of Households • Average Household size | - 4,976,871 - 2,420,218 - 2,556,653 - 4,930,532 - 94.2 - 819,854 - 6.0
---- | ---
-
 Figure 4: Demographic Data
+
+Total Population | 4,976,871
+Males | 2,420,218
+Females | 2,556,653
+Household Population | 4,930,532
+Sex Ratio | 94.2
+Total Number of Households | 819,854
+Average Household size | 6.0
 
 Source: SSL, Freetown, Population Census, 2004
 
@@ -483,8 +534,6 @@ There is considerable ethnic variety in the population of Sierra Leone. Thirteen
 
 In addition to traditional African religion and customs, Islam and Christianity are widely practiced and educational institutions sponsored by both religions abound.
 
-## The Background and Context
-
 3
 
 [[END OF PAGE 18]]
@@ -493,13 +542,13 @@ In addition to traditional African religion and customs, Islam and Christianity 
 
 Adult literacy according to the 2004 Population Census is approximately 39%. This is a very low adult  literacy  rate.  As  shown  in  the  table  below,  nationally,  29  percent  of  females  can  read  in a language, compared to 49 percent for males.
 
-Literate | Illiterate | NS
+Figure 5: Literacy Levels by Gender
+
+ | Literate | Illiterate | NS
 --- | --- | --- | ---
 Both | 39% | 60% | 1%
 Males | 49% | 50% | 1%
 Females | 29% | 70% | 1%
-
-Figure 5: Literacy Levels by Gender
 
 Source: SSL, Freetown, 2004 Population Census
 
@@ -537,30 +586,29 @@ There are two major seasons, the dry season lasting from December to April and t
 
 - The  country  has  one  of  the  lowest  life  expectancy  rates  in  the  world.    Average  life expectancy is about 10 years shorter than the average for countries in Africa and 25 years shorter than the average for the world.
 
-( Source: CSR, 2006)
+(Source: CSR, 2006)
 
-Life expectancy at birth (years), 2000-05 1
---- | ---
+Figure 6: Selected Health Indicators
+
+Life expectancy at birth (years), 2000-05¹
 Total | 41
 Male | 39
 Female | 42
-Total fertility rate (births per woman), 2003 2 | 5.6
-Infant mortality per 1,000 live births, 2003 2 | 166
-Under five mortality rate per 1,000 live births 2 | 284
-Maternal mortality rate per 100,000 live births, 2000 2 | 2,000
-Births attended by skilled health staff (% of total), 2000 2 | 42
-Access to health service (%), 2002 4 | 40
-Access to safe drinking water (%), 2002 2 | 57
-Access to safe sanitation (%), 2002 2 | 39
-Disability prevalence rate (%), 2002 4 | 7.0
-HIV/AIDS prevalence rate (%), 2003 3
+Total fertility rate (births per woman), 2003² | 5.6
+Infant mortality per 1,000 live births, 2003² | 166
+Under five mortality rate per 1,000 live births² | 284
+Maternal mortality rate per 100,000 live births, 2000² | 2,000
+Births attended by skilled health staff (% of total), 2000² | 42
+Access to health service (%), 2002⁴ | 40
+Access to safe drinking water (%), 2002² | 57
+Access to safe sanitation (%), 2002² | 39
+Disability prevalence rate (%), 2002⁴ | 7.0
+HIV/AIDS prevalence rate (%), 2003³
 National | 1.4
 Freetown | 2.3
 Outside Freetown | 0.7
 
-Figure 6: Selected Health Indicators
-
-Sources: United Nations Population Division;  2  World Bank 2005b;  3  Government of Sierra Leone 2005, p.37;  4 UNAIDS 2002
+Sources: United Nations Population Division; ² World Bank 2005b; ³ Government of Sierra Leone 2005, p.37; ⁴ UNAIDS 2002
 
 ### Education Context
 
@@ -578,13 +626,15 @@ The  early  post-independence  era  was  a  period  of  optimism  and  rapid  ch
 
 Among the  various  policy  documents  at  this  time  were  the  Education  Act  1964,  the  White  Paper  on Education 1970, the Education Review 1976, the 1989 Taskforce Report, and the New Education Action Plan 1994/95, all of which helped to define a long term pattern of educational development for Sierra Leone.
 
-The Education Act of 1964 made the Ministry of Education the supreme authority in control of education in  the  country.  The  1989  Taskforce  Report prepared the ground for the change to the 6-3-3-4 system, which gave prominence to technical/education and skills training and recommended that every student got access to nine years of comprehensive basic education.
+The Education Act of 1964 made the Ministry of Education the supreme authority in control of education in  the  country.  The  1989  Taskforce  Report prepared the ground for the change to the 6-3-3-4 system,
 
 5
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
+
+which gave prominence to technical/education and skills training and recommended that every student got access to nine years of comprehensive basic education.
 
 The 6-3-3-4 system was launched in 1993, and the first Basic Education Certificate Examination (BECE) was  attempted  in  1996.  Unfortunately,  the  full  implementation  of  these  reforms  were  hampered  by political turmoil and war. Indeed, the 1992 coup which brought the NPRC to power, the ensuing periods of military rule, and an intensified civil war, eventually brought the education sector to a standstill.
 
@@ -604,119 +654,25 @@ Since 2003, two large programs to support basic education have been in effect:
 
 Figure 7: Structure of the Current Education System
 
-Class
-
-17
-
-SSS 3
-
-16
-
-SSS 2
-
-15
-
-SSS 1
-
-14
-
-JSS 3
-
-13
-
-JSS 2
-
-12
-
-JSS 1
-
-11
-
-P 6
-
-10
-
-P 5
-
-9
-
-P 4
-
-8
-
-P 3
-
-7
-
-P 2
-
-6
-
-P 1
-
-5
-
-Prep 3
-
-4
-
-Prep 2
-
-3
-
-Prep 1
-
-Official
-
-Age
-
-1
-
-General
-
-Pre-Primary
-
-Primary
-
-Community Edu
-
-Center-B  (CEC-B)
-
-Teacher Training
-
-Technical/Vocational
-
-Postgraduate Degree
-
-Junior Secondary School (JSS)
-
-Undergraduate Degree
-
-Tech/Voc Center
-
-(TVC)
-
-2
-
-Community Edu
-
-Center-A  (CEC-A)
-
-Senior Secondary School
-
-(SSS)
-
-Teacher
-
-Training
-
-College
-
-Tech/Voc Institute
-
-(TVI)
-
-Polytechnics
+Official Age¹ | Class | General | Teacher Training | Technical/Vocational
+--- | --- | --- | --- | ---
+ |  | Postgraduate Degree |  |
+ |  | Undergraduate Degree | Teacher Training College | Polytechnics; Tech/Voc Institute (TVI)
+17 | SSS 3 | Senior Secondary School (SSS) |  | Tech/Voc Center (TVC)²
+16 | SSS 2 |  |  |
+15 | SSS 1 |  |  |
+14 | JSS 3 | Junior Secondary School (JSS) |  | Community Edu Center-A (CEC-A)
+13 | JSS 2 |  |  |
+12 | JSS 1 |  |  |
+11 | P 6 | Primary |  | Community Edu Center-B (CEC-B)
+10 | P 5 |  |  |
+9 | P 4 |  |  |
+8 | P 3 |  |  |
+7 | P 2 |  |  |
+6 | P 1 |  |  |
+5 | Prep 3 | Pre-Primary |  |
+4 | Prep 2 |  |  |
+3 | Prep 1 |  |  |
 
 Source: The Ministry of Education, Science and Technology
 
@@ -884,10 +840,8 @@ Sierra  Leone  has  a  web  of  legislation  and  policies  that  are  all  gear
 
 They are as follows:
 
-This is a compendium of all policy matters and practices grafted from most of the legal documents on  education  existing  prior  and  up  to  1995.    It  is  an  instant  guide  to  all  in  education.  An updated/revised  policy  is  in  the  process  of  being  written  alongside  this  document  and  will  be
-
 #### The New Education Policy For Sierra Leone (1995) :
-ready by the end of May 2007.
+This is a compendium of all policy matters and practices grafted from most of the legal documents on  education  existing  prior  and  up  to  1995.    It  is  an  instant  guide  to  all  in  education.  An updated/revised  policy  is  in  the  process  of  being  written  alongside  this  document  and  will  be ready by the end of May 2007.
 
 #### Tertiary  Education  Commission  Act  (2001) :
 This  act  established  the  Tertiary  Education Commission (TEC) for the development of tertiary education.  Its functions include:  advising the Government  on  tertiary  education;  fund-raising  for  tertiary  education;  vetting  the  budgets  of tertiary  institutions;  ensuring  relevance  of  programmes  offered;  ensuring  equity  in  admissions; recommending  modifications  in  conditions  of  service  and  ensuring  parity  in  appointment  and promotion of staff.
@@ -917,7 +871,7 @@ This Act made it possible for Sierra Leone to have more than a single university
 
 university  autonomy  in  matters  of  administration  and  academia  and  for  the  creation  of  private universities.
 
-#### Moving Education Forward -Education Policy 2007:
+#### Moving Education Forward – Education Policy 2007:
 This Policy revises, refines and takes forward the 1995 Policy. It encapsulates the essential elements of the legislations passed into law after 1995 and adds new directions and thinking part of which is captured in this document. It is more comprehensive and forward looking than all past policies.
 
 ### 2. The Influence of Key Associations & Organisations
@@ -940,13 +894,13 @@ This is a non-statutory body focusing on the education and welfare of children. 
 
 ##### Christian and Muslim Missions
 
-These  are  proprietors  of  the  majority  of  the  primary  and  secondary  schools  and  the  nongovernmental technical/vocational institutions  of  quality  nation-wide.    They  are  represented  on Boards of Governors and other bodies that help with the delivery of education.  Many provide no support, however, for the maintenance and development of schools and institutions bearing their names.
+These  are  proprietors  of  the  majority  of  the  primary  and  secondary  schools  and  the  non-governmental technical/vocational institutions  of  quality  nation-wide.    They  are  represented  on Boards of Governors and other bodies that help with the delivery of education.  Many provide no support, however, for the maintenance and development of schools and institutions bearing their names.
 
 ##### Civil Society Movement
 
 The  Civil  Society  Movement  is  a  non-statutory  body.    Its  activities  cover  a  range  of  issues including  those  relating  to  quality  of  education,  civil  law  and  order.  It  is  very  active  and  is increasing in influence on public interest matters.
 
-##### Conference of Principals of Secondary School (CPSS) :
+##### Conference of Principals of Secondary School (CPSS):
 This operates at national and branch levels.    Branches meet twice a term and the national body, once a year.  It speaks on behalf of heads  of  secondary  schools  and  moderates  the  action  of  school  managers  (Principals)  in  the execution of their duties.  They are represented on all bodies that deal with education nationally.
 
 11
@@ -987,7 +941,7 @@ The  Science  and  Technology  Council  advocates  for  the  provision  of  scie
 
 The Sierra Leone HIV/AIDS Response Project is designed to assist the  Government of Sierra Leone  organise  a  response  to  the  growing  incidence  of  HIV/AIDS.    Its  main  goals  are  to contribute  to  reducing  HIV/AIDS  prevalence  and  to  mitigate  the  impact  of  HIV/AIDS  on infected/affected persons.
 
-##### Sierra Leone Teachers Union (SLTU) :
+##### Sierra Leone Teachers Union (SLTU):
 
 This  is  a  non-statutory  body  with  a  focus  on  improving  conditions  of  service  for  teachers.  It advocates for teacher welfare; fund-raises for their activities; conducts in- services training; creates opportunities for external training.  It also arbitrates on teachers' behalf and negotiates for better conditions of service.
 
@@ -1003,7 +957,7 @@ This is the umbrella body of all NGOs and CBOs operating in Sierra Leone. It rep
 
 #### Key International Associations and Entities
 
-##### Action Aid - Sierra Leone
+##### Action Aid – Sierra Leone
 
 This  organization  is  gradually  increasing  its  involvement  in  education.  It  is  an  implementing partner in the Sababu Education Project.
 
@@ -1049,7 +1003,7 @@ JICA is implementing an education/community empowerment project in Kambia distri
 
 This organisation is currently engaged in community development projects as well as in providing support for the education of children in the various communities.  Outside of the World Bank., African Development Bank and UNICEF, it provides the largest support for education in Sierra Leone. Its support includes school construction, furniture and book supplies and capacity building of MEST District Education Offices (DEOs).
 
-##### Save The Children - UK  (SCUK)
+##### Save The Children – UK (SCUK)
 
 Save the Children is working with the most vulnerable children in Kailahun and the Western Area to improve quality of education through promoting participatory approaches to learning, training teachers in alternative forms of discipline, mobilising communities and training school management committees.
 
@@ -1059,7 +1013,7 @@ This  organisation  continues  to  provide  technical  and  financial  assistanc
 
 ##### UNICEF
 
-UNICEF assists the government in its efforts to increase access and improve quality of learning in primary  schools  especially  for  girls  and  disadvantaged  groups.    It  also  helps  government  to develop education policies, improve curriculum and observe international treaties. It is the lead incountry  agency  for  the  EFA-FTI  Proposal  process  and  made  an  unmatched  input  to  the production of this Plan.
+UNICEF assists the government in its efforts to increase access and improve quality of learning in primary  schools  especially  for  girls  and  disadvantaged  groups.    It  also  helps  government  to develop education policies, improve curriculum and observe international treaties. It is the lead in-country  agency  for  the  EFA-FTI  Proposal  process  and  made  an  unmatched  input  to  the production of this Plan.
 
 ##### World Bank
 
@@ -1107,7 +1061,7 @@ The simulation model and the matrices are at the heart of the ESP. The narrative
 
 The  matrices  are  not  intended  to  spell  out  the  full  implementation  details.  They  simply  indicate  the required actions to be taken, when they could be carried out, who should carry them out and the expected outcomes and risks. The implementation plans will be fully fleshed out on approval of the recommended actions.
 
-Notwithstanding  the  significant  gains  and  advances,  the  challenges  confronting  education  are  still numerous. Amongst the core challenges requiring attention are the issues of building capacity to be able to  deliver  quality  education  as  well  as  being  able to  pay  the  salaries  of  all  the  teachers  required  by  the system whilst at the same time sparing parents from the hidden costs that they are required to undergo even when primary education is supposed to be free. Few of these challenges can be put on 'the backburner' as delays can have undesirable consequences in terms of national unity and stability. The fact that many of  those  who  participated  in  the  atrocities  of  the  civil  conflict  were  youths  of  school  going  age cannot be ignored. Neither can we forget the message given by youth when they targeted and destroyed many educational institutions during the war.
+Notwithstanding  the  significant  gains  and  advances,  the  challenges  confronting  education  are  still numerous. Amongst the core challenges requiring attention are the issues of building capacity to be able to  deliver  quality  education  as  well  as  being  able to  pay  the  salaries  of  all  the  teachers  required  by  the system whilst at the same time sparing parents from the hidden costs that they are required to undergo even when primary education is supposed to be free. Few of these challenges can be put on 'the back-burner' as delays can have undesirable consequences in terms of national unity and stability. The fact that many of  those  who  participated  in  the  atrocities  of  the  civil  conflict  were  youths  of  school  going  age cannot be ignored. Neither can we forget the message given by youth when they targeted and destroyed many educational institutions during the war.
 
 The  first  chapter  for  this  Section,  Chapter  3,  prepares  the  stage  for  the  other  chapters  that  follow.  It positions the ESP relative to other important documents impacting on education in Sierra Leone, gives the  areas  of  coverage  of  the  ESP  and  provides  baseline  statistics.  Chapters  4  to  12  cover  the  different levels of education as well as the management, monitoring and costing of the Plan.
 
@@ -1118,8 +1072,6 @@ The  first  chapter  for  this  Section,  Chapter  3,  prepares  the  stage  for
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
-
-management
 
 ## Chapter 3
 
@@ -1179,9 +1131,7 @@ Figure 8: The PRSP Objectives
 
 > c) improving the learning environment,
 
-d)
-
-improving planning and of the sector through capacity building and,
+> d) improving planning and management of the sector through capacity building and,
 
 > e)promoting HIV/AIDS prevention education at all levels in the education system
 
@@ -1214,70 +1164,48 @@ Achievement of the goals and targets presented in this document are dependent on
 Figure 9: Proposed Implementation Management Structure
 
 Steering
-
 Committee
-
 (Chaired by
-
 Minister)
 
 Technical
-
 Committee
-
 (Chaired by
-
 DG(Ed)
 
+Secretariat
+(Headed by
+ESP
+Coordinator)
+
 Pre-Primary +
-
 UPE/C
-
 Team
 
 Post Primary
-
 Schooling
-
 Team
 
 Literacy +
-
 Skills Training
-
 Team
 
 Teacher Needs
-
 Team
 
 Higher Ed
-
 Team
 
 Governance,
-
 Planning and
-
 Management
-
 Team
 
 Monitoring
-
 Team
 
 Financing
-
 Team
-
-Secretariat
-
-(Headed by
-
-ESP
-
-Coordinator)
 
 18
 
@@ -1294,6 +1222,8 @@ The Steering Committee is to be a maximum of 10 in number inclusive of the Minis
 ### Base Year Statistics
 
 For various reasons it is necessary for the statistics on which the ESP is based to be relatively reliable. A national census was conducted in Year 2004 and education statistics for that year were also cross-checked and cleaned for the purpose of the CSR. An EMIS Unit has been established to co-ordinate the collection of annual school data and to carry out analysis of the same. The first round of data collection is in process, but was not ready at the time of writing.  So for the purpose of the ESP, the most reliable and available data is being used as the base year data. This is supplemented by the UNICEF MICS3 survey results of 2006, where applicable. Given below are some key statistics of interest for the base year.
+
+Figure 10: Base Year Statistics
 
 Level and Parameters | Base Year - 2003/04
 --- | ---
@@ -1318,8 +1248,6 @@ Gross Enrolment Ratio (GER) - Girls | 113%
 Total enrolment | 1,134,815
 Total enrolment - Boys | 618,747
 Total enrolment - Girls | 516,068
-
-Figure 10: Base Year Statistics
 
 19
 
@@ -1353,7 +1281,8 @@ Enrolment in private institutions | 6,670
 Pupil per class (Public) | 48.5
 Teachers' average teaching workload (hours per week) | 13.9
 Pupil teacher ratio (public) | 28.9
-Total number of teachers Teacher remuneration as multiple of GDP per capita | 4,389 5.9
+Total number of teachers | 4,389
+Teacher remuneration as multiple of GDP per capita | 5.9
 Spending on inputs other than teachers as % of total recurrent spending | 30%
 Total recurrent spending (millions of Leones) | 19,781
 Senior Secondary
@@ -1374,9 +1303,10 @@ Pupil per class (Public) | 42.3
 Teachers' average teaching workload (hours per week) | 14.9
 Pupil teacher ratio (public) | 27.1
 Total number of teachers (Theoretically) | 1,402
-Teacher remuneration as multiple of GDP per capita | 5.9 28%
-Spending on inputs other than teachers as % of total recurrent spending
-Total recurrent spending (millions of Leones) Teacher training | 6,157
+Teacher remuneration as multiple of GDP per capita | 5.9
+Spending on inputs other than teachers as % of total recurrent spending | 28%
+Total recurrent spending (millions of Leones) | 6,157
+Teacher training
 Total spending (millions) (Primary + JSS) | 805
 
 20
@@ -1402,6 +1332,8 @@ Most  importantly,  it  must  be  noted  that  the  achievement  of  our  goals 
 [[START OF PAGE 37]]
 
 ## Chapter 4
+
+## Achieving Universal Primary Education and Completion (UPE + UPC)
 
 ### A. Goal
 
@@ -1441,8 +1373,6 @@ Special needs: Access and provisions for the special needs pupils to be improved
 
 > 6 Population Census, 2004
 
-## Achieving Universal Primary Education and Completion (UPE + UPC)
-
 22
 
 [[END OF PAGE 37]]
@@ -1469,7 +1399,7 @@ Libraries: Many primary schools do not have school libraries, and if they do the
 
 WASH facilities: A large number of schools lack toilets and clean water. Children in these schools are often not provided with hygiene lessons. This situation needs to be improved as safe water and sanitation are essential to protect children's health and ability to learn at school.   The availability of clean water, adequate sanitation and hygiene education is directly related not only to physical, mental and social health but ultimately to economic and political development.
 
-Teaching  Staff :  Contributing  to  poor  education  quality  is  the  large  numbers  of  untrained  and  uncertified teachers in the system. Nationally, 40% of teachers are unqualified, and in the Northern region, over half of all teachers are unqualified. The female teachers in primary constitute 32% of all teachers. 9 The number and availability of qualified teachers especially in the rural areas are also to be increased.
+Teaching Staff:  Contributing  to  poor  education  quality  is  the  large  numbers  of  untrained  and  uncertified teachers in the system. Nationally, 40% of teachers are unqualified, and in the Northern region, over half of all teachers are unqualified. The female teachers in primary constitute 32% of all teachers. 9 The number and availability of qualified teachers especially in the rural areas are also to be increased.
 
 Improving pupil-teacher ratio: Reduce high pupil teacher ratios. The country average is 66 pupils to a teacher and 112 pupils per qualified teacher. There is an obvious need to hire more qualified teachers, but a ceiling on teacher employment made necessary by MoF/IMF requirements has made that impossible. Further, keeping to our commitment of free quality education as stated in the 2004 Education Act and meeting EFA-FTI benchmarks whilst at the same time keeping to teacher ceiling requirements which appear to take no cognisance of these fact places Sierra Leone in a very difficult position. The foregoing being the case, in setting the level of wage bill cap/reduction, reference must be made to the expenditures required to  meet  the  MDGs  and  EFA  goals  in  order  to  ensure  that  macroeconomic  policies  are  not  counter productive to the realization of these goals.
 
@@ -1489,7 +1419,7 @@ The cap placed on the wage bill has to be expanded to reflect the real situation
 
 Whilst  macroeconomic  policy  considerations  such  as  maintaining  single  digit  inflation  and  low  fiscal deficit  targets  are  important  and  determine  the  amount  of  funds  available  for  education,  a  framework needs to be developed which would not compromise important education targets and impact negatively on our fight against poverty in the long term.
 
-Improving instructional hours and time on tasks : Double shift schooling especially in some urban areas as a result of the rapid growth in the student population has led to a reduction in instructional time 10 .  Teacher and student absenteeism, both of which are too high, also contribute to reduced instructional time in primary schools.
+Improving instructional hours and time on tasks: Double shift schooling especially in some urban areas as a result of the rapid growth in the student population has led to a reduction in instructional time 10 .  Teacher and student absenteeism, both of which are too high, also contribute to reduced instructional time in primary schools.
 
 Improving financial resource allocation: Timely payments of school subsidies and salaries to teachers as well as making the profession more attractive are essential to improved quality. In this regard, the 'cleaning up' of the teacher payroll, the establishment of a Payroll Unit and computerised IDs for all serving teachers are advocated.
 
@@ -1533,12 +1463,12 @@ Amidst all the challenges, there has been significant progress made to date. The
 
 The key strategies designed to address the specific objectives above are summarized in Figure 11. The corresponding log frame, indicating required actions, indicators of achievement, responsible entities and time, follows in the next section. It should be noted that some items in the log-frame are not contained in the narrative, this is to minimise the amount of repetition.
 
+Figure 11: Specific Objectives and Key Strategies for Achieving Universal Primary Education and Completion
+
 Specific Objective | Key Strategies
 --- | ---
-Specific Objective To ensure that all children enter primary schooling at the age of 6 years. To ensure that all children enter primary schooling at the age of 6 years. | Key Strategies square4 Enforce the legislation stipulated in the Education Act 2004. square4 Ensure that all births are registered square4 Provide school feeding square4 Encourage more pre-schooling square4 UPE sensitisation issues square4 square4 Enforce the legislation stipulated in the Education Act 2004. square4 Ensure that all births are registered square4 Provide school feeding square4 Encourage more pre-schooling square4 UPE sensitisation issues square4 Ensure that no child has to travel more than 1.5 miles to access a school square4 Ensure that facilities for the Special needs are in place
-To ensure that schools provide a safe environment for all children especially with regard to sexual exploitation and abuse and discrimination. | square4 Ensure that no child has to travel more than 1.5 miles to access a school square4 Ensure that facilities for the Special needs are in place square4 Provide nation-wide sensitisation on issue square4 Revise the terms and conditions of service of teachers to ensure the protection of children square4 Enact and enforce legislation criminalizing sexual harassment by teachers and agree on a code of ethics with SLTU square4 Provide safe environment for girls including separate toilets square4 Institute severe penalties for child abusers
-
-Figure 11: Specific Objectives and Key Strategies for Achieving Universal Primary Education and Completion
+To ensure that all children enter primary schooling at the age of 6 years. | ▪ Enforce the legislation stipulated in the Education Act 2004. ▪ Ensure that all births are registered ▪ Provide school feeding ▪ Encourage more pre-schooling ▪ UPE sensitisation issues ▪ Ensure that no child has to travel more than 1.5 miles to access a school ▪ Ensure that facilities for the Special needs are in place
+To ensure that schools provide a safe environment for all children especially with regard to sexual exploitation and abuse and discrimination. | ▪ Provide nation-wide sensitisation on issue ▪ Revise the terms and conditions of service of teachers to ensure the protection of children ▪ Enact and enforce legislation criminalizing sexual harassment by teachers and agree on a code of ethics with SLTU ▪ Provide safe environment for girls including separate toilets ▪ Institute severe penalties for child abusers
 
 25
 
@@ -1546,83 +1476,11 @@ Figure 11: Specific Objectives and Key Strategies for Achieving Universal Primar
 
 [[START OF PAGE 41]]
 
-To improve the access and completion of  primary  education  by  girls  with  the aim of attaining gender parity and equality.
-
-To    ensure  that  the  vulnerable  and disadvantaged children including orphans,  children  in  institutions,  those with special needs and in need of protection, enrol and stay in school.
-
-To  ensure that all children starting primary education learn in a healthy and hygienic environment and finish school.
-
-To improve the quality of primary education nationwide.
-
-To provide access and ensure completion for the mentally challenged at the primary level
-
-- square4 Make it easier for girls to access school
-
-- square4 Sensitizations to be continuous
-
-- square4 Allow child-mothers and drop-out girls to return to school
-
-- square4 Provide girls with incentives to complete school
-
-- square4 Increase percentage of female teachers - role models
-
-- square4 Gender-sensitive curriculum
-
-- square4 Encourage communities to find substitute for assistance of children as baby-sitters and traders during and after school hours.
-
-- square4 Prevent exploitation of children
-
-- square4 Stop children being used by elders for begging
-
-- square4 Provide necessary social support and follow-up
-
-- square4 Conduct  a  study  of  children  who  are  out  of  school,  to determine what it would take to get them in school
-
-- square4 Strengthen government commitment and capacity to fulfill children's rights to protection
-
-- square4 Provide  sensitisation  on  rights  of  child  as  outlined  in  the Bill
-
-- square4 Address harmful traditional practices that are prejudicial to the health and education of children
-
-- square4 Encourage open discussion of child protection issues
-
-- square4 Build  a  school  environment  that  is  supportive,  caring, develops democratic values in children and that offers role models for children
-
-To work towards achieving the 100% UPC by 2015,
-
-- square4 Start by reducing absenteeism to 5% or less.
-
-- square4 Start by reducing repetition rate to 5% or less.
-
-- square4 Start by reducing drop-out rate to 5% or less.
-
-- square4 Increase  access  to  safe  water,  latrines  and  hand  washing facilities in schools.
-
-- square4 Ensure that hygiene education is taught in schools
-
-- square4 Reduce cost to parents
-
-- square4 Ensure improvement in the quality of teaching nationwide
-
-- square4 Ensure  that there is improvement  in  the    quality of teaching/learning environment
-
-- square4 Ensure that there is an increase and improvement in MEST capacity to monitor and supervise schools
-
-- square4 Improve financial management
-
-- square4 Schools and examining bodies receive subventions  on time
-
-- square4 Access to reference materials additional to that in schools is a must.
-
-- square4 Greater  investment  in  assisted  schools  by  proprietors  and quality improvement in such schools is a necessity.
-
-- square4 Create an enabling environment
-
-- square4 Train more staff to handle the mentally challenged
-
-- square4 Provide  staff  with  salary  incentives  to  encourage  more  to train and stay
-
-- square4 Construct more specially equipped and manned institutions
+To improve the access and completion of primary education by girls with the aim of attaining gender parity and equality. | ▪ Make it easier for girls to access school ▪ Sensitizations to be continuous ▪ Allow child-mothers and drop-out girls to return to school ▪ Provide girls with incentives to complete school ▪ Increase percentage of female teachers – role models ▪ Gender-sensitive curriculum ▪ Encourage communities to find substitute for assistance of children as baby-sitters and traders during and after school hours.
+To ensure that the vulnerable and disadvantaged children including orphans, children in institutions, those with special needs and in need of protection, enrol and stay in school. | ▪ Prevent exploitation of children ▪ Stop children being used by elders for begging ▪ Provide necessary social support and follow-up ▪ Conduct a study of children who are out of school, to determine what it would take to get them in school ▪ Strengthen government commitment and capacity to fulfill children's rights to protection ▪ Provide sensitisation on rights of child as outlined in the Bill ▪ Address harmful traditional practices that are prejudicial to the health and education of children ▪ Encourage open discussion of child protection issues ▪ Build a school environment that is supportive, caring, develops democratic values in children and that offers role models for children
+To ensure that all children starting primary education learn in a healthy and hygienic environment and finish school. | To work towards achieving the 100% UPC by 2015, ▪ Start by reducing absenteeism to 5% or less. ▪ Start by reducing repetition rate to 5% or less. ▪ Start by reducing drop-out rate to 5% or less. ▪ Increase access to safe water, latrines and hand washing facilities in schools. ▪ Ensure that hygiene education is taught in schools ▪ Reduce cost to parents
+To improve the quality of primary education nationwide. | ▪ Ensure improvement in the quality of teaching nationwide ▪ Ensure that there is improvement in the quality of teaching/learning environment ▪ Ensure that there is an increase and improvement in MEST capacity to monitor and supervise schools ▪ Improve financial management ▪ Schools and examining bodies receive subventions on time ▪ Access to reference materials additional to that in schools is a must. ▪ Greater investment in assisted schools by proprietors and quality improvement in such schools is a necessity.
+To provide access and ensure completion for the mentally challenged at the primary level | ▪ Create an enabling environment ▪ Train more staff to handle the mentally challenged ▪ Provide staff with salary incentives to encourage more to train and stay ▪ Construct more specially equipped and manned institutions
 
 26
 
@@ -1630,24 +1488,22 @@ To work towards achieving the 100% UPC by 2015,
 
 [[START OF PAGE 42]]
 
-### F.  Log Frame
+### F. Log Frame
 
 Figure 12: Log Frame with Prioritized List of Activities (short, medium and long term) for the Primary Sector
-
-regard to sexual
 
 Specified Objective | Strategies | Required Actions | Indicators of Achievement | Responsible | Time
 --- | --- | --- | --- | --- | ---
 To ensure that all children enter primary schooling at the age of 6 years | Enforce legislation stipulated in the Education Act 2004 | Sensitise paramount chiefs, parents and the rest of the community on the legal implications Strictly enforce the penalties. | 100% of pupils aged 6 entered school | Paramount chiefs, Local Council authorities, Parents, Council of Head teachers of primary schools, Inspectorate Division, MEST, Legal enforcement agencies. | MT-LT
-Enforce registration of all births | Convince paramount chiefs local council authorities, central government to get parents/guardians to report births promptly | All births reported | Central government, Paramount chiefs, Local Council authorities, Parents, MOHS. | ST-MT
-School feeding provision | Expand school feeing programme to other schools in all districts | School feeding programme in operation in selected schools in every district | School feeding programme unit at MEST, WFP | MT-LT
-Universal Primary Education (UPE) sensitisation | Design and commence UPE sensitisations Adult literacy classes | All districts nationwide sensitised | MEST and all Stakeholders in education, including UN agencies and NGOs | ST-MT
-Home ↔School distance not to exceed1.5 miles and not through difficult terrain | Construction of new schools Rehabilitation of old schools Locate new schools according to school mapping design of MEST | Schools, especially new ones located within the specified walking distance | Planning Directorate of MEST, NGOs dealing in school construction | MT-LT
-Design and execute jointly formulated accessibility to school plan via difficult land terrain or rivers. | All towns and villages with schools accessible by road/rivers | MEST, Ministry of Transport and Communications, NGO Partners, Local Council authorities, Village and Town Communities under guidance of their traditional leaders | MT-LT
-Establish facilities for the special needs even at the early age of 6 years | Mandate all parents/guardians to send their special needs children to school at the right age | All special needs children start school at age 6 years | Sierra Leone Union for Disability Issues (SLUDI), All local and International NGOs handling the issues of the special needs, MEST, Ministry of Social Welfare Gender and Children Affairs(MSWGCA).Traditional leaders' and their Village and Town communities, Local Authorities | MT-LT
-Equip all primary schools with facilities for special needs children | 100% of all primary schools with facilities for special needs children | MEST, All local and International NGOs handling the issues of the special needs, Traditional leaders' and their Village and Town communities, Local authorities | MT-LT
-To ensure that schools provide a safe environment for all | Provide nation-wide sensitisation on issue | Link with press and radio to inform and have discussions on issue with children at the forefront | Individuals more informed and ready to take a stand on the issue | MEST, LGAs, MSWGCA, Traditional leaders, NGOs, UN Agencies | ST-MT
-children especially with | Revise the terms and | Ensure the preparation and approval of | Revised terms and conditions | MEST, LGAs, SLTU, CPSS, HTC, Law | ST-MT
+| Enforce registration of all births | Convince paramount chiefs local council authorities, central government to get parents/guardians to report births promptly | All births reported | Central government, Paramount chiefs, Local Council authorities, Parents, MOHS. | ST-MT
+| School feeding provision | Expand school feeing programme to other schools in all districts | School feeding programme in operation in selected schools in every district | School feeding programme unit at MEST, WFP | MT-LT
+| Universal Primary Education (UPE) sensitisation | Design and commence UPE sensitisations Adult literacy classes | All districts nationwide sensitised | MEST and all Stakeholders in education, including UN agencies and NGOs | ST-MT
+| Home ↔School distance not to exceed1.5 miles and not through difficult terrain | Construction of new schools Rehabilitation of old schools Locate new schools according to school mapping design of MEST | Schools, especially new ones located within the specified walking distance | Planning Directorate of MEST, NGOs dealing in school construction | MT-LT
+| | Design and execute jointly formulated accessibility to school plan via difficult land terrain or rivers. | All towns and villages with schools accessible by road/rivers | MEST, Ministry of Transport and Communications, NGO Partners, Local Council authorities, Village and Town Communities under guidance of their traditional leaders | MT-LT
+| Establish facilities for the special needs even at the early age of 6 years | Mandate all parents/guardians to send their special needs children to school at the right age | All special needs children start school at age 6 years | Sierra Leone Union for Disability Issues (SLUDI), All local and International NGOs handling the issues of the special needs, MEST, Ministry of Social Welfare Gender and Children Affairs(MSWGCA).Traditional leaders' and their Village and Town communities, Local Authorities | MT-LT
+| | Equip all primary schools with facilities for special needs children | 100% of all primary schools with facilities for special needs children | MEST, All local and International NGOs handling the issues of the special needs, Traditional leaders' and their Village and Town communities, Local authorities | MT-LT
+To ensure that schools provide a safe environment for all children especially with regard to sexual | Provide nation-wide sensitisation on issue | Link with press and radio to inform and have discussions on issue with children at the forefront | Individuals more informed and ready to take a stand on the issue | MEST, LGAs, MSWGCA, Traditional leaders, NGOs, UN Agencies | ST-MT
+| Revise the terms and | Ensure the preparation and approval of | Revised terms and conditions | MEST, LGAs, SLTU, CPSS, HTC, Law | ST-MT
 
 27
 
@@ -1721,15 +1577,15 @@ Specified Objective | Strategies | Required Actions | Indicators of Achievement 
 --- | --- | --- | --- | --- | ---
 is taught in schools | Require proprietors of existing schools to provide similar facilities and give deadline for meeting requirement Encourage NGOs and UN Agencies to assist with provision of facilities | Fewer children regularly absent through illness due to poor hygiene
 To improve the quality of primary education nationwide. | Ensure improvement in the quality of teaching nationwide | Ensure that all UU teachers are trained within a specified period not exceeding 2 years | Reduction in percentage of UU teachers | Educational programmes and Higher Education Directorates of MEST, UN Agencies, NGOs, Teacher Training Colleges | ST-MT
-Establish a program by which each teacher participates in at least 1 in-service every 3 years | Over 50% of teachers with certificates of participation in in- service programs
+Establish a program by which each teacher participates in at least 1 in-service every 3 years | Over 50% of teachers with certificates of participation in in-service programs
 School heads to monitor work plans and weekly records of teachers | Plans and weekly records of teachers monitored. | Inspectorate Directorate of MEST, Council for Head Teachers of Primary Schools, Head Teachers of respective primary schools
 Incentives for qualified teachers to access remote/rural areas | Increase in percentage of teachers in remote/rural areas | MEST, Ministry of Finance (MoF), NGOs, UN Agencies
 Ensure that there is improvement in the quality of teaching/learning environment | Secure public-private partnership/private support to provide essential teaching/learning materials | Private firms and parastatals donating more funds/materials and equipment to education | MEST,SLUDI+UN Agencies+ Donors+ Private firms +WATSAN Unit +LGAs | ST-MT
 Introduce IT in schools by providing relevant equipment and power supplied by solar panel | IT starter centres equipped and functioning with a working solar panel for each school
 Ensure that schools can be safely used by physically disabled children | Ramp ways constructed, walking canes for the blind, wheel chairs and other facilities provided to make school safer and more comfortable and conducive to learning
-Make WASH a must for all schools (Also see earlier) | Girl-friendly and disabled- friendly WASH facilities operational in all schools
+Make WASH a must for all schools (Also see earlier) | Girl-friendly and disabled-friendly WASH facilities operational in all schools
 Ensure the production and approval of a book policy | Books more readily available at an affordable price
-Create an environment that is more conducive to encouraging reading by e.g. awarding reading prizes and incorporating reading into school tests - See also Chapter 6. | Improved reading habit and better understanding of the written word
+Create an environment that is more conducive to encouraging reading by e.g. awarding reading prizes and incorporating reading into school tests – See also Chapter 6. | Improved reading habit and better understanding of the written word
 Provide each pupil in GOSL and assisted schools with a replenish-able learning kit of core textbooks, selected readers, exercise books, pens and pencils, rulers as appropriate | Learning kits in use in a 1:1 ratio
 Provide good quality furniture for teachers | Good quality furniture in all
 
@@ -1742,7 +1598,7 @@ Provide good quality furniture for teachers | Good quality furniture in all
 Specified Objective | Strategies | Required Actions | Indicators of Achievement | Responsible | Time
 --- | --- | --- | --- | --- | ---
 and pupils | schools at the primary level.
-Ensure that there is an increase and improvement in MEST capacity to monitor and supervise schools | Restructure and re-staff District Education Offices (DEOs) | DEOs restructured and re- staffed by employing qualified inspectors | MEST + LGAs + UN Agencies + NGOs + Donors | ST-LT
+Ensure that there is an increase and improvement in MEST capacity to monitor and supervise schools | Restructure and re-staff District Education Offices (DEOs) | DEOs restructured and re-staffed by employing qualified inspectors | MEST + LGAs + UN Agencies + NGOs + Donors | ST-LT
 Re-train and review performance of Inspectors annually | All Inspectors with annual certificates of participation in special and specific in-service training programs
 Streamline the tasks of MEST inspectors to monitoring and reporting on local council activities | Tasks streamlined and timely and better quality reports from DEOs
 Re-equip all DEOs with computers, printers and photocopiers, solar panels and communications equipment and transport facilities | All offices fully utilising computers and equipments provided. All Inspectors and Supervisors mobile and with MEST supplied cell phones
@@ -1786,9 +1642,9 @@ For the purpose of this Plan, 5 scenarios were considered.  The first (chosen) a
 
 Key Pre-School to JSS Parameters for the 5 Scenarios Considered
 
-Current (2003/04) | 2015 levels (unless otherwise stated)
+2015 levels (unless otherwise stated)
+ | Current (2003/04) | Scenario 1 Chosen | Scenario 2 More Tchrs + Smaller Classes | Scenario 3 UBE + Increased JSS-SSS Transit | Scenario 4 Reduced Pub Enrol + Larger Classes | Scenario 5 - Higher Teacher Salaries
 --- | --- | --- | --- | --- | --- | ---
-Scenario 1 Chosen | Scenario 2 More Tchrs + Smaller Classes | Scenario UBE Increased JSS-SSS Transit | Scenario 4 Reduced Pub Enrol + Larger Classes | Scenario 5 - Higher Teacher Salaries
 Pre-Primary
 Gross Enrolment Ratio | 3.9% | 20% | 20% | 20% | 20% | 20%
 Percentage Government-Assisted | 7.9% | 8.0% | 8.0% | 8% | 5% | 8%
@@ -1825,6 +1681,8 @@ Ave Teacher Remuneration as a multiple of per capita GDP | 5.9 | 5.5 | 5.5 | 5.4
 
 ### UPE COSTINGS
 
+Figure 14: Cumulative Primary Level Cost Implications of the Scenarios (US$ millions)
+
 Sc 1 | Sc 2 | Sc 3 | Sc 4 | Sc 5
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 2010 | 2015 | 2010 | 2015 | 2010 | 2015 | 2010 | 2015 | 2010 | 2015
@@ -1839,9 +1697,9 @@ Primary Recurrent As % of Tot Recurrent | 45.4 | 47.7 | 45.3 | 47.1 | 39.9 | 36.
 Tot Recur Finance Gap 2007-15 (US$) | -254.20 | -298.6 | -374.2 | -197.2 | -308.0
 Estimated Sustainability | Sustainable | Non-Sustainable | Non-Sustainable | Sustainable | Non-Sustainable
 
-Figure 14: Cumulative Primary Level Cost Implications of the Scenarios (US$ millions)
-
 Please note that the financing gap indicated is in terms of recurrent costs, as is the general practice, and excludes capital  expenditures  such  as  classroom  construction  which,  although  shown,  has  not  been  utilised  in  calculating financing gap.
+
+12 Figure 15: GOSL Chosen Scenario - UPE Targets and Costs of Achievement (2007 -15)
 
 Level and Parameters | Target
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -1872,8 +1730,6 @@ Teacher Training
 New teachers - Obtained thru Pre-service Training (Ave per year) | 1,131 | 1,131 | 1,131 | 1,131 | 1,131 | 1,131 | 1,131 | 1,131 | 1,131
 Teachers in-service training for primary education | 223 | 223 | 223 | 223 | 223 | 223 | 223 | 223 | 223
 Total spending (millions) (Primary) | 1,374 | 1,414 | 1,454 | 1,158 | 1,191 | 1,225 | 1,259 | 1,295 | 1,332
-
-12 Figure 15: GOSL Chosen Scenario - UPE Targets and Costs of Achievement (2007 -15)
 
 > 12 Please note earlier footnotes on the fact that apart from the base year figure, the others are estimates from the model underpinning the ESP.
 
@@ -1928,7 +1784,7 @@ Recurrent | 0 | 0 | 0 | 0 | 0
 Capital
 Expansion | 0 | 0 | 0 | 0 | 0
 Upgrading | 300 | 550 | 150 | 100 | 1,100
-Total per annum (millions of | 300 | 550 | 150 | 100 | 1,100
+Total per annum (millions of Leones) | 300 | 550 | 150 | 100 | 1,100
 
 Net gap for primary (millions of Leones) | 2007 | 2008 | 2009 | 2010 | Total
 --- | --- | --- | --- | --- | ---
@@ -1961,341 +1817,29 @@ Gap for other levels on recurrent | 12.3 | 12.9 | 13.5 | 14.1 | 52.9
 
 13 Figure 17: Long-Term (2007-15) Financing Gap for Universal Primary Education
 
-Total gap for primary (millions of Leones)
-
-Recurrent
-
+Total gap for primary (millions of Leones) | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Total
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Recurrent | 29,433 | 30,682 | 31,846 | 32,572 | 37,328 | 42,661 | 48,658 | 54,128 | 61,743 | 369,051
 Capital
+Expansion | 11,985 | 11,235 | 11,235 | 11,235 | 11,985 | 11,235 | 11,235 | 11,235 | 11,985 | 103,366
+Upgrading | 4,422 | 4,457 | 4,493 | 4,530 | 3,310 | 3,313 | 3,317 | 3,321 | 3,324 | 34,486
+Total per annum (millions of Leones) | 45,840 | 46,374 | 47,574 | 48,337 | 52,623 | 57,209 | 63,210 | 68,683 | 77,052 | 506,903
 
-Expansion
-
-Upgrading
-
-Total per annum (millions of Leones)
-
-Already committed (millions of Leones)
-
-Recurrent
-
+Already committed (millions of Leones) | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Total
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Recurrent | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 Capital
+Expansion | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Upgrading | 300 | 550 | 150 | 100 | 0 | 0 | 0 | 0 | 0 | 1,100
+Total per annum (millions of Leones) | 300 | 550 | 150 | 100 | 0 | 0 | 0 | 0 | 0 | 1,100
 
-Expansion
-
-Upgrading
-
-Total per annum (millions of Leones)
-
-Net gap for primary (millions of Leones)
-
-Recurrent
-
+Net gap for primary (millions of Leones) | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Total
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Recurrent | 29,433 | 30,682 | 31,846 | 32,572 | 37,328 | 42,661 | 48,658 | 54,128 | 61,743 | 369,051
 Capital
-
-Expansion
-
-Upgrading
-
-Total per annum (millions of Leones)
-
-2007
-
-29,433
-
-11,985
-
-4,422
-
-45,840
-
-2007
-
-0
-
-0
-
-300
-
-300
-
-2007
-
-29,433
-
-11,985
-
-4,122
-
-45,540
-
-2008
-
-30,682
-
-11,235
-
-4,457
-
-46,374
-
-2008
-
-0
-
-0
-
-550
-
-550
-
-2008
-
-30,682
-
-11,235
-
-3,907
-
-45,824
-
-2009
-
-31,846
-
-11,235
-
-4,493
-
-47,574
-
-2009
-
-0
-
-0
-
-150
-
-150
-
-2009
-
-31,846
-
-11,235
-
-4,343
-
-47,424
-
-2010
-
-32,572
-
-11,235
-
-4,530
-
-48,337
-
-2010
-
-0
-
-0
-
-100
-
-100
-
-2010
-
-32,572
-
-11,235
-
-4,430
-
-48,237
-
-2011
-
-37,328
-
-11,985
-
-3,310
-
-52,623
-
-2011
-
-0
-
-0
-
-0
-
-0
-
-2011
-
-37,328
-
-11,985
-
-3,310
-
-52,623
-
-2012
-
-42,661
-
-11,235
-
-3,313
-
-57,209
-
-2012
-
-0
-
-0
-
-0
-
-0
-
-2012
-
-42,661
-
-11,235
-
-3,313
-
-57,209
-
-2013
-
-48,658
-
-11,235
-
-3,317
-
-63,210
-
-2013
-
-0
-
-0
-
-0
-
-0
-
-2013
-
-48,658
-
-11,235
-
-3,317
-
-63,210
-
-2014
-
-54,128
-
-11,235
-
-3,321
-
-68,683
-
-2014
-
-0
-
-0
-
-0
-
-0
-
-2014
-
-54,128
-
-11,235
-
-3,321
-
-68,683
-
-2015
-
-61,743
-
-11,985
-
-3,324
-
-77,052
-
-2015
-
-0
-
-0
-
-0
-
-0
-
-2015
-
-61,743
-
-11,985
-
-3,324
-
-77,052
-
-Total
-
-369,051
-
-103,366
-
-34,486
-
-506,903
-
-Total
-
-0
-
-0
-
-1,100
-
-1,100
-
-Total
-
-369,051
-
-103,366
-
-33,386
-
-505,803
+Expansion | 11,985 | 11,235 | 11,235 | 11,235 | 11,985 | 11,235 | 11,235 | 11,235 | 11,985 | 103,366
+Upgrading | 4,122 | 3,907 | 4,343 | 4,430 | 3,310 | 3,313 | 3,317 | 3,321 | 3,324 | 33,386
+Total per annum (millions of Leones) | 45,540 | 45,824 | 47,424 | 48,237 | 52,623 | 57,209 | 63,210 | 68,683 | 77,052 | 505,803
 
 Net gap for primary (millions of 2004 $US) | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -2306,79 +1850,16 @@ Expansion | 4.4 | 4.2 | 4.2 | 4.2 | 4.4 | 4.2 | 4.2 | 4.2 | 4.4 | 38
 Upgrading | 1.5 | 1.4 | 1.6 | 1.6 | 1.2 | 1.2 | 1.2 | 1.2 | 1.2 | 12
 Total per annum (millions of 2004 $US) | 16.9 | 17.0 | 17.6 | 17.9 | 19.5 | 21.2 | 23.4 | 25.4 | 28.5 | 187
 
-Total gap (millions of current US$)
+Total gap (millions of current US$) | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Total
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+US $ depreciation per year | 3.0%
+Total in current millions of $US | 18.4 | 19.1 | 20.4 | 21.3 | 24.0 | 26.8 | 30.5 | 34.2 | 39.5 | 234
 
-US $ depreciation per year
+Gap for other levels on recurrent | 12.3 | 12.9 | 13.5 | 14.1 | 15.2 | 16.4 | 17.6 | 18.8 | 20.2 | 141
 
-Total in current millions of $US
+It is worth noting that the gap above has been computed with estimated donor support taken into account in the ‘already committed’ sub-table. Note in particular, the peak estimated for 2008 without which the financing gap would be larger. Chapter 4 of the sister document to this, i.e. the Country Status Report (CSR) - Education in Sierra Leone – Present Challenges, Future Opportunities, presents details on donor support for education up to 2004/2005. Annex 7 which shows external donor commitments for the period 2000 to 2004 is taken from the CSR. More up to date information on resource inflows are presently being put together by the Development Aid Co-ordinating Office (DACO) and the Improved Governance and Accountability Gap (IGAP) groups and will be used to update the level of the financing gap when available.
 
-Gap for other levels on recurrent
-
-2007
-
-18.4
-
-12.3
-
-2008
-
-19.1
-
-12.9
-
-2009
-
-20.4
-
-13.5
-
-2010
-
-21.3
-
-14.1
-
-2011
-
-24.0
-
-15.2
-
-2012
-
-26.8
-
-16.4
-
-2013
-
-30.5
-
-17.6
-
-2014
-
-34.2
-
-18.8
-
-2015
-
-39.5
-
-20.2
-
-Total
-
-234
-
-141
-
-It is worth noting that the gap above has been computed with estimated donor support taken into account in the 'already  committed'  sub-table.  Note  in  particular,  the  peak  estimated  for  2008  without  which  the  financing  gap would be larger. Chapter 4 of the sister document to this, i.e. the Country Status Report (CSR) - Education in Sierra Leone  -  Present  Challenges,  Future  Opportunities,  presents  details  on  donor  support  for  education  up  to 2004/2005. Annex 7 which shows external donor commitments for the period 2000 to 2004 is taken from the CSR. More up to date information on resource inflows are presently being put together by the Development Aid Coordinating Office (DACO) and the Improved Governance and Accountability Gap (IGAP) groups and will be used to update the level of the financing gap when available.
-
-> 13 Please note that the financing gap has taken into account anticipated donor support / external funding which is presented in the table under 'already committed, capital, upgrading'.
-
-3.0%
+> 13 Please note that the financing gap has taken into account anticipated donor support / external funding which is presented in the table under ‘already committed, capital, upgrading’.
 
 37
 
@@ -2401,12 +1882,12 @@ Share of Primary Education in Overall Spending (%) | 51.0 | 47.4 | 46.7 | 46.1 |
 Grade 1 (GIR) | 159% | 129% | 120% | 110% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
 Grade 6 (Proxy Completion rate) | 55% | 67% | 71% | 75% | 79% | 84% | 88% | 92% | 96% | 100% | 100%
 Prim Teacher remuneration as multiple of GDP per capita
-Category 2; Teacher | 3.3 | 3.5 | 3.5 | 3.6 | 3.7 | 3.7 | 3.8 | 3.9 | 3.9 4.0 | 3.5
-Spending on inputs other than teachers as % of total recurrent spending | 31% | 32% | 32% | 33% | 33% | 33% | 34% | 34% | 35% 35% | 33%
+Category 2; Teacher | 3.3 | 3.5 | 3.5 | 3.6 | 3.7 | 3.7 | 3.8 | 3.9 | 3.9 | 4.0 | 3.5
+Spending on inputs other than teachers as % of total recurrent spending | 31% | 32% | 32% | 33% | 33% | 33% | 34% | 34% | 35% | 35% | 33%
 Prim Pupil teacher ratio (public) | 61 | 57 | 55 | 54 | 52 | 51 | 49 | 48 | 46 | 45 | approx 40
-Repetition Rate | 12% | 10% | 9% | 9% | 8% | 8% | 7% | 6% | 6% 5% | 10% less | or
-Annual Hours of Instruction (aver - single and double shift) | 886 | 892 | 898 | 904 | 910 | 915 | 921 | 927 | 933 | 933 | 850 or more 10% or
-% of pupils in private schools | 5% | 6.4% | 6.8% | 7.3% | 7.7% | 8.2% | 8.6% | 9.1% | 9.5% | 10.0% | less
+Repetition Rate | 12% | 10% | 9% | 9% | 8% | 8% | 7% | 6% | 6% | 5% | 10% or less
+Annual Hours of Instruction (aver - single and double shift) | 886 | 892 | 898 | 904 | 910 | 915 | 921 | 927 | 933 | 933 | 850 or more
+% of pupils in private schools | 5% | 6.4% | 6.8% | 7.3% | 7.7% | 8.2% | 8.6% | 9.1% | 9.5% | 10.0% | 10% or less
 Indicative framework
 Financing gap for recurrent costs (constant millions of US $ base year)
 Primary | -9.2 | -10.0 | -10.4 | -10.8 | -11.0 | -12.7 | -14.5 | -16.5 | -18.3 | -20.9
@@ -2467,7 +1948,7 @@ The Government of Sierra Leone is committed to the provision of free and compuls
 
 Inadequate number and distribution of schools: There is an inadequate number of fully equipped and adequately furnished schools for the anticipated expansion in enrolment at the JSS level when you consider that there are about 4,000 primary schools feeding into less than 300 secondary schools. Access to JSS education would be highly feasible when the schools are well distributed especially closer to the community. The basis of this proposal is the outcome of the 2003/04 Sierra Leone Integrated Household Survey (SLIHS) on the issue  of  community perceptions on why children don't attend school. The survey revealed that 37% of the respondents (the second highest response) stated that the location of the schools were too far away from the community.
 
-Improving the NER: The high percentage of 15 to 17 year olds enrolled at the JSS level indicates that the majority of children in JSS are well above the official age for the level i.e. 12 to 14 years as most children start schooling late and that matters are not aided by class repetition hence the high percentage of 'overaged' children. The national Net Enrolment Ratio (NER) for the JSS level of 12% 17 therefore  must be improved  by  providing  access  to  all  the  children  of  Junior  Secondary  School-going  age  (12-14years), especially the primary completers if they are to attain basic education.
+Improving the NER: The high percentage of 15 to 17 year olds enrolled at the JSS level indicates that the majority of children in JSS are well above the official age for the level i.e. 12 to 14 years as most children start schooling late and that matters are not aided by class repetition hence the high percentage of ‘over-aged’ children. The national Net Enrolment Ratio (NER) for the JSS level of 12% 17 therefore must be improved by providing access to all the children of Junior Secondary School-going age (12-14years), especially the primary completers if they are to attain basic education.
 
 Strengthening government interventions : Government over the years has been making significant inputs into the system  but  yet  still  those  resources  are  inadequate  if  the  Universal  Basic  Education  is  to  be  achieved. There is a need to further reduce the cost of JSS education to parents, especially in the area of prohibiting the extra-school charges usually levied. The 2003/04 Sierra Leone Integrated Household survey (SLIHS) on the issue  of  community perceptions on why children don't attend school revealed that 42% of the respondents stated economic difficulties as the primary reason.
 
@@ -2485,12 +1966,6 @@ Improving  repetition  rate: Repetition  rates  at  the  JSS  level  is  about  
 
 [[START OF PAGE 56]]
 
-JSS
---- | ---
-Dropout-related | 0.95
-Repetition-related | 0.86
-Overall | 0.81
-
 Figure 19: Index of Efficiency in Student Flow for JSS Schools, 2004/05
 
 Source: CSR Authors' calculations based on MEST data
@@ -2501,7 +1976,7 @@ Getting more instructional hours. The rate of repetition cannot be wholly unconn
 
 Staff: There  are  inadequate  numbers  of  trained,  qualified  and  motivated  teachers  in  Mathematics, Science, Technology, French and Language, and in the remote rural areas.  There is  also  an inadequate number of relevant support staff such as Librarians, Laboratory Technicians, IT/Computer Specialists/Tutors, and in the remote rural areas. There is the challenge of retaining these staff as they have a high attrition rate due to unattractive salary structure and conditions of service for teachers.
 
-Teaching  and  learning  materials  in  schools: There  is  a  scarcity  of  relevant  teaching  and  learning  materials  or teaching  aids  in  many  Junior  Secondary  Schools.  In  addition,  wherever  they  are  found  there  are  illequipped libraries, laboratories, Home Economic Centres, Workshops etc.
+Teaching and learning materials in schools: There is a scarcity of relevant teaching and learning materials or teaching aids in many Junior Secondary Schools. In addition, wherever they are found there are ill-equipped libraries, laboratories, Home Economic Centres, Workshops etc.
 
 Curriculum: Irrelevant curriculum hardly meeting the needs of learners and society and hardly related to the cultures and values of the people.
 
@@ -2519,6 +1994,12 @@ Weak  financial  management: Financial  management  of  funds  must  be  improve
 
 - The SABABU Education Project is constructing, reconstructing and rehabilitating a large number of  schools  to  meet  this  expected  expansion.  Implementation  of  the  Sababu  Education  Project known  as  the  Rehabilitation  of  Basic  Education  Project  to  the  World  Bank  (IDA)  and  the Rehabilitation  of  Basic  and  Non-Formal  Education  and  Skills  Training  Project  to  the  African Development Bank, started in 2003 and has a value of US$40 million, ten percent of which is to be provided by the GOSL. For the World Bank the project ends in June 2008 whilst for the ADB it ends in December 2007.
 
+JSS
+--- | ---
+Dropout-related | 0.95
+Repetition-related | 0.86
+Overall | 0.81
+
 41
 
 [[END OF PAGE 56]]
@@ -2533,16 +2014,16 @@ Weak  financial  management: Financial  management  of  funds  must  be  improve
 
 The key strategies designed to address the specific objectives above are summarized in Figure 20. The log frame follows in the next section. It should be noted that some items in the log-frame are not contained in the narrative, this is to minimise the amount of repetition.
 
+Figure 20: Specific Objectives and Key Strategies for Expanding and Improving JSS Education
+
 Specific Objective | Key Strategies
 --- | ---
-To ensure that primary completers meeting pre-set criteria access Junior Secondary Schooling. | square4 Enough schools for those accessing JSS square4 All chiefdoms with JSS square4 Accessibility to schools in difficult terrain square4 Ensure that facilities for the Special needs are in place
-To improve the access of girls to and completion of junior secondary education with the aim of attaining gender parity and equality | square4 Reduce the cost of girls' education in all LGAs square4 Sensitizations to girl-child education to be continuous square4 Allow child-mothers and drop-out girls to return to school square4 Provide girls with incentives to complete school
-To ensure that all children starting junior secondary school do finish. | As most children starting JSS do complete we should concentrate on:-. square4 Improving the repetition rate square4 Reducing drop-out rate to less than 5%.
-To improve the quality of junior secondary education nationwide. | square4 Ensure that there are good quality teachers in schools in all LGAs, with a special focus on rural areas square4 Ensure that there is improvement in the quality of teaching/learning environment square4 Effective monitoring and supervision of schools to ensure quality square4 Improve financial management process in schools
-To provide for JSS children to realise their potential | square4 Create a challenging and attractive JSS environment square4 Use the more able to help educate their peers
-To provide a rounded education for maximum student development | square4 Make improved provisions for the physical well-being of the pupil square4 Further encourage the Psycho-social development of the pupil square4 Encourage the development of more positive attitudes
-
-Figure 20: Specific Objectives and Key Strategies for Expanding and Improving JSS Education
+To ensure that primary completers meeting pre-set criteria access Junior Secondary Schooling. | • Enough schools for those accessing JSS • All chiefdoms with JSS • Accessibility to schools in difficult terrain • Ensure that facilities for the Special needs are in place
+To improve the access of girls to and completion of junior secondary education with the aim of attaining gender parity and equality | • Reduce the cost of girls’ education in all LGAs • Sensitizations to girl-child education to be continuous • Allow child-mothers and drop-out girls to return to school • Provide girls with incentives to complete school
+To ensure that all children starting junior secondary school do finish. | As most children starting JSS do complete we should concentrate on:-. • Improving the repetition rate • Reducing drop-out rate to less than 5%.
+To improve the quality of junior secondary education nationwide. | • Ensure that there are good quality teachers in schools in all LGAs, with a special focus on rural areas • Ensure that there is improvement in the quality of teaching/learning environment • Effective monitoring and supervision of schools to ensure quality • Improve financial management process in schools
+To provide for JSS children to realise their potential | • Create a challenging and attractive JSS environment • Use the more able to help educate their peers
+To provide a rounded education for maximum student development | • Make improved provisions for the physical well-being of the pupil • Further encourage the Psycho-social development of the pupil • Encourage the development of more positive attitudes
 
 42
 
@@ -2551,6 +2032,8 @@ Figure 20: Specific Objectives and Key Strategies for Expanding and Improving JS
 [[START OF PAGE 58]]
 
 #### F.  Log Frame
+
+Figure 21: Log Frame with Prioritized List of Activities (short, medium and long term) for the Junior Secondary School (JSS) Sector
 
 Specific Objective | Strategies | Required Actions | Indicators of Achievement | Responsible | Time
 --- | --- | --- | --- | --- | ---
@@ -2566,9 +2049,7 @@ Ensure that special needs children benefit from feeding programme | Fewer disadv
 To improve the access of girls to and completion of junior secondary education with the aim of attaining gender parity | Reduce the cost of education to girls in all LGAs | Government to improve its intervention for girls in all LGAs | More girls in school at an average cost to parents that is lower than that of boys | MEST + LGAs + NGOs + UN Agencies+Donors | ST-MT
 Prioritise girls for post-JSS sponsorship | greater percentage of girls than boys benefiting from post-JSS sponsorship
 Sensitizations to girl-child education to be continuous | Embark on sensitisation campaign on the benefits of education for girls | Increase in number of girls accessing primary schooling | MEST, LGAs, NGOs, Traditional leaders, including Paramount Chiefs. | ST-LT
-Child-mothers and drop- outs allowed to continue | Provide affordable child care options for all | Increase in girls JSS completion rate | MEST, LGAs, NGOs, UN Agencies and other funding partners | ST-LT
-
-Figure 21: Log Frame with Prioritized List of Activities (short, medium and long term) for the Junior Secondary School (JSS) Sector
+Child-mothers and drop-outs allowed to continue | Provide affordable child care options for all | Increase in girls JSS completion rate | MEST, LGAs, NGOs, UN Agencies and other funding partners | ST-LT
 
 43
 
@@ -2604,6 +2085,7 @@ Enforce 'rights of child' and child labour legislations | Fewer primary and JSS 
 
 Specific Objective | Strategies | Required Actions | Indicators of Achievement | Responsible | Time
 --- | --- | --- | --- | --- | ---
+trading, mining and begging during school hours.
 To improve the quality of junior secondary education nationwide. | Ensure that there are good quality teachers in schools in all LGAs with a special focus on rural areas | Employ trained and qualified teachers | Trained and qualified teachers in JSS schools | MEST + LAs + Proprietors + NGOs + UN Agencies + Donor Community | ST-LT
 Provide more planned and better quality in-service training and annual development workshops | More teachers with in-service training and Annual school based workshops going on
 Revisit and review conditions of service | Revised conditions of service for teachers
@@ -2633,14 +2115,16 @@ reading into school tests - See also Chapter 6.
 Effective monitoring and supervision of schools to ensure quality | Annual Plan of inspection of schools to be developed by Inspectorate | Annual plan of inspection available and being implemented | MEST, and LGAs, | ST-MT
 Appoint more inspectorate staff | Increased number of staff | MEST, MoF
 Develop annual budget for inspectoral activities to be conducted | Annual budget developed and MoF scaling finances provided to inspectorate | MEST and MoF
-Biennial short term in-service training for all inspectorate staff | All inspectorate staff participating in short term in- service training | MEST and other educational Partners | ST-LT ST-LT
-Provision of communication equipment and transportation facilities | Cell phones, bicycles, motor bikes and pick-up vans provided | MoF, , UN Agencies, NGOs, Donor community
+Biennial short term in-service training for all inspectorate staff | All inspectorate staff participating in short term in-service training | MEST and other educational Partners | ST-LT
+Provision of communication equipment and transportation facilities | Cell phones, bicycles, motor bikes and pick-up vans provided | MoF, , UN Agencies, NGOs, Donor community | ST-LT
 Improve financial management process in schools | Financial management training for all principals/vice-principals and senior teachers of schools in all LGAs during the holidays | Judicious use of resources by schools administration | SLTU, LGAs, MoF, MODEP | ST-MT
 Employ qualified and trained Bursars/Accountants | Qualified and trained Bursars /Accountants in all JSS schools | Board of Governors of schools | ST-LT
-To provide for JSS children to realise their potential | Create a challenging and attractive JSS environment Use the more able to help | Establish district level schools of excellence at JSS level | Schools of excellence functioning | MEST + NGOs + UN Agencies | ST-MT
-educate their peer | Establish national, regional and district prizes for excellence in different subject areas | Criteria for awards agreed and prizes being awarded
+To provide for JSS children to realise their potential | Create a challenging and attractive JSS environment; Use the more able to help educate their peer | Establish district level schools of excellence at JSS level | Schools of excellence functioning | MEST + NGOs + UN Agencies | ST-MT
+Establish national, regional and district prizes for excellence in different subject areas | Criteria for awards agreed and prizes being awarded
 Ensure that schools of excellence adequately equipped and staff | Schools equipped and staffed in accordance with agreed guidelines
-Establish links between JSS and SSS schools of excellence Encourage methodologies to enable gifted children to interact with and educate other children Provide relevant knowledge and skills to gifted children that can be transferred to their parents | JSS and SS schools of excellence linked for continuity
+Establish links between JSS and SSS schools of excellence | JSS and SS schools of excellence linked for continuity
+Encourage methodologies to enable gifted children to interact with and educate other children
+Provide relevant knowledge and skills to gifted children that can be transferred to their parents
 To provide a rounded education for maximum student development | Make improved provisions for the physical well-being of the pupil | Rehabilitate and improve on sports facilities for schools at the district level | Rehabilitated sports grounds/ facilities in use in districts | MEST, Ministry of Youths and Sports, LGAs, Community leaders, MSWGCA | ST-MT
 Revisit and re-organise / better structure PE/sport programmes at the JS school | Properly planned sports programmes in operation at
 
@@ -2705,21 +2189,23 @@ Total | 85,664 | 93,516 | 102,007 | 111,184 | 119,457 | 128,280 | 137,687 | 147,
 
 Figure 24: Medium-Term (2007-10) Financing Gap for Junior Secondary Education
 
-Total gap for JSS (millions of Leones) | 2007 | 2008 | 2009 2010 | Total
---- | --- | --- | --- | ---
-Recurrent | 11,376 | 11,950 12,387 | 12,672 | 48,385
+Total gap for JSS (millions of Leones) | 2007 | 2008 | 2009 | 2010 | Total
+--- | --- | --- | --- | --- | ---
+Recurrent | 11,376 | 11,950 | 12,387 | 12,672 | 48,385
 Capital
-Classrooms, Housing, etc | 14,341 | 14,341 14,341 | 14,341 | 57,363
-Total per annum (millions of Leones) | 25,717 | 26,291 26,728 | 27,013 | 105,749
-Total gap for JSS (millions of 2004 $US) | 2,007 | 2,008 2,009 | 2,010 | 8,034
+Classrooms, Housing, etc | 14,341 | 14,341 | 14,341 | 14,341 | 57,363
+Total per annum (millions of Leones) | 25,717 | 26,291 | 26,728 | 27,013 | 105,749
+
+Total gap for JSS (millions of 2004 $US) | 2007 | 2008 | 2009 | 2010 | Total
 2004 exchange rate
-Recurrent | 4 | 4 5 | 5 | 18
+Recurrent | 4 | 4 | 5 | 5 | 18
 Capital
-Classrooms, Housing, etc | 5 | 5 5 | 5 | 21
-Total per annum (millions of 2004 $US) | 10 | 10 10 | 10 | 39
-Total gap (millions of current US$) | 2,007 | 2,008 2,009 | 2,010 | 8,034
+Classrooms, Housing, etc | 5 | 5 | 5 | 5 | 21
+Total per annum (millions of 2004 $US) | 10 | 10 | 10 | 10 | 39
+
+Total gap (millions of current US$) | 2007 | 2008 | 2009 | 2010 | Total
 US $ depreciation per year
-Total in current millions of $US | 10 | 11 11 | 12 | 45
+Total in current millions of $US | 10 | 11 | 11 | 12 | 45
 
 48
 
@@ -2727,23 +2213,25 @@ Total in current millions of $US | 10 | 11 11 | 12 | 45
 
 [[START OF PAGE 64]]
 
+Figure 25: Long-Term (2007-15) Financing Gap for Junior Secondary Education
+
 Total gap for JSS (millions of Leones) | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Recurrent | 11,376 | 11,950 | 12,387 | 12,672 | 13,420 | 14,092 | 14,681 | 15,183 | 15,590 | 121,351
 Capital
 Classrooms, Housing, etc | 14,341 | 14,341 | 14,341 | 14,341 | 14,341 | 14,341 | 14,341 | 14,341 | 14,341 | 129,067
 Total per annum (millions of Leones) | 25,717 | 26,291 | 26,728 | 27,013 | 27,761 | 28,432 | 29,022 | 29,523 | 29,931 | 250,418
+
 Total gap for JSS (millions of 2004 $US) | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Total
 2004 exchange rate | 2,701
 Recurrent | 4.2 | 4.4 | 4.6 | 4.7 | 5.0 | 5.2 | 5.4 | 5.6 | 5.8 | 44.9
 Capital
 Classrooms, Housing, etc | 5.3 | 5.3 | 5.3 | 5.3 | 5.3 | 5.3 | 5.3 | 5.3 | 5.3 | 47.8
 Total per annum (millions of 2004 $US) | 9.5 | 9.7 | 9.9 | 10.0 | 10.3 | 10.5 | 10.7 | 10.9 | 11.1 | 92.7
+
 Total gap (millions of current US$) | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Total
 US $ depreciation per year | 3.0%
 Total in current millions of $US | 10.4 | 11.0 | 11.5 | 11.9 | 12.6 | 13.3 | 14.0 | 14.7 | 15.3 | 44.8
-
-Figure 25: Long-Term (2007-15) Financing Gap for Junior Secondary Education
 
 49
 
@@ -2793,16 +2281,16 @@ Increase number of schools and facilities: Even though the numbers accessing the
 
 Improve national Net Enrolment Ratio (NER): The effect of increasing enrolment at the primary level is felt at all higher levels of the system. Approximately 53% presently transit from JSS to SSS. Due to increasing enrolment at the JSS level, the numbers accessing SSS and SSTV have increased as Figure 26 shows.
 
+Figure 26: Senior Secondary School Enrolment Trends, 2000/01 to 2004/05
+
 Senior Secondary School (SSS)
 --- | --- | --- | ---
-Boys | Girls | TOTAL
+ | Boys | Girls | TOTAL
 2000/01 | 12,806 | 10,123 | 22,929
 2001/02 | 14,154 | 8,103 | 22,257
 2002/03 | 24,825 | 11,361 | 36,185
 2003/04 | 26,292 | 12,032 | 38,324
 2004/05 | 28,541 | 16,383 | 44,924
-
-Figure 26: Senior Secondary School Enrolment Trends, 2000/01 to 2004/05
 
 Source: MEST, From CSR, World Bank, 2006
 
@@ -2810,13 +2298,10 @@ Despite  the  growth  in  enrolments,  access  to  the  sector  is  quite  low  
 
 Gender  Parity: Gender disparities  in  this  sector  are  quite  large  as  evidenced  by  national  NER  (male-7%, female-5%) and GER (male-30%, female-14%) 19 parity indices above. For example for every 100 students enrolled in SSS and SSTV in 2004, 65 were boys and 35 were girls.
 
-Figure 27:  Enrolment in SSS and SSTV By Sex
-
-Erreur !
-
-Males
+Figure 27: Enrolment in SSS and SSTV By Sex
 
 Females
+Males
 
 From: 2004 Population Census Report, SSL, 2006
 
@@ -2834,9 +2319,9 @@ Overall | 0.88
 
 Figure 28: Index of Efficiency in Student Flow for SSS Schools, 2004/05
 
-Source: CSR Authors' calculations based on MEST data This is plausible since only the most advantaged access this sector. More work should be done for us to improve on the drop-out and repetition rates to enable achievement of a 100% completion rate. However, it is worthy of note that girls drop out earlier than boys which is often due to the early marriage factor.
+Source: CSR Authors' calculations based on MEST data
 
-> 18 2004 Population Census Report, SSl,2006
+> 18 2004 Population Census Report, SSL,2006
 
 > 19 Ibid.
 
@@ -2847,6 +2332,7 @@ Source: CSR Authors' calculations based on MEST data This is plausible since onl
 [[END OF PAGE 66]]
 
 [[START OF PAGE 67]]
+This is plausible since only the most advantaged access this sector. More work should be done for us to improve on the drop-out and repetition rates to enable achievement of a 100% completion rate. However, it is worthy of note that girls drop out earlier than boys which is often due to the early marriage factor.
 
 ##### Quality
 
@@ -2880,16 +2366,16 @@ Effective  Quality  assurance  system: The governance structure of SSSs is ident
 
 The key strategies designed to address the specific objectives above are summarized in Figure 29.
 
+Figure 29: Specific Objectives and Key Strategies for Expanding and Improving JSS Education
+
 Specific Objective | Key Strategies
 --- | ---
-Expand enrolments in the Senior Secondary School sector, especially for girls and the disadvantaged | square4 Make available access to SSS schools square4 Curb the tradition of early marriages of the girl- child square4 Accessibility to schools in difficult terrain square4 Make SSSs 'special needs' friendly square4 Girl-child education sensitizations to be continuous. square4 Allow child-mothers and drop-out girls to return to school square4 Provide girls with incentives to complete school square4 Reduce the cost of education to SSS girls in all LGAs
-To ensure that all children starting Senior Secondary School do complete. | As most children starting SSS do complete we should concentrate on:-. square4 Improving the repetition rate to 5% or less square4 Reducing drop-out rate to 5%.or less
-Better preparation of pupils for the world of work (those not continuing with tertiary education) | square4 Examine the relevance of the curriculum to meet the needs of society. square4 Provide required knowledge and resources for world of work
-To improve the quality of Senior Secondary education nationwide. | square4 Ensure that there are good quality teachers in SSS in all districts, with a special focus on rural areas square4 Ensure that there is improvement in the quality of teaching/learning environment square4 Effective monitoring and supervision of schools to ensure quality square4 Improve financial management process in schools
-To provide for SSS children to realise their potential | square4 Create a challenging and attractive SSS environment square4 Use the more able to help educate their peers
-To ensure that SSS pupils receive a rounded education | square4 Make improved provisions for the physical well-being of the pupil square4 Further encourage the Psycho-social development of the pupil square4 Encourage the development of more positive attitudes
-
-Figure 29: Specific Objectives and Key Strategies for Expanding and Improving JSS Education
+Expand enrolments in the Senior Secondary School sector, especially for girls and the disadvantaged | • Make available access to SSS schools • Curb the tradition of early marriages of the girl-child • Accessibility to schools in difficult terrain • Make SSSs ‘special needs’ friendly • Girl-child education sensitizations to be continuous. • Allow child-mothers and drop-out girls to return to school • Provide girls with incentives to complete school • Reduce the cost of education to SSS girls in all LGAs
+To ensure that all children starting Senior Secondary School do complete. | As most children starting SSS do complete we should concentrate on:-. • Improving the repetition rate to 5% or less • Reducing drop-out rate to 5%.or less
+Better preparation of pupils for the world of work (those not continuing with tertiary education) | • Examine the relevance of the curriculum to meet the needs of society. • Provide required knowledge and resources for world of work
+To improve the quality of Senior Secondary education nationwide. | • Ensure that there are good quality teachers in SSS in all districts, with a special focus on rural areas • Ensure that there is improvement in the quality of teaching/learning environment • Effective monitoring and supervision of schools to ensure quality • Improve financial management process in schools
+To provide for SSS children to realise their potential | • Create a challenging and attractive SSS environment • Use the more able to help educate their peers
+To ensure that SSS pupils receive a rounded education | • Make improved provisions for the physical well-being of the pupil • Further encourage the Psycho-social development of the pupil • Encourage the development of more positive attitudes
 
 53
 
@@ -2899,6 +2385,8 @@ Figure 29: Specific Objectives and Key Strategies for Expanding and Improving JS
 
 #### F.  Log Frame
 
+Figure 30: Log Frame with Prioritized List of Activities (short, medium and long term) for the Senior Secondary School (SSS) Sector
+
 Specific Objectives | Strategies | Required Action | Indicators of Achievement | Responsible | Time
 --- | --- | --- | --- | --- | ---
 Expand enrolments in the Senior Secondary School sector, especially for girls and the disadvantaged | Make available access to SSS schools | Quick assessment of school need conducted per LGA by Local council authorities | Quick assessment report | MEST + LGAs + Chiefs +NGOs | ST-MT
@@ -2906,16 +2394,14 @@ Contract builders / contractors to rehabilitate and construct schools | New and 
 Curb the tradition of early marriages of the girl-child | Protect the girl-child - enact legislations for early marriages of the girl-child | Legislations forbidding early marriage in place | MEST, Law Enforcement Agencies, Traditional Leaders, paramount Chiefs | ST-LT
 Sensitise chiefs and traditional leaders. | Early marriage practice greatly reduced
 Accessibility to schools in difficult terrain | Design and execute jointly formulated accessibility to school plan via difficult land terrain or rivers. | All towns and villages with schools accessible by road/rivers | MEST, Ministry of Transport and Communications, NGO Partners, Local Council authorities, Village and Town Communities under guidance of their traditional leaders, Sierra Leone Roads Authority | MT-LT
-Make SSSs 'special needs' friendly | Construct ramps and guides in order to make schools and toilet facilities more accessible to the disabled and blind | Special needs children able to move around school buildings easily | MEST + MSWGCA + MOH + LGAs + I/NGOs | ST-LT
+Make SSSs ‘special needs’ friendly | Construct ramps and guides in order to make schools and toilet facilities more accessible to the disabled and blind | Special needs children able to move around school buildings easily | MEST + MSWGCA + MOH + LGAs + I/NGOs | ST-LT
 Provide teaching/learning materials usable by the blind | More teaching learning materials available for the blind
 Arrange for quarterly health checks for them | Less absenteeism and dropping out by special needs children
-Provide School Guidance Counsellors trained to attend 'special needs' children | Schools more aware of needs of special needs children and how to provide for their learning needs
+Provide School Guidance Counsellors trained to attend ‘special needs’ children | Schools more aware of needs of special needs children and how to provide for their learning needs
 Girl-child education sensitizations to be continuous. | Embark on sensitisation campaign on the benefits of education for girls | Increase in number of girls accessing primary schooling | MEST, LGAs, NGOs, Traditional leaders, including Paramount Chiefs. | ST-LT
 Allow child-mothers and drop-out girls to return to school | Provide affordable child care options for all | Increase in girls JSS completion rate | MEST, LGAs, NGOs, UN Agencies and other funding partners | ST-LT
 Provide girls with incentives to complete school | extend the practice of providing free education to girls in Senior Secondary Schools starting with the most disadvantaged | Increase in girls SSS-tertiary education transition rate | MEST, inputs from other education -funding partners | ST-LT
 Reduce the cost of education to SSS girls in all LGAs | Government to improve its intervention for girls in all LGAs | More girls in school at an average cost to parents that is lower than that of boys
-
-Figure 30: Log Frame with Prioritized List of Activities (short, medium and long term) for the Senior Secondary School (SSS) Sector
 
 54
 
@@ -2956,7 +2442,7 @@ Enforce 'rights of child' and child labour legislations | Fewer SSS aged childre
 Better preparation of pupils for the world of work (those not continuing with tertiary education) | Examine the relevance of the curriculum to meet the needs of society. | Ensure that revised curriculum makes provision for preparing students for work | SSS graduates better prepared for world of work | MEST + MLE + Chamber of Commerce + NGOs + Labour Congress | ST-MT
 Provide required knowledge and resources for world of work | Organise seminars to be given by various firms/companies about their businesses Organise visits to industries and offices | Greater interaction between world of work and schools.
 Train Guidance Counsellors to give careers guidance and jobs counselling. | Guidance Counsellors providing careers guidance and advice for students
-Encourage schools to establish links with businesses/ industries Establish dialogue with businesses / industries on skills they would want school | Smoother interface between school and work
+Encourage schools to establish links with businesses/ industries; Establish dialogue with businesses / industries on skills they would want school graduates to possess | Smoother interface between school and work
 To improve the quality of Senior Secondary education nationwide. | Ensure that there are good quality teachers in schools in all LGAs, with a special focus on rural areas | Employ trained and qualified teachers | Trained and qualified teachers in SSS schools | MEST + LAs + Proprietors + NGOs + UN Agencies + Donor Community | ST-LT
 Provide more planned and better quality in- service training and annual development workshops | More teachers with in-service training and Annual school based workshops going on
 Revisit and review conditions of service | Revised conditions of service for teachers
@@ -2985,8 +2471,8 @@ Employ more teaching support staff/technicians | More staff employed and teachin
 Effective monitoring and supervision of schools to ensure quality | Annual Plan of inspection of schools to be developed by Inspectorate | Annual plan of inspection available and being implemented | MEST, and LGAs, | ST-MT
 Appoint more inspectorate staff | Increased number of staff | MEST, MoF
 Develop annual budget for inspectoral activities to be conducted | Annual budget developed and MoF scaling finances provided to inspectorate | MEST and MoF
-Biennial short term in-service training for all inspectorate staff | All inspectorate staff participating in short term in- service training | MEST and other educational Partners | ST-LT ST-LT
-Provision of communication equipment and transportation facilities | Cell phones, Bicycles, motor bikes and pick-up vans provided | MoF, , UN Agencies, NGOs, Donor community
+Biennial short term in-service training for all inspectorate staff | All inspectorate staff participating in short term in-service training | MEST and other educational Partners | ST-LT
+Provision of communication equipment and transportation facilities | Cell phones, Bicycles, motor bikes and pick-up vans provided | MoF, , UN Agencies, NGOs, Donor community | ST-LT
 Improve financial management process in schools | Financial management training for all principals/vice-principals and senior teachers of schools in all LGAs during the holidays | Judicious use of resources by schools administration | SLTU, LGAs, MoF, MODEP | ST-MT
 Employ qualified and trained bursars/Accountants | Qualified and trained Bursars /Accountants in all SSS schools | Board of Governors of schools | ST-LT
 To provide for SSS children to realise their potential | Create a challenging and attractive SSS environment Use the more able to help educate their peers | Establish district level schools of excellence | Schools of excellence functioning | MEST + Tertiary instils + NGOs + UN Agencies | ST-MT
@@ -3018,6 +2504,8 @@ Schools to organise meetings to explain rating scales and reasons for use to pup
 
 [[START OF PAGE 74]]
 
+Figure 31: SSS Parameters
+
 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Senior Secondary
@@ -3036,8 +2524,6 @@ Recurrent cost of service delivery (millions of Le constant base year)
 SSS Recurrent Cost as % of GDP | 0.3% | 0.3% | 0.3% | 0.3% | 0.3% | 0.3% | 0.4% | 0.4% | 0.4%
 Indicative framework
 Share of Primary Education in Overall Spending (%) | 6.2 | 6.5 | 6.7 | 6.9 | 6.9 | 6.9 | 6.9 | 7.0 | 6.9
-
-Figure 31: SSS Parameters
 
 Figure 32: SSS Costs
 
@@ -3076,23 +2562,25 @@ Total in current millions of $US | 3.1 | 3.3 | 3.5 | 3.7 | 13.7
 
 [[START OF PAGE 75]]
 
+Figure 34: Long-Term (2007-15) Financing Gap for Senior Secondary Education
+
 Total gap for JSS (millions of Leones) | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Recurrent | 3,812 | 4,050 | 4,242 | 4,381 | 4,685 | 4,968 | 5,230 | 5,469 | 5,684 | 42,520
 Capital
 Classrooms, Housing, sports | 3,969 | 3,969 | 3,969 | 3,969 | 3,969 | 3,969 | 3,969 | 3,969 | 3,969 | 35,723
 Total per annum (millions of Leones) | 7,781 | 8,019 | 8,211 | 8,351 | 8,654 | 8,938 | 9,199 | 9,438 | 9,653 | 78,243
+
 Total gap for JSS (millions of 2004 $US) | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Total
 2004 exchange rate | 2,701
 Recurrent | 1.4 | 1.5 | 1.6 | 1.6 | 1.7 | 1.8 | 1.9 | 2.0 | 2.1 | 15.7
 Capital
 Classrooms, Housing, sports | 1.5 | 1.5 | 1.5 | 1.5 | 1.5 | 1.5 | 1.5 | 1.5 | 1.5 | 13.2
 Total per annum (millions of 2004 $US) | 2.9 | 3.0 | 3.0 | 3.1 | 3.2 | 3.3 | 3.4 | 3.5 | 3.6 | 29.0
+
 Total gap (millions of current US$) | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Total
 US $ depreciation per year | 3.0%
 Total in current millions of $US | 3.1 | 3.3 | 3.5 | 3.7 | 3.9 | 4.2 | 4.4 | 4.7 | 4.9 | 13.7
-
-Figure 34: Long-Term (2007-15) Financing Gap for Senior Secondary Education
 
 60
 
@@ -3101,6 +2589,8 @@ Figure 34: Long-Term (2007-15) Financing Gap for Senior Secondary Education
 [[START OF PAGE 76]]
 
 ## Chapter 6
+
+## Providing More and Improved Literacy and Skills Training
 
 ### A. Goal
 
@@ -3126,9 +2616,7 @@ Improving access to books and inculcating a reading habit: It is a truism that r
 
 Improving access to adult literacy programmes: The Population Census of 2004 found that, of those age 10 years and older, only 39% were literate.  The rates varied greatly by age, for males and females and by region.  Half  of  the  male  population  is  literate  compared  with  only  29%  of  the  female  population. Given the very low levels of adult literacy there is a strong case for rapidly expanding adult literacy programmes throughout the country. The National Education Policy clearly states that top priority should be given to adult and non-formal education. Significantly improving literacy levels is essential for the attainment of poverty reduction goals. Moreover, literate parents are more likely to send their children to school. Adult literacy is therefore a key component of the UPE programme. Effort must be made to increase the coverage of adult literacy training, especially in the rural areas, where literacy is very low. In this regard, MEST would need to work closer with the Ministry of Local Government, the  Decentralisation  Secretariat,  the  Ministry  of  Youths  and  Sports  and  non-formal  education  and literacy focussed NGOs such as PADECO, PEA, etc.
 
-Nationwide access to technology-related programmes: s urveys have shown that only institutions in the Western Area  of  Freetown  and  2  other  provincial  districts  offer  programs  at  the  Higher  National  Diploma (HND)  level.    Additionally,  some  districts  do  not  have  technology-related  programs  beyond  the Community  Education  Centre  (CEC)  level.  The  consequence  is  that  access  to  technology  courses above the most basic of levels is limited.
-
-## Providing More and Improved Literacy and Skills Training
+Nationwide access to technology-related programmes: surveys have shown that only institutions in the Western Area of Freetown and 2 other provincial districts offer programs at the Higher National Diploma (HND) level. Additionally, some districts do not have technology-related programs beyond the Community Education Centre (CEC) level. The consequence is that access to technology courses above the most basic of levels is limited.
 
 61
 
@@ -3204,14 +2692,14 @@ TVET  has  in  the  recent  past  become  recognized  as  an  essential  pre-req
 
 The key strategies designed to address the specific objectives above are summarized in Figure 35.
 
+Figure 35: Specific Objectives and Key Strategies for Providing More and Improved Literacy and Skills Training
+
 Specific Objective | Key Strategies
 --- | ---
-Raise the literacy rate in the country To provide equitable access to literacy and quality skills training for individuals with no schooling and those with education below the tertiary level. | square4 Continue with the nationwide literacy campaign square4 Better coordination and administration of skills training by improving on existing structures square4 Improve access and enrolment to all with focus on females and the physically and mentally challenged by establishing more literacy and skills training centres nationwide. square4 Sensitise the public on the importance of the linkages between literacy eradication, skills training and poverty alleviation. square4 Standardise the fees charged for the various courses and fix discount rates for the disadvantaged, females and physically and mentally challenged square4 Create an environment that is more conducive to encouraging reading
-To ensure that the appropriate quality skills training meet the skills training needs of the country. | square4 Dialogue with industries and employers to ascertain needs. square4 Development of improved and new standardised courses, curricula and syllabi for literacy and skills training at all levels below the tertiary to meet the needs of the country.
-To provide internationally recognised accreditations for TVET offerings. | square4 Harmonise the curricula of all TVET institutions below the polytechnic level. square4 Conduct standardised examinations for certificate-granting TVET institutions square4 Sensitise employers as to the accredited certificates for employment, without which employment cannot be done.
-To ensure that all individuals accessing TVET institutions at the pre-polytechnic level become self-sustainable. | square4 Ensure improvement in the quality of teaching square4 Curriculum provision to be oriented but not limited to self -sustenance of individuals.
-
-Figure 35: Specific Objectives and Key Strategies for Providing More and Improved Literacy and Skills Training
+Raise the literacy rate in the country<br><br>To provide equitable access to literacy and quality skills training for individuals with no schooling and those with education below the tertiary level. | • Continue with the nationwide literacy campaign<br>• Better coordination and administration of skills training by improving on existing structures<br>• Improve access and enrolment to all with focus on females and the physically and mentally challenged by establishing more literacy and skills training centres nationwide.<br>• Sensitise the public on the importance of the linkages between literacy eradication, skills training and poverty alleviation.<br>• Standardise the fees charged for the various courses and fix discount rates for the disadvantaged, females and physically and mentally challenged<br>• Create an environment that is more conducive to encouraging reading
+To ensure that the appropriate quality skills training meet the skills training needs of the country. | • Dialogue with industries and employers to ascertain needs.<br>• Development of improved and new standardised courses, curricula and syllabi for literacy and skills training at all levels below the tertiary to meet the needs of the country.
+To provide internationally recognised accreditations for TVET offerings. | • Harmonise the curricula of all TVET institutions below the polytechnic level.<br>• Conduct standardised examinations for certificate-granting TVET institutions<br>• Sensitise employers as to the accredited certificates for employment, without which employment cannot be done.
+To ensure that all individuals accessing TVET institutions at the pre-polytechnic level become self-sustainable. | • Ensure improvement in the quality of teaching<br>• Curriculum provision to be oriented but not limited to self -sustenance of individuals.
 
 64
 
@@ -3225,32 +2713,25 @@ Figure 36: Log Frame with Prioritized List of Activities (short, medium and long
 
 Specific Objective | Strategies | Required actions | Indicators of Achievement | Responsible | Time
 --- | --- | --- | --- | --- | ---
-Raise the literacy rate in the country | Continue with the nationwide literacy campaign and create an environment more conducive to encouraging reading | • Produce and adopt a book policy • Ensure the establishment of more libraries in school and outside • Train unemployed but literate youths to be trainers • Provide literacy to adults with emphasis on females using messages focusing on child and maternal survival • Provide functional literacy to adults with special needs focusing on livelihood skills • Require schools to include reading in their school examinations • Organise reading competitions for which attractive prizes are awarded | Literacy rates increase | MEST, Ministry of Youth and Sports, MSWGCA, NGOs, Ministry of Local Government + Decentralisation Secretariat | ST- MT
-To provide equitable access to literacy and quality skills training for individuals with no schooling and those with education below the tertiary level. | Better coordination and administration of skills training by improving on existing structures | square4 Visit existing structures, review and identify shortcomings | Existence of review report | MEST+ LGAs + Technical Vocational Council+Donors | ST- MT
-square4 Restructure to obtain desired results | New structure in operation and performing better than former
-Improve access and enrolment to all with focus on females and the physically and mentally challenged by establishing more literacy and skills training centres nationwide. | square4 Construction and rehabilitation of more literacy and skills training centres which are special needs and female friendly and with solar panel power source | More and better quality CECs and TVCs structures which are special needs and female-friendly with power supply | MEST, NGOs, LGAs, Private enterprises Donors | ST- MT
-square4 Phased distribution of centres by districts and then by chiefdoms | Sufficient CECs and TVCs in all districts and chiefdoms | and
-square4 Adequate provisions be made to cope with demands from primary and JSS school leavers and adult learners | More disadvantaged and special needs pursuing VST courses.
-Sensitise the public on the importance of the linkages between literacy eradication, skills training and poverty alleviation. | square4 MEST in collaboration with NGOs working in the area, to sensitise the public on the importance and value of being literate and possessing a saleable skill | Greater public understanding and appreciation of vocational skills training | MEST, NGOs, LGAs, Paramount Chiefs and other Traditional Leaders | ST- LT
-Standardise the fees charged for the various courses and fix discount rates for the disadvantaged, females and physically and mentally challenged | square4 Government to scrutinize and approve standardised fees for the various courses offered in each institution | Affordable standardised fees for the various courses in all institutions and discount for special needs, disadvantaged and females | MEST, LGAs, Paramount Chiefs and other traditional Leaders, Proprietors | 65 ST- MT
-square4 Fees discounts to be available for disadvantaged, special needs and female students in all courses ,especially in rural areas
+Raise the literacy rate in the country | Continue with the nationwide literacy campaign and create an environment more conducive to encouraging reading | • Produce and adopt a book policy<br>• Ensure the establishment of more libraries in school and outside<br>• Train unemployed but literate youths to be trainers<br>• Provide literacy to adults with emphasis on females using messages focusing on child and maternal survival<br>• Provide functional literacy to adults with special needs focusing on livelihood skills<br>• Require schools to include reading in their school examinations<br>• Organise reading competitions for which attractive prizes are awarded | Literacy rates increase | MEST, Ministry of Youth and Sports, MSWGCA, NGOs, Ministry of Local Government + Decentralisation Secretariat | ST-MT
+To provide equitable access to literacy and quality skills training for individuals with no schooling and those with education below the tertiary level. | Better coordination and administration of skills training by improving on existing structures | • Visit existing structures, review and identify shortcomings<br>• Restructure to obtain desired results | Existence of review report<br>New structure in operation and performing better than former | MEST+ LGAs + Technical Vocational Council+Donors | ST-MT
+ | Improve access and enrolment to all with focus on females and the physically and mentally challenged by establishing more literacy and skills training centres nationwide. | • Construction and rehabilitation of more literacy and skills training centres which are special needs and female friendly and with solar panel power source<br>• Phased distribution of centres by districts and then by chiefdoms<br>• Adequate provisions be made to cope with demands from primary and JSS school leavers and adult learners | More and better quality CECs and TVCs structures which are special needs and female-friendly with power supply<br>Sufficient CECs and TVCs in all districts and chiefdoms<br>More disadvantaged and special needs pursuing VST courses. | MEST, NGOs, LGAs, Private enterprises and Donors | ST-MT
+ | Sensitise the public on the importance of the linkages between literacy eradication, skills training and poverty alleviation. | • MEST in collaboration with NGOs working in the area, to sensitise the public on the importance and value of being literate and possessing a saleable skill | Greater public understanding and appreciation of vocational skills training | MEST, NGOs, LGAs, Paramount Chiefs and other Traditional Leaders | ST-LT
+ | Standardise the fees charged for the various courses and fix discount rates for the disadvantaged, females and physically and mentally challenged | • Government to scrutinize and approve standardised fees for the various courses offered in each institution<br>• Fees discounts to be available for disadvantaged, special needs and female students in all courses ,especially in rural areas | Affordable standardised fees for the various courses in all institutions and discount for special needs, disadvantaged and females | MEST, LGAs, Paramount Chiefs and other traditional Leaders, Proprietors | ST-MT
+
+65
 
 [[END OF PAGE 80]]
 
 [[START OF PAGE 81]]
 
-To ensure that the appropriate quality skills training meet the skills training needs of the country. | Dialogue with industries and employers to ascertain needs. | square4 Vocational Skills Training (VST) proprietors to dialogue with Employers' Federation and Ministry of Labour and Industrial Relations as valued partners in education so that courses reflect the needs of the country. | Appropriate training skills meet the needs of the country | Technical Vocational Division of MEST, Employers Federation, Ministry of Labour and Industrial Relations and NGOs | ST-MT
---- | --- | --- | --- | --- | ---
-square4 Invite representation from businesses in boards of educational institutions | Businesses actively involved in VST through input to curriculum issues, representation on boards and sponsorship schemes | MEST + MOL&E + NCTVA + Chamber of Commerce + LGAs | ST-MT
-square4 Invite businesses to establish student / institution / programme sponsoring schemes | + NGOs + Donors
-Development of improved and new standardised courses, curricula and syllabi for literacy and skills training at all levels below the tertiary to meet the needs of the country. | square4 Involve representatives of businesses in VST curriculum and syllabuses planning and development under the leadership of the NCRDC | Standardised nationally endorsed literacy and skills training curricula and syllabi produced and in operation | National Curriculum Research and Documentation Centre (NCRDC) and Technical Vocational Division of MEST, and all Literacy and skills training providers. | ST-MT
-To provide internationally recognised accreditations for TVET offerings. | Harmonise the curricula of all TVET institutions below the polytechnic level. | square4 NCRDC work with literacy and skills training providers to harmonize curriculum | A harmonized curriculum for Vocational Skills Training | NCRDC, TVET Division of MEST, all Literacy and Skills training providers | ST-MT
-Conduct standardised examinations for certificate- granting TVET institutions | square4 NCTVA takes examination on board | Examinations for all skills and literacy providing institutions standardised. | NCTVA of MEST, TVET of MEST, WAEC | ST-MT
-Sensitise employers as to the accredited certificates for employment. | square4 Sensitisation of all employers and students in training institutions | Employers and student sensitized on the importance of accredited certificates | NCTVA, MEST, Skills trainers, Employers Federation, MOL&IR | ST-LT
-To ensure that all in TVET institutions below polytechnic level become self-sustainable. | Ensure improvement in the quality of teaching | square4 Compel facilitators/trainers to participate in short training programmes | More and better trained facilitators/trainers in literacy and skills training centres | MEST, NGOs, Donors, polytechnics handling VST | ST-MT
-square4 All facilitators/trainers to attend licensing training programme once every 3 years. | Better quality training in remote /rural areas. Special needs and 'difficult' individuals receiving better quality training
-square4 Encourage use of salary and other incentives for all trainers , especially those subjects experiencing staff shortages and those willing to teach in remote/rural areas and special needs individuals | MEST, NGOs, Donors, polytechnics handling VST + MoF | ST
-Curriculum provision to be oriented but not limited to self - sustenance of individuals. | square4 Make Courses in the curriculum to have a self-sustaining focus square4 Awareness of trainees on the possibility of self-sustenance on completion | Curriculum developed to help the graduate trainee become self-reliant. | NCRDC of MEST, NGOs, Donors | ST
+To ensure that the appropriate quality skills training meet the skills training needs of the country. | Dialogue with industries and employers to ascertain needs. | • Vocational Skills Training (VST) proprietors to dialogue with Employers' Federation and Ministry of Labour and Industrial Relations as valued partners in education so that courses reflect the needs of the country.<br>• Invite representation from businesses in boards of educational institutions<br>• Invite businesses to establish student / institution / programme sponsoring schemes | Appropriate training skills meet the needs of the country<br>Businesses actively involved in VST through input to curriculum issues, representation on boards and sponsorship schemes | Technical Vocational Division of MEST, Employers Federation, Ministry of Labour and Industrial Relations and NGOs<br>MEST + MOL&E + NCTVA + Chamber of Commerce + LGAs + NGOs + Donors | ST-MT
+ | Development of improved and new standardised courses, curricula and syllabi for literacy and skills training at all levels below the tertiary to meet the needs of the country. | • Involve representatives of businesses in VST curriculum and syllabuses planning and development under the leadership of the NCRDC | Standardised nationally endorsed literacy and skills training curricula and syllabi produced and in operation | National Curriculum Research and Documentation Centre (NCRDC) and Technical Vocational Division of MEST, and all Literacy and skills training providers. | ST-MT
+To provide internationally recognised accreditations for TVET offerings. | Harmonise the curricula of all TVET institutions below the polytechnic level. | • NCRDC work with literacy and skills training providers to harmonize curriculum | A harmonized curriculum for Vocational Skills Training | NCRDC, TVET Division of MEST, all Literacy and Skills training providers | ST-MT
+ | Conduct standardised examinations for certificate-granting TVET institutions | • NCTVA takes examination on board | Examinations for all skills and literacy providing institutions standardised. | NCTVA of MEST, TVET of MEST, WAEC | ST-MT
+ | Sensitise employers as to the accredited certificates for employment. | • Sensitisation of all employers and students in training institutions | Employers and student sensitized on the importance of accredited certificates | NCTVA, MEST, Skills trainers, Employers Federation, MOL&IR | ST-LT
+To ensure that all in TVET institutions below polytechnic level become self-sustainable. | Ensure improvement in the quality of teaching | • Compel facilitators/trainers to participate in short training programmes<br>• All facilitators/trainers to attend licensing training programme once every 3 years.<br>• Encourage use of salary and other incentives for all trainers , especially those subjects experiencing staff shortages and those willing to teach in remote/rural areas and special needs individuals | More and better trained facilitators/trainers in literacy and skills training centres<br>Better quality training in remote /rural areas.<br>Special needs and 'difficult' individuals receiving better quality training | MEST, NGOs, Donors, polytechnics handling VST<br>MEST, NGOs, Donors, polytechnics handling VST + MoF | ST-MT<br>ST
+ | Curriculum provision to be oriented but not limited to self - sustenance of individuals. | • Make Courses in the curriculum to have a self-sustaining focus<br>• Awareness of trainees on the possibility of self-sustenance on completion | Curriculum developed to help the graduate trainee become self-reliant. | NCRDC of MEST, NGOs, Donors | ST
 
 66
 
@@ -3258,17 +2739,19 @@ Curriculum provision to be oriented but not limited to self - sustenance of indi
 
 [[START OF PAGE 82]]
 
+Figure 37: Literacy, Non-Formal Education (NFE) and Skills Training
+
 Skills Training | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Enrol. Government & Government assisted TVQ Course | 15,023 | 16,145 | 17,267 | 18,390 | 19,512 | 20,634 | 21,756 | 22,878 | 24,000
 Vocational Cert Enrolment Primary School Leavers | 22,728 | 25,873 | 29,254 | 32,883 | 36,770 | 40,928 | 45,368 | 50,104 | 55,148
 Vocational Cert Enrolment Junior Sec School Leavers | 14,766 | 16,177 | 17,635 | 19,138 | 20,686 | 22,276 | 23,905 | 25,572 | 27,274
-Literacy & Non-Formal
+Literacy & Non-Formal |  |  |  |  |  |  |  |  | 
 Annual Spending | 141 | 148 | 156 | 163 | 172 | 180 | 189 | 199 | 209
 
-Figure 37: Literacy, Non-Formal Education (NFE) and Skills Training
+Figure 37: Literacy, NFE and Skills Training Costs
 
-2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
+ | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Running cost (millions of Leones)
 Literacy + NFE + Skills | 10,724 | 12,120 | 13,639 | 15,295 | 17,064 | 18,989 | 21,087 | 23,379 | 25,886
@@ -3278,8 +2761,6 @@ Domestic Resources (millions of leones)
 Literacy + NFE + Skills | 4,342 | 5,039 | 5,824 | 6,708 | 7,515 | 8,399 | 9,367 | 10,426 | 11,583
 Other levels | 81,322 | 88,478 | 96,183 | 104,476 | 111,943 | 119,881 | 128,320 | 137,287 | 146,815
 Total | 85,664 | 93,516 | 102,007 | 111,184 | 119,457 | 128,280 | 137,687 | 147,713 | 158,398
-
-Figure 37: Literacy, NFE and Skills Training Costs
 
 Figure 38: Medium-Term (2007-10) Financing Gap for Literacy, Non-Formal Education and Skills Training
 
@@ -3313,13 +2794,15 @@ Literacy + NFE + Skills | -4.2 | -3.3 | -3.6 | -3.9
 
 [[START OF PAGE 83]]
 
+Figure 39: Long-Term (2007-15) Financing Gap for Literacy, Non-Formal Education and Skills Training
+
 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Gap (millions of 2004 Leones)
 Recurrent cost
 Literacy + NFE + Skills | -6,383 | -7,081 | -7,815 | -8,587 | -9,550 | -10,590 | -11,721 | -12,953 | -14,303
-Other levels | -56,343 | -58,577 | -60,598 | -62,046 | -68,832 | -76,239 | -84,363 | -92,021 | - 101,898
-Total | -62,725 | -65,658 | -68,413 | -70,633 | -78,381 | -86,829 | -96,083 | -104,974 | - 116,201
+Other levels | -56,343 | -58,577 | -60,598 | -62,046 | -68,832 | -76,239 | -84,363 | -92,021 | -101,898
+Total | -62,725 | -65,658 | -68,413 | -70,633 | -78,381 | -86,829 | -96,083 | -104,974 | -116,201
 Capital cost (Le million)
 Expansion
 Classroom construction | -5,000 | -1,953 | -1,953 | -1,953 | -1,953 | -1,953 | -1,953 | -1,953 | -1,953
@@ -3336,8 +2819,6 @@ Total gap (millions of 2004 US$)
 Recurrent | -2.4 | -2.6 | -2.9 | -3.2 | -3.5 | -3.9 | -4.3 | -4.8 | -5.3
 Capital | -1.9 | -0.7 | -0.7 | -0.7 | -0.7 | -0.7 | -0.7 | -0.7 | -0.7
 Literacy + NFE + Skills | -4.2 | -3.3 | -3.6 | -3.9 | -4.3 | -4.6 | -5.1 | -5.5 | -6.0
-
-Figure 39: Long-Term (2007-15) Financing Gap for Literacy, Non-Formal Education and Skills Training
 
 68
 
@@ -3375,7 +2856,7 @@ Employ more female teachers: MEST records show that approximately 30% of primary
 
 Need for qualified teaching staff: Over the years there has been a colossal increase in enrolment at all levels. Despite this, the production of teachers by the teacher training institutions has not kept pace with this increase. The consequence has been a high percentage of unqualified teachers and high pupil to teachers' ratio.  Approximately  40  percent  of  primary  school  teachers  and  10  percent  of  secondary  teachers  are unqualified. The lack of qualified staff is even worse in rural areas. The trained teacher situation is even worse in TVET institutions at school level. According to a recent survey, only 28 percent of teachers and administrators  in  the  TVET  sector  have  professional  training.  As  stated  in  the  Country  Status  Report, 'considering that many of those who are classified as professional teachers may not be teaching TVET subjects but  support subjects such as English,  the percent of  staff qualified to teach TVET  subjects is even lower'.
 
-Provision  of  teachers'  resource  facilities: With the expectations of meeting an expanded schooling system, the teachers must also be equipped with teaching and learning materials which more often than not are scarce. Unavailability of sufficient infrastructure such as lecture rooms, laboratories, workshops and libraries in teacher-training institutions, polytechnics and universities are also serious problems. The establishment of well equipped Teaching Resource Centres in each inspectoral district for a variety of purposes and with access to information and communication technologies would help drastically.
+Provision of teachers' resource facilities: With the expectations of meeting an expanded schooling system, the teachers must also be equipped with teaching and learning materials which more often than not are scarce. Unavailability of sufficient infrastructure such as lecture rooms, laboratories, workshops and libraries in teacher-training institutions, polytechnics and universities are also serious problems. The establishment of
 
 > 22 World Bank, 2005a.
 
@@ -3385,13 +2866,15 @@ Provision  of  teachers'  resource  facilities: With the expectations of meeting
 
 [[START OF PAGE 85]]
 
-Curbing  teacher  attrition. A  significant  percentage,  of  the  products  of  teacher  training  institutions  finds employment outside the classroom. Most who do end up in the classroom stay in the teaching profession for less than four years.  Many who leave claim that they move on to jobs which offer better conditions of service.  Matters are further compounded by the observation that many teachers from rural areas do not return to their villages on graduating but tend to stay in the urban areas where their training institutions are based hence depriving rural areas of trained and qualified teachers.
+well equipped Teaching Resource Centres in each inspectoral district for a variety of purposes and with access to information and communication technologies would help drastically.
+
+Curbing teacher attrition. A significant percentage, of the products of teacher training institutions finds employment outside the classroom. Most who do end up in the classroom stay in the teaching profession for less than four years. Many who leave claim that they move on to jobs which offer better conditions of service. Matters are further compounded by the observation that many teachers from rural areas do not return to their villages on graduating but tend to stay in the urban areas where their training institutions are based hence depriving rural areas of trained and qualified teachers.
 
 Teaching  Service  Commission: There  is  a  need  to  establish  a  Teaching  Service  Commission  for  overall responsibility  for  all  human  resource  management  functions  and  be  sole  employing  authority.  The presence of a Teaching Service Commission will contribute immensely in the addressing of teacher issues.
 
 Enhancing Teacher Status: As the need for teachers increase, so is the need to improve the conditions of service  of  the  teachers.  A  re-visitation  of  the  present  conditions  of  service of  teachers  would also  help given  that  70%  and  above  of  the  salaries  of  a  number  of  teachers  is  consumed  by  travelling  to  the workplace and back. Timely payment of  salaries on a regular basis, providing teacher housing, some form of  transportation and incentives for teaching in rural areas, will all serve as motivating factors that will positively influence the retention of trained teachers in the classroom. Making it easier for teachers to get loans and ensuring that more teachers are considered for annual national awards would also contribute to reversing the present negative perception of the teaching profession.
 
-Providing basic logistics to monitoring staff: Teachers, like the schools and the teaching/learning environment are all supposed to be monitored by staff of the Inspectorate Directorate of MEST. The Inspectors claim not to be provided with the resources, materials and equipment needed for them to do their jobs properly. The consequence is that the Inspectors and other officers of the Directorate could not effectively carry out their functions. In as much as there is an appeal for the provision of the essential logistics for the inspectors, it  should  also  be  noted  that  the  criteria  for  appointment  into  that  directorate  should  be  revisited if there must be efficiency in the conduct of the duties of that office.
+Providing basic logistics to monitoring staff: Teachers, like the schools and the teaching/learning environment are all supposed to be monitored by staff of the Inspectorate Directorate of MEST. The Inspectors claim not to be provided with the resources, materials and equipment needed for them to do their jobs properly. The consequence is that the Inspectors and other officers of the Directorate could not effectively carry out their functions. In as much as there is an appeal for the provision of the essential logistics for the inspectors, it should also be noted that the criteria for appointment into that directorate should be re-visited if there must be efficiency in the conduct of the duties of that office.
 
 ### D. Progress to Date
 
@@ -3413,15 +2896,15 @@ Providing basic logistics to monitoring staff: Teachers, like the schools and th
 
 The key strategies designed to address the specific objectives above are summarized in in Figure 40.
 
+Figure 40: Specific Objectives and Key Strategies for Meeting Teacher Needs
+
 Specific Objective | Key Strategies
 --- | ---
-To produce more highly trained and qualified teachers for all levels of the expanding school system nationwide. | square4 Increase admission into colleges training teachers for all levels but especially the pre-school and primary levels and technical/vocational schools and centres square4 Keep teacher training affordable square4 Provide incentives for more individuals to train as teachers of the science subjects, vocational and technical subjects, Mathematics, French, English Language and Literature. square4 Use the distance education in-service programme for unqualified primary teachers as an access programme for potential teachers without the requisite entrance requirements square4 Expand the distance education programme nationwide and utilise the facilities of international bodies of which Sierra Leone is a member or has association such as the UNESCO TIESSA programme, Commonwealth of Learning and the African Virtual University (AVU) square4 Revise and improve the teacher education curriculum and syllabus and ensure that issues such as HIV/AIDS education are well covered. square4 Introduce innovative teaching strategies in the colleges and prepare teachers to use innovative child- friendly, girl-friendly approaches in the classroom square4 Harmonise the content and approaches of the many in-service training programmes offered by various agencies.
-To produce a higher proportion of female teachers | square4 Make teacher training and the teaching profession more attractive to females. square4 More female applicants offered teacher training places square4 Ensure that the set-up in teacher training institutions are not gender biased
-To recruit more qualified and trained teachers | square4 International policies putting a ceiling on recruitments of teachers should be abolished. square4 Recruit only individuals with the requisite professional teaching qualifications.
-To curb the high attrition rates of qualified teachers | square4 Bond the teachers square4 Make teaching an attractive and financially secured life-long profession.
-To upgrade the quality of existing teachers in schools especially in the rural areas | square4 Provide in-service training workshops to introduce new teaching skills and updates in the subject- knowledge of teachers. square4 Establishment of materials and resource centres / libraries square4 Effective monitoring mechanisms of quality upgrading
-
-Figure 40: Specific Objectives and Key Strategies for Meeting Teacher Needs
+To produce more highly trained and qualified teachers for all levels of the expanding school system nationwide. | • Increase admission into colleges training teachers for all levels but especially the pre-school and primary levels and technical/vocational schools and centres<br>• Keep teacher training affordable<br>• Provide incentives for more individuals to train as teachers of the science subjects, vocational and technical subjects, Mathematics, French, English Language and Literature.<br>• Use the distance education in-service programme for unqualified primary teachers as an access programme for potential teachers without the requisite entrance requirements<br>• Expand the distance education programme nationwide and utilise the facilities of international bodies of which Sierra Leone is a member or has association such as the UNESCO TIESSA programme, Commonwealth of Learning and the African Virtual University (AVU)<br>• Revise and improve the teacher education curriculum and syllabus and ensure that issues such as HIV/AIDS education are well covered.<br>• Introduce innovative teaching strategies in the colleges and prepare teachers to use innovative child-friendly, girl-friendly approaches in the classroom<br>• Harmonise the content and approaches of the many in-service training programmes offered by various agencies.
+To produce a higher proportion of female teachers | • Make teacher training and the teaching profession more attractive to females.<br>• More female applicants offered teacher training places<br>• Ensure that the set-up in teacher training institutions are not gender biased
+To recruit more qualified and trained teachers | • International policies putting a ceiling on recruitments of teachers should be abolished.<br>• Recruit only individuals with the requisite professional teaching qualifications.
+To curb the high attrition rates of qualified teachers | • Bond the teachers<br>• Make teaching an attractive and financially secured life-long profession.
+To upgrade the quality of existing teachers in schools especially in the rural areas | • Provide in-service training workshops to introduce new teaching skills and updates in the subject-knowledge of teachers.<br>• Establishment of materials and resource centres / libraries<br>• Effective monitoring mechanisms of quality upgrading
 
 71
 
@@ -3431,20 +2914,18 @@ Figure 40: Specific Objectives and Key Strategies for Meeting Teacher Needs
 
 ### F.  Log Frame
 
+Figure 41: Log Frame with Prioritized List of Activities (short, medium and long term) for Meeting Teacher Needs
+
 Specific Objective | Strategies | Required Actions | Indicators of Achievement | Responsible | Time
 --- | --- | --- | --- | --- | ---
-To produce more highly trained and qualified teachers for all levels of the expanding school system nationwide. | Increase admission into colleges training teachers for all levels but especially the pre- school and primary levels and technical/vocational schools and centres | Establish more teacher training institutions especially in the provinces Organise training of trainers (trainers can be selected from the best teachers) | Teacher training institutions established in all districts Trainers selected and trained | MEST, NGOs, UN Agencies and other Education partners | ST-LT
-Keeping teacher training affordable | Establish a loan scheme for teacher training | Loan scheme established for teacher trainees | MEST, MoF | ST-MT
-Improve subsidies to teacher training institutions | Teacher training institutions have improved subsidies
-regularise and agree on reasonable fees | Reasonable fees standardised | MEST+MoF, NCTVA
-Provide incentives for more individuals to train as teachers of the science subjects, vocational and technical subjects, Mathematics, French, English Language and Literature. | Provide automatic grant-in-aid awards to trainees registered for the subjects mentioned. Provide preferential treatment in allocation | Increase in the number of trainees in the selected subjects and more trained and qualified teachers on completion | MEST, MoF, all teacher training institutions | ST-LT
-Encourage applicants with the prospect of an incentive attached to their salaries on completion
-Use the distance education in-service programme for unqualified primary teachers as an access programme for potential teachers without the requisite entrance requirements | Encourage all unqualified teachers without the requisite entrance requirement to access the programme | Increase in enrolment in the number of unqualified teachers and also becoming qualified on completion | MEST, all Teacher Training institutions handling distance education | ST-MT
-Sensitise the teacher training institutions handling the distance education of the above provision | Teacher training institutions sensitized and cooperation received.
-Expand the distance education programme nationwide and utilise the facilities of international bodies of which Sierra Leone is a member or has association such as the UNESCO TIESSA programme, Commonwealth of Learning (COL) and the African Virtual University (AVU) | Establish distance education centres in each LGA of Sierra Leone and link these with the teaching resource centres in each district. Explore fully the cost effectiveness of distance teacher education with international bodies such as UNESCO TIESSA, COL and AVU and start a pilot programme | Distance education centres in all LGAs Report on cost effectiveness of distance teacher education using international bodies produced. Pilot distance education programme using international providers started More teachers qualified through distance education programmes | MEST, NGOs ,LGAs | ST-LT
-Revise and improve the teacher education curriculum and syllabus and ensure that issues | Give directives to teacher training institutions to ensure that the curriculum | Revised and improved Curriculum and Syllabus for teacher training in | NCRDC of MEST, all Teacher Training | ST-MT
-
-Figure 41: Log Frame with Prioritized List of Activities (short, medium and long term) for Meeting Teacher Needs
+To produce more highly trained and qualified teachers for all levels of the expanding school system nationwide. | Increase admission into colleges training teachers for all levels but especially the pre-school and primary levels and technical/vocational schools and centres | Establish more teacher training institutions especially in the provinces<br>Organise training of trainers (trainers can be selected from the best teachers) | Teacher training institutions established in all districts<br>Trainers selected and trained | MEST, NGOs, UN Agencies and other Education partners | ST-LT
+ | Keeping teacher training affordable | Establish a loan scheme for teacher training | Loan scheme established for teacher trainees |  | ST-MT
+ |  | Improve subsidies to teacher training institutions | Teacher training institutions have improved subsidies | MEST, MoF | 
+ |  | regularise and agree on reasonable fees | Reasonable fees standardised | MEST+MoF, NCTVA | 
+ | Provide incentives for more individuals to train as teachers of the science subjects, vocational and technical subjects, Mathematics, French, English Language and Literature. | Provide automatic grant-in-aid awards to trainees registered for the subjects mentioned.<br>Provide preferential treatment in allocation of accommodation in hostels of teacher training institutions<br>Encourage applicants with the prospect of an incentive attached to their salaries on completion | Increase in the number of trainees in the selected subjects and more trained and qualified teachers on completion | MEST, MoF, all teacher training institutions | ST-LT
+ | Use the distance education in-service programme for unqualified primary teachers as an access programme for potential teachers without the requisite entrance requirements | Encourage all unqualified teachers without the requisite entrance requirement to access the programme<br>Sensitise the teacher training institutions handling the distance education of the above provision | Increase in enrolment in the number of unqualified teachers and also becoming qualified on completion<br>Teacher training institutions sensitized and cooperation received. | MEST, all Teacher Training institutions handling distance education | ST-MT
+ | Expand the distance education programme nationwide and utilise the facilities of international bodies of which Sierra Leone is a member or has association such as the UNESCO TIESSA programme, Commonwealth of Learning (COL) and the African Virtual University (AVU) | Establish distance education centres in each LGA of Sierra Leone and link these with the teaching resource centres in each district.<br>Explore fully the cost effectiveness of distance teacher education with international bodies such as UNESCO TIESSA, COL and AVU and start a pilot programme | Distance education centres in all LGAs<br>Report on cost effectiveness of distance teacher education using international bodies produced.<br>Pilot distance education programme using international providers started<br>More teachers qualified through distance education programmes | MEST, NGOs, LGAs | ST-LT
+ | Revise and improve the teacher education curriculum and syllabus and ensure that issues | Give directives to teacher training institutions to ensure that the curriculum | Revised and improved Curriculum and Syllabus for teacher training in | NCRDC of MEST, all Teacher Training | ST-MT
 
 72
 
@@ -3452,14 +2933,11 @@ Figure 41: Log Frame with Prioritized List of Activities (short, medium and long
 
 [[START OF PAGE 88]]
 
-Specific Objective | Strategies | Required Actions | Indicators of Achievement | Responsible Time
---- | --- | --- | --- | ---
-such as HIV/AIDS education are well covered. | and syllabus are revised incorporating HIV/AIDS, Peace Education and other issues | operation | Institutions, NGOs, UN Agencies and other donors
-Introduce innovative teaching strategies in the colleges and prepare teachers to use innovative child-friendly, girl-friendly approaches in the classroom | Sensitise and organise in-service training for teacher trainers on innovative teaching strategies by Consultants on innovative teaching techniques | Teacher trainers sensitized and trained to use innovative teaching strategies | NCRDC, MEST, NGOs, UN Agencies ST-MT
-Teacher trainers introduce innovative teaching strategies to trainees | Trainees trained in the use of innovative approaches
-Harmonise the content and approaches of the many in-service training programmes offered by various agencies. | Develop a harmonised training manual on content and approaches for in-service training programmes | Harmonised training manual in contents and approaches developed | NCRDC, MEST, NGOs, UN Agencies ST-MT
-Use of the manual as the ultimate condition for an agency to be granted permission to do in-service training | Manual in use | MEST
-Monitor its use and stop training of defaulting institutions if necessary | Monitoring mechanism and disciplinary action in place | Inspectorate Directorate of MEST
+Specific Objective | Strategies | Required Actions | Indicators of Achievement | Responsible | Time
+--- | --- | --- | --- | --- | ---
+ | such as HIV/AIDS education are well covered. | and syllabus are revised incorporating HIV/AIDS, Peace Education and other issues | operation | Institutions, NGOs, UN Agencies and other donors | 
+ | Introduce innovative teaching strategies in the colleges and prepare teachers to use innovative child-friendly, girl-friendly approaches in the classroom | Sensitise and organise in-service training for teacher trainers on innovative teaching strategies by Consultants on innovative teaching techniques<br>Teacher trainers introduce innovative teaching strategies to trainees | Teacher trainers sensitized and trained to use innovative teaching strategies<br>Trainees trained in the use of innovative approaches | NCRDC, MEST, NGOs, UN Agencies | ST-MT
+ | Harmonise the content and approaches of the many in-service training programmes offered by various agencies. | Develop a harmonised training manual on content and approaches for in-service training programmes<br>Use of the manual as the ultimate condition for an agency to be granted permission to do in-service training<br>Monitor its use and stop training of defaulting institutions if necessary | Harmonised training manual in contents and approaches developed<br>Manual in use<br>Monitoring mechanism and disciplinary action in place | NCRDC, MEST, NGOs, UN Agencies<br>MEST<br>Inspectorate Directorate of MEST | ST-MT
 
 73
 
@@ -3469,17 +2947,15 @@ Monitor its use and stop training of defaulting institutions if necessary | Moni
 
 Specific Objective | Strategies | Required Actions | Indicators of Achievement | Responsible | Time
 --- | --- | --- | --- | --- | ---
-To produce a higher proportion of female teachers | Make teacher training and the teaching profession more attractive to females. | Give qualified and deserving females more of an opportunity to rise up the hierarchy of schools Scholarships for disadvantaged / needy female students at SSS | An increase in the percentage of senior school personnel that are female | MEST, Teaching Service Commission (TSC) | ST-MT
-Have the Teaching Service Commission ensure that no new condition of service puts female teachers at a disadvantage relative to their male counterparts | New conditions of service in which females are not disadvantaged | MEST, TSC
-Establish crèches and day care centres in colleges for female students with babies and small children | More women with young children in teacher training | MEST, College Administration, NGOs | ST-LT
-More female applicants offered teacher training places | Give preference to qualified female applicants for places when warranted and possible | More qualified and trained female teachers | MEST, College Administration | ST-MT
-Ensure that the set-up in teacher training institutions are not gender biased | Ensure that toilets and other female-related facilities in colleges allow female students to feel safe to use | More gender sensitive college set- ups | MEST, College Administration, NGOs
-To recruit more qualified and trained teachers | International policies putting a ceiling on recruitments of teachers should be abolished. | Dialogue with financial policy making and enforcement international organisations | Positive dialoguing occurred | MEST, MoF, International Monetary Fund | ST-MT
-Discontinue the teacher ceiling recruitment policy | Ceiling on teacher recruitment non- operational | (IMF)
-Recruit only individuals with the requisite professional teaching qualifications. | Advert for staff recruitment emphasises requirements | Recruit more qualified teachers on the basis of Advert | MEST, Board of Governors of Schools, School Management Committees
+To produce a higher proportion of female teachers | Make teacher training and the teaching profession more attractive to females. | Give qualified and deserving females more of an opportunity to rise up the hierarchy of schools<br>Scholarships for disadvantaged / needy female students at SSS<br>Have the Teaching Service Commission ensure that no new condition of service puts female teachers at a disadvantage relative to their male counterparts | An increase in the percentage of senior school personnel that are female<br>New conditions of service in which females are not disadvantaged | MEST, Teaching Service Commission (TSC)<br>MEST, TSC | ST-MT
+ |  | Establish crèches and day care centres in colleges for female students with babies and small children | More women with young children in teacher training | MEST, College Administration, NGOs | ST-LT
+ | More female applicants offered teacher training places | Give preference to qualified female applicants for places when warranted and possible | More qualified and trained female teachers | MEST, College Administration | ST-MT
+ | Ensure that the set-up in teacher training institutions are not gender biased | Ensure that toilets and other female-related facilities in colleges allow female students to feel safe to use | More gender sensitive college set-ups | MEST, College Administration, NGOs | 
+To recruit more qualified and trained teachers | International policies putting a ceiling on recruitments of teachers should be abolished. | Dialogue with financial policy making and enforcement international organisations<br>Discontinue the teacher ceiling recruitment policy | Positive dialoguing occurred<br>Ceiling on teacher recruitment non-operational | MEST, MoF, International Monetary Fund (IMF) | ST-MT
+ | Recruit only individuals with the requisite professional teaching qualifications. | Advert for staff recruitment emphasises requirements | Recruit more qualified teachers on the basis of Advert | MEST, Board of Governors of Schools, School Management Committees | 
 To curb the high attrition rates of qualified teachers | Bond the teachers | Get a commitment for teachers who have been educated through public funds to stay in the profession for a specified number of years. | Teacher attrition rate reduced | MEST, Law Enforcement Agencies | ST-LT
-Make teaching an attractive and financially secured life-long profession. | Establish Teaching Service Commission (TSC) to handle/establish guidelines and criteria for teacher recruitment, conditions of service and movement (transfers, promotions, increments) issues and to also liaise with the teacher's union | TSC established and functioning leading to better teacher management and satisfaction | MEST, Law Officers Dept., Ministry of Labour, Employers federation, Trade Union, Labour Congress, LGAs | ST-MT
-Establish and Capacitate Teacher's Unit (TU) in the Education Division of all LGAs to amongst other things work with and assist in the implementation of TSC | TU of MEST established, better staffed and equipped Reduction in teacher problems | MEST, LGAs, NGOs
+ | Make teaching an attractive and financially secured life-long profession. | Establish Teaching Service Commission (TSC) to handle/establish guidelines and criteria for teacher recruitment, conditions of service and movement (transfers, promotions, increments) issues and to also liaise with the teacher's union | TSC established and functioning leading to better teacher management and satisfaction | MEST, Law Officers Dept., Ministry of Labour, Employers federation, Trade Union, Labour Congress, LGAs | ST-MT
+ |  | Establish and Capacitate Teacher's Unit (TU) in the Education Division of all LGAs to amongst other things work with and assist in the implementation of TSC | TU of MEST established, better staffed and equipped<br>Reduction in teacher problems | MEST, LGAs, NGOs |
 
 74
 
@@ -3500,6 +2976,8 @@ Effective monitoring mechanisms of quality upgrading | MEST inspectorate strictl
 
 [[START OF PAGE 91]]
 
+Figure 42: Teacher Training Numbers
+
 Teacher Training | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 New Primary Teachers Number Under/For Training | 3,392 | 3,392 | 3,392 | 2,261 | 2,261 | 2,261 | 2,261 | 2,261 | 2,261
@@ -3508,17 +2986,15 @@ New JSS Teachers Number Under/For Training | 933 | 933 | 933 | 933 | 933 | 933 |
 JSS Teachers trained/for training whilst in-service training | 62 | 62 | 62 | 62 | 62 | 62 | 62 | 62 | 62
 Total | 4,610 | 4,610 | 4,610 | 3,479 | 3,479 | 3,479 | 3,479 | 3,479 | 3,479
 
-Figure 42: Teacher Training Numbers
+Figure 43: Teacher Training Costs
 
-2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Total
+ | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Cost (millions of Leones)
 Prim Teacher Training Costs | 1,374 | 1,414 | 1,454 | 1,158 | 1,191 | 1,225 | 1,259 | 1,295 | 1,332 | 11,701
 JSS Teacher Training Costs | 497 | 511 | 525 | 540 | 555 | 571 | 587 | 604 | 621 | 5,012
 Total (Millions of Leones) | 1,871 | 1,924 | 1,979 | 1,698 | 1,746 | 1,796 | 1,847 | 1,899 | 1,953 | 16,713
 Total (Millions of US$) | 0.69 | 0.71 | 0.73 | 0.63 | 0.65 | 0.66 | 0.68 | 0.70 | 0.72 | 6.2
-
-Figure 43: Teacher Training Costs
 
 It should be noted that the above costs have been subsumed under primary or junior secondary education.
 
@@ -3552,7 +3028,9 @@ During the conflict, the tertiary education sector, like other sectors was adver
 
 #### Access and Equity
 
-Low Coverage . Despite significant increases in enrolment since the end of the war (see table below), gross enrolment ratio in higher education is only 4% and lower than the average for sub-Saharan Africa.
+Low Coverage. Despite significant increases in enrolment since the end of the war (see table below), gross enrolment ratio in higher education is only 4% and lower than the average for sub-Saharan Africa.
+
+Figure 44 - Tertiary Institutions Enrolment Trends, 1998/99 to 2004/05
 
 Year | Males | Females | Total | % Female
 --- | --- | --- | --- | ---
@@ -3564,17 +3042,13 @@ Year | Males | Females | Total | % Female
 2003/04 | 10,128 | 5,369 | 15,497 | 35
 2004/05 | 10,558 | 6,067 | 16,625 | 36
 
-Figure 44 - Tertiary Institutions Enrolment Trends, 1998/99 to 2004/05
+Source: MEST.
 
-Source:
+Inequitable Access. In 2004/05, only 36% of total enrolments were females. The gender disparities are even more glaring at the universities, and in faculties like Engineering and Pure & Applied Sciences.
 
-MEST.
+Faculty Distribution. Enrolments are skewed in favour of Arts and for a number of reasons, faculties like Engineering and Pure & Applied Sciences have not attracted many students.
 
-Inequitable Access . In 2004/05, only 36% of total enrolments were females. The gender disparities are even more glaring at the universities, and in faculties like Engineering and Pure & Applied Sciences.
-
-Faculty Distribution .  Enrolments are skewed in favour of Arts and for a number of reasons, faculties like Engineering and Pure & Applied Sciences have not attracted many students.
-
-Sub-sector  harmonization. The  higher  education  sector  is  made  up  of  different  types  of  institutions  from polytechnics to universities. Currently, these different institutions do not function as part of a coherent whole and the process of transferring credits from one type of institution to another is not transparent or seamless enough.
+Sub-sector harmonization. The higher education sector is made up of different types of institutions from polytechnics to universities. Currently, these different institutions do not function as part of a coherent whole and the process of transferring credits from one type of institution to another is not transparent or seamless enough.
 
 77
 
@@ -3584,25 +3058,25 @@ Sub-sector  harmonization. The  higher  education  sector  is  made  up  of  dif
 
 #### Quality
 
-Staff .  Attracting and retaining qualified academic staff is a challenge. A large percentage of staff do not have doctoral degrees, and  non-competitive salaries mean that lecturers hold multiple jobs in order to make ends meet.
+Staff. Attracting and retaining qualified academic staff is a challenge. A large percentage of staff do not have doctoral degrees, and non-competitive salaries mean that lecturers hold multiple jobs in order to make ends meet.
 
-Library .  Libraries  need  to  be  updated  to  include  current  and  relevant  materials  from  around  the  world. Information and communication technologies, mainstays of modern libraries, are limited.
+Library. Libraries need to be updated to include current and relevant materials from around the world. Information and communication technologies, mainstays of modern libraries, are limited.
 
-Research Output .  Research output at the public universities of Sierra Leone is limited. Where research does occur, it is usually in the context of consultancies for international organizations.
+Research Output. Research output at the public universities of Sierra Leone is limited. Where research does occur, it is usually in the context of consultancies for international organizations.
 
-Quality Assurance . The higher education sector lacks quality assurance and accreditation systems.
+Quality Assurance. The higher education sector lacks quality assurance and accreditation systems.
 
 Curriculum. The curriculum offerings need to be revamped and modernized. Innovation is needed in this area.
 
-Infrastructure and Facilities . The level of infrastructure in all institutions of higher learning is weak. Libraries need  to  be  updated,  buildings  and  laboratories  are  in  disrepair,  equipment  is  lacking,  information technology is limited, and teaching and learning materials are scarce.
+Infrastructure and Facilities. The level of infrastructure in all institutions of higher learning is weak. Libraries need to be updated, buildings and laboratories are in disrepair, equipment is lacking, information technology is limited, and teaching and learning materials are scarce.
 
 #### Resources
 
-Funds  from  the  government  and  student  fees  are  the  main  sources  of  income  for  higher  education institutions. The challenge of diversifying the sources of revenue is one faced by all institutions.
+Funds from the government and student fees are the main sources of income for higher education institutions. The challenge of diversifying the sources of revenue is one faced by all institutions.
 
-Expanding activities, stagnant public allocations . GOSL is not expected to increase the share of resources going into  higher  education  given  that  it  currently  spends  22%  of  education  resources  on  the  sub-sector.  As such,  any  planned  expansion  of  activities  would  have  to  come  from  savings  made  through  better management of resources or from revenue diversification.
+Expanding activities, stagnant public allocations. GOSL is not expected to increase the share of resources going into higher education given that it currently spends 22% of education resources on the sub-sector. As such, any planned expansion of activities would have to come from savings made through better management of resources or from revenue diversification.
 
-Financial  Management. Better  management  of  available  resources,  including  putting  in  place  systems  that encourage transparency and accountability are needed.
+Financial Management. Better management of available resources, including putting in place systems that encourage transparency and accountability are needed.
 
 ### D. Progress to Date
 
@@ -3630,13 +3104,15 @@ Since the end of the war, progress has been made on a number of fronts. These in
 
 ### E. Strategies to address key issues
 
-The key strategies designed to address the specific objectives above are summarized in the table below. Figure 45 Specific Objectives and Key Strategies for Meeting Human Resources Need Through Higher Education
+The key strategies designed to address the specific objectives above are summarized in the table below.
+
+Figure 45 - Specific Objectives and Key Strategies for Meeting Human Resources Need Through Higher Education
 
 Specific Objective | Key Strategies
 --- | ---
-To improve the quality of higher education | square4 emphasize staff development (both academic and administrative staff) square4 develop and implement systems of quality assurance and accreditation square4 update and modernize libraries and other facilities square4 update and modernize curriculum square4 promote research on community and local issues
-To improve access to higher education in an equitable manner | square4 reduce cost of higher education to disadvantaged groups square4 provide incentives for entry into sciences and engineering square4 encourage private provision of higher education square4 continue and expand access programs square4 develop policies to ease transfer between higher education institutions square4 develop affirmative action strategies for under- represented groups square4 continue and expand distance learning programs
-To ensure adequate operating and capital resources | square4 build partnerships with private sector, other universities, and the Sierra Leonean Diaspora square4 improve management of existing resources square4 leverage regional resources square4 internal revenue generation
+To improve the quality of higher education | • emphasize staff development (both academic and administrative staff)<br>• develop and implement systems of quality assurance and accreditation<br>• update and modernize libraries and other facilities<br>• update and modernize curriculum<br>• promote research on community and local issues
+To improve access to higher education in an equitable manner | • reduce cost of higher education to disadvantaged groups<br>• provide incentives for entry into sciences and engineering<br>• encourage private provision of higher education<br>• continue and expand access programs<br>• develop policies to ease transfer between higher education institutions<br>• develop affirmative action strategies for under-represented groups<br>• continue and expand distance learning programs
+To ensure adequate operating and capital resources | • build partnerships with private sector, other universities, and the Sierra Leonean Diaspora<br>• improve management of existing resources<br>• leverage regional resources<br>• internal revenue generation
 
 79
 
@@ -3646,15 +3122,15 @@ To ensure adequate operating and capital resources | square4 build partnerships 
 
 ### F. Log Frame
 
-Specific Objective | Strategies | Required Action | Indicators of Achievement | Responsible | Time
---- | --- | --- | --- | --- | --- | ---
-Improve quality of Education | Professional academic and Higher | development of non-academic staff Aggressively recruit qualified persons Develop opportunities for staff to upgrade their qualifications Introduce incentive grants to cover some of the costs of having staff upgrade their qualification Rewards or incentives in terms of promotion for staff with training Provide opportunities for peer to peer teaching and learning Encourage relevant research into local problems | 100% of all staff have minimum qualifications required by law 50% of staff upgraded their qualification Improvements shown in annual performance review of staff Research paper published | Higher education institutions MEST: Capacity Building Unit MEST: Higher education department | MT-LT
-Develop systems of quality assurance and accreditation | Develop set of standards to be used for assessment and accreditation Accreditation becomes a core function of the TEC Train independent evaluators Establish links with other institutions at home and abroad | Standards for assessment and accreditation developed by TEC Evaluators trained Baseline assessment of all higher education institutions carried out Active links established | TEC NCTVA MEST: Higher Education Unit Higher Education institutions | LT
-Update and modernize libraries and other facilities | Determine critical infrastructure needs Develop an ICT strategy Set up a capital improvement fund and implement fund-raising strategy | Study of critical infrastructure needs done ICT strategy developed Fund-raising strategy developed and implemented 80% of funds needed to address critical infrastructure raised by 2015 | Higher Education Institutions | ST-MT
-Update and Modernize Curriculum | Review of curriculum in all institutions and faculties | New curriculum agreed and in use | TEC ; NCTVA Academic Councils MEST: Quality Unit | Short Term
-Improve Equity | Access and | Implement affirmative action policies for disadvantaged students, including girls | Research equity issues in access to higher education to identify excluded groups and reasons for exclusion | Gender parity in university enrolment and graduation rates 50% increase in enrolments of | Higher Education Institution | ST-LT
-
 Figure 46: Log Frame with Prioritized List of Activities (short, medium and long term) for Meeting Human Resource Needs through Higher Education
+
+Specific Objective | Strategies | Required Action | Indicators of Achievement | Responsible | Time
+--- | --- | --- | --- | --- | ---
+Improve quality of Higher Education | Professional development of academic and non-academic staff | Aggressively recruit qualified persons<br>Develop opportunities for staff to upgrade their qualifications<br>Introduce incentive grants to cover some of the costs of having staff upgrade their qualification<br>Rewards or incentives in terms of promotion for staff with training<br>Provide opportunities for peer to peer teaching and learning<br>Encourage relevant research into local problems | 100% of all staff have minimum qualifications required by law<br>50% of staff upgraded their qualification<br>Improvements shown in annual performance review of staff<br>Research paper published | Higher education institutions<br>MEST: Capacity Building Unit<br>MEST: Higher education department | MT-LT
+ | Develop systems of quality assurance and accreditation | Develop set of standards to be used for assessment and accreditation<br>Accreditation becomes a core function of the TEC<br>Train independent evaluators<br>Establish links with other institutions at home and abroad | Standards for assessment and accreditation developed by TEC<br>Evaluators trained<br>Baseline assessment of all higher education institutions carried out<br>Active links established | TEC<br>NCTVA<br>MEST: Higher Education Unit<br>Higher Education institutions | LT
+ | Update and modernize libraries and other facilities | Determine critical infrastructure needs<br>Develop an ICT strategy<br>Set up a capital improvement fund and implement fund-raising strategy | Study of critical infrastructure needs done<br>ICT strategy developed<br>Fund-raising strategy developed and implemented<br>80% of funds needed to address critical infrastructure raised by 2015 | Higher Education Institutions | ST-MT
+ | Update and Modernize Curriculum | Review of curriculum in all institutions and faculties | New curriculum agreed and in use | TEC ; NCTVA<br>Academic Councils<br>MEST: Quality Unit | Short Term
+Improve Access and Equity | Implement affirmative action policies for disadvantaged students, including girls | Research equity issues in access to higher education to identify excluded groups and reasons for exclusion | Gender parity in university enrolment and graduation rates<br>50% increase in enrolments of | Higher Education Institution | ST-LT
 
 80
 
@@ -3662,12 +3138,14 @@ Figure 46: Log Frame with Prioritized List of Activities (short, medium and long
 
 [[START OF PAGE 96]]
 
-Specific Objective | Strategies | Required Action | of Achievement | Responsible | Time
+Specific Objective | Strategies | Required Action | Indicators of Achievement | Responsible | Time
 --- | --- | --- | --- | --- | ---
-Draft relevant affirmative action policies Implement policies | Indicators students from disadvantaged regions/households Procedure for means-testing developed Grant funding for bursaries available
-Reduce the cost of tertiary education for the poor | Provide bursaries for disadvantaged students to enter public or private institutions | MEST-Higher Education MoF Institutions | ST-MT
-Outreach to communities | Female faculty members outreach to students in secondary school Provide career counselling for students in secondary school Provide opportunities for disadvantage students to take summer courses at the university Make it easier for students to transfer credits between higher education institutions | Institutions | ST
-Ensure adequate operating and capital resources | Continue and expand distance education programs Build collaborative partnerships with the private sector, industry, alumni, and foreign universities Internal revenue generation | Develop modules in areas other than teacher education Market programs to working individuals and professionals Experiment in the use of media other than print such as radio Determine principles and guidelines for partnerships Each institution should have a person/unit that manages such relationships Build mutually beneficial partnerships with industry, professional organizations, and other such parties Set up a system to keep track of graduate students, and encouraging the forming of alumni organizations Develop a plan for ways to generate funding Set up necessary financial and legal | Increase by 100% the numbers studying by distance Guidelines for partnerships established Unit to manage relationships established Alumni organizations formed Tracking system for graduates established 40% of institutional revenue from non-government funds 100% of financial managers and administrators trained Information system that will be common to all institutions developed Annual reports available on request for all institutions Courses introduced Submitted bids and results of his | MEST TEC Tertiary Institutions Higher Education Directorate of MEST, TEC and Institutions Higher Education Directorate of MEST, TEC and | MT
+ |  | Draft relevant affirmative action policies<br>Implement policies | students from disadvantaged regions/households |  | 
+ | Reduce the cost of tertiary education for the poor | Provide bursaries for disadvantaged students to enter public or private institutions | Procedure for means-testing developed<br>Grant funding for bursaries available | MEST-Higher Education<br>MoF<br>Institutions | ST-MT
+ | Outreach to communities | Female faculty members outreach to students in secondary school<br>Provide career counselling for students in secondary school<br>Provide opportunities for disadvantage students to take summer courses at the university<br>Make it easier for students to transfer credits between higher education institutions |  | Institutions | ST
+Ensure adequate operating and capital resources | Continue and expand distance education programs | Develop modules in areas other than teacher education<br>Market programs to working individuals and professionals<br>Experiment in the use of media other than print such as radio | Increase by 100% the numbers studying by distance | MEST<br>TEC<br>Tertiary Institutions | MT
+ | Build collaborative partnerships with the private sector, industry, alumni, and foreign universities | Determine principles and guidelines for partnerships<br>Each institution should have a person/unit that manages such relationships<br>Build mutually beneficial partnerships with industry, professional organizations, and other such parties<br>Set up a system to keep track of graduate students, and encouraging the forming of alumni organizations | Guidelines for partnerships established<br>Unit to manage relationships established<br>Alumni organizations formed<br>Tracking system for graduates established | Higher Education Directorate of MEST, TEC and Institutions | 
+ | Internal revenue generation | Develop a plan for ways to generate funding<br>Set up necessary financial and legal | 40% of institutional revenue from non-government funds<br>100% of financial managers and administrators trained<br>Information system that will be common to all institutions developed<br>Annual reports available on request for all institutions<br>Courses introduced<br>Submitted bids and results of his | Higher Education Directorate of MEST, TEC and |
 
 81
 
@@ -3677,13 +3155,16 @@ Ensure adequate operating and capital resources | Continue and expand distance e
 
 Specific Objective | Strategies | Required Action | Indicators of Achievement | Responsible | Time
 --- | --- | --- | --- | --- | ---
-Improved management of existing resources | structures Implement plan Introduce additional special courses for private students Bidding for research contracts Create accountability systems, including financial management information system Train staff on finance and general administration Report back regularly to students and other stakeholders | position Maintain membership to regional organizations Links with Sierra Leonean Diaspora Industry-university relationships established Links established and active | Institutions Higher Education Directorate of MEST, TEC and Institutions
+ |  | structures<br>Implement plan<br>Introduce additional special courses for private students<br>Bidding for research contracts | position<br>Maintain membership to regional organizations<br>Links with Sierra Leonean Diaspora<br>Industry-university relationships established | Institutions | 
+ | Improved management of existing resources | Create accountability systems, including financial management information system<br>Train staff on finance and general administration<br>Report back regularly to students and other stakeholders | Links established and active | Higher Education Directorate of MEST, TEC and Institutions |
 
 82
 
 [[END OF PAGE 97]]
 
 [[START OF PAGE 98]]
+
+Figure 47: Higher Education Numbers
 
 Higher Education and Research | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -3693,9 +3174,9 @@ Target Distance Education Enrolment | 1,373 | 1,920 | 2,516 | 3,163 | 3,865 | 4,
 Research
 Annual Spending (Millions of Leones) | 724 | 760 | 798 | 839 | 883 | 929 | 978 | 1030 | 1086
 
-Figure 47: Higher Education Numbers
+Figure 48: Higher Education and Research Costs
 
-2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
+ | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Running cost (millions of Leones)
 Higher Education and Research | 29,711 | 31,210 | 32,803 | 34,496 | 36,296 | 38,212 | 40,253 | 42,427 | 44,744
@@ -3709,8 +3190,6 @@ Capital cost (Le million)
 Expansion
 Classroom construction | -1,333 | -1,333 | -1,333 | -1,333 | -1,333 | -1,333 | -1,333 | -1,333 | -1,333
 Total | -1,333 | -1,333 | -1,333 | -1,333 | -1,333 | -1,333 | -1,333 | -1,333 | -1,333
-
-Figure 48: Higher Education and Research Costs
 
 Figure 49: Medium-Term (2007-10) Financing Gap for Higher Education and Research
 
@@ -3739,13 +3218,15 @@ Higher Education and Research | -4.8 | -4.9 | -5.0 | -5.2 | -19.9
 
 [[START OF PAGE 99]]
 
+Figure 50: Long-Term (2007-15) Financing Gap for Higher Education and Research
+
 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Gap (millions of 2004 Leones)
 Recurrent cost
-Higher Education and Research | - 11,683 | - 11,929 | - 12,253 | - 12,669 | - 13,751 | - 14,988 | - 16,396 | -17,992 | -19,797 | -131,457
-Other levels | - 51,042 | - 53,729 | - 56,160 | - 57,964 | - 64,630 | - 71,841 | - 79,687 | -86,982 | -96,405 | -618,441
-Total | - 62,725 | - 65,658 | - 68,413 | - 70,633 | - 78,381 | - 86,829 | - 96,083 | - 104,974 | - 116,201 | -749,898
+Higher Education and Research | -11,683 | -11,929 | -12,253 | -12,669 | -13,751 | -14,988 | -16,396 | -17,992 | -19,797 | -131,457
+Other levels | -51,042 | -53,729 | -56,160 | -57,964 | -64,630 | -71,841 | -79,687 | -86,982 | -96,405 | -618,441
+Total | -62,725 | -65,658 | -68,413 | -70,633 | -78,381 | -86,829 | -96,083 | -104,974 | -116,201 | -749,898
 Gap (millions of 2004 US$)
 Recurrent cost
 Higher Education and Research | -4.3 | -4.4 | -4.5 | -4.7 | -5.1 | -5.5 | -6.1 | -6.7 | -7.3 | -48.7
@@ -3757,8 +3238,6 @@ Total gap (millions of 2004 US$)
 Recurrent | -4.3 | -4.4 | -4.5 | -4.7 | -5.1 | -5.5 | -6.1 | -6.7 | -7.3 | -48.7
 Capital | -0.5 | -0.5 | -0.5 | -0.5 | -0.5 | -0.5 | -0.5 | -0.5 | -0.5 | -4.4
 Total Higher Education and Research | -4.8 | -4.9 | -5.0 | -5.2 | -5.6 | -6.0 | -6.6 | -7.2 | -7.8 | -53.1
-
-Figure 50: Long-Term (2007-15) Financing Gap for Higher Education and Research
 
 84
 
@@ -3843,14 +3322,14 @@ International  partners  such  as  UNICEF  are  strong  partners  with  the  gov
 
 ### E. Strategies to address key issues
 
+Figure 51: Specific Objectives and Key Strategies for Early Childhood Care and Pre-School
+
 Specific Objective | Key Strategies
 --- | ---
-To develop a comprehensive national policy ECCE | square4 Establish an inter-sectoral working group on ECCE to develop national policy. This should include representatives from Ministry of Health, Ministry of Education, Local Governments, Ministry of Social Welfare, Gender and Children Affairs, Children's advocacy groups, and others square4 Establish a lead ministry or agency to coordinate ECCE policy square4 Consultative policy development process with key stake holders square4 Lobby for increased and targeted budget for ECCE from various ministries, donors and private sector
-Increased access to ECCE programmes | square4 Create public awareness of the advantages of ECCE / pre-schooling square4
-Establish good quality ECCE programs | Adequate infrastructural provisions square4 Train teachers in specific issues related to ECCE square4 Develop curriculum that combines health, nutrition, and education that build on indigenous practices and use mother tongue instruction square4 Provide quality standards for public and private provision of programs square4 Establish minimum operating standards square4 Monitoring and evaluation of ECCE programs and practices square4 Keep child: teacher ratio low by recruiting and training local community care givers
-Community Partnerships/Education | square4 Make pre-school programs affordable square4 Provide education for mothers and other care takers on child-rearing practices using radio, community theatre and other outreach programs square4 Provide ECCE services that take into account the needs of communities square4 Establish workplace/marketplace/village ECCE facilities square4 Form strong links with parents, primary schools, health centres and other stake holders
-
-Figure 51: Specific Objectives and Key Strategies for Early Childhood Care and Pre-School
+To develop a comprehensive national policy for ECCE | ▪ Establish an inter-sectoral working group on ECCE to develop national policy. This should include representatives from Ministry of Health, Ministry of Education, Local Governments, Ministry of Social Welfare, Gender and Children Affairs, Children’s advocacy groups, and others ▪ Establish a lead ministry or agency to coordinate ECCE policy ▪ Consultative policy development process with key stake holders ▪ Lobby for increased and targeted budget for ECCE from various ministries, donors and private sector
+Increased access to ECCE programmes | ▪ Create public awareness of the advantages of ECCE / pre-schooling ▪ Adequate infrastructural provisions
+Establish good quality ECCE programs | ▪ Train teachers in specific issues related to ECCE ▪ Develop curriculum that combines health, nutrition, and education that build on indigenous practices and use mother tongue instruction ▪ Provide quality standards for public and private provision of programs ▪ Establish minimum operating standards ▪ Monitoring and evaluation of ECCE programs and practices ▪ Keep child: teacher ratio low by recruiting and training local community care givers
+Community Partnerships/Education | ▪ Make pre-school programs affordable ▪ Provide education for mothers and other care takers on child-rearing practices using radio, community theatre and other outreach programs ▪ Provide ECCE services that take into account the needs of communities ▪ Establish workplace/marketplace/village ECCE facilities ▪ Form strong links with parents, primary schools, health centres and other stake holders
 
 87
 
@@ -3864,7 +3343,7 @@ Figure 52: Log Frame with Prioritized List of Activities (short, medium and long
 
 Specific Objectives | Strategies | Required Actions | Indicators of Achievement | Responsible | Time
 --- | --- | --- | --- | --- | ---
-To develop comprehensive national policy for ECCE | Develop an inter-sectoral working group on ECCE to develop national policy. This should include representatives from Ministry of Health, Ministry of Education, Local Governments, Ministry of Social Welfare, Gender and Children Affairs, Children's advocacy groups, and others | Organise meetings with representatives of line ministries and education partners interested in ECCE to develop a national policy on ECCE | Several Inter-sectoral meetings held and comprehensive national policy on ECCE developed | Ministry of Health, Ministry of Education, Ministry of Local Government, Ministry of Social Welfare, Gender and Children Affairs, Children's advocacy groups, and others interested in ECCE | MT-LT MT-LT
+To develop a comprehensive national policy for ECCE | Develop an inter-sectoral working group on ECCE to develop national policy. This should include representatives from Ministry of Health, Ministry of Education, Local Governments, Ministry of Social Welfare, Gender and Children Affairs, Children’s advocacy groups, and others | Organise meetings with representatives of line ministries and education partners interested in ECCE to develop a national policy on ECCE | Several Inter-sectoral meetings held and comprehensive national policy on ECCE developed | Ministry of Health, Ministry of Education, Ministry of Local Government, Ministry of Social Welfare, Gender and Children Affairs, Children’s advocacy groups, and others interested in ECCE | MT-LT MT-LT
 Establish a lead ministry or agency to coordinate development and implementation of ECCE policy | Selection of ministry or agency to lead the process | Lead ministry or agency selected to coordinate the development and implementation of the developed policy
 Consultative policy development process with key stake holders | Nationwide-held Consultative sessions on policy development | Nationwide consultations held
 Lobby for increased and targeted budget for ECCE from various ministries, donors and private sector | Discuss and approve the proposed budget for ECCE with line ministries, agencies and other key stakeholders before submission | Budget for ECCE discussed, approved and submitted by line ministries, agencies and key stakeholders for funding | Ministry of Finance, Ministry of Health, Ministries of Education, Local Governments, Social Welfare, Gender and Children Affairs, Children's advocacy groups, and others interested in ECCE | MT-LT
@@ -3912,6 +3391,8 @@ Establish a pre-school nutrition programme | A toddler school snack programme us
 
 [[START OF PAGE 106]]
 
+Figure 53: Pre-School Parameters
+
 Preschool | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Gross Enrolment Ratio (GER) | 8.3% | 9.7% | 11.2% | 12.7% | 14.1% | 15.6% | 17.1% | 18.5% | 20.0%
@@ -3919,8 +3400,6 @@ Total enrolment | 43,451 | 52,245 | 61,388 | 70,893 | 80,770 | 91,030 | 101,686 
 % of pupils Government assisted | 7.9% | 7.9% | 7.9% | 7.9% | 8.0% | 8.0% | 8.0% | 8.0% | 8.0%
 Indicative Framework
 Share of Pre-School in Overall Recurrent Spending (%) | 0.4 | 0.5 | 0.6 | 0.6 | 0.7 | 0.8 | 0.8 | 0.9 | 1.0
-
-Figure 53: Pre-School Parameters
 
 Figure 54: Pre-School Costings
 
@@ -3967,13 +3446,15 @@ Total Pre-School | -0.88 | -0.85 | -0.82 | -0.77 | -3.32
 
 [[START OF PAGE 107]]
 
+Figure 56: Long-Term (2007-15) Financing Gap for Pre-School Education
+
 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Gap (millions of 2004 Leones)
 Recurrent cost
 Pre-School | -39 | 35 | 129 | 249 | 353 | 470 | 602 | 750 | 915 | 3,464
-Other levels | -62,686 | -65,693 | -68,543 | -70,881 | -78,734 | -87,300 | -96,686 | - 105,724 | - 117,116 | -753,362
-Total | -62,725 | -65,658 | -68,413 | -70,633 | -78,381 | -86,829 | -96,083 | - 104,974 | - 116,201 | -749,898
+Other levels | -62,686 | -65,693 | -68,543 | -70,881 | -78,734 | -87,300 | -96,686 | -105,724 | -117,116 | -753,362
+Total | -62,725 | -65,658 | -68,413 | -70,633 | -78,381 | -86,829 | -96,083 | -104,974 | -116,201 | -749,898
 Gap (millions of 2004 US$)
 Recurrent cost
 Pre-School | -0.01 | 0.01 | 0.05 | 0.09 | 0.13 | 0.17 | 0.22 | 0.28 | 0.34 | 1.28
@@ -3987,8 +3468,6 @@ Recurrent | -0.01 | 0.01 | 0.05 | 0.09 | 0.13 | 0.17 | 0.22 | 0.28 | 0.34 | 1.28
 Capital | -0.86 | -0.86 | -0.86 | -0.86 | -0.86 | -0.86 | -0.86 | -0.86 | -0.86 | -7.77
 Total Pre-School | -0.88 | -0.85 | -0.82 | -0.77 | -0.73 | -0.69 | -0.64 | -0.59 | -0.53 | -6.49
 
-Figure 56: Long-Term (2007-15) Financing Gap for Pre-School Education
-
 Note  from  the  above,  that  the  recurrent  resources  provided  for  pre-school  education  are  sufficient  to meet the cost to the government assuming that the percentage of institutions that are government owned / assisted stay at approximately 8%. If this does not happen then the funds available would allow a small increase  in  the  commitment  of  the  government.  Additionally,  the  funding  requirements  for  classroom construction  /  learning  space  construction  exceeds  the  resources  available  and  hence  for  pre-school education as a whole there is a small funding gap which donors are expected to bridge.
 
 92
@@ -3998,6 +3477,8 @@ Note  from  the  above,  that  the  recurrent  resources  provided  for  pre-sch
 [[START OF PAGE 108]]
 
 ## Chapter 10
+
+## Providing Improved Governance, Management, and Leadership
 
 ### A. Goals
 
@@ -4015,6 +3496,8 @@ To improve the overall governance and management of the education system
 
 In the few years since the end of the war GoSL has instituted various legislative measures to guide the governance of the sector. A summary of the key acts guiding the education sector is given IN Figure 57.
 
+Figure 57: Summary of Key Education Acts, 2001 to 2004
+
 Act (Year Passed) | Key issues
 --- | ---
 National Council for Technical, Vocational, and other Academic Awards (NCTVA) Act (2001) | Established the NCTVA, an independent body, whose main functions are to validate and certify awards in technical and vocational education and teacher training; accredit technical and vocational institutions; and advise MEST on curriculum areas.
@@ -4024,11 +3507,7 @@ University Act (2004) | The colleges of the University of Sierra Leone (Njala an
 Education Act (2004) | Replaced the Education Act of 1964 and outlines the structure of the education system, management and control, and the role of various actors in the system including Local Authorities. Major points covered are the legalization of the 6-3-3-4 education system; and free and compulsory basic education. Ultimate authority for management and control of schools lies with the Minister of Education, but School Management Committees and Board of Governors will manage primary and secondary schools respectively. Local authorities recognized, but existence of education committees within local councils dependent on approval of the Minister.
 Local Government Act (2004) | Established Local Councils and local governments and marks the return to decentralization in education after over 30 years of centralized governance. Transfers the management and supervision of basic education from the central to local governments.
 
-Figure 57: Summary of Key Education Acts, 2001 to 2004
-
-The  two  most  important  of  these  acts  are  the  Education  Act  (2004)  and  the  Local  Government  Act (2004).  The  former  lays  out  the  vision,  objectives,  structure,  and  organization  of  the  whole  education sector. It outlines the system of management and control of education and briefly states the role of the various actors in the education system. The Local Government Act is important for education because it transfers the management and supervision of basic education to the local councils. One of the challenges highlighted by the recent County Sector Report on education is that there are ambiguities in the laws - in particular  between  the  Education  Act  and  the  Local  Government  Act.  This  has  resulted  in  some confusion  about  the  roles  and  responsibilities  of  the  national  and  local  government  regarding  the management  of  education. The roles and responsibilities of MEST,  local governments, school management committees, boards of governors, school proprietors  are  still  not  clearly  demarcated.  The
-
-## Providing Improved Governance, Management, and Leadership
+The two most important of these acts are the Education Act (2004) and the Local Government Act (2004). The former lays out the vision, objectives, structure, and organization of the whole education sector. It outlines the system of management and control of education and briefly states the role of the various actors in the education system. The Local Government Act is important for education because it transfers the management and supervision of basic education to the local councils. One of the challenges highlighted by the recent County Sector Report on education is that there are ambiguities in the laws - in particular between the Education Act and the Local Government Act. This has resulted in some confusion about the roles and responsibilities of the national and local government regarding the management of education. The roles and responsibilities of MEST, local governments, school management committees, boards of governors, school proprietors are still not clearly demarcated. The
 
 93
 
@@ -4044,13 +3523,13 @@ Another source of tension in governance is the relationship between the governme
 
 In the World Development Report (2004), accountability is explained broadly as the relationship among actors  or  institutions  that  has  five  features:  (1)  delegation  (2)  finance  (3)  performance  (4)  information about performance and (5) enforceability. The report goes further to outline the broad categories of actors among whom accountability is required
 
-- square4 Citizens and/or clients: students, parents, voters.
+- Citizens and/or clients: students, parents, voters.
 
-- square4 Politicians/policymakers: Minister of education, MPs
+- Politicians/policymakers: Minister of education, MPs
 
-- square4 Providers: MEST, local government officials, private proprietors
+- Providers: MEST, local government officials, private proprietors
 
-- square4 Frontline Professionals: teachers, head teachers, etc.
+- Frontline Professionals: teachers, head teachers, etc.
 
 For  various  reasons,  including  the  ambiguities  in  the  laws  governing  the  sector, delegation of  education responsibility  is  weak.  The  roles  of  School  Management  Committees  (SMCs),  Boards  of  Governors (BoGs), education proprietors, MEST, etc regarding the delivery of basic education needs clarification.
 
@@ -4086,26 +3565,27 @@ MEST supported by UNICEF and NGOs such as Plan - Sierra Leone is carrying out tr
 
 ### D. Progress to Date
 
-As a result of political decentralization, the management of basic education has been devolved to the local councils. Yet, it is important to note that prior to this event decentralization of some activities to the school level was already underway.  For example, school management committees had been instituted at each school to manage the activities of the school and capitation grants are now being sent directly to the schools. The schedule for the devolution of functions is indicated in the table below:
+As a result of political decentralization, the management of basic education has been devolved to the local councils. Yet, it is important to note that prior to this event decentralization of some activities to the school level was already underway. For example, school management committees had been instituted at each school to manage the activities of the school and capitation grants are now being sent directly to the schools. The schedule for the devolution of functions is indicated in the table below:
+
+Figure 58: Schedule for the Devolution of Functions of MEST to Local Councils
 
 Main Functions | Activities to Devolve | Year
 --- | --- | ---
 Management and control of Council Schools (district, town, and city) from the pre-primary to JSS levels | Recruitment of teachers Payment of salaries of teachers and staff Provision of teaching and learning materials Payment of school fee subsidies Provision of furniture Rehabilitation and reconstruction of schools Staff development (study leave matters) | 2005
-Management and control of other government and government-assisted schools (primary to JSS schools) | Payment of examination fees Payment of salaries of staff | 2005 2006
+Management and control of other government and government-assisted schools (primary to JSS schools) | Payment of examination fees Payment of salaries of staff Provision of furniture Provision of subsidized textbooks | 2005 2006
 School Supervision | Inspection of teachers and school curriculum Inspection of pupils | 2007
 Management and Control of Government Libraries | Establishment of boards Supervisory monitoring Training of staff | 2007
 
-Figure 58: Schedule for the Devolution of Functions of MEST to Local Councils
-
-Source: The Local Government Act, 2004. Statutory Instrument No. 13. The Local Government (Assumption of Functions) Regulations The  process  of  devolution  is  already  underway  and  is  expected  to  complete  in  2008.  However,  many details about the process remain to be worked out.
+Source: The Local Government Act, 2004. Statutory Instrument No. 13. The Local Government (Assumption of Functions) Regulations
 
 95
 
 [[END OF PAGE 110]]
 
 [[START OF PAGE 111]]
+The process of devolution is already underway and is expected to complete in 2008. However, many details about the process remain to be worked out.
 
-In the area of management capacity and building effective management structures, the Management and Functional Reviews of the education sector, conducted first in 2002 and later in 2005 to reflect the new decentralization process, made about 50 different recommendations to improve management. Few have been implemented, and these recommendations must be revisited in the near term by all stake holders with an aim to prioritization and implementation of the agreed upon recommendations.
+In the area of management capacity and building effective management structures, the Management and Functional Reviews of the education sector, conducted first in 2002 and later in 2005 to reflect the new decentralization process, made about 50 different recommendations to improve management. Few have been implemented, and these recommendations must be revisited in the near term by all stake holders – with an aim to prioritization and implementation of the agreed upon recommendations.
 
 In 2003, a Presidential Commission was appointed to make recommendations for improving management and effectiveness of the management levels of the civil service. One of the main recommendations was that a Senior Executive Service (SES) be established. The SES will comprise of highly qualified individual, chosen on the basis of ability and merit, who will be remunerated well, and be judged by performance. Following this an SES Implementation Unit was set up in the Presidency Unit, and in 2006, a consultancy team was given the task of setting out the road map for the implementation of the SES. At the time of writing,  the  report  from  these  consultants  are  about  to  be  finalized,  and  it  is  believed  that  the implementation of the SES would be driven by their recommendation. The implementation of the SES would have important consequences for education, but it is not without risk as the financial costs are high and cannot be sustained without external support.
 
@@ -4119,12 +3599,12 @@ Further details on key issues and background information can be found in the sis
 
 In order to address the main issues highlighted above, the strategies shown in Figure 59 will be employed.
 
+Figure 59: Specific Objectives and Key Strategies for Providing Improved Governance, Management, and Leadership
+
 Specific Objective | Key Strategies
 --- | ---
-To improve accountability structures | square4 Harmonize various Acts to remove ambiguities square4 Determine reporting and management structure square4 Develop an Education Management Information System including school mapping square4 Introduce performance monitoring at all levels
-To develop a cadre of managers and leaders at all levels | square4 Support the GOSL SES plan square4 Develop human resource management unit square4 Conduct an initial needs assessment of the technical capacity gaps at school, local council, and MEST levels square4 Develop long-term, on-going capacity building strategy for staff at all levels in collaboration with IPAM and other tertiary institutions square4 Develop collaborative relationships with private sector, NGO, funding agencies to help with short term capacity building
-
-Figure 59: Specific Objectives and Key Strategies for Providing Improved Governance, Management, and Leadership
+To improve accountability structures | ▪ Harmonize various Acts to remove ambiguities ▪ Determine reporting and management structure ▪ Develop an Education Management Information System including school mapping ▪ Introduce performance monitoring at all levels
+To develop a cadre of managers and leaders at all levels | ▪ Support the GOSL SES plan ▪ Develop human resource management unit ▪ Conduct an initial needs assessment of the technical capacity gaps at school, local council, and MEST levels ▪ Develop long-term, on-going capacity building strategy for staff at all levels in collaboration with IPAM and other tertiary institutions ▪ Develop collaborative relationships with private sector, NGO, funding agencies to help with short term capacity building
 
 96
 
@@ -4134,15 +3614,15 @@ Figure 59: Specific Objectives and Key Strategies for Providing Improved Governa
 
 ### F.  Log Frame
 
+Figure 60: Log Frame with Prioritized List of Activities (short, medium and long term) for Providing Improved Governance, Management, and Leadership
+
 Specific Objective | Strategies | Required Action | Indicators of Achievement | Responsible | Time
 --- | --- | --- | --- | --- | ---
-Improved accountability | square4 Harmonize various Acts to remove ambiguities square4 Determine reporting and management structure | square4 Convene a series of workshops involving all stakeholders at all levels to revisit the various Acts square4 Clarify roles and responsibilities | square4 Amendments to Act developed and accepted into law square4 Reporting structure exists square4 Management chart and structure exists | MoLG MEST, Law Officers Department | ST-MT
-Develop an Education Management Information System including school mapping | square4 Develop Terms of Reference square4 Solicit bids square4 Award contract square4 Procure equipment square4 Provide necessary study square4 Conduct baseline including mapping square4 Develop EMIS reports | square4 EMIS developed by 2007 square4 Baseline survey conducted by 2007 square4 EMIS reports developed | Planning Directorate of MEST, Project Co-ordination Unit of SABABU Education Project , UIS of UNESCO | ST-MT
-Introduce performance monitoring at all levels | square4 Determine set of performance indicators square4 Quarterly reports square4 Take action as necessary based on reports | Performance indicators determined and monitoring commenced. Quarterly reports developed Necessary action taken based on outcomes | MEST,MOLG | ST-MT
-To develop a cadre of managers and leaders at all levels | Conduct initial needs assessment of the technical capacity gaps at school, local council, and MEST according to agreed upon roles and responsibilities | square4 Build survey instrument square4 Develop library (learning centre) | Needs assessment survey instrument developed and in operation Library developed | MEST, LGAs, tertiary institutions, SSL | MT
-Develop human resource management unit | square4 Acquire suitable HR manager or consultant square4 Develop HR policies and guidelines | HR manager or consultant appointed and functioning HR policies and guidelines already developed and in operation | MEST, NGOs, UN Agencies | MT
-
-Figure 60: Log Frame with Prioritized List of Activities (short, medium and long term) for Providing Improved Governance, Management, and Leadership
+Improved accountability | ▪ Harmonize various Acts to remove ambiguities ▪ Determine reporting and management structure | ▪ Convene a series of workshops involving all stakeholders at all levels to revisit the various Acts ▪ Clarify roles and responsibilities | ▪ Amendments to Act developed and accepted into law ▪ Reporting structure exists ▪ Management chart and structure exists | MoLG MEST, Law Officers Department | ST-MT
+Develop an Education Management Information System including school mapping | ▪ Develop Terms of Reference ▪ Solicit bids ▪ Award contract ▪ Procure equipment ▪ Provide necessary study ▪ Conduct baseline including mapping ▪ Develop EMIS reports | ▪ EMIS developed by 2007 ▪ Baseline survey conducted by 2007 ▪ EMIS reports developed | Planning Directorate of MEST, Project Co-ordination Unit of SABABU Education Project, UIS of UNESCO | ST-MT
+Introduce performance monitoring at all levels | ▪ Determine set of performance indicators ▪ Quarterly reports ▪ Take action as necessary based on reports | Performance indicators determined and monitoring commenced. Quarterly reports developed Necessary action taken based on outcomes | MEST,MOLG | ST-MT
+To develop a cadre of managers and leaders at all levels | Conduct initial needs assessment of the technical capacity gaps at school, local council, and MEST according to agreed upon roles and responsibilities | ▪ Build survey instrument ▪ Develop library (learning centre) | Needs assessment survey instrument developed and in operation Library developed | MEST, LGAs, tertiary institutions, SSL | MT
+Develop human resource management unit | ▪ Acquire suitable HR manager or consultant ▪ Develop HR policies and guidelines | HR manager or consultant appointed and functioning HR policies and guidelines already developed and in operation | MEST, NGOs, UN Agencies | MT
 
 97
 
@@ -4150,18 +3630,19 @@ Figure 60: Log Frame with Prioritized List of Activities (short, medium and long
 
 [[START OF PAGE 113]]
 
-Develop long-term, on-going capacity building strategy for staff at all levels in collaboration with IPAM or other tertiary institutions | square4 Develop courses on education finance, logistics, procurement, monitoring, administration, school management and other common functions square4 Develop learning systems such as libraries, distance learning centres, and other information resource centres at MEST square4 Link MEST and local councils via internet networks to facilitate sharing of ideas square4 Encourage peer teaching and learning and information sharing | Long-term on going capacity building strategy in place | MEST, IPAM and other tertiary institutions | LT
+Develop long-term, on-going capacity building strategy for staff at all levels in collaboration with IPAM or other tertiary institutions | ▪ Develop courses on education finance, logistics, procurement, monitoring, administration, school management and other common functions ▪ Develop learning systems such as libraries, distance learning centres, and other information resource centres at MEST ▪ Link MEST and local councils via internet networks to facilitate sharing of ideas ▪ Encourage peer teaching and learning and information sharing | Long-term on going capacity building strategy in place | MEST, IPAM and other tertiary institutions | LT
 --- | --- | --- | --- | ---
-Further develop the capacities of SMCs | square4 Produce a programme for further developing capacities of SMCs square4 Require DEOs to work with LGAs to implement SMC training programme | Programme developed and being implemented SMCs generating income to contribute to the development of schools | MEST, LGAs, Proprietors | MT
-Develop collaborative relationships with private sector, NGO, Sierra Leonean Diaspora for short-term capacity building needs | square4 Determine technical capacity at various NGOs and other organizations square4 Encourage exchanges square4 Technical assistants and consultants paired with MEST and | Collaboration with private sector, NGOs and Sierra Leonean diaspora fully effective | NGOs, private enterprises, MEST, Sierra Leonean diaspora | MT-LT
-Support the GOSL SES plan | square4 As required by the plan
-Develop capacity at the district, community and school levels | square4 Ensure that members of communities are part of SMCs and BoGs square4 Give SMCs and BoGs the training needed to manage and monitor schools and teachers square4 Build clear lines of communication between SMCs and square4 Develop a | square4 All SMCs trained and functioning effectively square4 Members of SMCs and BOGs from community square4 Community supports school in various ways | MEST, local councils, community groups, community leaders | ST-MT
+Further develop the capacities of SMCs | ▪ Produce a programme for further developing capacities of SMCs ▪ Require DEOs to work with LGAs to implement SMC training programme | Programme developed and being implemented SMCs generating income to contribute to the development of schools | MEST, LGAs, Proprietors | MT
+Develop collaborative relationships with private sector, NGO, Sierra Leonean Diaspora for short-term capacity building needs | ▪ Determine technical capacity at various NGOs and other organizations ▪ Encourage exchanges ▪ Technical assistants and consultants paired with MEST and | Collaboration with private sector, NGOs and Sierra Leonean diaspora fully effective | NGOs, private enterprises, MEST, Sierra Leonean diaspora | MT-LT
+Support the GOSL SES plan | ▪ As required by the plan
+Develop capacity at the district, community and school levels | ▪ Ensure that members of communities are part of SMCs and BoGs ▪ Give SMCs and BoGs the training needed to manage and monitor schools and teachers ▪ Build clear lines of communication between SMCs and ▪ Develop a | ▪ All SMCs trained and functioning effectively ▪ Members of SMCs and BOGs from community ▪ Community supports school in various ways | MEST, local councils, community groups, community leaders | ST-MT
 
 98
 
 [[END OF PAGE 113]]
 
 [[START OF PAGE 114]]
+Figure 61: Upgrading of Institutional Capacity
 
 Capacity building (central and decentralized structure) | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -4179,7 +3660,6 @@ Infrastructure | 27 | 28 | 30 | 31 | 33 | 34 | 36 | 38 | 40 | 296
 Total cost per annum (millions of Leones) | 85 | 88 | 91 | 94 | 98 | 101 | 105 | 109 | 113 | 884
 Total cost per annum (millions of US$) | 0.03 | 0.03 | 0.03 | 0.03 | 0.03 | 0.03 | 0.04 | 0.04 | 0.04 | 0.30
 
-Figure 61: Upgrading of Institutional Capacity
 
 Note that the in-service training provided would include that for monitoring and evaluation of the system and ESP implementation progress.
 
@@ -4190,6 +3670,8 @@ Note that the in-service training provided would include that for monitoring and
 [[START OF PAGE 115]]
 
 ## Chapter 11
+
+## Monitoring For Quality Improvement and Accountability
 
 ### A. Goal
 
@@ -4229,7 +3711,6 @@ The PRSP outlines GOSL's plan to develop a 'participatory system to monitor and 
 
 The monitoring framework for Pillar III of the PRSP, which relates to promoting human development, includes activities and indicators for monitoring progress in education.
 
-## Monitoring For Quality Improvement and Accountability
 
 100
 
@@ -4297,13 +3778,14 @@ Several Public Expenditure Tracking Surveys (PETS) have been completed by the Ec
 
 #### Monitoring of Local Government and MEST Performance
 
-With  the  implementation  of  LGA  2004,  one  of  the  main  roles  of  MEST  in  basic  education  is  the monitoring and evaluation of the performance of local governments in the delivery of basic services. As such an even greater emphasis needs to be put on building monitoring and evaluation capacity at MEST and  as  well  in  the  local  councils.  The  Management  and  Functional  report  on  MEST  suggests  that  the Monitoring  &  Evaluation  function  be  a  unit  within  the  Planning  &  Budget  directorate.  However,  it  is unclear how this unit interfaces with the Inspectorate Directorate.
+With the implementation of LGA 2004, one of the main roles of MEST in basic education is the monitoring and evaluation of the performance of local governments in the delivery of basic services. As such an even greater emphasis needs to be put on building monitoring and evaluation capacity at MEST and as well in the local councils. The Management and Functional report on MEST suggests that the
 
 102
 
 [[END OF PAGE 117]]
 
 [[START OF PAGE 118]]
+Monitoring & Evaluation function be a unit within the Planning & Budget directorate. However, it is unclear how this unit interfaces with the Inspectorate Directorate.
 
 The National Commission for Basic Education (NCBE) is tasked with the monitoring of MEST, but do not have the resources to perform this role.
 
@@ -4347,15 +3829,17 @@ The PETS Unit of the Ministry of Finance is vested with the responsibility of tr
 
 ### F. Strategies to Address Key Issues
 
-Monitoring and evaluation of progress towards achieving education goals are of paramount importance. Whatever strategy MEST decides on would have to align and feed into overall PRSP M&E strategy, and would have to build on M&E activities at the local level. Below are strategies to address the main issues identified above. These objectives rely on some of the activities in the Management chapter - in particular that  roles  and  responsibilities  have  been  clarified  and  reporting  links  established.  Further,  background details  to  some  of  the  issues  can  be  found  in  the  Governance  and  Management chapter of the CSR Education in Sierra Leone - Present Challenges, Future Opportunities published by the World Bank. Figure 62 - Specific Objectives and Key Strategies for Monitoring for Quality Improvement and Accountability
+Monitoring and evaluation of progress towards achieving education goals are of paramount importance. Whatever strategy MEST decides on would have to align and feed into overall PRSP M&E strategy, and would have to build on M&E activities at the local level. Below are strategies to address the main issues identified above. These objectives rely on some of the activities in the Management chapter - in particular that roles and responsibilities have been clarified and reporting links established. Further, background details to some of the issues can be found in the Governance and Management chapter of the CSR – Education in Sierra Leone – Present Challenges, Future Opportunities published by the World Bank.
+
+Figure 62 - Specific Objectives and Key Strategies for Monitoring for Quality Improvement and Accountability
 
 Specific Objective | Key Strategies
 --- | ---
-Develop a monitoring and evaluation strategy | square4 Determine needs and capabilities of current M&E bodies square4 Build on PRSP M&E strategy to develop a strategy and policy for M&E at district and central levels square4 Decide where MEST responsibility for overall M&E should lie square4 Decide on M&E structure at local councils square4 Fully staff and resource M&E activities
-Determine key outcomes to monitor | square4 Decide on overall framework for monitoring & evaluation square4 Workshop series with key stakeholders to agree upon key outcomes to monitor and evaluate. The indicators suggested in this plan are a good starting point for discussion square4 Determine as well short, medium, and long-term targets for the agreed upon outcomes square4 Conduct a baseline study
-Collection, analysis, and management of data necessary to track process | square4 See Chapter on Management square4 Decide on a strategy for data collection - frequency, responsible entity, data flow, etc. square4 Make greater use of SMCs square4 Decide on a strategy for data management - the development of a central information unit as recommended by the Management and Functional Review is a good start square4 Establishment of a fully functional EMIS system square4 Make data publicly available and accessible to all in a format that is relevant and understandable
-To build capacity to maintain M&E as a core activity of MEST | square4 Determine the skill sets required at all stages square4 Partner with other organizations such as IRCBP to train central and local government staff square4 On-going workshops and sensitivity for all staff on importance of M&E
-To develop a system for reporting results and using information to improve learning and for better | square4 Produce simple and easy to read reports for key stake holders at all levels from parents to policymakers. Reports should be relevant to the audience. For e.g. student reports for parents, school report cards for district education officers and principals, etc. square4 Establish a time table for the publication of reports, using various media from newspapers to radio square4 Train teachers, principals, district education officers on how to use results to improve on teaching and management practices
+Develop a monitoring and evaluation strategy | ▪ Determine needs and capabilities of current M&E bodies ▪ Build on PRSP M&E strategy to develop a strategy and policy for M&E at district and central levels ▪ Decide where MEST responsibility for overall M&E should lie ▪ Decide on M&E structure at local councils ▪ Fully staff and resource M&E activities
+Determine key outcomes to monitor | ▪ Decide on overall framework for monitoring & evaluation ▪ Workshop series with key stakeholders to agree upon key outcomes to monitor and evaluate. The indicators suggested in this plan are a good starting point for discussion ▪ Determine as well short, medium, and long-term targets for the agreed upon outcomes ▪ Conduct a baseline study
+Collection, analysis, and management of data necessary to track process | ▪ See Chapter on Management ▪ Decide on a strategy for data collection - frequency, responsible entity, data flow, etc. ▪ Make greater use of SMCs ▪ Decide on a strategy for data management - the development of a central information unit as recommended by the Management and Functional Review is a good start ▪ Establishment of a fully functional EMIS system ▪ Make data publicly available and accessible to all in a format that is relevant and understandable
+To build capacity to maintain M&E as a core activity of MEST | ▪ Determine the skill sets required at all stages ▪ Partner with other organizations such as IRCBP to train central and local government staff ▪ On-going workshops and sensitivity for all staff on importance of M&E
+To develop a system for reporting results and using information to improve learning and for better | ▪ Produce simple and easy to read reports for key stake holders at all levels from parents to policymakers. Reports should be relevant to the audience. For e.g. student reports for parents, school report cards for district education officers and principals, etc. ▪ Establish a time table for the publication of reports, using various media from newspapers to radio ▪ Train teachers, principals, district education officers on how to use results to improve on teaching and management practices
 
 104
 
@@ -4403,7 +3887,7 @@ Reducing Costs to Households for Basic Education. The Constitution and Education
 
 Promoting Public-Private Partnerships at the Tertiary Level. Given the competing demands for public funds at the different levels of education, there is scope for seeking alternative ways of financing education, such as promoting private schools and universities and recovering the costs of tertiary education. There are many different models of public-private partnership and cost recovery operating in other countries that could be examined and considered for Sierra Leone.
 
-Increasing Student-Teacher Ratios. As a key component of unit costs, the student-teacher ratio is low in tertiary education, and savings could result by increasing it. It may also be possible to reduce the number of nonacademic staff, given that a high proportion (two-thirds of all tertiary staff) are non-academic. Although there are trade-offs for every policy choice, the currently modest values of the pupil-teacher ratio in JSS and SSS and the requirement for a large expansion in capacity at these levels suggest that an increase in the pupil-teacher ratio at these levels could be considered.
+Increasing Student-Teacher Ratios. As a key component of unit costs, the student-teacher ratio is low in tertiary education, and savings could result by increasing it. It may also be possible to reduce the number of non-academic staff, given that a high proportion (two-thirds of all tertiary staff) are non-academic. Although there are trade-offs for every policy choice, the currently modest values of the pupil-teacher ratio in JSS and SSS and the requirement for a large expansion in capacity at these levels suggest that an increase in the pupil-teacher ratio at these levels could be considered.
 
 The  common base in  all  the  scenarios  is  the  achievement  of  Universal  Primary  Education  (UPE)  and completion by 2015. Also common to all the scenarios is the acceptance that there is a need to invest more in skills training and to encourage more private investment in education.
 
@@ -4417,9 +3901,11 @@ The  common base in  all  the  scenarios  is  the  achievement  of  Universal  P
 
 Given below are the 2015 targets of the 5 scenarios considered an abbreviated version of which has been presented earlier in Chapter 4.
 
+Figure 63 – The 5 Scenarios
+
 2015 levels (unless otherwise stated)
 --- | --- | --- | --- | --- | --- | ---
-Current (2003/04) | Scenario 1 Chosen | Scenario 2 More Tchrs + Smaller Classes | Scenario UBE Increased JSS-SSS Transit | Scenario 4 Reduced Pub Enrol + Larger Classes | Scenario 5 - Higher Teacher Salaries
+Current (2003/04) | Scenario 1 Chosen | Scenario 2 More Tchrs + Smaller Classes | Scenario 3 UBE + Increased JSS-SSS Transit | Scenario 4 Reduced Pub Enrol + Larger Classes | Scenario 5 - Higher Teacher Salaries
 Pre-Primary
 Gross Enrolment Ratio | 3.9% | 20% | 20% | 20% | 20% | 20%
 Percentage Government-Assisted | 7.9% | 8.0% | 8.0% | 8% | 5% | 8%
@@ -4463,7 +3949,6 @@ Vocational Cert Enrolment Junior Sec School Leavers | NA | 27,274 | 27,274 | 38,
 Tertiary
 Number Enrolled | 13,697 | 24,750 | 24,750 | 24,750 | 24,750 | 24,750
 
-Figure 63 - The 5 Scenarios
 
 107
 
@@ -4519,15 +4004,18 @@ Total Recurrent Gap | -21.1 | -21.2 | -29.5 | -24.8 | -30.7 | -56.3
 Total Recurrent Spending as % of GDP | 4.3% | 4.3% | 4.8% | 4.6% | 5.0% | 6.3%
 Primary Recurrent As % of Tot Recurrent | 47.6 | 45.8 | 48.0 | 47.2 | 44.8 | 46.0
 Tot Recur Finance Gap 2007-15 (US$) | -197.2 | -308.0
-Estimated Sustainability | Sustainable | Non- Sustainable
+Estimated Sustainability | Sustainable | Non-Sustainable
 
-For  all  scenarios,  'sustainability'  was  determined  using  the  yardstick  employed  for  other  ESPs  by  the World Bank team assisting with simulation model costing. This yardstick was based on recommendations of the EFA-FTI Secretariat, experience of working with many countries over many years and knowledge of  economics.  Amongst  other  things,  it  requires  recurrent  spending  on  education  to  be  below  a  prespecified percentage, around 5%, of the GDP (less than 5.6% in this instance) and recurrent allocation to primary education to be as near to 50% as possible (greater than 45% in this instance). Additionally, a dependency on external support ratio was computed to see whether dependency in future years would increase significantly relative to the present situation. For the chosen scenario, the computation indicated a small decrease in overall dependency between the base year and the target year of 2015 as shown below.
+For all scenarios, ‘sustainability” was determined using the yardstick employed for other ESPs by the World Bank team assisting with simulation model costing. This yardstick was based on recommendations
 
 108
 
 [[END OF PAGE 123]]
 
 [[START OF PAGE 124]]
+of the EFA-FTI Secretariat, experience of working with many countries over many years and knowledge of economics. Amongst other things, it requires recurrent spending on education to be below a pre-specified percentage, around 5%, of the GDP (less than 5.6% in this instance) and recurrent allocation to primary education to be as near to 50% as possible (greater than 45% in this instance). Additionally, a dependency on external support ratio was computed to see whether dependency in future years would increase significantly relative to the present situation. For the chosen scenario, the computation indicated a small decrease in overall dependency between the base year and the target year of 2015 as shown below.
+
+Figure 65 – Percentage Dependency on External Funding
 
 Parameter | Base Yr
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -4537,8 +4025,6 @@ Primary education | 43% | 42% | 41% | 41% | 39% | 41% | 43% | 44% | 45% | 47%
 Other levels | 43% | 43% | 41% | 40% | 38% | 38% | 38% | 38% | 38% | 38%
 Overall dependency | 43% | 42% | 41% | 40% | 39% | 40% | 40% | 41% | 42% | 42%
 
-Figure 65 - Percentage Dependency on External Funding
-
 Scenario 1, the GOSL chosen scenario, targets the achievement of UPE by 2015, increased enrolments at all levels, especially vocational skills training, increased private investment relative to the current situation, smaller  average  class  sizes,  more  efficient  use  of  teachers,  increased  spending  on  inputs  other  than teachers,  increased  average  remuneration  in  GDP  terms  for  teachers  at  the  primary  and  SSS  levels, increased  enrolment  on  distance  education  programmes  and  more  spending  on  research  at  the  tertiary level relative to the existing situation.  In recurrent expenditure terms as the table below shows, the model employed predicts for scenario 1 that approximately 5.5% of the GDP of Sierra Leone would be spent on education  by  2015  if  the  economy  grows  as  predicted.  Additionally,  approximately  47.7%  of  recurrent costs would be spent on primary education. Such a recurrent cost scenario is ambitious but sustainable. The estimated financing gap up to and including 2015 is an average of 28.4 million dollars per annum.
 
 Scenario 2 differs from Scenario 1 in that class sizes are reduced and consequently pupil: teacher ratios are also reduced. The result of this seemingly minor change is a significant increase in recurrent and capital costs with recurrent costs rising to approximately 6.2% of GDP by 2015 and the allocation of recurrent costs  to  primary  education  falling  to  47.1%  by  2015.  The  high  percentage  of  the  GDP  that  should  be spent on education by 2015 according to scenario 2 makes it unsustainable in fiscal terms.
@@ -4547,15 +4033,18 @@ For Scenario 3, achievement of UBE and increase in the JSS to SSS transition rat
 
 Relative  to  Scenario  1,  Scenario  4  is  built  on  the  assumptions  that  government  chooses  to  reduce  its expenditure  on  education  by  increasing  private  investment  and  increasing  class  sizes  thus  reducing  the number of teachers required and hence the wage bill and capital costs. The consequence of these moves is that total recurrent spending on education goes to 4.8% by 2015 and, because of the larger reduction in total  salary  at  the  post-primary  level,  the  percentage  of  the  recurrent  spending  on  education  that  is allocated  to  primary  schooling  goes  to  48.0%  by  2015.  Based  on  the  foregoing,  Scenario  4  can  be considered  as  fiscally  sustainable  but  in  terms  of  quality  of  the  teaching  learning  environment  it  has significantly more problems than Scenario 1, not the least among which are the large class sizes. Further, the likelihood of 15% of the parents of secondary school students being able to afford private schooling is unlikely given the very high poverty rate prevailing in the country.
 
-For Scenario 5, the assumption is made that the GOSL agrees to pay school teachers significantly higher salaries than is proposed for the chosen scenario. Because secondary school teachers get higher average salaries than their primary counterparts, one consequence is that the percentage of the recurrent budget on  education  spent  on  primary  schooling  goes  down  relative  to  Scenario  1  and  the  total  recurrent spending  on  education  as  a  percentage  of  GDP  goes  up  to  6.3%  by  2015.  Given  the  foregoing,  the sustainability of Scenario 5 is called into question.
+For Scenario 5, the assumption is made that the GOSL agrees to pay school teachers significantly higher salaries than is proposed for the chosen scenario. Because secondary school teachers get higher average
 
 109
 
 [[END OF PAGE 124]]
 
 [[START OF PAGE 125]]
+salaries than their primary counterparts, one consequence is that the percentage of the recurrent budget on education spent on primary schooling goes down relative to Scenario 1 and the total recurrent spending on education as a percentage of GDP goes up to 6.3% by 2015. Given the foregoing, the sustainability of Scenario 5 is called into question.
 
-The table below shows the recurrent financial requirement in terms of the cost projections of Scenario 1, the  chosen  scenario,  for  the  period  2007-2015.  The  costs  are  broken  down  by  sub-sector/level  of education in a way that allows separate identification of the financial resource requirements for achieving the EFA FTI and the MDG targets.
+The table below shows the recurrent financial requirement in terms of the cost projections of Scenario 1, the chosen scenario, for the period 2007-2015. The costs are broken down by sub-sector/level of education in a way that allows separate identification of the financial resource requirements for achieving the EFA FTI and the MDG targets.
+
+Figure 66²⁸: Scenario 1 - GOSL Chosen - Estimated Recurrent Cost of Financing the ESP, 2007-2015
 
 Summary (millions of Leones) | 2004 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -4579,7 +4068,6 @@ Summary (%)
 Primary | 51.0 | 47.4 | 46.7 | 46.1 | 45.4 | 45.8 | 46.3 | 46.8 | 47.1 | 47.7
 Other levels | 49.0 | 52.6 | 53.3 | 53.9 | 54.6 | 54.2 | 53.7 | 53.2 | 52.9 | 52.3
 
-Figure 66 28 : Scenario 1 - GOSL Chosen - Estimated Recurrent Cost of Financing the ESP, 2007-2015
 
 Diagnostic result
 
@@ -4615,6 +4103,8 @@ Education expenditure  allocation  is  targeted  at  reaching  20%  of  the  tot
 
 The total recurrent budget for the education sector strategy, covering all critical areas from 2007 to 2015, is Le1,833,804 million (US$621.6 million), of which an average of 53% annually would be financed from domestically generated revenue (i.e. exclusive of donor support viz debt relief, budget support, etc) if the domestic resource envelope is devoted to meeting recurrent costs and the gap financed through external grants  and  loans.  Domestic  resource  projections  for  the  Education  sector  are  based  on  the  previous funding  trends  and  consistent  with  the  target  of  20%  of  domestic  budget  revenue,  the  medium  term commitments  set  out  in  the  SL-PRSP  and  long  term  plans  embedded  in  Sierra  Leone's  Vision  2025. External funding will be based on pledges and commitments from the country's development partners. There  are  however,  indications  that  government  could  scale  up  the  amounts  shown  in  the  projections made in table 12.2 with increased revenue mobilisation, mainly through the introduction of Value Added Tax which is expected to contribute an addition of 3% - 5% to GDP and giving appropriate incentives to enhance voluntary tax compliance. The government is committed to progressively adjusting allocations to education in line with sub-regional and international best practices and in line with its capability.
 
+Figure 67:  GOSL Chosen Scenario - Expansion Recurrent Funding Gap in the Financing of the Education Sector
+
 Base Yr 2004 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Recurrent cost of service delivery (millions of Le constant base year)
@@ -4631,8 +4121,6 @@ Indicative framework
 Indicative framework
 Total domes. generated recurrent resources for education | 65,510 | 80,555 | 86,266 | 92,364 | 98,874 | 105,822 | 113,237 | 121,150 | 129,592 | 138,598
 
-Figure 67:  GOSL Chosen Scenario - Expansion Recurrent Funding Gap in the Financing of the Education Sector
-
 111
 
 [[END OF PAGE 126]]
@@ -4645,7 +4133,7 @@ Domestic resource envelope for other levels | 32,092 | 44,794 | 49,828 | 55,315 
 Financing gap for recurrent costs (constant millions of Le base year)
 Primary | -24,717 | -29,433 | -30,682 | -31,846 | -32,572 | -37,328 | -42,661 | -48,658 | -54,128 | -61,743
 Other | -23,737 | -33,292 | -34,976 | -36,567 | -38,060 | -41,053 | -44,168 | -47,425 | -50,846 | -54,458
-Total | -48,454 | -62,725 | -65,658 | -68,413 | -70,633 | -78,381 | -86,829 | -96,083 | - 104,974 | - 116,201
+Total | -48,454 | -62,725 | -65,658 | -68,413 | -70,633 | -78,381 | -86,829 | -96,083 | -104,974 | -116,201
 Financing gap for recurrent costs (constant millions of US $ base year)
 Primary | -9.2 | -10.0 | -10.4 | -10.8 | -11.0 | -12.7 | -14.5 | -16.5 | -18.3 | -20.9
 Other | -8.8 | -11.3 | -11.9 | -12.4 | -12.9 | -13.9 | -15.0 | -16.1 | -17.2 | -18.5
@@ -4656,6 +4144,8 @@ Total | -18 | -21 | -22 | -23 | -24 | -27 | -29 | -33 | -36 | -39
 The  recurrent  funding  gap  is  calculated  as  the  difference  between  domestically  generated  resources allocated to the education sector and recurrent cost of the sector plan. The total recurrent funding gap for the 9 year period from 2007 to 2015 (inclusive) is Le749,898 million (US$254 million). The increase in the gap with time is a consequence of the greater numbers staying on in education for a longer period of time and the inputs made to improve quality.
 
 It must be emphasised that the financing gap given above is in terms of recurrent funding. The financing gap given at the end of each section for each level is the total funding gap i.e. recurrent and capital costs. For the purpose of completeness, the financing gap for recurrent and capital costs together and assuming an annual depreciation rate of 3% is presented below.
+
+Figure 68:  Chosen Scenario – Total (Recurrent + Capital) Funding Gap for the Financing of the Education Sector
 
 Level | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2015 Total | 2010 Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -4670,17 +4160,17 @@ Total gap (millions of current US$)
 US $ depreciation per year | 3.0%
 Total in current millions of $US | -42.81 | -43.64 | -46.32 | -48.73 | -53.55 | -58.77 | -65.00 | -71.38 | -79.66 | -509.86 | -181.50
 
-Figure 68:  Chosen Scenario - Total (Recurrent + Capital) Funding Gap for the Financing of the Education Sector
-
 The  gap  is  expected  to  be  financed  by  savings  made  from  the  efficient  use  of  current  and  projected domestic resources, support from development partners through direct budget and project support, and technical assistance.
 
-As already indicated in the UPE chapter, it is worth noting that the gap above has been computed with estimated donor support taken into account. Details on donor support for education up to 2004/2005 can be  found  in  Annex  7.  The  website,  www.oecd.org/dac/stats/idsonline  also  contains  information  on donor support to education but this tends to be from the past rather than presently or in the future. More up to date information on resource inflows are presently being put together by the Development Aid Coordinating Office (DACO) and the Improved Governance and Accountability Gap (IGAP) groups and will be used to update the level of the financing gap when available. The variability / unpredictability in the  quantum  of  donor  funds  makes  estimating  for  future  years  very  tricky,  but  donor  support  can reasonably be estimated to be between 30% and 38% 29 of the total requirements for education. The largest multilateral donors to education continue to be the World Bank and the African Development Bank. The Islamic Development Bank has made some inputs in the last two years but on a much smaller scale than the other two banks. The largest bilateral donor has been the United Kingdom through general budget support. Most of the donor funding has been targeted at basic education. Relative to other developing countries, Sierra Leone has relatively few donors for education 30 . The extent of the donor support for the ESP will  become  better  known  when  the  in-country  donors  complete  and  submit  their  support  funds forms to the EFA/FTI Secretariat.
+As already indicated in the UPE chapter, it is worth noting that the gap above has been computed with estimated donor support taken into account. Details on donor support for education up to 2004/2005 can be found in Annex 7. The website, www.oecd.org/dac/stats/idsonline also contains information on donor support to education but this tends to be from the past rather than presently or in the future. More up to date information on resource inflows are presently being put together by the Development Aid Co-ordinating Office (DACO) and the Improved Governance and Accountability Gap (IGAP) groups and will be used to update the level of the financing gap when available. The variability / unpredictability in the quantum of donor funds makes estimating for future years very tricky, but donor support can
 
 112
 
 [[END OF PAGE 127]]
 
 [[START OF PAGE 128]]
+
+reasonably be estimated to be between 30% and 38%29 of the total requirements for education. The largest multilateral donors to education continue to be the World Bank and the African Development Bank. The Islamic Development Bank has made some inputs in the last two years but on a much smaller scale than the other two banks. The largest bilateral donor has been the United Kingdom through general budget support. Most of the donor funding has been targeted at basic education. Relative to other developing countries, Sierra Leone has relatively few donors for education30. The extent of the donor support for the ESP will become better known when the in-country donors complete and submit their support funds forms to the EFA/FTI Secretariat.
 
 ### Target Rates and Ratios
 
@@ -4690,7 +4180,7 @@ The progress towards achieving Plan target rates and ratios are to be monitored 
 
 The cost of meeting the targets and goals set for education up till 2015 exceeds what can be provided from domestic resources hence the financing gap. The financing gap is challenging but can be bridged. According to the yardstick used for assessing the sustainability of costed plans, Sierra Leone's costings are sustainable and the plan is ambitious but credible. It is for donors to now go by their words and provide the necessary support.
 
-Please remember that the detailed situation analysis on the financing of education and the channelling to educational  institutions  can  be  found  in  the  sister  document  the  CSR  -  Education  in  Sierra  Leone  Present Challenges, Future Opportunities.
+Please remember that the detailed situation analysis on the financing of education and the channelling to educational institutions can be found in the sister document the CSR – Education in Sierra Leone – Present Challenges, Future Opportunities.
 
 > 29 CSR, Page 106
 
@@ -4752,7 +4242,7 @@ Funds Use
 
 Funds Receipt
 
-Monitoring  will  be  coordinated  by  the  central  government  through  the  ESP  Secretariat  in  MEST. Responsibilities  of  MEST  include  the  strengthening  of  policies  and  strategies  in  the  monitoring  and evaluation  of  the  education  sector  and  in  ensuring  that  an  effective  monitoring  system  is  in  place throughout  the  country.  This  will  involve  close  collaboration  with  the  Local  Government  Authorities, educational  institutions  and  their  SMCs/Boards  and  other  Ministries.  MEST  will  send  information, guidance  and  clear  directives  to  the  District  Education  Offices  (DEOs)  and  will  be  responsible  for receiving, compiling and analyzing the education data for the whole country. Appropriate reports will be written and disseminated.
+Monitoring will be coordinated by the central government through the ESP Secretariat in MEST. Responsibilities of MEST include the strengthening of policies and strategies in the monitoring and evaluation of the education sector and in ensuring that an effective monitoring system is in place throughout the country. This will involve close collaboration with the Local Government Authorities, educational institutions and their SMCs/Boards and other Ministries. MEST will send information, guidance and clear directives to the District Education Offices (DEOs) and will be responsible for
 
 115
 
@@ -4760,7 +4250,9 @@ Monitoring  will  be  coordinated  by  the  central  government  through  the  E
 
 [[START OF PAGE 131]]
 
-In  particular,  the  monitoring  unit  in  the  ESP  Secretariat  of  MEST  will  be  in  charge  of  the  overall coordination of monitoring the Education Sector Plan. This unit will be responsible for formulating the monitoring  and  evaluation  plans,  identifying  priorities  and  gaps,  managing  the  monitoring  process, harmonizing  the  collection,  dissemination  and  analysis  of  information,  report  writing  and  instigating corrective measures if and when targets are not reached. If corrective measures are beyond the capacity of the monitoring unit, it will sound the 'alarm bells' and alert the appropriate competent authorities in the Ministry. Amongst its first actions, the unit will re-confirm the capacity of MEST to fully implement the ESP in a timely manner and make recommendations as to how implementation gaps can best be filled.
+receiving, compiling and analyzing the education data for the whole country. Appropriate reports will be written and disseminated.
+
+In particular, the monitoring unit in the ESP Secretariat of MEST will be in charge of the overall coordination of monitoring the Education Sector Plan. This unit will be responsible for formulating the monitoring and evaluation plans, identifying priorities and gaps, managing the monitoring process, harmonizing the collection, dissemination and analysis of information, report writing and instigating corrective measures if and when targets are not reached. If corrective measures are beyond the capacity of the monitoring unit, it will sound the 'alarm bells' and alert the appropriate competent authorities in the Ministry. Amongst its first actions, the unit will re-confirm the capacity of MEST to fully implement the ESP in a timely manner and make recommendations as to how implementation gaps can best be filled.
 
 As mentioned earlier, monitoring is a responsibility for all stakeholders and the role of the ESP Secretariat will be to ensure that each actor can effectively play its part. It is necessary to set up a system of 'focal points' at all levels and in all locations to ensure that accurate and comprehensive information can freely pass up and down the communication chain in a timely and reliable fashion. The monitoring unit of the ESP Secretariat will be responsible for drafting the generic terms of reference of the various focal points in the monitoring chain. Examples of focal points include heads of DEOs, heads of education in LGAs, education supervisors, head-teachers and community leaders.
 
@@ -4770,7 +4262,7 @@ Capacity for monitoring and evaluation will be built at both central government 
 
 Monitoring will occur at the donor level through the regular in-country donors meetings facilitated by the lead education agency UNICEF. Mutual accountability will be promoted at these meetings through the principle 'one country, one plan, one monitoring framework'. There will be coordination with DACO to ensure harmonization with the broader PRSP goals. Harmonization and alignment of donor funding will promote an efficient use of funds. Donors will be encouraged to make occasional field monitoring trips to witness the situation in the schools for themselves. The various donors should make joint monitoring trips and use the same set of indicators to improve the efficiency and effectiveness of their monitoring.
 
-The in-country donors meeting will be the forum for annual sector reviews to be conducted by MEST and its donor partners in a spirit of peer reviewing, learning and joint accountability. The results of the joint sector reviews will indicate areas of success and areas of concern requiring corrective action. The results of the review will be communicated to the FTI Secretariat in Washington in order to obtain approval for the release of the next tranche of the Catalytic Fund grant. Moreover, by sharing with Washington it will be possible to track progress of the ESP at the global level thus fostering cross-country sharing of lessons and good practice through the FTI website.
+The in-country donors meeting will be the forum for annual sector reviews to be conducted by MEST and its donor partners in a spirit of peer reviewing, learning and joint accountability. The results of the joint sector reviews will indicate areas of success and areas of concern requiring corrective action. The results of the review will be communicated to the FTI Secretariat in Washington in order to obtain approval for the release of the next tranche of the Catalytic Fund grant. Moreover, by sharing with Washington it will
 
 116
 
@@ -4778,28 +4270,32 @@ The in-country donors meeting will be the forum for annual sector reviews to be 
 
 [[START OF PAGE 132]]
 
+be possible to track progress of the ESP at the global level thus fostering cross-country sharing of lessons and good practice through the FTI website.
+
 ### What is to be monitored in the ESP?
 
-The essential indicators and benchmarks indicated below will be monitored on a yearly basis up to 2015. The  indicators  are  largely  those  recommended  by  the  FTI  Secretariat  and  they  are  concerned  with resource  mobilization,  student  flows  and  service  delivery.  They  monitor  overall  progress  towards achievement of targets indicated.
+The essential indicators and benchmarks indicated below will be monitored on a yearly basis up to 2015. The indicators are largely those recommended by the FTI Secretariat and they are concerned with resource mobilization, student flows and service delivery. They monitor overall progress towards achievement of targets indicated.
 
-Level and Parameters | Base Yr | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
+Figure 69: Indicators and Benchmarks to be Monitored Annually
+
+Level and Parameters | Base Yr 2004 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Preschool
 Gross Enrolment Ratio (GER) | 4% | 8% | 10% | 11% | 13% | 14% | 16% | 17% | 19% | 20%
 % of pupils Gvt assisted | 7.9% | 7.9% | 7.9% | 7.9% | 7.9% | 8.0% | 8.0% | 8.0% | 8.0% | 8.0%
 Primary
 Grade 1 (GIR) | 159% | 129% | 120% | 110% | 100% | 100% | 100% | 100% | 100% | 100%
-Grade 1 (GIR) - Boys | 133.1% | 122.1% | 111.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0%
-Grade 1 (GIR) - Girls | 125.9% | 117.2% | 108.6% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0%
+Grade 1 (GIR) - Boys |  | 133.1% | 122.1% | 111.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0%
+Grade 1 (GIR) - Girls |  | 125.9% | 117.2% | 108.6% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0%
 Grade 6 (Proxy Completion rate) | 55% | 67% | 71% | 75% | 79% | 84% | 88% | 92% | 96% | 100%
-Grade 6 (Proxy Completion rate) - Boys | 74.1% | 77.3% | 80.5% | 83.8% | 87.0% | 90.3% | 93.5% | 96.8% | 100.0%
-Grade 6 (Proxy Completion rate) - Girls | 60.1% | 65.1% | 70.1% | 75.1% | 80.0% | 85.0% | 90.0% | 95.0% | 100.0%
+Grade 6 (Proxy Completion rate) - Boys |  | 74.1% | 77.3% | 80.5% | 83.8% | 87.0% | 90.3% | 93.5% | 96.8% | 100.0%
+Grade 6 (Proxy Completion rate) - Girls |  | 60.1% | 65.1% | 70.1% | 75.1% | 80.0% | 85.0% | 90.0% | 95.0% | 100.0%
 Share of repeaters | 12% | 10% | 9% | 9% | 8% | 8% | 7% | 6% | 6% | 5%
-Share of repeaters - Boys | 10.1% | 9.5% | 8.8% | 8.2% | 7.5% | 6.9% | 6.3% | 5.6% | 5.0%
-Share of repeaters - Girls | 10.8% | 10.1% | 9.4% | 8.6% | 7.9% | 7.2% | 6.5% | 5.7% | 5.0%
+Share of repeaters - Boys |  | 10.1% | 9.5% | 8.8% | 8.2% | 7.5% | 6.9% | 6.3% | 5.6% | 5.0%
+Share of repeaters - Girls |  | 10.8% | 10.1% | 9.4% | 8.6% | 7.9% | 7.2% | 6.5% | 5.7% | 5.0%
 Gross Enrolment Ratio (GER) | 121% | 109% | 105% | 102% | 98% | 99% | 101% | 102% | 104% | 105%
-Gross Enrolment Ratio (GER) - Boys | 115% | 110% | 105% | 100% | 101% | 102% | 103% | 104% | 105%
-Gross Enrolment Ratio (GER) - Girls | 104% | 101% | 99% | 96% | 98% | 100% | 102% | 103% | 105%
+Gross Enrolment Ratio (GER) - Boys |  | 115% | 110% | 105% | 100% | 101% | 102% | 103% | 104% | 105%
+Gross Enrolment Ratio (GER) - Girls |  | 104% | 101% | 99% | 96% | 98% | 100% | 102% | 103% | 105%
 % of pupils in private schools | 5% | 6% | 7% | 7% | 8% | 8% | 9% | 9% | 10% | 10%
 Pupil teacher ratio (public) | 61 | 57 | 55 | 54 | 52 | 51 | 49 | 48 | 46 | 45
 Teacher remuneration as multiple of GDP per capita | 4.2 | 4.5 | 4.5 | 4.6 | 4.7 | 4.7 | 4.7 | 4.7 | 4.7 | 4.7
@@ -4807,14 +4303,14 @@ Spending on inputs other than teachers as % of total recurrent spending | 31% | 
 Junior Secondary
 Transition rate (Primary --> JSS) | 63% | 59% | 58% | 57% | 56% | 55% | 54% | 52% | 51% | 50%
 Survival rate | 74% | 78% | 80% | 81% | 83% | 84% | 86% | 87% | 89% | 90%
-Survival rate - Boys | 83.8% | 84.5% | 85.3% | 86.1% | 86.9% | 87.7% | 88.4% | 89.2% | 90.0%
-Survival rate - Girls | 70.3% | 72.8% | 75.2% | 77.7% | 80.1% | 82.6% | 85.1% | 87.5% | 90.0%
+Survival rate - Boys |  | 83.8% | 84.5% | 85.3% | 86.1% | 86.9% | 87.7% | 88.4% | 89.2% | 90.0%
+Survival rate - Girls |  | 70.3% | 72.8% | 75.2% | 77.7% | 80.1% | 82.6% | 85.1% | 87.5% | 90.0%
 Share of repeaters | 14.0% | 11.5% | 10.7% | 9.9% | 9.1% | 8.3% | 7.5% | 6.6% | 5.8% | 5.0%
-Share of repeaters - Boys | 36.5% | 37.7% | 38.9% | 40.1% | 41.2% | 42.2% | 43.2% | 44.1% | 45.0%
-Share of repeaters - Girls | 25.3% | 27.8% | 30.3% | 32.8% | 35.2% | 37.7% | 40.2% | 42.6% | 45.0%
+Share of repeaters - Boys |  | 36.5% | 37.7% | 38.9% | 40.1% | 41.2% | 42.2% | 43.2% | 44.1% | 45.0%
+Share of repeaters - Girls |  | 25.3% | 27.8% | 30.3% | 32.8% | 35.2% | 37.7% | 40.2% | 42.6% | 45.0%
 Gross Enrolment Ratio (GER) | 35% | 40% | 42% | 43% | 45% | 46% | 47% | 48% | 49% | 50%
-Gross Enrolment Ratio (GER) - Boys | 45% | 46% | 47% | 47% | 48% | 49% | 49% | 50% | 50%
-Gross Enrolment Ratio (GER) - Girls | 35% | 37% | 40% | 42% | 43% | 45% | 47% | 49% | 50%
+Gross Enrolment Ratio (GER) - Boys |  | 45% | 46% | 47% | 47% | 48% | 49% | 49% | 50% | 50%
+Gross Enrolment Ratio (GER) - Girls |  | 35% | 37% | 40% | 42% | 43% | 45% | 47% | 49% | 50%
 % of pupils in private schools | 5% | 6% | 7% | 7% | 8% | 8% | 9% | 9% | 10% | 10%
 Pupil per class (Public) | 48.5 | 47.6 | 47.3 | 46.9 | 46.6 | 46.3 | 46.0 | 45.6 | 45.3 | 45.0
 Pupil teacher ratio (public) | 28.9 | 30.6 | 31.1 | 31.6 | 32.1 | 32.5 | 33.0 | 33.4 | 33.8 | 34.2
@@ -4822,9 +4318,9 @@ Spending on inputs other than teachers as % of total recurrent spending | 30% | 
 Senior Secondary
 Transition rate (JSS --> SSS) | 39% | 39% | 38% | 38% | 38% | 38% | 38% | 37% | 37% | 37%
 Share of repeater | 11.0% | 9.4% | 8.8% | 8.3% | 7.7% | 7.2% | 6.6% | 6.1% | 5.5% | 5.0%
-Share of repeaters - Boys | 7.1% | 6.8% | 6.6% | 6.3% | 6.1% | 5.8% | 5.5% | 5.3% | 5.0%
+Share of repeaters - Boys |  | 7.1% | 6.8% | 6.6% | 6.3% | 6.1% | 5.8% | 5.5% | 5.3% | 5.0%
 
-Figure 69: Indicators and Benchmarks to be Monitored Annually
+
 
 117
 
@@ -4834,10 +4330,10 @@ Figure 69: Indicators and Benchmarks to be Monitored Annually
 
 Level and Parameters | Base Yr
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Share of repeaters - Girls | 12.6% | 11.6% | 10.7% | 9.7% | 8.8% | 7.8% | 6.9% | 5.9% | 5.0%
+Share of repeaters - Girls |  | 12.6% | 11.6% | 10.7% | 9.7% | 8.8% | 7.8% | 6.9% | 5.9% | 5.0%
 Gross Enrolment Ratio (GER) | 12% | 14% | 14% | 15% | 15% | 15% | 16% | 16% | 16% | 17%
-Gross Enrolment Ratio (GER) - Boys | 17% | 17% | 17% | 17% | 17% | 17% | 17% | 17% | 17%
-Gross Enrolment Ratio (GER) - Girls | 9% | 10% | 11% | 12% | 13% | 14% | 15% | 16% | 17%
+Gross Enrolment Ratio (GER) - Boys |  | 17% | 17% | 17% | 17% | 17% | 17% | 17% | 17% | 17%
+Gross Enrolment Ratio (GER) - Girls |  | 9% | 10% | 11% | 12% | 13% | 14% | 15% | 16% | 17%
 % of pupils in private schools | 1% | 3% | 4% | 5% | 6% | 7% | 8% | 8% | 9% | 10%
 Pupil per class (Public) | 42.3 | 41.7 | 41.5 | 41.3 | 41.1 | 40.8 | 40.6 | 40.4 | 40.2 | 40.0
 Pupil teacher ratio (public) | 27.1 | 27.9 | 28.2 | 28.4 | 28.7 | 28.9 | 29.1 | 29.3 | 29.5 | 29.6
@@ -4977,11 +4473,11 @@ We recognize that capacity building in and of itself is futile if organizational
 
 The education ministry together with various partners will take the following steps to support professional development:
 
-- Support  the  creation  of  a  department  of  education  management  at  the  appropriate  higher education institutions, which will provide short and long-term courses for managers and education staff.  This  department  will  integrate  both  theory  and  practice  in  a  way  that  is  meaningful  to learners.
+(1) Support the creation of a department of education management at the appropriate higher education institutions, which will provide short and long-term courses for managers and education staff. This department will integrate both theory and practice in a way that is meaningful to learners.
 
-- Provide short training seminars and workshops for education officers, and include participation in such courses in the review and promotion process
+(2) Provide short training seminars and workshops for education officers, and include participation in such courses in the review and promotion process
 
-- Encourage staff exchange with the private and NGO sector to encourage sharing of knowledge and expertise
+(3) Encourage staff exchange with the private and NGO sector to encourage sharing of knowledge and expertise
 
 > 31 Fullan, Michael (2005)
 
@@ -4991,21 +4487,21 @@ The education ministry together with various partners will take the following st
 
 [[START OF PAGE 138]]
 
-- Encourage the development of a culture of learning at all education institutions from the Central Ministry to the schools. For example, those who participate in workshops should be required to train others and managers will be rewarded based on their ability to train junior staff
+(4) Encourage the development of a culture of learning at all education institutions from the Central Ministry to the schools. For example, those who participate in workshops should be required to train others and managers will be rewarded based on their ability to train junior staff
 
-- Utilize information and communication technologies to provide training where appropriate and to provide access to a broad base of knowledge for education staff
+(5) Utilize information and communication technologies to provide training where appropriate and to provide access to a broad base of knowledge for education staff
 
-- Encourage current  graduates  in  fields  such  as  economics,  psychology,  business  management  to consider the education sector as a place where there skills can be utilized
+(6) Encourage current graduates in fields such as economics, psychology, business management to consider the education sector as a place where there skills can be utilized
 
-- Institute a system of annual reviews within the Ministry and encourage local governments to do likewise. Bonuses and salary raises would be based on these reviews.
+(7) Institute a system of annual reviews within the Ministry and encourage local governments to do likewise. Bonuses and salary raises would be based on these reviews.
 
-- Build a library within the Ministry to provide resources for personal and professional development.
+(8) Build a library within the Ministry to provide resources for personal and professional development.
 
-- Develop a mentorship program that pairs off more experienced staff members with junior staff members
+(9) Develop a mentorship program that pairs off more experienced staff members with junior staff members
 
-- The Ministry should work together with partner agencies so that when technical specialists are  brought  in,  they  are  encouraged  to  share  knowledge  through  workshops  or  seminars  to education officials broadly and not just for those working within particular projects. Similarly, any study on education or relevant areas conducted by consultants should be presented at MEST and copies of the document given to the library.
+(10) The Ministry should work together with partner agencies so that when technical specialists are brought in, they are encouraged to share knowledge through workshops or seminars to education officials broadly and not just for those working within particular projects. Similarly, any study on education or relevant areas conducted by consultants should be presented at MEST and copies of the document given to the library.
 
-.
+(11) .
 
 To  give  such  initiatives  a  chance  for  success,  every  person  would  be  aware  of  their  roles  and responsibilities within the education system. The recently established EMIS will help to provide the data needed for management, planning, and evaluation.
 
@@ -5019,7 +4515,7 @@ Because of the current low status of teaching, the 'profession' does not attract
 
 #### Professional codes of conduct
 
-The behaviour of current teachers and lecturers contributes to the perception of the profession among potential recruits. Students learn more from teachers than content knowledge - if teachers are chronically absent or late or show no pride in their profession or any interest in the achievement of their student then they will be poor ambassadors to potential recruits. However, a committed and professional teaching corps will serve as an inspiration to others.  Our vision is a teaching profession with a professional code of conduct that will hold teachers accountable for their actions and behaviours.
+The behaviour of current teachers and lecturers contributes to the perception of the profession among potential recruits. Students learn more from teachers than content knowledge - if teachers are chronically absent or late or show no pride in their profession or any interest in the achievement of their student – then they will be poor ambassadors to potential recruits. However, a committed and professional teaching corps will serve as an inspiration to others. Our vision is a teaching profession with a professional code of conduct that will hold teachers accountable for their actions and behaviours.
 
 123
 
@@ -5075,7 +4571,7 @@ Partnering  with  other  ministries,  who  undoubtedly  face  the  same  challen
 
 ### More and better use of resources
 
-In order to be able to achieve our vision for the education sector, resources will be needed. In a cashstrapped  country  such  as  ours,  we  will  need  to  think  creatively  about  generating  resources.  Public expenditure in education is expected to grow if the economy grows and government remains committed to education. In addition to public monies, we will need to generate resources through partnerships with communities, private sector, individuals,  and  other  non-governmental  institutions  that  are  within  Sierra Leone.  We  will  instil  confidence  in  the  system  by  building  accountability  and  management  systems  to encourage efficient use of resources towards achieving our vision
+In order to be able to achieve our vision for the education sector, resources will be needed. In a cash-strapped country such as ours, we will need to think creatively about generating resources. Public expenditure in education is expected to grow if the economy grows and government remains committed to education. In addition to public monies, we will need to generate resources through partnerships with communities, private sector, individuals, and other non-governmental institutions that are within Sierra Leone. We will instil confidence in the system by building accountability and management systems to encourage efficient use of resources towards achieving our vision
 
 #### Engaging the Sierra Leone Diaspora
 
@@ -5093,23 +4589,23 @@ The government will embark on mutually beneficial  structured  public-private  p
 
 #### Other potential sources of funding
 
-- square4 setting up an education fund for contributions from private individuals and corporations
+- setting up an education fund for contributions from private individuals and corporations
 
-- square4 requiring  mining  and  other  multi-national  companies  to  contribute  a  fraction  of  their  profits  to education fund
+- requiring mining and other multi-national companies to contribute a fraction of their profits to education fund
 
-- square4 partnering with schools and universities abroad
+- partnering with schools and universities abroad
 
-- square4 increased  cost  recovery  at  the  university  level  while  providing  access  to  grants  and  loans  for  the disadvantaged
+- increased cost recovery at the university level while providing access to grants and loans for the disadvantaged
 
-- square4 leveraging resources  of regional  and  international  initiatives  (such  as  NEPAD,  African  Virtual University, etc.) to realize economies of scale
+- leveraging resources of regional and international initiatives (such as NEPAD, African Virtual University, etc.) to realize economies of scale
 
-- square4 community development initiatives to support education
+- community development initiatives to support education
 
 ### Conclusion
 
 After decades of war and strife, Sierra Leone is at a crossroads with regards to education and economic progress. This chapter has outlined a vision for the education system, focusing on strategies to ensure that our vision of providing a good quality education for all children is realized and sustained. The vision is based  on  the  three  E's:  Excellence,  Equity,  and  Equilibrium,  and  the  drivers  identified  for  sustaining progress  include:  strong  and  capable  school  leadership,  commitment  to  and  assessment  of  student  and institutional learning, leveraging information and  communication  technologies,    a strong teacher profession, and more and better use of resources.
 
-We will not rest until our vision of  schools as  sites that develop the intellectual, moral, emotional and social lives of all children is realized. Such schools will build on the backgrounds of students to develop basic literacy at the early years and teach the values of democracy, peace, and good citizenship throughout the curriculum. Schools will instil in students the joy of learning and teach them enough to become lifelong learners and productive in the work force.
+We will not rest until our vision of schools as sites that develop the intellectual, moral, emotional and social lives of all children is realized. Such schools will build on the backgrounds of students to develop basic literacy at the early years and teach the values of democracy, peace, and good citizenship throughout the curriculum. Schools will instil in students the joy of learning and teach them enough to become life-long learners and productive in the work force.
 
 126
 
@@ -5117,38 +4613,55 @@ We will not rest until our vision of  schools as  sites that develop the intelle
 
 [[START OF PAGE 142]]
 
+# Annex 1 – Names and Areas of Coverage of Writers
+
 Theme Leader - Access
 --- | ---
 Access, Completion and Retention | Dr.Dele Sannoh (USL)/ Prof. S. P. T. Gbamanja (NU)
+
 Sub-Theme Leaders - Access
 Access, Completion and Retention (Primary) | Prof. A. Joof (USL)
 Access, Completion and Retention (Secondary) | Mr. H.Fyfe (Prncp, Govt Tech SSS)
 Access, Completion and Retention (Tertiary-TVCs, TVIs, Teacher Training Colleges) | Mr. S.E. Johnson (MMCET)
-Polys) Consultants - Access | Dr. D.Faulkner (USL)
+Access, Completion and Retention (Tertiary-Univ and Polys) | Dr. D.Faulkner (USL)
+
+Consultants - Access
 Access, Completion and Retention (Primary) | Mr. J. Swarray (MEST)
-Mr. M. B. Lamin, (Chair, NFE Plan-SL)
-Ms. A. J. S. Pessima (USL)
-Mrs. Ophelia Morrison (Prncp, Const JSS)
+ | Mr. M. B. Lamin, (Chair, NFE Plan-SL)
+ | Ms. A. J. S. Pessima (USL)
+
+Access, Completion and Retention (Secondary) | Mr. R. Bob Katta (Prncp, Govt Boys, Bo)
+ | Mrs. Ophelia Morrison (Prncp, Const JSS)
+
 Access, Completion and Retention (Tertiary) | Dr. T. B. R. Yormah (USL)
+
 Access, Completion and Retention (Tertiary) | Dr. Sullay Kamara
+
 Theme Leader - Quality
 Quality: Exams/Assessment; Monitoring & Evaluation | Mr. R. C. King (BES, MEST)
-Sub-Theme Leaders Quality
-Quality: Examinations/Assessment Primary level | Mr. M. A. Renner (MEST)
-Secondary level Polytechnics) | Mrs. Blanche Macauley (USL)
-Tertiary level (Tech Voc) | Dr. Raymond Johnson (USL) Mrs. Rogers-Wright (NCTVA)
-Tertiary level (Universities and | Mr. G. Sellu (MEST)
-Quality (Monitoring & Evaluation) | Mr. A. Konjoh (MMCET) Mrs. M. Manley (Ex - NCRDC)
-Mr. Claudius Wilson (MEST)
-Quality (Primary) | Mr. Bah (Insp) (MEST)
-Mrs. Dolly Martin, (VP, Int School - Prim)
-Ms. D. Thompson-Clewry (Head, Jomo Prim
-Quality (Secondary) | Mr. N. Pearce (Prncp, MBHS)
-Mr. S. Labor (MEST)
-Mrs.Elfrida Scott (Prncp Govt Municipal JSS)
-Quality (Tertiary) | Dr. Victor E. A. Kabia (VP, MMCET)
 
-# Annex 1 - Names and Areas of Coverage of Writers
+Sub-Theme Leaders
+Quality
+Quality: Examinations/Assessment | Mr. M. A. Renner (MEST)
+Primary level | Mrs. Blanche Macauley (USL)
+Secondary level |
+Tertiary level (Universities and Polytechnics) | Dr. Raymond Johnson (USL)
+Tertiary level (Tech Voc) | Mrs. Rogers-Wright (NCTVA)
+
+Quality (Monitoring & Evaluation) | Mr. G. Sellu (MEST)
+ | Mr. A. Konjoh (MMCET)
+ | Mrs. M. Manley (Ex – NCRDC)
+ | Mr. Claudius Wilson (MEST)
+
+Quality (Primary) | Mr. Bah (Insp) (MEST)
+ | Mrs. Dolly Martin, (VP, Int School – Prim)
+ | Ms. D. Thompson-Clewry (Head, Jomo Prim
+
+Quality (Secondary) | Mr. N. Pearce (Prncp, MBHS)
+ | Mr. S. Labor (MEST)
+ | Mrs.Elfrida Scott (Prncp Govt Municipal JSS)
+
+Quality (Tertiary) | Dr. Victor E. A. Kabia (VP, MMCET)
 
 127
 
@@ -5186,6 +4699,8 @@ Key:  USL  =  University  of  Sierra  Leone;  NU  =  Njala  University;  Prncp  
 
 [[START OF PAGE 144]]
 
+# Annex 2a – Consultative Meetings (excluding those at district level) Dates and Venues
+
 NO | AGENCY/ORGANISATION | DATE | NO. OF PARTICIPANTS | VENUE | REMARK
 --- | --- | --- | --- | --- | ---
 1 | Forum for African Women Educationists - Sierra Leone Chapter (FAWE) | 1st Meeting - 15th July, 2006 2nd Meeting - 26th July, 2006 | 3 6 | Hill Vally Hotel, Signal Hill, Freetown | A written submission was presented on Friday 29th July, 2006
@@ -5198,8 +4713,6 @@ NO | AGENCY/ORGANISATION | DATE | NO. OF PARTICIPANTS | VENUE | REMARK
 8 | Head Teachers Council and Teachers of primary school | 22nd August 2006 | 30 | FABS Media Services Hall, Wilberforce, Freetown | One-day meeting with groupwork and plenary. Report submitted on the same day - 22nd August, 2006
 9 | Conference of Principals of Secondary Schools and teachers of secondary schools (JSS and SSS) | 23rd August, 2006 | 30 | FABS Media Services Hall, Wilberforce, Freetown | One-day meeting with groupwork and plenary. Report submitted on the same day - 23rd August, 2006
 
-# Annex 2a - Consultative Meetings (excluding those at district level) Dates and Venues
-
 129
 
 [[END OF PAGE 144]]
@@ -5210,7 +4723,7 @@ NO | AGENCY/ORGANISATION | DATE | NO. OF PARTICIPANTS | VENUE | REMARK
 --- | --- | --- | --- | --- | ---
 11 | Inspectors of Schools, Regional Deputy Directors and Chairpersons of Education Committees of Local Councils | 7th September, 2006 | 50 | FABS Media Services Hall, Wilberforce, Freetown | One-day meeting with groupwork and plenary. Report submitted on the same day - Wednesday 7th September, 2006
 12 | Sierra Leone Union on Disability Issues - SLUDI | 1st meeting - 31st August 2006 (Coordinated by Desk Officer, MEST) 2nd meeting (NGOs) 7th September, 06 | 30 13 | Ministry of Social Welfare, Gender and Children's Affairs Hall, New England, Freetown FABS Media Services, Wilberforce, Freetown | Written submission were presented for both meetings
-13 | Local and International Non- Governmental Organisation | 7th September, 2006 | 40 | FABS Media Services Hall, Wilberforce, Freetown | One-day meeting with groupwork and plenary. Report submitted on the same day - 19th September, 2006
+13 | Local and International Non-Governmental Organisation | 7th September, 2006 | 40 | FABS Media Services Hall, Wilberforce, Freetown | One-day meeting with groupwork and plenary. Report submitted on the same day - 19th September, 2006
 14 | West African Examination Council (WAEC) | 16th September, 2006 | 20 | WAEC Conference Hall | Written submission presented on 14th September, 2006
 15 | Al -Muhajireen Development and Social Services | 4th September, 2006 | 16 | FABS Media Services Hall, Wilberforce, Freetown | One-day meeting with groupwork and plenary. Report submitted on - Wednesday 5th October, 2006
 16 | HIV/AIDS Focal Desk. MEST and National HIV/AIDS Secretariat | 11th September 2006 | - | Arranged for FABS Media Services Hall, Wilberforce, Freetown | Written submission presented on 14th September 2006
@@ -5224,6 +4737,8 @@ NO | AGENCY/ORGANISATION | DATE | NO. OF PARTICIPANTS | VENUE | REMARK
 [[END OF PAGE 145]]
 
 [[START OF PAGE 146]]
+
+# Annex 2b Contact List of Ministries Consulted in the Formulation of ESP
 
 Ministry | Contact Person/Position | Email address/phone number
 --- | --- | ---
@@ -5242,22 +4757,20 @@ Works, Housing and Technical Maintenance | Osman Kanu | +232-77-255-100
 Fisheries and Marine Resources | Umaru Tarawally | +232-77-580-082
 Foreign Affairs | Mohamed Mansaray | +232-76-738-046
 
-# Annex 2b Contact List of Ministries Consulted in the Formulation of ESP
+# Annex 2c List of Other Government and Quasi-Government Committees/ Organisations Consulted
 
 Committee/Organisation | Contact Person/Position | Email address/phone number
 --- | --- | ---
 Parliamentary Sub-Committee on Education | Mrs. Lydia Kutubu, Chair | +232-76-707-526
 Decentralisation Secretariat | Jonathan Sahr Kpakiwa | +232-76-611-639
-Local Government Authority Chairpersons | S. Woobay
-Local Government Commission | B. A. B. Minah
+Local Government Authority Chairpersons | S. Woobay |
+Local Government Commission | B. A. B. Minah |
 Science and Technology Council | I. L. M. Sesay, Exec. Sec. | +232-76-676-898
 Technical and Vocational Council | Mrs. Francess Cummings | +232-76-635-784
 West African Examinations Council (WAEC) | Patrick Ndulu | +232-76-748-720
 National Council for Technical, Vocational and other Academic Awards | Mohamed A. Jalloh, Exec Sec. | +232-76-686-983
 MEST HIV/AIDS Focal Point | Ms. Mabel Gamanga | +232-76-603-154
 Tertiary Education Commission | Prof. Harry Turay | +232-76-632-704
-
-# Annex 2c List of Other Government and Quasi-Government Committees/ Organisations Consulted
 
 # Annex 2d - Contact List of Main Local Organisations Consulted
 
@@ -5270,7 +4783,7 @@ Civil Society Movement | Festus Minah, Chairman | +232-33-344-404
 Conference of Principals of Secondary Schools (CPSS) | Henry Fyfe, Chairman | +232-30-210-510
 FAWE | Mrs. Eileen Hanciles, Nat. Co-ord. | +232-30-217-043
 Head Teachers' Council (HTC) | Ibrahim Kamara-Kargbo | +232-76-689-335
-Local Government Authority Chairpersons
+Local Government Authority Chairpersons |  |
 Peoples' Educational Association (PEA) | Dominic Simbo | +232-76-622-212
 Sierra Leone Association for the Blind | Ms. Emma Parker | +232-30-206-447
 Sierra Leone Muslim Brotherhood Mission | A. R. Tejan-Jalloh, Dev. Sec. Gen. | +232-76-601-835
@@ -5323,7 +4836,7 @@ EC | Francesca Varlese | francesca.varlese@ec.europa.eu +232-76-863-635
 IRC | Alan Glasgow Country Director | alan.glasgow@theirc.org +232-76-611-602
 Irish Aid | Grainne O'Neill Country Representative | grainne.oneill@dfa.ie +232-76-771-984
 JICA | Megumi Kaneda Project Formulation Adviser | kaneda.megumi@jica.go.jp +232-22-242-258
-PLAN | Fadimata Alainchar Country Director | fadimata.alainchar@plan- international.org +232-22-242-067
+PLAN | Fadimata Alainchar Country Director | fadimata.alainchar@plan-international.org +232-22-242-067
 Save the Children - UK (SCUK) | Dieneke van der Wijk Programme Director | d.vanderwijk@savethechildren.org.uk +232-76-686-540
 SLANGO | Aiah Khabenje Chair | efsl2003@sierratel.sl +232-22-228-670
 UNDP | Graham Chipande Senior Economic Adviser | Graham.chipande@undp.org +232-76-744-348
@@ -5343,7 +4856,7 @@ World Bank | Engilbert Gudmundsson Country Director | egudmundsson@worldbank.org
 Agency | Contact person/position | Email address/phone number
 --- | --- | ---
 African Development Bank (ADB) | Margaret Kilo Country Manager | m.kilo@afdb.org +232-76-572-828
-PLAN | Fadimata Alainchar Country Director | fadimata.alainchar@plan- international.org +23222242067
+PLAN | Fadimata Alainchar Country Director | fadimata.alainchar@plan-international.org +23222242067
 UNICEF | Geert Cappelaere Representative | gcappelaere@unicef.org +23276601312
 World Bank | Engilbert Gudmundsson Country Director | egudmundsson@worldbank.org +23222227555
 
@@ -5360,6 +4873,7 @@ No. of districts | 12
 Target | 100 participants per district
 Total | 1,200 participants
 No. of districts covered | 10
+(Kono and Koinadugu are not yet covered)
 No. of participants | 891
 
 ## Details:
@@ -5376,7 +4890,7 @@ No. | District | Date | No. of participants
 8 | Kailahun | 28/7/07 | 60
 9 | Moyamba | 2/3/07 | 87
 10 | Bonthe | 3/3/07 | 95
-TOTAL | 891
+ | TOTAL |  | 891
 
 ## Composition of Participants:
 
@@ -5506,13 +5020,13 @@ After each meeting live interviews and discussions were conducted with local FM 
 
 - All SSS schools should run for a minimum of 7 hours per day and should only be single shift.
 
+### Issues: Higher Education
+
 - Inadequate teacher training institutions.
 
 - Distance Education programmes for teachers not in all districts.
 
 - Inadequate technical/ vocational institutions in the districts.
-
-### Issues: Higher Education
 
 ### Recommendations
 
@@ -5546,45 +5060,45 @@ After each meeting live interviews and discussions were conducted with local FM 
 
 ## Actions Taken
 
-- Establishment of a Women's Desk at the Ministry
+i. Establishment of a Women’s Desk at the Ministry
 
-- Highlighting of the achievement of female candidates in national and international examinations
+ii. Highlighting of the achievement of female candidates in national and international examinations
 
-- Advocacy for the education of girls in meetings held at district and community levels
+iii. Advocacy for the education of girls in meetings held at district and community levels
 
-- Encouragement and enhancement of the working relationship with the national branch of the Forum for African Women Educationalists (FAWE)
+iv. Encouragement and enhancement of the working relationship with the national branch of the Forum for African Women Educationalists (FAWE)
 
-- Provision of free Junior Secondary education for girls in the Eastern and Northern Regions where gender disparity in terms of access and retention is most marked
+v. Provision of free Junior Secondary education for girls in the Eastern and Northern Regions where gender disparity in terms of access and retention is most marked
 
-- Encouragement of girls in higher education through award of scholarship
+vi. Encouragement of girls in higher education through award of scholarship
 
-- Infusion of gender issues into the curriculum
+vii. Infusion of gender issues into the curriculum
 
-- Construction of more schools in rural areas so that girls have shorter distances to walk and can feel more protected, safe and secure.
+viii. Construction of more schools in rural areas so that girls have shorter distances to walk and can feel more protected, safe and secure.
 
-- Provision of opportunities for girl mothers to go back to school and continue with higher education
+ix. Provision of opportunities for girl mothers to go back to school and continue with higher education
 
 ## Outcomes/Results
 
-- More parents now willing to send daughters to school
+i. More parents now willing to send daughters to school
 
-- Significant increase in numbers of girls accessing schooling in the Eastern and Northern Regions
+ii. Significant increase in numbers of girls accessing schooling in the Eastern and Northern Regions
 
-- Increase in number and percentage of girls accessing schooling and progressing to tertiary education
+iii. Increase in number and percentage of girls accessing schooling and progressing to tertiary education
 
-- Increase in the retention rates of girls
+iv. Increase in the retention rates of girls
 
-- More girl mothers back in education
+v. More girl mothers back in education
 
 ## Difficulties and Challenges
 
-- Cultural  constraints  including  early  marriages.  Some  societies  believe  that  schooling  moves  girls away  from  accepting  their  traditional  roles  and  unsupportive  of  some  cultural  practices.  This makes some parents reluctant to send their girls to school.
+i. Cultural constraints including early marriages. Some societies believe that schooling moves girls away from accepting their traditional roles and unsupportive of some cultural practices. This makes some parents reluctant to send their girls to school.
 
-- Short term loss in household income as a consequence of sending a girl to school. Girls do much of  the  household  chores  in  a  family  as  well  as  petty  trading  to  generate  income  for  the  family. Sending a girl to school negatively affects both of the foregoing in the short term. Getting parents to appreciate the greater gains in the medium and long term is difficult.
+ii. Short term loss in household income as a consequence of sending a girl to school. Girls do much of the household chores in a family as well as petty trading to generate income for the family. Sending a girl to school negatively affects both of the foregoing in the short term. Getting parents to appreciate the greater gains in the medium and long term is difficult.
 
-- Encouraging more girls to pursue the sciences and technology at school and to take courses in engineering and the sciences at the tertiary level.
+iii. Encouraging more girls to pursue the sciences and technology at school and to take courses in engineering and the sciences at the tertiary level.
 
-- Creating gender sensitivity in teachers
+iv. Creating gender sensitivity in teachers
 
 137
 
@@ -5598,41 +5112,41 @@ After each meeting live interviews and discussions were conducted with local FM 
 
 ## Actions Taken
 
-- Preparation of an HIV/AIDS policy for education in 2006 to protect children
+i. Preparation of an HIV/AIDS policy for education in 2006 to protect children
 
-- Establishment of an HIV/AIDS Focal Point at the Ministry
+ii. Establishment of an HIV/AIDS Focal Point at the Ministry
 
-- Infusion of HIV/AIDS education into the school curriculum
+iii. Infusion of HIV/AIDS education into the school curriculum
 
-- Infusion of HIV/AIDS education into the teacher training curriculum
+iv. Infusion of HIV/AIDS education into the teacher training curriculum
 
-- Inclusion  of  HIV/AIDS  education  as  an  emerging  issue  into  the  short  in-service  training programme for teachers in schools participating in the Sababu Education Project
+v. Inclusion of HIV/AIDS education as an emerging issue into the short in-service training programme for teachers in schools participating in the Sababu Education Project
 
-- Training of peer educators and counsellors for HIV/AIDS
+vi. Training of peer educators and counsellors for HIV/AIDS
 
-- Holding of HIV/AIDS awareness raising workshops and seminars
+vii. Holding of HIV/AIDS awareness raising workshops and seminars
 
 ## Outcomes/Results
 
-- HIV/AIDS issues more openly discussed
+i. HIV/AIDS issues more openly discussed
 
-- Pupils, students and teachers more aware about HIV/AIDS, its danger and effect on society
+ii. Pupils, students and teachers more aware about HIV/AIDS, its danger and effect on society
 
-- Pupils and students more careful about sexual liaisons
+iii. Pupils and students more careful about sexual liaisons
 
 ## Difficulties and Challenges
 
-- Resistance to the use of condoms by some
+i. Resistance to the use of condoms by some
 
-- Overcoming stigma of being identified as HIV positive
+ii. Overcoming stigma of being identified as HIV positive
 
-- Mobilisation of resources needed to scale up the HIV/AIDS campaign
+iii. Mobilisation of resources needed to scale up the HIV/AIDS campaign
 
-- Non-availability of funds to provide enhanced HIV/AIDS services for pupils and students
+iv. Non-availability of funds to provide enhanced HIV/AIDS services for pupils and students
 
-- Funds to establish HIV/AIDS desks in every District Education Office
+v. Funds to establish HIV/AIDS desks in every District Education Office
 
-- Funds to scale up campaign and extend to all skills training and tertiary-level institutions
+vi. Funds to scale up campaign and extend to all skills training and tertiary-level institutions
 
 138
 
@@ -5644,26 +5158,28 @@ After each meeting live interviews and discussions were conducted with local FM 
 
 # Some Key Primary Level Statistics / Numbers
 
-Attending School | Not Attending School | Never Attended School
+Annex 6 Table 1 - 2004 School Attendance Profiles of 6 – 11 Year Olds By Sex
+
+ | Attending School | Not Attending School | Never Attended School
 --- | --- | --- | ---
 Male +Female (6-11) | 69% | 1% | 30%
 Males (6-11) | 70% | 1% | 29%
 Females (6-11) | 69% | 1% | 30%
 
-Annex 6 Table 1 - 2004 School Attendance Profiles of 6 - 11 Year Olds By Sex
+Source: SSL – Population Census 2004
 
-Source: SSL - Population Census 2004
+Annex 6 Table 2 - Year 2004 National NIR and GIR for Class 1
 
 Intake Rates | Combined | Male | Female
 --- | --- | --- | ---
 NIR | 29% | 28% | 29%
 GIR | 128% | 126% | 130%
 
-Annex 6 Table 2 - Year 2004 National NIR and GIR for Class 1
+Source: SSL – Population Census 2004
 
-Source: SSL - Population Census 2004
+Annex 6 - Table 3 - Primary Level NER and GER by Sex, Region and Local Government Area – 2003/04
 
-Male NER | Female NER | Parity Index | Male GER | Female GER | Parity Index
+ | Male NER | Female NER | Parity Index | Male GER | Female GER | Parity Index
 --- | --- | --- | --- | --- | --- | ---
 National | 65% | 63% | 0.97 | 110% | 98% | 0.90
 Eastern Region | 66% | 64% | 0.98 | 119% | 107% | 0.90
@@ -5690,9 +5206,7 @@ Western Area | 78% | 76% | 0.97 | 120% | 113% | 0.94
 West Rural | 73% | 69% | 0.95 | 116% | 103% | 0.89
 West Urban | 80% | 77% | 0.97 | 122% | 115% | 0.95
 
-Annex 6 - Table 3 - Primary Level NER and GER by Sex, Region and Local Government Area - 2003/04
-
-Source: SSL - Population Census 2004
+Source: SSL – Population Census 2004
 
 139
 
@@ -5700,7 +5214,9 @@ Source: SSL - Population Census 2004
 
 [[START OF PAGE 155]]
 
-GCR | Male GCR | Female GCR | Parity Index
+Annex 6 - Table 4 - Primary Level Gross Completion Rates by Region, Local Government Area and Sex
+
+ | GCR | Male GCR | Female GCR | Parity Index
 --- | --- | --- | --- | ---
 National | 56.2% | 63.9% | 47.6% | 0.74
 Eastern Region | 56.8% | 67.2% | 45.3% | 0.67
@@ -5727,9 +5243,7 @@ Western Area | 87.7% | 95.9% | 80.0% | 0.83
 Western Rural | 63.6% | 75.6% | 51.7% | 0.68
 Western Urban | 92.7% | 100.3% | 85.7% | 0.86
 
-Annex 6 - Table 4 - Primary Level Gross Completion Rates by Region, Local Government Area and Sex
-
-Source: SSL - Population Census 2004
+Source: SSL – Population Census 2004
 
 Annex 6 - Figure 1 - Primary School Enrolment Trends 1987/88 - 2004/05
 
@@ -5769,11 +5283,11 @@ Annex 6 - Figure 1 - Primary School Enrolment Trends 1987/88 - 2004/05
 
 Number of students
 
-After War
+Before War
 
 During War
 
-Before War
+After War
 
 Boys
 
@@ -5791,7 +5305,7 @@ Source: CSR, 2006
 
 Commitments for Education and General Budget Support from DAC Countries and Multilaterals to Sierra Leone (constant 2003 US$ millions), 2000 to 2004
 
-2000 | 2001 | 2002 | 2003 | 2004
+ | 2000 | 2001 | 2002 | 2003 | 2004
 --- | --- | --- | --- | --- | ---
 Education commitments
 ALL Donors -Total | 1.7 | 7.3 | 27.7 | 59.7 | 8.1
@@ -5828,14 +5342,13 @@ Multilateral -Total | 90.7 | 59.2 | - | 54.2 | 23.6
 AfDF | - | - | - | 24.2 | 23.5
 IDA | 45.3 | 59.2 | - | 30.0 | -
 EC | 45.3 | - | - | - | 0.1
-Education commitments + allocation of general budget support (17%) 1
+Education commitments + allocation of general budget support (17%)¹
 ALL Donors -Total | 26.2 | 26.2 | 27.7 | 69.0 | 16.2
 DAC Countries -Total | 10.6 | 15.8 | 3.5 | 3.8 | 11.8
 Multilateral -Total | 15.6 | 10.4 | 24.3 | 65.1 | 4.4
 
-> 1
-
-Based on 2004 education spending as a percentage of total government expenditure (17%), MOF. Source: CRS Online Database on Aid Activities (www.oecd.org/dac/stats/idsonline), Table 2, Last updated Jan 30, 2006
+¹ Based on 2004 education spending as a percentage of total government expenditure (17%), MOF.
+Source: CRS Online Database on Aid Activities (www.oecd.org/dac/stats/idsonline), Table 2, Last updated Jan 30, 2006
 
 141
 
@@ -5845,43 +5358,43 @@ Based on 2004 education spending as a percentage of total government expenditure
 
 # References
 
-- Bruns, B., Mingat, A., Rakatomala, R. (2003) - A Chance for Every Child. Washington DC
+1. Bruns, B., Mingat, A., Rakatomala, R. (2003) – A Chance for Every Child. Washington DC
 
-- Bennell, P., Harding, J., & Rogers-Wright, S. (2004). PRSP Education Sector Review. Prepared for: PRSP Education Sub-Sector Working Group.
+2. Bennell, P., Harding, J., & Rogers-Wright, S. (2004). PRSP Education Sector Review. Prepared for: PRSP Education Sub-Sector Working Group.
 
-- Durango, L. (2002, November 14-15). The Financing of Technical and Vocational Education and Training (TVET): options and challenges for sub-Sahara Africa Paper presented at TVET conference in Oslo, Norway.
+3. Durango, L. (2002, November 14-15). The Financing of Technical and Vocational Education and Training (TVET): options and challenges for sub-Sahara Africa Paper presented at TVET conference in Oslo, Norway.
 
-- EFA-FTI Secretariat Website
+4. EFA-FTI Secretariat Website
 
-- Evans, J., Myers, R., & Ilfeld, E. (2002). Early Childhood Counts: A Programming Guide on Early Childhood Care for Development. Washington D.C.: World Bank.
+5. Evans, J., Myers, R., & Ilfeld, E. (2002). Early Childhood Counts: A Programming Guide on Early Childhood Care for Development. Washington D.C.: World Bank.
 
-- Faulkner, D.F. (2006, September) DFF/SLMDA, Personal communications - Sierra Leone Medical and Dental Association Secretariat
+6. Faulkner, D.F. (2006, September) DFF/SLMDA, Personal communications – Sierra Leone Medical and Dental Association Secretariat
 
-- Government of Kenya, Education Strategic Plan 2005 - 2010
+7. Government of Kenya, Education Strategic Plan 2005 – 2010
 
-- Government of Madagascar, Education For All Plan - 2005 Status Report
+8. Government of Madagascar, Education For All Plan - 2005 Status Report
 
-- Government of Ghana, Education Strategic Plan 2003 - 2015, Volumes 1 and 2, Policies, Target and Strategies.
+9. Government of Ghana, Education Strategic Plan 2003 – 2015, Volumes 1 and 2, Policies, Target and Strategies.
 
-- Government of Sierra Leone. Child Rights Bill, Freetown, Sierra Leone (In Parliament March 2007)
+10. Government of Sierra Leone. Child Rights Bill, Freetown, Sierra Leone (In Parliament March 2007)
 
-- Government of Sierra Leone. (2004). Local Government Act, Freetown, Sierra Leone
+11. Government of Sierra Leone. (2004). Local Government Act, Freetown, Sierra Leone
 
-- Government of Sierra Leone. (1995). New Education Policy for Sierra Leone. Department of Education. Freetown.
+12. Government of Sierra Leone. (1995). New Education Policy for Sierra Leone. Department of Education. Freetown.
 
-- Government of Sierra Leone. (2005, February). Poverty Reduction Strategy Paper. -  PRSP Education Extract.
+13. Government of Sierra Leone. (2005, February). Poverty Reduction Strategy Paper. – PRSP Education Extract.
 
-- Government of Sierra Leone. (2007). Sierra Leone 2004 Population Census, Education and Literacy Final Report.
+14. Government of Sierra Leone. (2007). Sierra Leone 2004 Population Census, Education and Literacy Final Report.
 
-- Government of Sierra Leone. (2004 ). The Education Act of 2004, Freetown, Sierra Leone
+15. Government of Sierra Leone. (2004). The Education Act of 2004, Freetown, Sierra Leone
 
-- Government of Sierra Leone. (2001). The Polytechnics Act, Freetown, Sierra Leone
+16. Government of Sierra Leone. (2001). The Polytechnics Act, Freetown, Sierra Leone
 
-- Government of Sierra Leone. (2001 ). The National Council for Technical, Vocational and other Academic Awards Act, Freetown, Sierra Leone
+17. Government of Sierra Leone. (2001). The National Council for Technical, Vocational and other Academic Awards Act, Freetown, Sierra Leone
 
-- Government of Sierra Leone / Statistics Sierra Leone. (2005 ). The Status of Technical and Vocational Education in Sierra Leone Freetown, Sierra Leone
+18. Government of Sierra Leone / Statistics Sierra Leone. (2005). The Status of Technical and Vocational Education in Sierra Leone Freetown, Sierra Leone
 
-- Government of Sierra Leone (2001). Tertiary Education Commission Act, Freetown, Sierra Leone
+19. Government of Sierra Leone (2001). Tertiary Education Commission Act, Freetown, Sierra Leone
 
 142
 
@@ -5889,43 +5402,43 @@ Based on 2004 education spending as a percentage of total government expenditure
 
 [[START OF PAGE 158]]
 
-- Government of Sierra Leone (2006).  HIV/AIDS Policy for Education Sector, Freetown, Sierra Leone.
+20. Government of Sierra Leone (2006). HIV/AIDS Policy for Education Sector, Freetown, Sierra Leone.
 
-- Government of Sierra Leone. 2006. Youth Employment Programme. Ministry of Youth and Sports. Freetown.
+21. Government of Sierra Leone. 2006. Youth Employment Programme. Ministry of Youth and Sports. Freetown.
 
-- Government of Sierra Leone (2005). Universities Act, Freetown, Sierra Leone
+22. Government of Sierra Leone (2005). Universities Act, Freetown, Sierra Leone
 
-- Harding, J. B., & Mansaray, A. T. (2005). Teacher Motivation and Incentives in Sierra Leone.
+23. Harding, J. B., & Mansaray, A. T. (2005). Teacher Motivation and Incentives in Sierra Leone.
 
-- Hart, L.G., Wagner, E., Pirzada, S., Nelson, A. F., & Rosenblatt, R. A. (1997): Physician Staffing Ratios in Staff-Model HMOs: A Cautionary Tale - Health Affairs.
+24. Hart, L.G., Wagner, E., Pirzada, S., Nelson, A. F., & Rosenblatt, R. A. (1997): Physician Staffing Ratios in Staff-Model HMOs: A Cautionary Tale – Health Affairs.
 
-- Hodges, M. (2005). Training and Research: Institutional Reinforcement, Health Sector Support Programme, MOH&S/EU
+25. Hodges, M. (2005). Training and Research: Institutional Reinforcement, Health Sector Support Programme, MOH&S/EU
 
-- Institute for Education (2001, April). Policy on Governance for Quality of Education
+26. Institute for Education (2001, April). Policy on Governance for Quality of Education
 
-- Jibril, Munzali, Promoting Quality in Higher Education - Management and Financing of Higher Education, Monrovia, Liberia (2004)
+27. Jibril, Munzali, Promoting Quality in Higher Education – Management and Financing of Higher Education, Monrovia, Liberia (2004)
 
-- Joof A. E., Harding J. B. et al (2001) - Gender and Violence in Conflict Situations. The Sierra Leone Experience (GRADOC) Submitted to Journal of Social Science, Fourah Bay College, University of Sierra Leone, Freetown
+28. Joof A. E., Harding J. B. et al (2001) – Gender and Violence in Conflict Situations. The Sierra Leone Experience (GRADOC) Submitted to Journal of Social Science, Fourah Bay College, University of Sierra Leone, Freetown
 
-- Joof A. E. (2007) - Institutional Mechanisms for Promoting Gender Equity and Equality: Women and the Economy. Presented at the ECOWAS Gender Development Centre (EDGE), Dakar and Government of Sierra Leone Seminar, Freetown
+29. Joof A. E. (2007) – Institutional Mechanisms for Promoting Gender Equity and Equality: Women and the Economy. Presented at the ECOWAS Gender Development Centre (EDGE), Dakar and Government of Sierra Leone Seminar, Freetown
 
-- Medicins Sans Frontiers. 2006. Financial Access to Healthcare in Post-War Sierra Leone.
+30. Medicins Sans Frontiers. 2006. Financial Access to Healthcare in Post-War Sierra Leone.
 
-- Mingat, A. & Rakatomala, R. (2002). An Initial Identification of Some Issues in Sierra Leone Education from a Statistical Analysis of the Household Survey, MICS 2000.
+31. Mingat, A. & Rakatomala, R. (2002). An Initial Identification of Some Issues in Sierra Leone Education from a Statistical Analysis of the Household Survey, MICS 2000.
 
-- Ministry of Education, Science and Technology. (2005a, 2005b). Assumption of Basic Education Functions by the Local Councils-Roll-out Plan: Some Challenges and Suggestions.
+32. Ministry of Education, Science and Technology. (2005a, 2005b). Assumption of Basic Education Functions by the Local Councils-Roll-out Plan: Some Challenges and Suggestions.
 
-- Ministry of Education, Science and Technology (2007): The Voice of the People - A Summary Report on District Level Consultations in Preparation of the Education Sector Plan, Freetown, Sierra Leone
+33. Ministry of Education, Science and Technology (2007): The Voice of the People – A Summary Report on District Level Consultations in Preparation of the Education Sector Plan, Freetown, Sierra Leone
 
-- Ministry of Education, Science and Technology (2007): Education Sector Policy, Freetown, Sierra Leone
+34. Ministry of Education, Science and Technology (2007): Education Sector Policy, Freetown, Sierra Leone
 
-- Ministry of Education. (1989). External Examinations Task Force Report.
+35. Ministry of Education. (1989). External Examinations Task Force Report.
 
-- Perkins, J. (1977): 'Four Axioms and Three Topics of Interest in the Field of Higher Education' in The Contribution of Higher Education in Europe to the Development of Changing Societies, Bucharest, UNESCO/CEPES.
+36. Perkins, J. (1977): “Four Axioms and Three Topics of Interest in the Field of Higher Education” in The Contribution of Higher Education in Europe to the Development of Changing Societies, Bucharest, UNESCO/CEPES.
 
-- Statistics Sierra Leone (2004). Population and Housing Census. Freetown, Sierra Leone.
+37. Statistics Sierra Leone (2004). Population and Housing Census. Freetown, Sierra Leone.
 
-- Statistics Sierra Leone (2003/4). Sierra Leone Integrated Household Survey Report. Freetown, Sierra Leone.
+38. Statistics Sierra Leone (2003/4). Sierra Leone Integrated Household Survey Report. Freetown, Sierra Leone.
 
 143
 
@@ -5933,31 +5446,31 @@ Based on 2004 education spending as a percentage of total government expenditure
 
 [[START OF PAGE 159]]
 
-- Stuart, L., Palmer, E., Holt, E., Porter, A. T., (1996) Sierra Leone Education Review - All Our Future Final Report. Freetown, Sierra Leone: Published under the auspices of the University of Sierra Leone.
+39. Stuart, L., Palmer, E., Holt, E., Porter, A. T., (1996) Sierra Leone Education Review - All Our Future Final Report. Freetown, Sierra Leone: Published under the auspices of the University of Sierra Leone.
 
-- UNESCO (1980) Education and Development in Sierra Leone Sector Study 1979
+40. UNESCO (1980) Education and Development in Sierra Leone Sector Study 1979
 
-- UNESCO (1983). Bulletin of the  Regional Office for Education in Africa, EducaAfrica, English Version, Special Issue
+41. UNESCO (1983). Bulletin of the Regional Office for Education in Africa, EducaAfrica, English Version, Special Issue
 
-- UNESCO (1990). Meeting Basic Learning Needs: World Declaration on Education for All http://www.unesco.org/education/ efa/ed_for_all/ background/jomtien_declaration.shtml.
+42. UNESCO (1990). Meeting Basic Learning Needs: World Declaration on Education for All http://www.unesco.org/education/ efa/ed_for_all/ background/jomtien_declaration.shtml.
 
-- UNESCO (2004, October 25). Learning for work, Citizenship and sustainability, Orientation Topic Speeches\Plenary Session, UNESCO International Experts Meeting, Bonn.
+43. UNESCO (2004, October 25). Learning for work, Citizenship and sustainability, Orientation Topic Speeches\Plenary Session, UNESCO International Experts Meeting, Bonn.
 
-- UNESCO (2004, October 25-28). United Nations Decade of Education for Sustainable Development: Suggestions to UNESCO for Action Planning in TVET for Sustainable Development, UNESCO International Experts Meeting, Bonn.
+44. UNESCO (2004, October 25-28). United Nations Decade of Education for Sustainable Development: Suggestions to UNESCO for Action Planning in TVET for Sustainable Development, UNESCO International Experts Meeting, Bonn.
 
-- UNICEF & Statistics Sierra Leone (2006). Monitoring the Situation of Children and Women: Sierra Leone 2005 Multi-Indicator Cluster Survey Final Report.
+45. UNICEF & Statistics Sierra Leone (2006). Monitoring the Situation of Children and Women: Sierra Leone 2005 Multi-Indicator Cluster Survey Final Report.
 
-- World Bank (2006) Country Status Report( CSR)
+46. World Bank (2006) Country Status Report( CSR)
 
-- World Bank Report on Constructing Knowledge Societies: New Challenges for Tertiary Education, The Changing Global Environment - Comparison of Korea and Ghana
+47. World Bank Report on Constructing Knowledge Societies: New Challenges for Tertiary Education, The Changing Global Environment – Comparison of Korea and Ghana
 
-- World Bank. (2003a). Sierra Leone: Strategic Options for Public Sector Reform.  AFTPR, Africa Region Report No. 25110-SL. Washington, D.C.
+48. World Bank. (2003a). Sierra Leone: Strategic Options for Public Sector Reform. AFTPR, Africa Region Report No. 25110-SL. Washington, D.C.
 
-- World Bank. (2005). Education in Ethiopia - Strengthening the Foundation for Sustainable Progress. World Bank Country Study. Washington, D.C.
+49. World Bank. (2005). Education in Ethiopia – Strengthening the Foundation for Sustainable Progress. World Bank Country Study. Washington, D.C.
 
-- World Bank. (2004). Cost, Financing and School Effectiveness in Malawi. World Bank Country Status Report. AFTPR, Africa Region Report, Washington, D.C.
+50. World Bank. (2004). Cost, Financing and School Effectiveness in Malawi. World Bank Country Status Report. AFTPR, Africa Region Report, Washington, D.C.
 
-- World Health Organisation (2003). Nursing and Midwifery Workforce Management - Analysis of Country Assessments: SEARO Technical Publication No. 26, ISBN No. 92 9022 259X.
+51. World Health Organisation (2003). Nursing and Midwifery Workforce Management – Analysis of Country Assessments: SEARO Technical Publication No. 26, ISBN No. 92 9022 259X.
 
 144
 
